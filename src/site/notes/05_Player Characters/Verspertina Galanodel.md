@@ -7,6 +7,7 @@
 
 | Items Acquired                           | Description                                                                 | Location                         |
 | ---------------------------------------- | --------------------------------------------------------------------------- | -------------------------------- |
+| [[Items/Magical/Cinderflare Wayfinder\|Cinderflare Wayfinder]]                | Establish or Teleport to/from waypoints                                     | [[02_World/01_The Evergrowing Forest/The Forgotten Swamp\|The Forgotten Swamp]]          |
 | Bell (engraved)                          | A ceremonial bronze bell. May have once marked a changing of watch.         | [[02_World/01_The Evergrowing Forest/Temple of the Forgotten Hero\|Temple of the Forgotten Hero]] |
 | Greater Healing Potion x 1<br>(uncommon) | You regain Hit Points when you drink this potion. Regain 4d4 + 4 Hit Points | [[02_World/01_The Evergrowing Forest/Temple of the Forgotten Hero\|Temple of the Forgotten Hero]] |
 | Blank parchment and charcoal sticks      |                                                                             | [[Night Camp\|Night Camp]]                   |

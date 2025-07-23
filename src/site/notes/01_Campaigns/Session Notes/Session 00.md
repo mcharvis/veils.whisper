@@ -71,12 +71,30 @@
 
 ---
 
-## 🎒 Loot & Rewards
+### 🎒 Loot & Rewards
 
-### Magic Items / Gear
-- [[Items/Magical/Cinderflare Wayfinder\|Cinderflare Wayfinder]] — [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]]
-	- Establish or Teleport to/from waypoints 
+#### [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]]
 
+| Items Acquired        | Description                                            | Location                         |
+| --------------------- | ------------------------------------------------------ | -------------------------------- |
+| Rusty Grappling Hook  | Old but usable. 50 ft. of fraying rope still attached. | [[02_World/01_The Evergrowing Forest/Temple of the Forgotten Hero\|Temple of the Forgotten Hero]] |
+| 10 feet of waxed cord | For tripwires, snares, or tying things                 | [[Night Camp\|Night Camp]]                   |
+#### [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]]
+
+| Items Acquired                           | Description                                                                 | Location                         |
+| ---------------------------------------- | --------------------------------------------------------------------------- | -------------------------------- |
+| [[Items/Magical/Cinderflare Wayfinder\|Cinderflare Wayfinder]]                | Establish or Teleport to/from waypoints                                     | [[02_World/01_The Evergrowing Forest/The Forgotten Swamp\|The Forgotten Swamp]]          |
+| Bell (engraved)                          | A ceremonial bronze bell. May have once marked a changing of watch.         | [[02_World/01_The Evergrowing Forest/Temple of the Forgotten Hero\|Temple of the Forgotten Hero]] |
+| Greater Healing Potion x 1<br>(uncommon) | You regain Hit Points when you drink this potion. Regain 4d4 + 4 Hit Points | [[02_World/01_The Evergrowing Forest/Temple of the Forgotten Hero\|Temple of the Forgotten Hero]] |
+| Blank parchment and charcoal sticks      |                                                                             | [[Night Camp\|Night Camp]]                   |
+| Mirror shard                             | peek or signal                                                              | [[Night Camp\|Night Camp]]                   |
+| Brass whistle                            | emits piercing tone                                                         | [[Night Camp\|Night Camp]]                   |
+|                                          |                                                                             |                                  |
+#### [[05_Player Characters/Renzo Morokami\|Renzo Morokami]]
+
+| Items Acquired | Description                                                                | Location                         |
+| -------------- | -------------------------------------------------------------------------- | -------------------------------- |
+| Shield +1      | Polished steel. The emblem is half-eroded—perhaps holy, perhaps forgotten. | [[02_World/01_The Evergrowing Forest/Temple of the Forgotten Hero\|Temple of the Forgotten Hero]] |
 ### Currency & Valuables
 - 50 gp from 4 cultists
 
