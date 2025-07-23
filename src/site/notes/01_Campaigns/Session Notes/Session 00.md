@@ -123,7 +123,7 @@
 ## 🧵 Threads & Foreshadowing
 - [ ] The Veil can only be reached with the [[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]], but not traversed.
 - [ ] "Mama" was abducted and may have a secret ability.
-- [ ] M. left her last known location in [[The Evergrowing Woods\|The Evergrowing Woods]] and is considered to be at [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] or missing. 
+	- [ ] Her daughter, "M," left her last known location in [[The Evergrowing Woods\|The Evergrowing Woods]] and is considered to be at [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] or missing. 
 ---
 
 ## ⚔️ Combat Notes
