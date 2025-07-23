@@ -27,9 +27,6 @@ A dark iron cross on a silver chain.
 ### Attuned to Bahamut (Kovinar only):
 - Attuned after he states: *"By the grace of Bahamut, may your soul find its true path."*
 - Grants access to the **[[Spells/Divine Salvation\|Divine Salvation]]** spell.
-::: hidden
-- Begins tracking a **[[Soul Score\|Soul Score]]**:
-  - Each neutral or corrupted soul redeemed adds to the score.
-  - Upon reaching 25 souls, **Bahamut may intervene in Elarith.**
-:::
+
+
 #magicalitem 
