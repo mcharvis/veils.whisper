@@ -47,7 +47,7 @@
 ## 🧱 Major Events
 - [[01_Campaigns/Encounters/Encounter 1 - Xaphan's Surrender\|Encounter 1 - Xaphan's Surrender]]
 	- An adult white dragon and four cultists instantly killed by a demilich. 
-	- [[05_Player Characters/Inactive/Xaphan\|Xaphan]] surrenders to a demilich.
+	- [[05_Player Characters/Inactive/Xaphan\|Xaphan]] surrenders to the demilich.
 	- Party: -1 (2)
 - [[01_Campaigns/Encounters/Encounter 2 - Lurtza (Squeaks)\|Encounter 2 - Lurtza (Squeaks)]]
 	- Puzzle: [[Items/Non-Magical/Xaphan's Letters\|Xaphan's Letters]]
