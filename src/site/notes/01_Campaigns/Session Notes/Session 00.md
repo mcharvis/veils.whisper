@@ -21,8 +21,6 @@
 
 --- 
 
-
-
 ## 🎯 Objectives
 
 ### ✅ Completed Objectives
