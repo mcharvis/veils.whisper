@@ -62,7 +62,7 @@
 	- [[06_NPCs/Sir Lucian Caelmoor\|Sir Lucian Caelmoor]] established as an ally.
 	- Party: +2 (4 + 1)
 - [[01_Campaigns/Encounters/Encounter 5 - Night Camp\|Encounter 5 - Night Camp]]
-- Found two mysterious letters.
+	- Found two mysterious letters.
 ---
 
 ## 🧑‍🤝‍🧑 NPCs Met
