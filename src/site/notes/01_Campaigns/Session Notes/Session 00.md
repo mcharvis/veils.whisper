@@ -49,12 +49,15 @@
 	- Party: -1 (2)
 - [[01_Campaigns/Encounters/Encounter 2 - Lurtza (Squeaks)\|Encounter 2 - Lurtza (Squeaks)]]
 	- Puzzle: [[Items/Non-Magical/Xaphan's Letters\|Xaphan's Letters]]
+	- [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]] joins the party
 	- Party: +1 (3)
 - [[01_Campaigns/Encounters/Encounter 3 - The Forgotten Swamp\|Encounter 3 - The Forgotten Swamp]]
 - [[01_Campaigns/Encounters/Encounter 4 - Temple of the Forgotten Hero\|Encounter 4 - Temple of the Forgotten Hero]]
 	- Combat: Temple Knights x 4, Swarm of bats x 2. 
 		- Defeated 3 knights, 2 swarms; saved 1 knight
-	- Party: +1 (4)
+	- [[05_Player Characters/Renzo Morokami\|Renzo Morokami]] joins the party
+	- [[06_NPCs/Sir Lucian Caelmoor\|Sir Lucian Caelmoor]] established as an ally.
+	- Party: +2 (5)
 - [[01_Campaigns/Encounters/Encounter 5 - Night Camp\|Encounter 5 - Night Camp]]
 ---
 
