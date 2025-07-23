@@ -132,7 +132,6 @@
 | Mordred (CR 3)          | Dead                                           |
 | Dracoren (CR 3)         | Notable death by grapple + impaling            |
 | [[06_NPCs/Sir Lucian Caelmoor\|Sir Lucian Caelmoor]] | Saved by Divine Salvation. <br>Ally to Kovinar |
-
 ### Tactics Used
 - Squeaks grapple with Kovinar sword impalement.
 
