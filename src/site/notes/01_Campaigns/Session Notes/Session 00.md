@@ -116,13 +116,13 @@
 ## 🔍 Clues & Lore
 - **[[Items/Magical/Cinderflare Wayfinder\|Cinderflare Wayfinder]]**: Legends of the Cinderflare Wayfinder have mostly been lost to time. A scorched page in a ruined chronicle claims fire artisans forged the ring using the final breath of a phoenix. Other texts suggest rebel mages used it to escape collapsing planar portals during the [[Siege of the Ember Gate\|Siege of the Ember Gate]]. By the time scholars recovered its name, its trail had already grown cold. The ring’s current whereabouts have been thought to be unknown.
 - **[[The Three Sisters\|The Three Sisters]]**: Tisiphone, Hecate, Nyx. Unknown importance. 
-- **[[06_NPCs/Sir Lucian Caelmoor\|Sir Lucian Caelmoor]]**: One of **four knights** who remain within the [[02_World/01_The Evergrowing Forest/Temple of the Forgotten Hero\|Temple of the Forgotten Hero]], stationed in deliberate formation sworn to protect a memory.  Lucian was once the most outspoken of the [[04_Organizations/Ebony Wake\|Ebony Wake]], a knightly order known for its fierce loyalty to ideals over kings. He followed [[06_NPCs/Caelen, Firstborn of the Flame\|Caelen, Firstborn of the Flame]] into exile and stood by him during the final betrayal. When the Forgotten Hero ultimately fell, Lucian did not seek vengeance. He and three others chose a different oath—**one of remembrance through service**, not bloodshed. He bound himself to the tomb willingly, not through necromancy or divine coercion, but through sheer conviction.
+- **[[06_NPCs/Sir Lucian Caelmoor\|Sir Lucian Caelmoor]]**: One of four knights who remain within the [[02_World/01_The Evergrowing Forest/Temple of the Forgotten Hero\|Temple of the Forgotten Hero]], stationed in deliberate formation sworn to protect a memory.  Lucian was once the most outspoken of the [[04_Organizations/Ebony Wake\|Ebony Wake]], a knightly order known for its fierce loyalty to ideals over kings. He followed [[06_NPCs/Caelen, Firstborn of the Flame\|Caelen, Firstborn of the Flame]] into exile and stood by him during the final betrayal. When the Forgotten Hero ultimately fell, Lucian did not seek vengeance. He and three others chose a different oath—one of remembrance through service, not bloodshed. He bound himself to the tomb willingly, not through necromancy or divine coercion, but through sheer conviction.
 
 ---
 
 ## 🧵 Threads & Foreshadowing
 - [ ] The Veil can only be reached with the [[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]], but not traversed.
-- [ ] "Mama" was taken and may have a secret ability.
+- [ ] "Mama" was abducted and may have a secret ability.
 - [ ] M. left her last known location in [[The Evergrowing Woods\|The Evergrowing Woods]] and is considered to be at [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] or missing. 
 ---
 
