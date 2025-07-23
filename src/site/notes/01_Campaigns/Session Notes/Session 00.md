@@ -53,6 +53,7 @@
 	- [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]] joins the party
 	- Party: +1 (3)
 - [[01_Campaigns/Encounters/Encounter 3 - The Forgotten Swamp\|Encounter 3 - The Forgotten Swamp]]
+	- Meet [[06_NPCs/Talia\|The Oracle]].
 - [[01_Campaigns/Encounters/Encounter 4 - Temple of the Forgotten Hero\|Encounter 4 - Temple of the Forgotten Hero]]
 	- Combat: Temple Knights x 4, Swarm of bats x 2. 
 		- Defeated 3 knights, 2 swarms; saved 1 knight
