@@ -57,7 +57,7 @@
 		- Defeated 3 knights, 2 swarms; saved 1 knight
 	- [[05_Player Characters/Renzo Morokami\|Renzo Morokami]] joins the party
 	- [[06_NPCs/Sir Lucian Caelmoor\|Sir Lucian Caelmoor]] established as an ally.
-	- Party: +2 (5)
+	- Party: +2 (4 + 1)
 - [[01_Campaigns/Encounters/Encounter 5 - Night Camp\|Encounter 5 - Night Camp]]
 ---
 
