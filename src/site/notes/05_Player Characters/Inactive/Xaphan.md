@@ -6,7 +6,4 @@
 
 In exchange for his loyalty, [[06_NPCs/Gods/Nerull\|Nerull]] offered Xaphan a rebirth in the overworld to do his bidding. However, Xaphan lives a cursed, haunted life. He's conflicted by the good that remains within him. Xaphan is drawn to goodness, albeit chaotic goodness. Regardless of any noble deeds he performs, the punishment for his crimes against The Celestial Empire are eternal. Upon his death, his soul will be lost to Necromanteion where he will be forced to keep the flames burning. Although life is a gift, Xaphan knows that his benevolence is viewed as defiance. [[06_NPCs/Gods/Nerull\|Nerull]] became intolerant with Xaphan's virtuous tendencies after he began assisting a band of hopeful travelers.
 
-[[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]]
-[[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]]
-
 #PC 
