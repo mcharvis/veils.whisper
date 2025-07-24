@@ -93,7 +93,6 @@
 | Blank parchment and charcoal sticks      |                                                                             | [[Night Camp\|Night Camp]]                   |
 | Mirror shard                             | peek or signal                                                              | [[Night Camp\|Night Camp]]                   |
 | Brass whistle                            | emits piercing tone                                                         | [[Night Camp\|Night Camp]]                   |
-|                                          |                                                                             |                                  |
 #### [[05_Player Characters/Renzo Morokami\|Renzo Morokami]]
 
 | Items Acquired | Description                                                                | Location                         |
@@ -146,10 +145,10 @@
 
 ## 🧙 Character Highlights
 
-| Character                 | Notable Actions / Growth                                                                         |
-| ------------------------- | ------------------------------------------------------------------------------------------------ |
-| [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]]      | Grappled Dracoren for the entire battle. Impaled his body onto Kovinar's greatsword from behind. |
-| [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]] | Missed arrow targeting Valen bounces off a stone wall impaling in his neck.                      |
+| Character            | Notable Actions / Growth                                                                                                                   |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]] | Grappled Dracoren for the entire battle. Impaled his body onto Kovinar's greatsword from behind.                                           |
+| [[05_Player Characters/Renzo Morokami\|Renzo Morokami]]   | Missed arrow targeting Valen bounces off a stone wall impaling in his neck. He pulls the arrow out of his neck and fires it back at Renzo. |
 
 ---
 
