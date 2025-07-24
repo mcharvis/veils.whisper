@@ -104,12 +104,12 @@
 
 ### XP
 
-| Character                 | XP  | Total |
-| ------------------------- | --- | ----- |
-| [[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]]        | 817 | 12567 |
-| [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]] | 792 | 12542 |
-| [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]]      | 792 | 12542 |
-| [[05_Player Characters/Renzo Morokami\|Renzo Morokami]]        | 575 | 3275  |
+| Level | Character                 | XP  | New Total | XP to Level Up |
+| ----- | ------------------------- | --- | --------- | -------------- |
+| 5     | [[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]]        | 817 | 12,567    | 1,433          |
+| 5     | [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]] | 792 | 12,542    | 1,458          |
+| 5     | [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]]      | 792 | 12,542    | 1,458          |
+| 4     | [[05_Player Characters/Renzo Morokami\|Renzo Morokami]]        | 575 | 3,275     | 3,225          |
 
 ---
 
