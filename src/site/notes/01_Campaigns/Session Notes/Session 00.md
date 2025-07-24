@@ -149,10 +149,3 @@
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]] | Grappled Dracoren for the entire battle. Impaled his body onto Kovinar's greatsword from behind.                                           |
 | [[05_Player Characters/Renzo Morokami\|Renzo Morokami]]   | Missed arrow targeting Valen bounces off a stone wall impaling in his neck. He pulls the arrow out of his neck and fires it back at Renzo. |
-
----
-
-## 🗺️ Next Steps
-- [ ] Travel to The Whispering Asylum.
-	- [ ] Find "M." 
-- [ ] Determine the function of the first piece of the Death-Wrought Mosaic.
