@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-veil-s-whisper/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/the-veil-s-whisper/","tags":["gardenEntry"],"dgShowLocalGraph":true}
 ---
 
 ### 🕯️ _Welcome to_
