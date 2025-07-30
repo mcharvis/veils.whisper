@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-campaigns/session-notes/session-01/"}
+{"dg-publish":true,"permalink":"/01-campaigns/session-notes/session-01/","tags":["gardenEntry"]}
 ---
 
 # False Bottoms and Forgotten Children
