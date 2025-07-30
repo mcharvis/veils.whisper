@@ -1,4 +1,3 @@
-eleventyConfig.addPassthroughCopy("src/site/404.html");
 const slugify = require("@sindresorhus/slugify");
 const markdownIt = require("markdown-it");
 const fs = require("fs");
