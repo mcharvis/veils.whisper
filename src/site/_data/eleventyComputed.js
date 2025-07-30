@@ -2,7 +2,6 @@ const { getGraph } = require("../../helpers/linkUtils");
 const { getFileTree } = require("../../helpers/filetreeUtils");
 const { userComputed } = require("../../helpers/userUtils");
 
-// src/site/_data/eleventyComputed.js
 module.exports = {
 // graph: (data) => getGraph(data), 
   filetree: (data) => getFileTree(data),
