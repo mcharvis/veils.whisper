@@ -155,7 +155,7 @@
 - [ ] "[[06_NPCs/Velura Elaris\|Mama]]" was abducted and may have a secret ability.
 	- [ ] Her daughter, [[06_NPCs/Miren Elaris\|Miren Elaris]] escaped [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]. 
 		- [ ] A [[Items/Non-Magical/Letter from S.H. to the Whispering Asylum\|Letter from S.H. to the Whispering Asylum]] informed the headmistress that "The beast became stronger when she arrived but remained contained." So, they imprisoned her. 
--  [[06_NPCs/Sanctifier Halric\|Sanctifier Halric]] and [[06_NPCs/Sanctifier Virelle\|Sanctifier Virelle]] had a forbidden love child, [[06_NPCs/Nasha\|Nasha]]. Halric told Virelle to "terminate" the child but Virelle maintained the pregnancy and had a preterm birth at 7 months. Virelle abandoned her on the doorsteps of [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]. Headmistress [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] dumped her in storage for 15 years to avoid another scandal.
+- [[06_NPCs/Sanctifier Halric\|Sanctifier Halric]] and [[06_NPCs/Sanctifier Virelle\|Sanctifier Virelle]] had a forbidden love child, [[06_NPCs/Nasha\|Nasha]]. Halric told Virelle to "terminate" the child but Virelle maintained the pregnancy and had a preterm birth at 7 months. Virelle abandoned her on the doorsteps of [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]. Headmistress [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] dumped her in storage for 15 years to avoid another scandal.
 ---
 
 ## ⚔️ Combat Notes

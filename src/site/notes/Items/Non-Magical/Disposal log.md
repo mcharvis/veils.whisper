@@ -14,6 +14,6 @@ Subject: Disposal – Failed Infants & Expired Younglings
 
 NOTE: Administration must cease inquiries into “missing files.” These were never enrolled.
 
-— Headmistress
+— [[06_NPCs/Rhoswyn Calvra\|Headmistress]]
 
 #nonmagicalitem

@@ -6,7 +6,7 @@
 Behavioral Correctional Log
 
 Authorized Access Only  
-Headmistress R. Calvra – Eyes Only
+Headmistress [[06_NPCs/Rhoswyn Calvra\|R. Calvra]] – Eyes Only
 
 ## Subject: Clara
 

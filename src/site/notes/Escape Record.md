@@ -8,14 +8,14 @@ Patient Record
 
   
 
-**Name:** Miren Elaris 
+**Name:** [[06_NPCs/Miren Elaris\|Miren Elaris]] 
 **Date of Intake:** REDACTED 
 **Age at Admission:** Unconfirmed (Estimated 9–11) 
 **Status:** Missing 
 
 *Notes for Record Custody Only – Not for Clinical Review 
 
-**Initial presentation:** Nonverbal, but well-appearing. No documentation. Mentions a mother. Arrived during a storm, found alone in The Evergrown Forest. 
+**Initial presentation:** Nonverbal, but well-appearing. No documentation. Mentions a mother. Arrived during a storm, found alone in [[The Evergrowing Forest\|The Evergrowing Forest]]. 
 
 **Behavioral Profile (Week 1–4):** Nonresponsive to standard assessment. Will not eat if observed. Has not slept more than two consecutive hours. One attending nurse experienced “unsolicited emotional flooding” after prolonged contact. 
 
