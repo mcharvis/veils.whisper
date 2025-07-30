@@ -2,10 +2,19 @@
 {"dg-publish":true,"permalink":"/06-np-cs/magda-velt-the-lunch-matron/"}
 ---
 
+**Status:** Echo (Residual Spirit)  
+**Location:** Whispering Asylum Cafeteria  
+**Former Role:** Cook, Caretaker, “Mother Magda”
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Status:** Echo (Residual Spirit)  <br>**Location:** Whispering Asylum Cafeteria  <br>**Former Role:** Cook, Caretaker, “Mother Magda”<br><br>Magda Velt wasn’t hired for her skill with knives—though she had that too—but for her warmth. In a place built to break children, she was a strange anomaly: a soft soul in an iron world. She hummed lullabies while she stirred broth and slipped second helpings to the skinny ones when no one was looking. Most called her “Mother Magda,” and she didn’t correct them. She never had children of her own.<br><br>But she _did_ have rules.<br><br>“Eat all your food.”  <br>“No talking while chewing.”  <br>“Never, ever let the broth go cold.” | ![[ChatGPT Image Jul 29, 2025, 05_54_31 PM.png\|Magda Velt]] |
+Magda Velt wasn’t hired for her skill with knives—though she had that too—but for her warmth. In a place built to break children, she was a strange anomaly: a soft soul in an iron world. She hummed lullabies while she stirred broth and slipped second helpings to the skinny ones when no one was looking. Most called her “Mother Magda,” and she didn’t correct them. She never had children of her own.
+
+But she _did_ have rules.
+
+“Eat all your food.”  
+“No talking while chewing.”  
+“Never, ever let the broth go cold.”
+
+![ChatGPT Image Jul 29, 2025, 05_54_31 PM.png](/img/user/Items/Non-Magical/ChatGPT%20Image%20Jul%2029,%202025,%2005_54_31%20PM.png)
 The last rule was more than superstition. Magda believed the soup carried warmth that kept _something_ at bay—something that had started to creep into the Asylum’s walls. She never explained what she meant, only that hot soup helped them sleep. She would wake at midnight to reheat pots if she had to. If she didn’t, the children would scream in their sleep. Some would wake up wrong.
 
 One night, she didn’t make the rounds.
