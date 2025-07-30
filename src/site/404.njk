@@ -3,22 +3,23 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>404: You Shouldn't Be Here</title>
+  <title>404 - The Door Is Gone</title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=UnifrakturCook:wght@700&display=swap');
 
     body {
       margin: 0;
-      padding: 2rem;
-      background: radial-gradient(#000000, #0a0000);
-      color: #e0dcdc;
+      padding: 3rem;
+      background: #0a0a0a;
+      color: #ccc;
       font-family: 'UnifrakturCook', cursive;
       display: flex;
       flex-direction: column;
-      justify-content: center;
       align-items: center;
-      text-align: center;
+      justify-content: center;
       height: 100vh;
+      text-align: center;
+      background: radial-gradient(ellipse at center, #111 0%, #000 100%);
       overflow: hidden;
       position: relative;
     }
@@ -27,83 +28,48 @@
       font-size: 4rem;
       color: #8b0000;
       text-shadow: 0 0 10px red;
-      animation: flicker 1.5s infinite alternate;
-      letter-spacing: 0.1em;
+      animation: flicker 1.8s infinite alternate;
     }
 
     p {
       font-size: 1.2rem;
-      max-width: 720px;
-      margin: 1.2rem 0;
-      line-height: 1.7;
-      opacity: 0;
-      animation: fadeInUp 2s ease forwards;
+      max-width: 700px;
+      margin-top: 1rem;
+      line-height: 1.6;
+      animation: fadeIn 2s ease forwards;
     }
 
-    .glitch {
-      font-size: 1rem;
-      color: #444;
+    .link-back {
       margin-top: 2rem;
-      white-space: nowrap;
-      overflow: hidden;
-      border-right: 2px solid #444;
-      width: 0;
-      animation: typing 3s steps(30, end) forwards, blink 0.75s step-end infinite;
-    }
-
-    .fog {
-      position: absolute;
-      top: 0; left: 0; right: 0; bottom: 0;
-      background: url('https://www.transparenttextures.com/patterns/asfalt-dark.png');
-      opacity: 0.02;
-      animation: fogShift 120s linear infinite;
-      z-index: -1;
-    }
-
-    a {
-      color: #ff4444;
+      font-size: 1.1rem;
+      color: #ff6666;
       text-decoration: none;
-      border-bottom: 1px dashed #ff4444;
-      transition: all 0.3s ease;
+      border-bottom: 1px dashed #ff6666;
+      transition: color 0.3s ease;
     }
 
-    a:hover {
+    .link-back:hover {
       color: #fff;
-      border-bottom: 1px solid #fff;
+      border-color: #fff;
     }
 
     @keyframes flicker {
-      0% { opacity: 0.9; text-shadow: 0 0 5px red; }
-      50% { opacity: 0.6; text-shadow: 0 0 15px crimson; }
-      100% { opacity: 1; text-shadow: 0 0 10px darkred; }
+      0% { opacity: 0.8; }
+      50% { opacity: 0.4; text-shadow: 0 0 15px crimson; }
+      100% { opacity: 1; }
     }
 
-    @keyframes fadeInUp {
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
       to { opacity: 1; transform: translateY(0); }
-      from { opacity: 0; transform: translateY(20px); }
-    }
-
-    @keyframes typing {
-      from { width: 0; }
-      to { width: 100%; }
-    }
-
-    @keyframes blink {
-      50% { border-color: transparent; }
-    }
-
-    @keyframes fogShift {
-      0% { background-position: 0 0; }
-      100% { background-position: 1000px 0; }
     }
   </style>
 </head>
 <body>
-  <div class="fog"></div>
-  <h1>Wrong Door</h1>
-  <p style="animation-delay: 1s;">You weren’t meant to see this page.<br>But now that you have...</p>
-  <p style="animation-delay: 2s;">The dead know your name. The Veil remembers your trespass.</p>
-  <p style="animation-delay: 3s;">There is <a href="/">one way back</a>. Don’t delay.</p>
-  <div class="glitch">404: You should not be here.</div>
+  <h1>The Door Is Gone</h1>
+  <p>You're not where you're supposed to be.</p>
+  <p>Maybe the link was broken. Maybe the path was buried. Maybe the door just... vanished.</p>
+  <p>Whatever the reason, there's no page here. Only silence.</p>
+  <a class="link-back" href="/">Go back while you still can.</a>
 </body>
 </html>
