@@ -17,7 +17,7 @@
 > **Xaphan** is gone... Not just _missing_, not just _taken_—1,600 years gone. Ripped through time and into shadow. Sixteen hundred years behind you, and yet somehow still ahead.
 > Three of you now carry his burdens: a cursed cross, the Veiled Necrovitalis, and a stolen shard of the Death-Wrought Mosaic. Each one humming with purpose. Each one whispering of the Veil.
 > The embers of the **Night Camp** have burned to ash. Cold descends over you. Farrún's skeletal remains lie still - his voice, hers really - still echoing in your minds. A mother’s warning, scorched and half-swallowed by time, read too late to be heeded.
-> But fragmented mosaic has seemingly cut your journey sideways—toward the faint traces of a child - **M** - who you believe wandered into a place called **The Whispering Asylum**. A place that should promise shelter; that should promise sanctuary. A place, her mother warned, _must be avoided at all costs_.
+> But fragmented mosaic has seemingly cut your journey sideways—toward the faint traces of a child - **M** - who you believe wandered into a place called **[[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]**. A place that should promise shelter; that should promise sanctuary. A place, her mother warned, _must be avoided at all costs_.
 > You’ve already accomplished what legends could not...you've escaped The Temple of the Forgotten Hero. 
 > But here in **Elarith**, even the extraordinary fades like breath on glass. Glory is fleeting. Memory lies.  
 > And death—Death is only the opening act.
@@ -33,8 +33,8 @@
 > Then came vengeance.  
 > The party confronted Headmistress [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] in the classroom. Vespertina was struck down by the very gradebook that recorded the children’s pain. But in death, she faced the Trial of Nerull and survived His judgment. She returned unchanged, but furious. Squeaks trapped the cruel headmistress. While suspended upside down, Calvra looks at Vespertina and says "I'll kill you again, you bitch!" as Vespertina claims her revenge...delivering 5 Magic Missiles as the final blow to the woman who turned teaching into torture.
 > Kovinar, robbed of speech by the Bright Green Soup, plummeted through the false-bottom tub in silence—only to find his voice again in an instant, echoing “FUCK!” upon impact. At last, the party climbed into the bathtub—into the dark belly of the Asylum itself—and descended into the basement. There they found it waiting: [[The Cradle of Flesh\|The Cradle of Flesh]], a pulsating mass of sorrow and stitched-together remains. Renzo cast _Entangle_, vines ripping through the stone and rooting the creature in place. The party surrounded it—and destroyed it.
-> The party chose to take a long rest within the very halls that tortured children for decades. Vespertina, in bitter irony, laid her head in Rhoswyn Calvra’s bed—the same place where cruelty once dreamed—and finally, for a moment, they all peacefully slept.
-> Now, with the possibilities of the Death-Wrought Mosaic whispering louder, and new questions rising—who is Miren? Who is her mother? What is the Mouth?—the party turns its eyes to [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]].
+> The party chose to take a long rest within the very halls that tortured children for decades. Vespertina, in bitter irony, laid her head in [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]]’s bed—the same place where cruelty once dreamed—and finally, for a moment, they all peacefully slept.
+> Now, with the possibilities of the [[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]] whispering louder, and new questions rising—who is Miren? Who is her mother? What is the Mouth?—the party turns its eyes to [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]].
 
 --- 
 
@@ -61,12 +61,12 @@
 ---
 
 ## 🧱 Major Events
-- [[Vespertina\|Vespertina]] was killed by [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]]'s *Gradebook of Pain*.
+- [[05_Player Characters/Verspertina Galanodel\|Verspertina]] was killed by [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]]'s *Gradebook of Pain*.
 - Vespertina faced Nerull and survived the first trial.
 - Squeaks discovered the use of the [[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]]
 	- Lucky Find (2): "Last Meal," "Forget," a dagger
 	- Whispers in the Wind (3): *"Get in the bathtub"*
-- Kovinar removes the body of a former student from the bathtub of the Headmistress's bathroom and gives her an honorable funeral by placing her in the fire.
+- [[05_Player Characters/Kovinar Relkth\|Kovinar]] removes the body of a former student from the bathtub of the Headmistress's bathroom and gives her an honorable funeral by placing her in the fire.
 	- Party earns inspiration for assisting in honorable disposal.
 - Party finds water-logged body of a girl in the Headmaster's bathroom.
 	- Removes her body and places her in the fire with a wooden toy horse.
@@ -152,7 +152,7 @@
 
 ## 🧵 Threads & Foreshadowing
 - [ ] The Veil can only be reached with the [[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]], but not traversed.
-- [ ] "Mama" was abducted and may have a secret ability.
+- [ ] "[[06_NPCs/Velura Elaris\|Mama]]" was abducted and may have a secret ability.
 	- [ ] Her daughter, [[06_NPCs/Miren Elaris\|Miren Elaris]] escaped [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]. 
 		- [ ] A [[Items/Non-Magical/Letter from S.H. to the Whispering Asylum\|Letter from S.H. to the Whispering Asylum]] informed the headmistress that "The beast became stronger when she arrived but remained contained." So, they imprisoned her. 
 -  [[06_NPCs/Sanctifier Halric\|Sanctifier Halric]] and [[06_NPCs/Sanctifier Virelle\|Sanctifier Virelle]] had a forbidden love child, [[06_NPCs/Nasha\|Nasha]]. Halric told Virelle to "terminate" the child but Virelle maintained the pregnancy and had a preterm birth at 7 months. Virelle abandoned her on the doorsteps of [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]. Headmistress [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] dumped her in storage for 15 years to avoid another scandal.
@@ -170,7 +170,7 @@
 
 ### Tactics Used
 - Squeaks snare of [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] allowed Vespertina to have her revenge via five Magic Missiles.
-- Renzo casts *Entangle* to restrain The Cradle of Flesh.
+- Renzo casts *Entangle* to restrain [[The Cradle of Flesh\|The Cradle of Flesh]].
 
 ### PC Injuries / Deaths
 - [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]] died from [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]]'s *Gradebook of Pain* after dealing 25 damage.
