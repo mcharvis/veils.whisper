@@ -3,73 +3,88 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>404 - The Door Is Gone</title>
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=UnifrakturCook:wght@700&display=swap');
-
+  <title>Wrong Path | The Veil’s Whisper</title>
+<style>
     body {
-      margin: 0;
-      padding: 3rem;
-      background: #0a0a0a;
-      color: #ccc;
-      font-family: 'UnifrakturCook', cursive;
+      background-color: #070707;
+      color: #c9c9c9;
+      font-family: 'Georgia', serif;
       display: flex;
       flex-direction: column;
-      align-items: center;
       justify-content: center;
-      height: 100vh;
+      align-items: center;
       text-align: center;
-      background: radial-gradient(ellipse at center, #111 0%, #000 100%);
-      overflow: hidden;
-      position: relative;
+      height: 100vh;
+      margin: 0;
+      padding: 2rem;
+      background-image: radial-gradient(circle at center, #111 0%, #000 100%);
     }
 
     h1 {
-      font-size: 4rem;
-      color: #8b0000;
-      text-shadow: 0 0 10px red;
-      animation: flicker 1.8s infinite alternate;
+      font-size: 3.5rem;
+      color: #a11919;
+      margin-bottom: 0.5rem;
+      letter-spacing: 0.05em;
+      animation: pulse 4s infinite;
     }
 
     p {
-      font-size: 1.2rem;
-      max-width: 700px;
-      margin-top: 1rem;
-      line-height: 1.6;
-      animation: fadeIn 2s ease forwards;
-    }
-
-    .link-back {
-      margin-top: 2rem;
       font-size: 1.1rem;
-      color: #ff6666;
+      max-width: 680px;
+      margin: 0 auto 1.4rem;
+      line-height: 1.7;
+    }
+
+    a {
+      color: #9c4dfc;
       text-decoration: none;
-      border-bottom: 1px dashed #ff6666;
-      transition: color 0.3s ease;
+      border-bottom: 1px dashed #9c4dfc;
+      transition: all 0.3s ease;
     }
 
-    .link-back:hover {
+    a:hover {
       color: #fff;
-      border-color: #fff;
+      border-bottom: 1px solid #fff;
     }
 
-    @keyframes flicker {
-      0% { opacity: 0.8; }
-      50% { opacity: 0.4; text-shadow: 0 0 15px crimson; }
-      100% { opacity: 1; }
+    .signature {
+      margin-top: 2.5rem;
+      font-style: italic;
+      color: #666;
     }
 
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(10px); }
-      to { opacity: 1; transform: translateY(0); }
+    .fade {
+      opacity: 0.5;
+      font-size: 0.9rem;
+      margin-top: 1.5rem;
+      color: #444;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.5; }
     }
   </style>
 </head>
 <body>
-  <h1>The Door Is Gone</h1>
-  <p>You're not where you're supposed to be.</p>
-  <p>Maybe the link was broken. Maybe the path was buried. Maybe the door just... vanished.</p>
-  <p>Whatever the reason, there's no page here. Only silence.</p>
-  <a class="link-back" href="/">Go back while you still can.</a>
+  <h1>Turn Back</h1>
+  <p>
+    The knowledge you seek is forbidden.<br>
+    You should not have found this place.
+  </p>
+  <p>
+    I felt your presence when you strayed.<br>
+    The Veil shuddered. The dead stirred.
+  </p>
+  <p>
+    If you value your flesh, <a href="/">return now</a>,<br>
+    for this path belongs to me.
+  </p>
+  <div class="signature">
+    — Nerull, God of Death
+  </div>
+  <div class="fade">
+    “You were not invited. You are not forgotten. You are merely next. Prepare to die.”
+  </div>
 </body>
 </html>
