@@ -12,7 +12,7 @@ The Sanctifiers found her in their lower levels. They saw her not as a victim, b
 ## Status
 
 🧬 **Missing or Escaped**  
-Last seen fleeing the [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] through a hidden tunnel. 
+Fleed the [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] through a hidden tunnel. 
 
 
 ## Background
@@ -28,7 +28,6 @@ But she found the hidden tunnel that lead to the lower levels of [[02_World/01_T
 - Was isolated after causing multiple emotional breakdowns among other children
 - Escaped through a tunnel beneath the Asylum, which she found after recurring dreams of a circular stone room
 - Recaptured by the [[04_Organizations/Sanctifiers\|Sanctifiers]], who confined her to [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] to pacify  a monster previously called "The Mouth."
-    
 
 ## Personality
 **Redacted**

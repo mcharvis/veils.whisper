@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-campaigns/session-notes/session-00/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/01-campaigns/session-notes/session-00/"}
 ---
 
 # Sixteen Centuries Late
