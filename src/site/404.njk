@@ -1,28 +1,62 @@
-
 <!DOCTYPE html>
-<html lang="{{ meta.mainLanguage }}">
-    <head>
-        <title>Nothing here</title>
-        <link href="/styles/digital-garden-base.css" rel="stylesheet">
-        {%-if meta.themeStyle%}
-            <link href="/styles/obsidian-base.css" rel="stylesheet">
-    	    <link href="{{meta.themeStyle}}" rel="stylesheet">
-        {% else %}
-            <link href="/styles/style.css" rel="stylesheet">
-        {%endif%}
-
-        <link href="/styles/custom-style.css" rel="stylesheet">
-        
-    </head>
-    <body class="theme-{{meta.baseTheme}} markdown-preview-view">
-        <div class="content centered">
-
-            {%-if not meta.themeStyle%}
-                <div class="font-bg"> &#x1F60E; </div>
-            {%endif%}
-            <h1>There is nothing here</h1>
-            <p>If you got here from a link, this note is probably not made public</p>
-            <a href="/">Go back home</a>
-        </div>
-    </body>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Not Found | The Veil’s Whisper</title>
+  <style>
+    body {
+      background-color: #0d0d0d;
+      color: #ccc;
+      font-family: 'Georgia', serif;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      height: 100vh;
+      margin: 0;
+      padding: 2rem;
+    }
+    h1 {
+      font-size: 3rem;
+      color: #e0e0e0;
+      margin-bottom: 0.5rem;
+    }
+    p {
+      font-size: 1.2rem;
+      max-width: 600px;
+      margin: 0 auto 1.5rem;
+      line-height: 1.6;
+    }
+    a {
+      color: #a877ff;
+      text-decoration: none;
+      border-bottom: 1px dashed #a877ff;
+    }
+    a:hover {
+      color: #fff;
+      border-bottom: 1px solid #fff;
+    }
+    .fade {
+      opacity: 0.6;
+      font-size: 0.9rem;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>The Path Fails Here</h1>
+  <p>
+    Whatever you were seeking does not exist.<br>
+    This place has no name, no memory, and no light.
+  </p>
+  <p>
+    Perhaps the wind carried you off-course.<br>
+    <a href="/">Return to the waking world</a> before the whispering begins again.
+  </p>
+  <p class="fade">
+    “Only silence answers those who tread too far.” — *The Book of Shallow Graves*
+  </p>
+</body>
 </html>
