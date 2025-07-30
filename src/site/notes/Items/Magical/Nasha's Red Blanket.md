@@ -4,7 +4,7 @@
 
 _Wondrous item, uncommon (no attunement)_  
 _Once used to swaddle an abandoned infant in the Whispering Asylum. It still remembers warmth._
-![ChatGPT Image Jul 26, 2025, 04_05_26 PM.png](/img/user/ChatGPT%20Image%20Jul%2026,%202025,%2004_05_26%20PM.png)
+![ChatGPT Image Jul 26, 2025, 04_05_26 PM.png](/img/user/Items/Non-Magical/ChatGPT%20Image%20Jul%2026,%202025,%2004_05_26%20PM.png)
 
 ---
 
