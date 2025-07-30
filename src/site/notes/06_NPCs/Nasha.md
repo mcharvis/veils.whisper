@@ -2,14 +2,19 @@
 {"dg-publish":true,"permalink":"/06-np-cs/nasha/"}
 ---
 
+**Full Name:** Unknown  
+**Alias:** The Red Child, Ghost-Girl in the Storage Room
+**Arabic Origin:** Meaning: A delicate flower or youthful bloom  
+**Pronounced:** _Nāshā_ (ناشا)   
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                         |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| **Full Name:** Unknown  <br>**Alias:** The Red Child, Ghost-Girl in the Storage Room<br>**Arabic Origin:** Meaning: A delicate flower or youthful bloom  <br>**Pronounced:** _Nāshā_ (ناشا)   <br><br>While **ناشا** itself isn't a widely common Arabic name, it can be interpreted as a variation of words like **ناشئة (nāshiʾah)**, which means "_young girl_", "_youth_", or "_one who is growing or developing_."  <br>	<br>**Affiliation:** None  <br>**Status:** Previously mentally disturbed & physically frail. Now dead, killed by [[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]] | ![[ChatGPT Image Jul 24, 2025, 10_50_17 PM.png\|Nasha]] |
-
+While **ناشا** itself isn't a widely common Arabic name, it can be interpreted as a variation of words like **ناشئة (nāshiʾah)**, which means "_young girl_", "_youth_", or "_one who is growing or developing_."  
+	
+**Affiliation:** None  
+**Status:** Previously mentally disturbed & physically frail. Now dead, killed by [[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]]
+![ChatGPT Image Jul 24, 2025, 10_50_17 PM.png](/img/user/Items/Non-Magical/ChatGPT%20Image%20Jul%2024,%202025,%2010_50_17%20PM.png)
 ### 🕯️ Birth: “The Delivery”
 
-Nasha is the child of a **forbidden Sanctifier union**—a secret pregnancy between **Sanctifiers Halric** and **Virelle**, a low-ranking psychic acolyte known for her devotion to Mind-Chain experimentation. Nasha was born in secret, alone, in a storage room beneath the Whispering Asylum. Her mother, [[06_NPCs/Sanctifier Virelle\|Sanctifier Virelle]], had defied The Order to terminate the pregnancy, fearing shame or reprisal if discovered. In silence and fear, Virelle wrapped the newborn in a tattered red blanket and left her newborn daughter on the cold stone threshold of the Whispering Asylum, still damp with afterbirth and secrecy. No note.  
+Nasha is the child of a **forbidden Sanctifier union**—a secret pregnancy between **Sanctifiers Halric** and **Virelle**, a low-ranking psychic acolyte known for her devotion to Mind-Chain experimentation. Nasha was born in secret, alone, in a storage room beneath [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]. Her mother, [[06_NPCs/Sanctifier Virelle\|Sanctifier Virelle]], had defied The Order to terminate the pregnancy, fearing shame or reprisal if discovered. In silence and fear, Virelle wrapped the newborn in a tattered red blanket and left her newborn daughter on the cold stone threshold of the Whispering Asylum, still damp with afterbirth and secrecy. No note.  
 
 It was Headmistress [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] who found her first—woken by a silent scream in her sleep. She followed the sound not with her ears but with her mind, and when she opened the Asylum’s front door, she did not flinch at the infant left to the frost. She simply bent down, examined the girl’s eyes—silver-gray and wide—and whispered, “You do not belong here.”
 

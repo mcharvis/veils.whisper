@@ -43,7 +43,7 @@
 ### ✅ Completed Objectives
 - [x] Travel to The Whispering Asylum.
 - [x] Defeat Headmistress [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] 
-	- [ ] Defeat her abomination, [[06_NPCs/The Cradle of Flesh\|The Cradle of Flesh]]
+	- [x] Defeat her abomination, [[06_NPCs/The Cradle of Flesh\|The Cradle of Flesh]]
 - [x] Discover Nasha
 	- [x] Who is Nasha?
 - [x] Determine the function of the first piece of the Death-Wrought Mosaic.
