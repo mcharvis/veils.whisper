@@ -6,64 +6,38 @@
   <title>Wrong Path | The Veil’s Whisper</title>
   <style>
     body {
-      background-color: #070707;
-      color: #c9c9c9;
-      font-family: 'Georgia', serif;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      text-align: center;
-      height: 100vh;
-      margin: 0;
-      padding: 2rem;
-      background-image: radial-gradient(circle at center, #111 0%, #000 100%);
-    }
+    background-color: #0b0b0b;
+    color: #b30000;
+    font-family: 'Cinzel', serif;
+    text-align: center;
+    padding: 10vh 2rem;
+    animation: fadeIn 3s ease-in-out;
+  }
 
-    h1 {
-      font-size: 3.5rem;
-      color: #a11919;
-      margin-bottom: 0.5rem;
-      letter-spacing: 0.05em;
-      animation: pulse 4s infinite;
-    }
+  h1 {
+    font-size: 4rem;
+    animation: flicker 2s infinite alternate;
+  }
 
-    p {
-      font-size: 1.1rem;
-      max-width: 680px;
-      margin: 0 auto 1.4rem;
-      line-height: 1.7;
-    }
+  p {
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    opacity: 0.9;
+  }
 
-    a {
-      color: #9c4dfc;
-      text-decoration: none;
-      border-bottom: 1px dashed #9c4dfc;
-      transition: all 0.3s ease;
-    }
+  @keyframes fadeIn {
+    0% { opacity: 0; transform: translateY(-20px); }
+    100% { opacity: 1; transform: translateY(0); }
+  }
 
-    a:hover {
-      color: #fff;
-      border-bottom: 1px solid #fff;
+  @keyframes flicker {
+    0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {
+      opacity: 1;
     }
-
-    .signature {
-      margin-top: 2.5rem;
-      font-style: italic;
-      color: #666;
+    20%, 24%, 55% {
+      opacity: 0.3;
     }
-
-    .fade {
-      opacity: 0.5;
-      font-size: 0.9rem;
-      margin-top: 1.5rem;
-      color: #444;
-    }
-
-    @keyframes pulse {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0.5; }
-    }
+  }
   </style>
 </head>
 <body>
