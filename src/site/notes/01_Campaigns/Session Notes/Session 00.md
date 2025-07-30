@@ -18,7 +18,7 @@
 > Upon leaving the temple, they arrived at a [[01_Campaigns/Encounters/Encounter 5 - Night Camp\|Night Camp]] and found the skeletal remains of [[06_NPCs/Farrún, The Wayfinder\|Farrún, The Wayfinder]], who had been carrying [[Items/Non-Magical/Letter to M\|a letter]] from [[06_NPCs/Velura Elaris\|a mysterious woman]] addressed to her [[06_NPCs/Miren Elaris\|daughter]] (Firefly/Dreamberry) after being captured by an unknown party - possibly for "something she could do or who she was." The note was half-burned but the skeleton appeared to have been bewitched and spoke in a woman's voice to reveal the other half of the letter. The voice advised her daughter to avoid places "that promise asylum" or places "that promise to fix what they do not understand." In the campfire, they also found a [[Items/Non-Magical/M’s note\|note]], partially burned by Renzo's magic trick—written by “M.”—saying she was heading to a nearby house where other children were and hoped she could sleep there...revealing that "M" likely never received her mother's letter of caution. Review of the regional map indicated that "M" likely went to [[01_Campaigns/Encounters/Encounter 6 - The Whispering Asylum\|The Whispering Asylum]]. 
 
 --- 
-![Screenshot 2025-07-22 at 10.48.05 PM.png](/img/user/Screenshot%202025-07-22%20at%2010.48.05%20PM.png)
+![Regional Map - Evergrowing Forest.png](/img/user/00_GM%20Tools/Maps/Regional%20Map%20-%20Evergrowing%20Forest.png)
 
 --- 
 
@@ -77,6 +77,10 @@
 
 ### 🎒 Loot & Rewards
 
+#### Kovinar Relkth
+| Items Acquired | Description | Location                             |
+| -------------- | ----------- | ------------------------------------ |
+| Dragon Heart   |             | [[01_Campaigns/Encounters/Encounter 1 - Xaphan's Surrender\|Encounter 1 - Xaphan's Surrender]] |
 #### [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]]
 
 | Items Acquired        | Description                                            | Location                         |
@@ -122,7 +126,7 @@
 ## 🧵 Threads & Foreshadowing
 - [ ] The Veil can only be reached with the [[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]], but not traversed.
 - [ ] "Mama" was abducted and may have a secret ability.
-	- [ ] Her daughter, "M," left her last known location in [[The Evergrowing Woods\|The Evergrowing Woods]] and is considered to be at [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] or missing. 
+	- [ ] Her daughter, "M," left her last known location in [[The Evergrowing Forest\|The Evergrowing Forest]] and is considered to be at [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] or missing. 
 ---
 
 ## ⚔️ Combat Notes

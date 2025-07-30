@@ -5,9 +5,9 @@
 
 **Young half-orc named Lurtza (AKA [Squeaks](https://www.dndbeyond.com/characters/87773447))**
 
-While attempting to steal from [[Zarvok\|Zarvok]], Squeaks inadvertently activated a magical trap that Zarvok had set to protect his lair. This trap was designed to catch intruders by creating a temporary portal to the overworld, acting as a failsafe to remove any unwanted visitors from his domain in [[Elarith\|Elarith]]. The trap was linked to a small, enchanted gemstone that Squeaks attempted to steal.
+While attempting to steal from [[06_NPCs/Zarvok\|Zarvok]], Squeaks inadvertently activated a magical trap that Zarvok had set to protect his lair. This trap was designed to catch intruders by creating a temporary portal to the overworld, acting as a failsafe to remove any unwanted visitors from his domain in [[Elarith\|Elarith]]. The trap was linked to a small, enchanted gemstone that Squeaks attempted to steal.
 
-As soon as the gemstone was lifted, it triggered the portal, pulling both Squeaks and [[Zarvok\|Zarvok]] through. Zarvok, caught off guard and unprepared for an immediate confrontation in a different plane, was momentarily disoriented. Squeaks, using her natural agility and cunning, took this opportunity to vanish into the shadows of the overworld, leaving Zarvok to face the unfamiliar terrain alone.
+As soon as the gemstone was lifted, it triggered the portal, pulling both Squeaks and [[06_NPCs/Zarvok\|Zarvok]] through. Zarvok, caught off guard and unprepared for an immediate confrontation in a different plane, was momentarily disoriented. Squeaks, using her natural agility and cunning, took this opportunity to vanish into the shadows of the overworld, leaving Zarvok to face the unfamiliar terrain alone.
 
 Upon discovering [[05_Player Characters/Inactive/Xaphan\|Xaphan]]'s practice of necromancy, she clandestinely befriended him, driven by the hope that he could resurrect her beloved pet rat, [[06_NPCs/Pets/Wilson\|Wilson]]. [[05_Player Characters/Inactive/Xaphan\|Xaphan]] successfully revived Wilson, and over time, he became accustomed to reattaching the rat's little body parts whenever necessary. 
 
