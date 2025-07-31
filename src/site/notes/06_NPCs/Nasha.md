@@ -22,10 +22,10 @@ It was Headmistress [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] who found her fir
 
 Nasha wasn’t raised. She was hidden.
 
-When Rhoswyn Calvra first saw the child—barely old enough to speak, wrapped in bloodied linens and left on the Asylum’s steps—she knew exactly who she was. The scandal could’ve unraveled everything. So Calvra did what she always did with problems: she buried it.  
+When [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] first saw the child—barely old enough to speak, wrapped in bloodied linens and left on the Asylum’s steps—she knew exactly who she was. The scandal could’ve unraveled everything. So Calvra did what she always did with problems: she buried it.  
 Literally.
 
-Nasha was locked in an unused storage room deep beneath the old chapel. A place with no bed, no toys, and no light. Just broken furniture, old linens, rusted tools—and rats. So many rats. She survived on them. At first out of desperation. Later, with eerie calm.
+Nasha was locked in an unused storage room in [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]. A place with no bed, no toys, and no light. Just broken furniture, old linens, rusted tools—and rats. So many rats. She survived on them. At first out of desperation. Later, with eerie calm.
 
 No one spoke to her. No one taught her. Yet Nasha learned. She listened through the walls. She mimicked the whispers. She began speaking words she had no way of knowing—old, forgotten tongues that tangled together like smoke in her mouth. She etched symbols into the wood with her fingernails. They pulsed when no one was looking.
 
