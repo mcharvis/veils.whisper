@@ -29,11 +29,3 @@ Nasha was locked in an unused storage room in [[02_World/01_The Evergrowing Fore
 
 No one spoke to her. No one taught her. Yet Nasha learned. She listened through the walls. She mimicked the whispers. She began speaking words she had no way of knowing—old, forgotten tongues that tangled together like smoke in her mouth. She etched symbols into the wood with her fingernails. They pulsed when no one was looking.
 
-By the time she was five, strange things had begun to happen. Lights dimmed when she opened her eyes. Doors refused to open when she was near. On the night the west wing caught fire, Nasha had calmly whispered, _“Three... two... one...”_ and the thunder cracked right on cue. Flames devoured half the dorms. Nasha just sat, cross-legged in the hall, soot on her cheeks, watching.
-
-Eventually, Rhoswyn couldn’t keep her hidden. But by then it was too late. The other children avoided her—not out of cruelty, but instinct. Even the worst of them, the biters and screamers, gave her a wide berth. Rooms fell quiet when she passed. Some swore she could make you forget your own name just by staring.
-
-Calvra kept her close after that—not out of guilt, not even out of strategy, but because she was afraid. Everyone was. Nasha didn’t cry. Didn’t laugh.  
-She just watched.  
-And listened.  
-And remembered _everything_.
