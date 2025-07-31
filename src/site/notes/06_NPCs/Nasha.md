@@ -20,12 +20,20 @@ It was Headmistress [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] who found her fir
 
 ### **Childhood in the Whispering Asylum**
 
-Nasha grew up in a world that refused to grow with her. The Asylum was no place for healing—by the time she was five, she’d already seen drownings, disappearances, and “playtime” that ended in blood. The other children were unpredictable—violent, wild, or eerily calm. Nasha, in contrast, was quiet. Too quiet.
+Nasha wasn’t raised. She was hidden.
 
-She rarely cried, rarely laughed. She simply watched. Listened.
+When Rhoswyn Calvra first saw the child—barely old enough to speak, wrapped in bloodied linens and left on the Asylum’s steps—she knew exactly who she was. The scandal could’ve unraveled everything. So Calvra did what she always did with problems: she buried it.  
+Literally.
 
-Rhoswyn kept her close, not out of affection but suspicion. There was something about Nasha that disturbed even the headmistress: a presence that absorbed silence like a black sponge. Rooms grew still when she entered. Voices dropped. Even the maddest of children avoided her gaze.
+Nasha was locked in an unused storage room deep beneath the old chapel. A place with no bed, no toys, and no light. Just broken furniture, old linens, rusted tools—and rats. So many rats. She survived on them. At first out of desperation. Later, with eerie calm.
 
-Though Nasha was never taught magic, **she occasionally spoke in tongues**—languages unknown, layered over each other like smoke trails. Once, during a thunderstorm, she calmly told a nurse the exact moment lightning would strike the west wing. When it did, burning half the dormitories, Nasha was sitting cross-legged in the hallway, smiling faintly.
+No one spoke to her. No one taught her. Yet Nasha learned. She listened through the walls. She mimicked the whispers. She began speaking words she had no way of knowing—old, forgotten tongues that tangled together like smoke in her mouth. She etched symbols into the wood with her fingernails. They pulsed when no one was looking.
 
-Rhoswyn began to fear her; they all did.
+By the time she was five, strange things had begun to happen. Lights dimmed when she opened her eyes. Doors refused to open when she was near. On the night the west wing caught fire, Nasha had calmly whispered, _“Three... two... one...”_ and the thunder cracked right on cue. Flames devoured half the dorms. Nasha just sat, cross-legged in the hall, soot on her cheeks, watching.
+
+Eventually, Rhoswyn couldn’t keep her hidden. But by then it was too late. The other children avoided her—not out of cruelty, but instinct. Even the worst of them, the biters and screamers, gave her a wide berth. Rooms fell quiet when she passed. Some swore she could make you forget your own name just by staring.
+
+Calvra kept her close after that—not out of guilt, not even out of strategy, but because she was afraid. Everyone was. Nasha didn’t cry. Didn’t laugh.  
+She just watched.  
+And listened.  
+And remembered _everything_.

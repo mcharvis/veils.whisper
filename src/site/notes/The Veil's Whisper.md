@@ -109,7 +109,7 @@
 ### 🏰 Factions
 - [[04_Organizations/Ebony Wake\|Ebony Wake]]
 - [[04_Organizations/The Horsemen\|The Horsemen]]
-- [[The Sanctifiers\|The Sanctifiers]]
+- [[04_Organizations/The Sanctifiers\|The Sanctifiers]]
 
 
 ---
