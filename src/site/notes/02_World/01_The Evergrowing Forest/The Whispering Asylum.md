@@ -25,19 +25,6 @@ The Order abandoned the building. But the Headmistress refused to leave, trying 
 
 ## Known Features
 
-### Foyer
-
-- Three doors:
-    - **Left**: Bug-infested room with a chest holding a Water Explorer’s Pack
-    - **Right**: Playroom with children’s toys and a single ornate chair
-    - **Center**: Leads into the chapel
-
-### Chapel
-
-- 3 of 4 pews shattered
-- Broken stained glass depicting a mouth sewn shut
-- Left Door: Library with a bookcase and a **spellbook containing _Disguise Self_**
-- Right Door: Stairwell descending to the Crypt Level
 
 ### Sublevels
 
