@@ -4,7 +4,7 @@
 
 ## Summary
 
-A one-story stone asylum/orphanage nestled deep in the [[Evergrowing Forest\|Evergrowing Forest]], long abandoned but eerily intact. It is a place where the walls still remember, and the halls still echo with voices that shouldn’t exist.
+A one-story stone asylum/orphanage nestled deep in the [[Evergrowing Forest\|Evergrowing Forest]], long abandoned but eerily intact. 
 
 
 ## Appearance
