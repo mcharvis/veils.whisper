@@ -21,26 +21,17 @@ Originally founded by psychic monks from the [[Order of the Morrow Veil\|Order o
 
 Over time, care turned into containment. The more the Veil frayed, the more the patients began to “echo”—mimicking each other’s speech, screaming in unison, or drawing the same symbols in their blood.
 
-The Order abandoned the building. But the Headmistress refused to leave, trying to hide her treatment of the past children.
-
-## Known Features
-
-
-### Sublevels
-
-- **Crypt Level**: Goblins, vampire hunting tools, a cage trap, and embalming rooms
-- **Third Level**: Strange sanctuary, mysterious well, and a locked **Inescapable Room** with a rune-sealed door leading to [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]
+The Order abandoned the building. But the Headmistress refused to leave, trying to hide her treatment of the past children. 
 
 ## Hauntings
 
 - _The Drowned Girl_: Found in the tub in the Headmistresses private bathroom.
-- [[The Headmistress\|The Headmistress]]: Aberration posing as a woman, still enforces the rules of the old Order
-- [[The Crybaby King\|The Crybaby King]]: A construct formed from broken toys, old bones, and wrath
+- [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]]: Aberration posing as a woman, still enforces the rules of the old Order
+- [[06_NPCs/Nasha\|Nasha]]: the child of a forbidden Sanctifier union—a secret pregnancy between [[06_NPCs/Sanctifier Halric\|Sanctifier Halric]] and [[06_NPCs/Sanctifier Virelle\|Sanctifier Virelle]] 
 - [[06_NPCs/Magda Velt, The Lunch Matron\|Magda Velt, The Lunch Matron]]: A rare benevolent ghost—may offer clues, food, or protection
 
 ## Secrets
 
-- The asylum was once a **conduit** for Veil energies—one of several “listening posts” across the continent
 - [[06_NPCs/Miren Elaris\|Miren Elaris]] escaped through a hidden tunnel beneath the Asylum
 
 ## Former Faculty
