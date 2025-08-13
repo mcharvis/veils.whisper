@@ -8,7 +8,7 @@
 
 ### 💥 What Happened
 
-- A sudden incursion of undead from [[02_World/Ahrown, The Kingdom of Elves/Capital of Ahrown\|Capital of Ahrown]] breached [[Ya’a Thalor\|Ya’a Thalor]]’s perimeter.
+- A sudden incursion of undead breached [[Ya’a Thalor\|Ya’a Thalor]]’s perimeter.
     
 - The undead—fast, coordinated, and strangely **intelligent**—were unlike anything the Sanctifiers had faced before. 
     
