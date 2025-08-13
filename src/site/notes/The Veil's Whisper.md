@@ -19,7 +19,7 @@
 	- [ ] Travel to [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]
 		- Paths forward
 			- [ ] Diplomacy
-				- [ ] Turn over [[06_NPCs/Sanctifier Virelle\|Sanctifier Virelle]]
+				- [ ] Turn over [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]]
 				- [ ] Offer [[Items/Ashrend\|Ashrend]]
 			- [ ] Bribery
 				- [ ] Bribe the guards at the main gate.
@@ -117,7 +117,7 @@
 - [[06_NPCs/Miren Elaris\|Miren Elaris]]
 - [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]]
 - [[06_NPCs/Sanctifier Halric\|Sanctifier Halric]] 
-- [[06_NPCs/Sanctifier Virelle\|Sanctifier Virelle]] 
+- [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]] 
 	- [[06_NPCs/Nasha\|Nasha]]
 - [[06_NPCs/Councilor Varn Drest\|Councilor Drest]]
 - [[06_NPCs/Farrún, The Wayfinder\|Farrún, The Wayfinder]]
