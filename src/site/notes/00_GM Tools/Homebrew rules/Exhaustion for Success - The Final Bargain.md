@@ -34,3 +34,6 @@ If a player **fails a saving throw**, they may choose to **automatically succeed
 - Adds a **high-stakes gamble** to every fight.
 - Makes **Exhaustion a resource**, not just a penalty.
 - Reinforces the **world’s brutal metaphysics**, where defying death is possible—but never free.
+
+
+#homebrew

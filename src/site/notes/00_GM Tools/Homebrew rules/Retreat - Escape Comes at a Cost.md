@@ -37,3 +37,6 @@ Retreating from battle or key encounters results in **one or more of the followi
 
 - Encourages **player agency** and **strategic decisions** without punishing survival.
 - Keeps tension high in _Elarith_, where **running is not free**—but sometimes necessary.
+
+
+#homebrew

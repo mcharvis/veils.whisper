@@ -18,3 +18,8 @@ _In Elarith, the Veil is thin—light, shadow, illusion, and distance mean littl
 
 - The **maps in Elarith are visually stunning**, and **artistic details matter**.
 - This rule ensures players never miss the **beauty**, **creepiness**, or **symbolism** of the environment due to darkness or visual limits.
+
+
+
+
+#homebrew

@@ -12,4 +12,6 @@ A torn scrap of journal paper found in the fire pit—crumpled and smudged, but 
 
 There are faint tears on the paper, and a blot of mud where her small hand gripped it.
 
+written by [[06_NPCs/Miren Elaris\|Miren Elaris]]
+
 #nonmagicalitem

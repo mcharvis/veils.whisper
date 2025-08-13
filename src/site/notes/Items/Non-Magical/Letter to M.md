@@ -16,5 +16,7 @@
 > -Mama
 
 
+written by [[06_NPCs/Velura Elaris\|Velura Elaris]]
+
 
 #nonmagicalitem

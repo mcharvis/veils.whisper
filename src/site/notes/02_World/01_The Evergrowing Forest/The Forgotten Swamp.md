@@ -11,3 +11,5 @@ Raiders came—some in devotion, others in desperation. They broke through the t
 What the swamp did hide, though, was real.
 
 Beneath its green film and reeking silt, hidden between a tangle of pale, underwater roots, lay the [[Items/Magical/Cinderflare Wayfinder\|Cinderflare Wayfinder]] —a relic that doesn’t just point the way, but _reveals_ it, glowing like an ember when pulled from the water. 
+
+#location

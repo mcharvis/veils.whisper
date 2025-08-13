@@ -32,3 +32,6 @@ A spellcaster may choose to **cast a spell without using a spell slot**, but do
 - Enables **last-resort heroism**
 - Adds **grit and consequence** to magic
 - Reinforces the idea that in Elarith, even power is **dying and borrowed**
+
+
+#homebrew

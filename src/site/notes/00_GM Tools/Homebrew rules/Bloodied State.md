@@ -20,3 +20,5 @@ _In a land where everything is already dying, it's obvious when something starts
 ### 📣 DM Guidelines
 
 - Declare **when** a creature becomes Bloodied, not the exact HP number.
+
+#homebrew

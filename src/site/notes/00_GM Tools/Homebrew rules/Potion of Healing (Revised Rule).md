@@ -31,3 +31,7 @@ You may use a Potion of Healing on **yourself** or **any creature within 5 fe
 - Still subject to randomness—but doesn't eat up your full turn.
 
 > _Ideal when you're mid-combat and need to stay aggressive._
+
+
+
+#homebrew

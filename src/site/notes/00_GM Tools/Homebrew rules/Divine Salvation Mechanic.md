@@ -32,3 +32,7 @@ Hostile
 
 > Pair this rule with:  
 > • [[Items/Magical/The Cursed Cross\|The Cursed Cross]] wielders
+
+
+
+#homebrew

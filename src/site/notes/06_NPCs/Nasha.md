@@ -14,7 +14,7 @@ While **ناشا** itself isn't a widely common Arabic name, it can be interpret
 ![ChatGPT Image Jul 24, 2025, 10_50_17 PM.png](/img/user/Items/Non-Magical/ChatGPT%20Image%20Jul%2024,%202025,%2010_50_17%20PM.png)
 ### 🕯️ Birth: “The Delivery”
 
-Nasha is the child of a **forbidden Sanctifier union**—a secret pregnancy between **Sanctifiers Halric** and **Virelle**, a low-ranking psychic acolyte known for her devotion to Mind-Chain experimentation. Nasha was born in secret, alone, in a storage room beneath [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]. Her mother, [[06_NPCs/Sanctifier Virelle\|Sanctifier Virelle]], had defied The Order to terminate the pregnancy, fearing shame or reprisal if discovered. In silence and fear, Virelle wrapped the newborn in a tattered red blanket and left her newborn daughter on the cold stone threshold of the Whispering Asylum, still damp with afterbirth and secrecy. No note.  
+Nasha is the child of a **forbidden Sanctifier union**—a secret pregnancy between **[[06_NPCs/Sanctifier Halric\|Sanctifier Halric]]** and **[[06_NPCs/Sanctifier Virelle\|Sanctifier Virelle]]**, a low-ranking psychic acolyte known for her devotion to Mind-Chain experimentation. Nasha was born in secret, alone, in a storage room beneath [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]. Her mother, [[06_NPCs/Sanctifier Virelle\|Sanctifier Virelle]], had defied [[The Order\|The Order]] to terminate the pregnancy, fearing shame or reprisal if discovered. In silence and fear, Virelle wrapped the newborn in a tattered red blanket and left her newborn daughter on the cold stone threshold of [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]], still damp with afterbirth and secrecy. No note.  
 
 It was Headmistress [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] who found her first—woken by a silent scream in her sleep. She followed the sound not with her ears but with her mind, and when she opened the Asylum’s front door, she did not flinch at the infant left to the frost. She simply bent down, examined the girl’s eyes—silver-gray and wide—and whispered, “You do not belong here.”
 
@@ -40,3 +40,5 @@ She stopped standing. Crawled instead, silently. Her body thinned, her nails gre
 She had become feral.  
 Not wild like an animal, but something far worse—forgotten, unfinished, unobserved. A thought left alone too long. A prayer buried without a god to hear it.  
 And in that room, something listened back.
+
+#NPC 

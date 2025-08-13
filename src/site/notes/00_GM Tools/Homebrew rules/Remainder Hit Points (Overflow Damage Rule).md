@@ -22,3 +22,5 @@ When a player's **total damage exceeds the target’s remaining HP**, any **le
 - Follow-up kills must be **physically or narratively plausible**.
 - A single skill check is required for **each redirection** beyond the first
 - Overflow damage **cannot be saved or banked** for later use.
+
+#homebrew

@@ -27,4 +27,8 @@
 > _Half-Orc Barbarian scores a Natural 20 with a greataxe (1d12):_
 > 
 > - Max 1d12 + add an extra 2d12 (Savage Attacks) to the total.
->
+
+
+
+
+#homebrew

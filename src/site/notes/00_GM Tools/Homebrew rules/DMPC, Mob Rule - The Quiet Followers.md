@@ -46,3 +46,6 @@ _In Elarith, help arrives not with fanfare, but with silence. They do not lead. 
 - These NPCs **follow the party’s will** at all times.
 - They do not initiate plans, dominate social scenes, or act autonomously.
 - They may provide **minor passive input** if asked directly.
+
+
+#homebrew

@@ -9,19 +9,41 @@
 > _"Prepare to Die"_
 
 ## 🧭 Current Status
-- **Latest Session**: [[01_Campaigns/Session Notes/Session 01\|Session 01]]
-- **Party Members**: [[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]], [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]], [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]], [[05_Player Characters/Renzo Morokami\|Renzo Morokami]]
-- **Current Location**: [[The Evergrowing Forest\|The Evergrowing Forest]] - [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]
+- **Latest Session**: [[01_Campaigns/Session Notes/Session 02\|Session 02]]
+- **Party Members**: [[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]], [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]], [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]], [[05_Player Characters/Renzo Morokami\|Renzo Morokami]], [[Varian\|Varian]]
+- **Current Location**: [[The Evergrowing Forest\|The Evergrowing Forest]] - [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]
 - **Goals**:
-	- [ ] Travel to Ya'a Thalor.
-		- [ ] Find Miren
-			- [ ] Who is she? Why is she important?
-			- [ ] Who is her mother?
-				- [ ] Where is she?
-	- [ ] What is the "Mouth?"
+	- [ ] Complete [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]
+		- [ ] Defeat [[The Dreaming Mouth\|The Dreaming Mouth]]
+		- [ ] Rescue [[06_NPCs/Miren Elaris\|Miren Elaris]]
+	- [ ] Travel to [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]
+		- Paths forward
+			- [ ] Diplomacy
+				- [ ] Turn over [[06_NPCs/Sanctifier Virelle\|Sanctifier Virelle]]
+				- [ ] Offer [[Items/Ashrend\|Ashrend]]
+			- [ ] Bribery
+				- [ ] Bribe the guards at the main gate.
+			- [ ] Stealth
+				- [ ] Sneak in the basement from [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] or another way.
+			- [ ] Treachery
+				- [ ] Use [[Varian\|Varian]] or another as a double agent
+			- [ ] Full-Scale Attack
+				- [ ] Fight through the front gate
+		- [ ] Find [[06_NPCs/Velura Elaris\|Velura Elaris]]
+			- [ ] Can she be used to gain an audience with [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]]
+		- [ ] Who is Sanctifier [[Maelth\|Maelth]]?
+	- [ ] Travel to Oasis
+		- [ ] Who/What is Vaer-Lorne?
 	- [ ] Who are Tisiphone, Hecate, & Nyx and how do we find them?
-		- [ ] Obtain the missing three pieces of the Death-Wrought Mosaic and assemble them.
+		- [ ] Obtain the missing three pieces of the [[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]] and assemble them.
 	- [ ] Seek the advice from The Oracle ...if/when she ever returns.
+	- [x] Travel to Ya'a Thalor.
+		- [x] Find Miren
+			- [x] Who is she? Why is she important?
+			- [x] Who is her mother?
+				- [x] Where is she?
+	- [x] What is the "Mouth?"
+	- [x] Seek the advice from The Oracle ...if/when she ever returns.
 
 ---
 
@@ -30,6 +52,7 @@
 ### 🧾 Session Logs
 - [[01_Campaigns/Session Notes/Session 00\|Session 00]]: Sixteen Centuries Late
 - [[01_Campaigns/Session Notes/Session 01\|Session 01]]: False Bottoms and Forgotten Children
+- [[01_Campaigns/Session Notes/Session 02\|Session 02]]: From Ashes to Ashrend
 
 ### 📂 Campaign Arcs
 - [ ]  A Shattered Path
@@ -46,6 +69,8 @@
 - **Do you know Xaphan?** "Xaphan tempted me with promises and dreams, of a time when paths would converge under a banner of grace. But centuries have passed and I’ve grown to believe that such things are whispers from the wind...and not beyond the veil."
 - **What is the Death-Wrought Mosaic?** "Oh, you seek the guidance of the Death-Wrought Mosaic, hoping it may illuminate your way. Tread carefully, as the role/roll of fate's dice is to *also* cast shadows upon your path. Yes, yes, I see them. Four in total, but … one in your grasp. Where are its sisters? Ah, with the sisters, yes, Tisiphone, Hecate, and Nyx. Together, they make the Death-Wrought mosaic.  But they can only guide you *to* The Veil. To speak with it…through it…you need more guidance than Xaphan can provide. That wizard is more chaos than cunning. You would do well to…stay in touch.”
 - **Advice about Elarith?** "Hear my words: not all that seeks to harm you is your enemy, and not all who offer aid are your friends. This place has mystery all around you. See with your *mind*, as well as your eyes. Use wisdom and be intentional. Look for details…*the little things*. Look at the forest **AND** the trees.”
+- **What can the [[Items/Magical/Veiled Necrovitalis\|Veiled Necrovitalis]] do?** "The [[Items/Magical/Veiled Necrovitalis\|Veiled Necrovitalis]] is a powerful artifact that allows one to perform necromancy. If careless, it could sway the mind to focus on the dead...and undead. It could eventually be used to command armies of undead...if left to it's own destiny."
+- **Advice?** "Be strategic about when to be bold, remember one's strengths & weaknesses."
 ---
 
 ## 🗺️ Worldbuilding
@@ -82,6 +107,7 @@
 - [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]]
 - [[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]]
 - [[05_Player Characters/Renzo Morokami\|Renzo Morokami]] 
+- [[Varian\|Varian]]
 
 ### 🦴 Pets
 - [[06_NPCs/Pets/Wilson\|Wilson]]
@@ -101,6 +127,9 @@
 - [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]]
 - [[06_NPCs/Demigods/The Three Sisters/Hecate\|Hecate]]
 - [[06_NPCs/Demigods/The Three Sisters/Nyx\|Nyx]]
+- [[06_NPCs/Velura Elaris\|Velura Elaris]]
+
+- [[06_NPCs/King Aldenor\|King Aldenor]]
 
 
 ### 🛡️ Allies
@@ -138,7 +167,9 @@
 - [[Items/Magical/The Cursed Cross\|The Cursed Cross]]
 - [[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]]
 - [[Items/Magical/Veiled Necrovitalis\|Veiled Necrovitalis]]
+- [[Items/Ashrend\|Ashrend]]
 
 ---
 
 _This vault is alive. Check back often... not everything is static._
+#homepage

@@ -13,3 +13,5 @@
 #### 🩸 **The Trial Begins**
 
 - The creature's soul is pulled into **Nerull’s Trial**—a metaphysical, one-on-one encounter. Combat will pause for the trial. After combat, you will return to life as if no time has passed...but you will be different in some way until your next death.
+
+#homebrew

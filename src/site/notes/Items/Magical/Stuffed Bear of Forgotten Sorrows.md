@@ -25,4 +25,9 @@ You tap into the nightmares of a creature you can see within range and create an
 On a successful save, the spell ends.
 
 
+##### Secret: 
+
+- Will spare the party from Miren’s Dream-State Form if given to her.
+
+In the posession of [[06_NPCs/Miren Elaris\|Miren Elaris]]
 #magicalitem
