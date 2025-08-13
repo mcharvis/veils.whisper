@@ -19,3 +19,5 @@ Varian is willing to work alongside others, but only so far as they prove useful
 Some whisper that his old masters still watch him from the dark, ensuring their blade remains sharp. Others believe he has surpassed them all and now answers to no one.
 
 Only Varian knows the truth. And he isn’t telling.
+
+#PC 
