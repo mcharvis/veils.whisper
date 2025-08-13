@@ -144,6 +144,7 @@
 - [[a secret stash of potions\|a secret stash of potions]]
 - [[Items/Non-Magical/journal letter from Miren\|journal letter from Miren]]
 - [[Items/Non-Magical/A note fragment\|A note fragment]]
+- [[Battles/The Ambush at Ya’a Thalor\|The Ambush at Ya’a Thalor]]
 
 ---
 
