@@ -12,7 +12,7 @@
 ## Introduction
 > **Prepare to die.**
 > One of you already has.
-> Vespertina fell yesterday—struck down by [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]]'s cursed gradebook. She faced the God of Death Himself…and returned unchanged. Was this luck? Or his plan to 
+> Vespertina fell yesterday—struck down by [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]]'s cursed gradebook. She faced the God of Death Himself…and returned unchanged. Was this luck? Or was it his plan?
 > That night, as your bodies rested in the halls of the Whispering Asylum, something stirred.
 > While others dreamed, Vespertina dreamt _with purpose_.
 > 
