@@ -2,6 +2,13 @@
 {"dg-publish":true,"permalink":"/korin-draal/"}
 ---
 
+
+|              |                                                                                                                                                                                                                                                                             |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Race**         | Half-Orc                                                                                                                                                                                                                                                                    |
+| **Heritage:**    | Son of a human mason from Oasis and an orcish mercenary from [[Stone City\|the northern badlands]]. His mother’s people were raiders; his father’s were builders. [[02_World/01_The Evergrowing Forest/The Sanctum of Withered Light\|The Sanctum of Withered Light]] saw both skills in him—destruction and endurance—and claimed him young. |
+| **Appearance:**  | 6’8” of scarred muscle under blackened plate. Tusks filed into jagged points, the edges darkened with soot so they look like pieces of obsidian jutting from his jaw. One ear is torn halfway down, a trophy from the battle in [[Basville\|Basville]].                               |
+| **Personality:** | Speaks rarely and without flourish. Obeys orders, but his silences are heavier than most people’s words. Keeps his armor polished to an unnerving shine, as if daring others to see their reflection before he cuts them down.                                              |
 **Korin Draal** was forged for war, not philosophy. Born in the border slums outside Oasis, he was conscripted to serve with the Sanctifiers as a youth, chosen for the _Bulwark_ cadre—towering enforcers trained to be both shield and halberd for the order’s psychic elite. Where others were taught scripture, Korin was taught impact angles, choke points, and the art of standing his ground until the ground itself gave way.
 
 His rise was not born of loyalty, but of stubborn survival. Korin was assigned to an elite unit and dispatched to [[Ya’a Thalor\|Ya’a Thalor]] after it fell with the mission to recover any remaining texts and artifacts. He blindly agreed. A Bulwark’s loyalty was not to truth, but to containment.
