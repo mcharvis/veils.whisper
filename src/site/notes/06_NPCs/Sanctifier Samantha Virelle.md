@@ -3,7 +3,7 @@
 ---
 
 <p align="left">فيريل</p>
-Samantha Virelle was never meant for command. A low-ranking psychic acolyte in the Sanctifiers, she earned notice not for leadership but for her unwavering commitment to _Mind-Chain_ experimentation—the sect’s cruel ritual of extracting memory and emotion to “purify” the mind. She took pride in the work, seeing beauty in the cold precision of thought stripped bare.
+Samantha Virelle was never meant for command. A low-ranking psychic acolyte in the Sanctifiers, she earned notice not for leadership but for her unwavering commitment to _Mind-Chain_ experimentation—the sect’s cruel ritual of extracting memory and emotion to “purify” the mind. She took pride in the work, seeing beauty in the cold precision.
 
 Her loyalty to the cause was fractured in secret. In the shadow of Ya’a Thalor’s stone corridors, she fell into a forbidden relationship with [[06_NPCs/Sanctifier Halric\|Sanctifier Halric]], the Sanctifiers’ most feared overseer. When she bore his child, [[06_NPCs/Nasha\|Nasha]]—a girl delivered seven months premature—the scandal was too dangerous for either to acknowledge. She had defied [[The Order\|The Order]] to terminate the pregnancy, fearing shame or reprisal if discovered. In silence and fear, Virelle wrapped the newborn in a tattered red blanket and left her newborn daughter on the cold stone threshold of [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]], still damp with afterbirth and secrecy. No note. 
 
