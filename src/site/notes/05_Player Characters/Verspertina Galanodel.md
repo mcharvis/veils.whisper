@@ -2,8 +2,28 @@
 {"dg-publish":true,"permalink":"/05-player-characters/verspertina-galanodel/"}
 ---
 
+When her father, the kind and respected [[06_NPCs/King Aldenor\|King Aldenor]] of [[The Elven Empire of Elarion\|The Elven Empire of Elarion]] died under mysterious circumstances, the young Princess [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]] was next in line to inherit the throne. However, her uncle, [[06_NPCs/Lord Rauconen\|Lord Rauconen]], convinced the [[04_Organizations/Royal Council\|Royal Council]] that he should assume the role of Regent and safeguard the Crown until she was old enough to rule. Though Vespertina had never found him warm, Rauconen was once beloved by the kingdom and honored as a war hero. But it wasn’t long before he became consumed by greed, and his true colors—those of ruthless tyranny—came to light. He allied with wretched leaders, betrayed former allies, slaughtered his own people, and transformed a once-noble army into a cruel and merciless force that devastated neighboring kingdoms—leaving their people either silenced or enslaved.
 
-**[Verspertina](https://www.dndbeyond.com/characters/85369115)** is a High Elf Sorceress and is the daughter of the kind and respected [[06_NPCs/King Aldenor\|King Aldenor]].  After the mysterious death of [[06_NPCs/King Aldenor\|King Aldenor]], Princess Vespertina was to inherit the throne. However, her Uncle [[06_NPCs/Rauconen\|Rauconen]] convinced the [[04_Organizations/Royal Council\|Royal Council]] to let him rule until she came of age. Consumed by greed, [[06_NPCs/Rauconen\|Rauconen]] revealed his tyrannical nature, allied with corrupt leaders, betrayed allies, and turned the noble army into a ruthless force that ravaged other kingdoms. [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]] suspected her uncle of murdering her father and often wore his cloak in memory. One day, a [[Sorceress\|Sorceress]] seeking revenge on [[06_NPCs/Rauconen\|Rauconen]] mistakenly attacked Vespertina, cursing her into a beastly dragon form with scales and claws. Fleeing the castle in her father’s robe, Vespertina found refuge with a kind innkeeper and began traveling the land. Along her journey, she honed her magical abilities, aiming to rectify her uncle's wrongs and reclaim her rightful place as queen.
+Vespertina, sheltered but not blind, knew in her heart that her uncle had murdered her father. But with eyes constantly watching her, she could do little more than endure—wearing her father’s cloak just to feel close to the man he had been. One evening, as she stood at a window overlooking the city, cloaked in her father’s memory, fate intervened. A rogue spell struck her. It was cast by [[Sorceress Sylastra, the Grieving\|a sorceress]] whose village had been destroyed by Rauconen’s forces. Mistaking the royal-cloaked figure in the window for Rauconen himself, the sorceress had snuck into the castle and unleashed a curse forged in fury and grief.
+
+Vespertina sensed the attack too late. Her own budding sorcery formed a weak barrier—enough to save her life, but not her form. The transformation was slow and agonizing: scales crept across her skin, claws replaced her hands, and reptilian eyes glowed in the dark. Horrified by what she had done, the sorceress fled.
+
+Vespertina had been cursed by hatred meant for her tyrannical uncle—transformed into a beast of ancient and monstrous power. Fearing discovery, she fled the castle under cover of night, still wrapped in her father’s cloak. She wandered far until she found refuge with a kind, solitary [[Maela, The Innkeeper\|innkeeper]] who asked few questions and offered her shelter.
+
+Since then, Vespertina has journeyed across the land, strengthening her magic and seeking to undo the damage Rauconen has wrought. She studies the arcane, learns the ways of the world and its people, and hones her skills in battle. Her goal: to one day return, defeat her uncle, reclaim her rightful throne, and restore the kingdom her father once ruled with honor.
+
+
+
+[[The Order of the Gilded Flame\|The Order of the Gilded Flame]] – Loyalist knights scattered after Aldenor’s fall; some still serve in secret.
+
+### Allies
+[[Maela, The Innkeeper \|Maela, The Innkeeper ]]– Gave Vespertina shelter when she fled the castle; quiet but resourceful.
+Ser Calven Dros – Knight of the Gilded Flame, secretly gathering support for her return.
+
+### Enemies
+[[06_NPCs/Lord Rauconen\|Lord Rauconen]] – Her uncle, the usurper king, who rules through tyranny and fear.
+[[The Red Vultures\|The Red Vultures]] – Elite enforcers of Rauconen’s regime, known for brutality.
+Sylastra, the Grieving – Sorceress who accidentally cursed Vespertina; her current motives are unclear.
 
 | Items Acquired                           | Description                                                                 | Location                         |
 | ---------------------------------------- | --------------------------------------------------------------------------- | -------------------------------- |

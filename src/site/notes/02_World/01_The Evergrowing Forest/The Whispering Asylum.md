@@ -12,7 +12,7 @@ Eventually, the monks fled. But **Headmistress [[06_NPCs/Rhoswyn Calvra\|Rhoswyn
 
 The halls are not empty. Ghosts roam quietly—some cruel, others simply lost. [[06_NPCs/Nasha\|Nasha]], the secret child of Sanctifiers Halric and Virelle, was never raised—**only hidden**. Her presence warped the Asylum long before it fell. The spirit of [[Magda Velt\|Magda Velt]], the Lunch Matron, still stirs in the kitchen. A rare benevolent figure, she sometimes offers food, protection, or riddles spoken through the clatter of spoons.
 
-Some say the building hums with the same lullaby heard in the ruins of [[Ya’a Thalor\|Ya’a Thalor]]—the one [[06_NPCs/Miren Elaris\|Miren Elaris]] used to sing before she escaped through a tunnel beneath the floorboards. That tunnel is still there, sealed behind cracked stone, waiting to be reopened.
+Some say the building hums with the same lullaby heard in the ruins of [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]—the one [[06_NPCs/Miren Elaris\|Miren Elaris]] used to sing before she escaped through a tunnel beneath the floorboards. That tunnel is still there, sealed behind cracked stone, waiting to be reopened.
 
 The Asylum doesn’t want to be found.
 

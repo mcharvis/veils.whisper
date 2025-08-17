@@ -18,7 +18,7 @@ But Xaphan’s fire grew unruly. His resistance to the divine command of Nerull 
 Caelen did not follow.  
 He founded the **Ebony Wake**—a knightly order devoted not to glory, but to sacrifice. Their symbol: a black tide washing away forgotten sins.
 
-When a shadow born of divine neglect threatened the realms in Xaphan’s absence, it was **Caelen alone who faced it**. His final act sealed away the threat—perhaps even a part of Xaphan’s lingering essence—but the cost was unbearable. The world could not survive the truth of what had been lost.
+When a shadow, born of divine neglect, rose to threaten the realms in Xaphan’s absence, it was Caelen who stood against it. His final act sealed the menace away—perhaps even with a fragment of Xaphan’s lingering essence—but the price was unbearable. The world could not endure the truth of what was lost.
 
 And so, **Caelen gave up everything**, even his name.  
 He commanded that his deeds be erased, his story untold. The Ebony Wake buried him in a tomb marked only by silence and four loyal knights—[[06_NPCs/Sir Lucian Caelmoor\|Sir Lucian Caelmoor]] among them —who chose to remain and protect his rest.

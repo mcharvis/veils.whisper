@@ -10,11 +10,11 @@
 
 ## 🧭 Current Status
 - **Latest Session**: [[01_Campaigns/Session Notes/Session 02\|Session 02]]
-- **Party Members**: [[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]], [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]], [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]], [[05_Player Characters/Renzo Morokami\|Renzo Morokami]], [[Varian\|Varian]]
+- **Party Members**: [[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]], [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]], [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]], [[05_Player Characters/Renzo Morokami\|Renzo Morokami]], [[05_Player Characters/Varian\|Varian]]
 - **Current Location**: [[The Evergrowing Forest\|The Evergrowing Forest]] - [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]
 - **Goals**:
 	- [ ] Complete [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]
-		- [ ] Defeat [[The Dreaming Mouth\|The Dreaming Mouth]]
+		- [ ] Defeat [[06_NPCs/The Dreaming Mouth\|The Dreaming Mouth]]
 		- [ ] Rescue [[06_NPCs/Miren Elaris\|Miren Elaris]]
 	- [ ] Travel to [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]
 		- Paths forward
@@ -26,12 +26,12 @@
 			- [ ] Stealth
 				- [ ] Sneak in the basement from [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] or another way.
 			- [ ] Treachery
-				- [ ] Use [[Varian\|Varian]] or another as a double agent
+				- [ ] Use [[05_Player Characters/Varian\|Varian]] or another as a double agent
 			- [ ] Full-Scale Attack
 				- [ ] Fight through the front gate
 		- [ ] Find [[06_NPCs/Velura Elaris\|Velura Elaris]]
 			- [ ] Can she be used to gain an audience with [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]]
-		- [ ] Who is Sanctifier [[Maelth\|Maelth]]?
+		- [ ] Who is Sanctifier [[06_NPCs/Maelth\|Maelth]]?
 	- [ ] Travel to Oasis
 		- [ ] Who/What is Vaer-Lorne?
 	- [ ] Who are Tisiphone, Hecate, & Nyx and how do we find them?
@@ -107,7 +107,7 @@
 - [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]]
 - [[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]]
 - [[05_Player Characters/Renzo Morokami\|Renzo Morokami]] 
-- [[Varian\|Varian]]
+- [[05_Player Characters/Varian\|Varian]]
 
 ### 🦴 Pets
 - [[06_NPCs/Pets/Wilson\|Wilson]]

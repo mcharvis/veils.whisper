@@ -10,7 +10,7 @@ Miren was a child patient at the Whispering Asylum, admitted after she was found
 The Sanctifiers found her in their lower levels. They saw her not as a victim, but as a key—a living conduit between their Mind-Chains and the deep subconscious field they worshipped. They abducted her under the guise of a transfer or death. The asylum listed her as "untraceable."
 
 Now, she’s grown, physically—but her mind is fractured across years of dreaming for others.
-![Miren - Portrait.Older.png](/img/user/Miren%20-%20Portrait.Older.png)
+![Miren - Portrait.Older.png](/img/user/06_NPCs/Miren%20-%20Portrait.Older.png)
 
 
 ## Status
@@ -62,7 +62,7 @@ She doesn’t trust institutions, but she still seeks connection.
     
 - [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] – Where she was confined and experimented on
     
-- [[The Dreaming Mouth\|The Dreaming Mouth]]  – Calmed or bound by her presence
+- [[06_NPCs/The Dreaming Mouth\|The Dreaming Mouth]]  – Calmed or bound by her presence
     
 - [[04_Organizations/The Sanctifiers\|The Sanctifiers]] – Her captors and tormentors
 
