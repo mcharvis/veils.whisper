@@ -13,7 +13,7 @@ She arrived with a curriculum. With order. With hope.
 
 At first, **Rhoswyn Calvra** ran the [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] like a gifted boarding school. The children were disturbed, yes—but she saw them as misunderstood. She held lessons under lanternlight, taught breathing exercises, even established a “merit badge” system for emotional control. Her educational theories, once groundbreaking at [[02_World/Ahrown, The Kingdom of Elves/Talazan Academy\|Talazan Academy]], were tested daily in the shadowed, shifting halls of [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]].
 
-But the forest doesn’t care for pedagogy.
+But [[The Evergrowing Forest\|The Evergrowing Forest]] doesn’t care for pedagogy.
 ![a856affb-7701-4f5a-9039-f7538f4a873d.png](/img/user/Items/Non-Magical/a856affb-7701-4f5a-9039-f7538f4a873d.png)
 When **[[06_NPCs/Miren Elaris\|Miren Elaris]]** arrrived to the Whispering Asylum—barefoot, silent, and veiled in sorrow— Calvra saw not a child, but a _puzzle_. A rare “Type 0” anomaly, devoid of measurable fear responses and immune to her disciplinary models.
 
