@@ -29,8 +29,6 @@ Nasha was locked in an unused storage room in [[02_World/01_The Evergrowing Fore
 
 No one spoke to her. No one taught her. Yet Nasha learned. She listened through the walls. She mimicked the whispers. She began speaking words she had no way of knowing—old, forgotten tongues that tangled together like smoke in her mouth. She etched symbols into the wood with her fingernails. They pulsed when no one was looking.
 
-She etched symbols into the wood with her fingernails. They pulsed when no one was looking.
-
 And she was never let out.
 
 The door stayed locked. The light never came. And so she adapted.
