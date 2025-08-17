@@ -15,7 +15,7 @@ Now, she’s grown, physically—but her mind is fractured across years of dream
 
 ## Status
 
-🧬 **Missing or Escaped**  
+🧬 **Found imprisoned in the lowest level of Ya'a Thalor** 
 Fleed the [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] through a hidden tunnel. Currently in the dungeon of [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]].
 
 
