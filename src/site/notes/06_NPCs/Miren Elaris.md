@@ -32,7 +32,7 @@ But she found the hidden tunnel that lead to the lower levels of [[02_World/01_T
 - Demonstrated dangerous psychic resonance during sleep
 - Was isolated after causing multiple emotional breakdowns among other children
 - Escaped through a tunnel beneath the Asylum, which she found after recurring dreams of a circular stone room
-- Recaptured by the [[04_Organizations/The Sanctifiers\|The Sanctifiers]], who confined her to [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] to pacify  a monster previously called "The Mouth."
+- Recaptured by the [[04_Organizations/The Sanctifiers\|The Sanctifiers]], who confined her to [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] to pacify [[06_NPCs/The Dreaming Mouth\|The Dreaming Mouth]]. 
 
 ## Personality
 Quiet, observant, unnervingly empathetic. Miren often says little, but when she speaks, her words have weight. She's known to echo things others are about to say—sometimes days before they say them.
