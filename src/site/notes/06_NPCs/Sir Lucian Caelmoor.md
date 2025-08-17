@@ -12,6 +12,6 @@ And when they do, it is with **terrifying unity.**
 
 Lucian was once the most outspoken of the [[04_Organizations/Ebony Wake\|Ebony Wake]], a knightly order known for its fierce loyalty to ideals over kings. He followed the [[06_NPCs/Caelen, Firstborn of the Flame\|Caelen, Firstborn of the Flame]] into exile and stood by them during [[the final betrayal\|the final betrayal]]. When the Hero fell, Lucian did not seek vengeance. He and three others chose a different oath—**one of remembrance through service**, not bloodshed. He bound himself to the tomb willingly, not through necromancy or divine coercion, but through sheer conviction.
 
-Established alliance with [[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]] at the Battle of The Forgotten Temple through *Divine Salvation*.
+Lucian forged his alliance with [[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]] at the Battle of the Forgotten Temple, where Kovinar invoked _Divine Salvation_ amidst the chaos. In that moment, steel and faith intertwined, binding their fates together—not by oath or blood, but by a shared glimpse of the divine that turned the tide of battle. Lucian now follows Kovinar as a brother with a new oath to [[06_NPCs/Gods/Bahamut\|Bahamut]]. 
 
 #NPC 
