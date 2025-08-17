@@ -13,7 +13,7 @@ Forged by *[[Caelrith\|Caelrith]]*, a devoted loyalist of Xaphan, the Cursed Cro
 
 Though Xaphan could have wielded it to call upon Nerull and amass divine favor, his chaotic good nature refused the bond. The Cursed Cross remained untouched, dormant.
 
-Before his fall, Xaphan entrusted the relic to **[[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]]**, a paladin devoted to Bahamut. In the sealed realm of **Elarith**, Kovinar has attuned it to *[[06_NPCs/Gods/Bahamut\|Bahamut]]*, turning a relic of damnation into a weapon of salvation.
+Before The Fall, Xaphan entrusted the relic to **[[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]]**, a paladin devoted to Bahamut. In the sealed realm of **Elarith**, Kovinar has attuned it to *[[06_NPCs/Gods/Bahamut\|Bahamut]]*, turning a relic of damnation into a weapon of salvation.
 
 ---
 
