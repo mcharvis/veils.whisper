@@ -43,7 +43,7 @@ The Order abandoned the building. But the Headmistress refused to leave, trying 
 Rhoswyn **tried everything** to contain it. Quiet time protocols. Isolation. Memory rewriting. Even kindness.
 
 But no method worked. And Miren—terrified—eventually escaped. This was followed by a chorus of whispers echoed through the halls at night, all repeating the same question:
-> “_Why did she Miren leave us?_”
+> “_Why did Miren leave us?_”
 
 Children turned feral in their sleep. Staff screamed when left alone. The walls themselves began to “breathe” under the strain of madness. She documented it all, obsessively—still believing there must be a root cause, a method of control.  
 
