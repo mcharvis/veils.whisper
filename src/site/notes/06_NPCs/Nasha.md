@@ -37,6 +37,5 @@ She stopped standing. Crawled instead, silently. Her body thinned, her nails gre
 
 She had become feral.  
 Not wild like an animal, but something far worse—forgotten, unfinished, unobserved. A thought left alone too long. A prayer buried without a god to hear it.  
-And in that room, something listened back.
 
 #NPC 
