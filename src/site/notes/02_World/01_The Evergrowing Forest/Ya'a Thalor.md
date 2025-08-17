@@ -36,10 +36,6 @@ So they **caged her** deep beneath Ya’a Thalor so that [[06_NPCs/The Dreaming 
 
 They never returned.
 
-The assault began in **Arhown**, the fractured elven province ruled by the mad [[06_NPCs/King Aldenor\|King Aldenor]]. In a calculated strike, elven necromancers turned their efforts toward crippling [[04_Organizations/The Sanctifiers\|The Sanctifiers]] by targeting **Ya’a Thalor**, hoping to thin their numbers and reclaim control over [[The Evergrowing Forest\|The Evergrowing Forest]].
-
-Their forces—twisted elven dead—entered the forest without resistance.
-
 Within days, **Ya’a Thalor was under siege**.
 
 The Sanctifiers fought to hold it, but the invaders weren’t mindless.  
