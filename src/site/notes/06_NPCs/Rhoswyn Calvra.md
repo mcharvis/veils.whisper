@@ -40,7 +40,7 @@ Over time, care turned into containment. The more the Veil frayed, the more the 
 
 The Order abandoned the building. But the Headmistress refused to leave, trying to hide her treatment of the past children.
 
-Rhoswyn **tried everything** to contain it.. Quiet time protocols. Isolation. Memory rewriting. Even kindness.
+Rhoswyn **tried everything** to contain it. Quiet time protocols. Isolation. Memory rewriting. Even kindness.
 
 But no method worked. And Miren—terrified—eventually escaped. This was followed by a chorus of whispers echoed through the halls at night, all repeating the same question:
 > “_Why did she Miren leave us?_”
