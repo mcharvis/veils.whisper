@@ -11,7 +11,7 @@ Originally founded by psychic monks from the [[Order of the Morrow Veil\|Order o
 ![ChatGPT Image Jul 29, 2025, 05_46_58 PM.png](/img/user/Items/Non-Magical/ChatGPT%20Image%20Jul%2029,%202025,%2005_46_58%20PM.png)
 She arrived with a curriculum. With order. With hope.
 
-At first, **Rhoswyn Calvra** ran the [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] like a gifted boarding school. The children were disturbed, yes—but she saw them as misunderstood. She held lessons under lanternlight, taught breathing exercises, even established a “merit badge” system for emotional control. Her educational theories, once groundbreaking at [[02_World/Ahrown, The Kingdom of Elves/Talazan Academy\|Talazan Academy]], were tested daily in the shadowed, shifting halls of [[The Evergrowing Forest\|The Evergrowing Forest]].
+At first, **Rhoswyn Calvra** ran the [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] like a gifted boarding school. The children were disturbed, yes—but she saw them as misunderstood. She held lessons under lanternlight, taught breathing exercises, even established a “merit badge” system for emotional control. Her educational theories, once groundbreaking at [[02_World/Ahrown, The Kingdom of Elves/Talazan Academy\|Talazan Academy]], were tested daily in the shadowed, shifting halls of [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]].
 
 But the forest doesn’t care for pedagogy.
 ![a856affb-7701-4f5a-9039-f7538f4a873d.png](/img/user/Items/Non-Magical/a856affb-7701-4f5a-9039-f7538f4a873d.png)
