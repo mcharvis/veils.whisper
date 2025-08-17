@@ -22,7 +22,7 @@ Fleed the [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispe
 ## Background
 Miren was born the daughter of a reclusive sorceress, [[06_NPCs/Velura Elaris\|Velura Elaris]] living at the edge of the [[Evergrowing Forest\|Evergrowing Forest]]. When Miren was 10, Velura was taking her to [[02_World/Ahrown, The Kingdom of Elves/Talazan Academy\|Talazan Academy]] to be evaluated for education as a sorceress when her mother was abruptly taken by agents from the [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]. Miren fled into the woods, but eventually travelled to the [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] in search of shelter.
 
-The [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]], under the cruelty of its headmistress, became a prison instead. Her natural psychic abilities—amplified by trauma and grief—began to warp the emotions of others around her. The staff labeled her unstable. The children grew fearful.
+[[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]], under the cruelty of its headmistress, became a prison instead. Her natural psychic abilities—amplified by trauma and grief—began to warp the emotions of others around her. The staff labeled her unstable. The children grew fearful.
 
 But she found the hidden tunnel that lead to the lower levels of [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]].
 
