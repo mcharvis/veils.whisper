@@ -104,9 +104,9 @@ Drest was gone. The Sanctifiers were annihilated.
 
 - Commander Velexia (critically wounded but alive)
     
-- Dreson the spy (neutral, critically wounded)
+- Dreson (spy, Kovinar's Ally, critically wounded)
     
-- Thorne (bandit captain, dying but alive)
+- Thorne (bandit captain, Kovinar's Ally, dying but alive)
     
 - Pop (goblin, badly burned but alive)
     
