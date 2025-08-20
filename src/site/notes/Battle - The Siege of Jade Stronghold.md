@@ -32,7 +32,7 @@ But the cost was high: all mastiffs were slain in the opening crush, and Sir Dar
 
 The Sanctifiers poured into the lower halls.
 
-Pop, Crackle, and Snap threw torches into the kitchen draperies, turning the side hall into an inferno. The fire forced Hollowborn out into the open where Danin skewered one, and Ethra’s specter form drove another mad until it tore at its own flesh.
+Snap, Crackle, & Pop threw torches into the kitchen draperies, turning the side hall into an inferno. The fire forced Hollowborn out into the open where Danin skewered one, and Ethra’s specter form drove another mad until it tore at its own flesh.
 
 Yet the Dominators’ chants were relentless. Guards turned on their comrades—Malk drove a spear into Jarthan, and Malen fell weeping as he strangled Belm at the Dominators’ command.
 
