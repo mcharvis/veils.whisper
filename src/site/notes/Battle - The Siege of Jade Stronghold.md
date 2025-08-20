@@ -16,7 +16,7 @@ The gates of Jade Stronghold boomed under their charge. Commander Velexia drew h
 
 The Sanctifiers surged.
 
-- **Veilshifters** blinked into the courtyards, pulling guards screaming into the shadows. Poliren, Wes, and Piran vanished before their blades even swung.
+- **Veilshifters** blinked into the courtyards, pulling guards screaming into the shadows. Poliren, Wes, and Piran vanished before their blades even swung. Five hidden archers were blindsided and killed instantly.
     
 - **Bladedancers** vaulted the barricades, cutting down Drovin and Jon in a blur of steel.
     
