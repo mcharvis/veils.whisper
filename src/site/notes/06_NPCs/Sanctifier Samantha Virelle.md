@@ -15,6 +15,8 @@ She might have died there, unremarked and unmourned—if not for [[05_Player Cha
 
 Now she is a survivor twice over—once of Halric’s cruelty, and once of the undead’s hunger. But now that she knows [[06_NPCs/Nasha\|Nasha]] was murdered, it is unclear whether she is grateful for either.
 
+### Madga's Death
+When Magda’s final scream tore through the halls, Virelle did not flinch. She stood over the ghost’s unraveling form, her hands still crackling with the raw energy she had unleashed. The act was not mercy—it was possession of power, the first time she had chosen to end rather than endure. Something inside her shifted as Magda’s essence dissolved, leaving silence where sorrow had lived. In that silence, Virelle lost her purpose... No longer the discarded acolyte, no longer the forgotten Sanctifier, but something...else.
 
 
 #NPC 

@@ -9,29 +9,24 @@
 > _"Prepare to Die"_
 
 ## 🧭 Current Status
-- **Latest Session**: [[01_Campaigns/Session Notes/Session 02\|Session 02]]
+- **Latest Session**: [[01_Campaigns/Session Notes/Session 03\|Session 03]]
 - **Party Members**: [[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]], [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]], [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]], [[05_Player Characters/Renzo Morokami\|Renzo Morokami]], [[05_Player Characters/Varian\|Varian]]
 - **Current Location**: [[The Evergrowing Forest\|The Evergrowing Forest]] - [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]
 - **Goals**:
-	- [ ] Complete [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]
-		- [ ] Defeat [[06_NPCs/The Dreaming Mouth\|The Dreaming Mouth]]
-		- [ ] Rescue [[06_NPCs/Miren Elaris\|Miren Elaris]]
-	- [ ] Travel to [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]
-		- Paths forward
-			- [ ] Diplomacy
-				- [ ] Turn over [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]]
-				- [ ] Offer [[Items/Ashrend\|Ashrend]]
-			- [ ] Bribery
-				- [ ] Bribe the guards at the main gate.
-			- [ ] Stealth
-				- [ ] Sneak in the basement from [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] or another way.
-			- [ ] Treachery
-				- [ ] Use [[05_Player Characters/Varian\|Varian]] or another as a double agent
-			- [ ] Full-Scale Attack
-				- [ ] Fight through the front gate
-		- [ ] Find [[06_NPCs/Velura Elaris\|Velura Elaris]]
-			- [ ] Can she be used to gain an audience with [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]]
-		- [ ] Who is Sanctifier [[06_NPCs/Maelth\|Maelth]]?
+	- [ ] Can [[06_NPCs/Velura Elaris\|Velura Elaris]] be used to gain an audience with [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]].
+	- [ ] Where is [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]]?
+	- [ ] Travel to Oasis
+		- [ ] Who is [[06_NPCs/Countess Ilyra Vaer-Lorne\|Countess Ilyra Vaer-Lorne]]?
+		- [ ] Meet with [[06_NPCs/Liora\|Liora]] and deliver intelligence.
+		- [ ] *Kovinar's Side Quest:* [[Deliver Drest's letter\|Deliver Drest's letter]].
+	- [ ] Travel to [[Ahrown, Kingdom of Elves\|Ahrown, Kingdom of Elves]]
+		- [ ] *Verpertina's Side Quest:* [[Side Quest - The Mad King’s Shadow\|Side Quest - The Mad King’s Shadow]] 
+		- [ ] [[01_Campaigns/Encounters/Encounter 99 - Secure Passage to Vis'Avae\|Secure Passage to Vis'Avae]]
+		- [ ] Visit [[Sancitifier Halric\|Sancitifier Halric]]'s last known location in Mithril Hills.
+	- [ ] Travel to [[02_World/Vis’Avae\|Vis’Avae]]
+		- [ ] Speak to [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]].
+		- [ ] Visit the [[Bellum Crystallum\|Bellum Crystallum]].
+	- [ ] Can [[06_NPCs/Velura Elaris\|Velura Elaris]] be used to gain an audience with [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]]
 	- [ ] Travel to Oasis
 		- [ ] Who/What is Vaer-Lorne?
 	- [ ] Who are Tisiphone, Hecate, & Nyx and how do we find them?
@@ -53,6 +48,7 @@
 - [[01_Campaigns/Session Notes/Session 00\|Session 00]]: Sixteen Centuries Late
 - [[01_Campaigns/Session Notes/Session 01\|Session 01]]: False Bottoms and Forgotten Children
 - [[01_Campaigns/Session Notes/Session 02\|Session 02]]: From Ashes to Ashrend
+- [[01_Campaigns/Session Notes/Session 03\|Session 03]]: Whispers of Treachery, Echoes of Escape
 
 ### 📂 Campaign Arcs
 - [ ]  A Shattered Path
@@ -128,18 +124,24 @@
 - [[06_NPCs/Demigods/The Three Sisters/Hecate\|Hecate]]
 - [[06_NPCs/Demigods/The Three Sisters/Nyx\|Nyx]]
 - [[06_NPCs/Velura Elaris\|Velura Elaris]]
+- [[06_NPCs/Commander Velexia\|Commander Velexia]]
 
 - [[06_NPCs/King Aldenor\|King Aldenor]]
+- [[06_NPCs/Liora\|Liora]]
+- [[06_NPCs/Seren of the Pale Flame\|Seren of the Pale Flame]]
+- [[06_NPCs/Snap, Crackle, and Pop\|Snap, Crackle, and Pop]]
 
 
 ### 🛡️ Allies
 - [[06_NPCs/Sir Lucian Caelmoor\|Sir Lucian Caelmoor]] 
+- [[Kaelin Vetch\|Kaelin Vetch]]
+- [[Thorne Drevic\|Thorne Drevic]]
 
 ### 🏰 Factions
 - [[04_Organizations/Ebony Wake\|Ebony Wake]]
 - [[04_Organizations/The Horsemen\|The Horsemen]]
 - [[04_Organizations/The Sanctifiers\|The Sanctifiers]]
-
+- [[04_Organizations/The Pale Flame\|The Pale Flame]]
 
 ---
 
@@ -168,6 +170,7 @@
 - [[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]]
 - [[Items/Magical/Veiled Necrovitalis\|Veiled Necrovitalis]]
 - [[Items/Ashrend\|Ashrend]]
+- [[Items/Magical/A confiscated pendant\|A confiscated pendant]]
 
 ---
 

@@ -21,7 +21,7 @@
 - **Roughly one-third** of the stationed Sanctifiers were killed in the first hour. The [[Circle of Twelve\|Circle of Twelve]] reportedly killed themselves in a suicide pact.
     
 - An elite unit fell back into the crypt levels, fighting room by room. Encountered zombies. 
-- **[[06_NPCs/Maelth\|Maelth]]**, a high-ranking Sanctifier, **panicked and deserted**, abandoned his post. He was later **captured by scouts from Jade Stronghold** while wandering in a daze near the southern road. 
+- **[[06_NPCs/Sanctifier Dronir Maelth\|Sanctifier Dronir Maelth]]**, a high-ranking Sanctifier, **panicked and deserted**, abandoned his post. He was later **captured by scouts from Jade Stronghold** while wandering in a daze near the southern road. 
 
 ---
 

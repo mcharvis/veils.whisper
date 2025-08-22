@@ -35,7 +35,7 @@
 > In the crypts, the party encountered Sanctifiers in battle with a small band of zombies. It became immediately apparent that these weren’t uncoordinated fighters; they were an elite unit requiring a tailored strategy to exploit their unique traits.
 > Squeaks attempted to grapple [[06_NPCs/Korin Draal\|Korin Draal]] (Bulwark) unsuccessfully and discovered she was surrounded by Sanctifiers. Tharc Lorn (Hollowborn) was using a spell to hold back a small pack of zombies, assisted by Maelrik Torne (Dominator). However, he was forced to refocus on the party as they targeted Veyra Calth (Bladedancer). Veyra was hit hard by a spell from Vespertina but was immediately healed by Seroh Vann (Penitent)—effectively putting a target on his back. [[06_NPCs/Korin Draal\|Korin Draal]] was the first to fall but was resurrected by Vespertina to sandwich Tharc between him and the zombies, allowing the zombies to feast on him from behind.
 > Seroh was the next to fall. After multiple failed attempts to grapple Squeaks, Maelrik was slain, followed by Veyra. The battle was long and arduous, showing the party that as the battlefield changes, they would have to change too.
-> In the northern room, Duven Malch (Veilshifter) was found dying. He gasped, “_[[06_NPCs/Maelth\|Maelth]] was supposed to hold the gate... We believed it was Oasis that was finally coming for Halric. Find [[06_NPCs/Maelth\|Maelth]]. He knows everyth…_” in his final breath.
+> In the northern room, Duven Malch (Veilshifter) was found dying. He gasped, “_[[06_NPCs/Sanctifier Dronir Maelth\|Sanctifier Dronir Maelth]] was supposed to hold the gate... We believed it was Oasis that was finally coming for Halric. Find [[06_NPCs/Sanctifier Dronir Maelth\|Sanctifier Dronir Maelth]]. He knows everyth…_” in his final breath.
 > Vespertina discovered [[Items/Ashrend\|Ashrend]], a wicked, forked longsword once used by [[02_World/01_The Evergrowing Forest/Oasis\|Oasis]] to kill vampires. History revealed it was stolen ages ago, its reputation transcending generations and certain to be recognized by [[05_Player Characters/Varian\|Varian]]. Regardless, Vespertina gave the historic weapon to Varian in hopes of gaining leverage in Oasis.
 > In the western room, a foyer revealed another crypt copy of _The Rites of Sequestration_. One page was looser and newer than the rest, as if added after the book was written. It was an excerpt entitled _Custody of the Sleepless_, which covertly revealed that [[06_NPCs/Sanctifier Halric\|Sanctifier Halric]] was not looked upon favorably by other Sanctifiers, stating that "no light shines favorably on him." Opening his crypt revealed a body with an ornate key lying on top.
 > Kovinar opened Jornis’ crypt and triggered a [[03_Lore/Psychic Vision of Miren’s First Night\|Psychic Vision of Miren’s First Night]]. Squeaks acquired a Potion of Mind Reading and used it to secretly glimpse Kovinar’s vision. Varian found Maelth’s crypt empty, its mirror showing him chained in a cell he recognized as being in [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]. Squeaks ate the severed tongue in Yllin’s crypt.
@@ -77,7 +77,7 @@
 			- [ ] Fight through the front gate
 	- [ ] Find [[06_NPCs/Velura Elaris\|Velura Elaris]]
 		- [ ] Can she be used to gain an audience with [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]]
-- [ ] Who is Sanctifier [[06_NPCs/Maelth\|Maelth]]?
+- [ ] Who is Sanctifier [[06_NPCs/Sanctifier Dronir Maelth\|Sanctifier Dronir Maelth]]?
 - [ ] Travel to Oasis
 	- [ ] Who/What is Vaer-Lorne?
 - [ ] Who are Tisiphone, Hecate, & Nyx and how do we find them?
@@ -87,7 +87,7 @@
 
 ## 🧱 Major Events
 - Defeated an elite unit of Sanctifiers
-- Found 11 bodies in the crypts at [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]. [[06_NPCs/Maelth\|Maelth]] abandoned his post and is at [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]
+- Found 11 bodies in the crypts at [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]. [[06_NPCs/Sanctifier Dronir Maelth\|Sanctifier Dronir Maelth]] abandoned his post and is at [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]
 - [[06_NPCs/Miren Elaris\|Miren Elaris]] found locked in an enchanted cell.
 - Established waypoint with [[06_NPCs/Miren Elaris\|Miren Elaris]]
 ---
