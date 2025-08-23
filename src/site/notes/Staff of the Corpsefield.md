@@ -6,14 +6,13 @@ _Wondrous Item, Very Rare, Requires Attunement by a Spellcaster_
 
 A staff of twisted bone and steel, its head a tangle of vertebrae fused into a claw that grips a shard of green jade. The shaft hums faintly with whispers when thrust into soil littered with corpses.
 
-**Properties**
+**Optional Effects**
 
-- **Corpsefield Mastery.** While holding the staff, you can use an action once per long rest to animate up to **6 corpses** within 30 ft. They rise as zombies under your control (half HP, AC 8, mob rules). This does not count against your normal _Animate Dead_ limit.
+- **Harvest Life.** When a creature within 30 ft dies, you may use your reaction to siphon its departing essence. You gain **temporary HP equal to its CR or level.**
     
-- **Harvest Life.** When a creature within 30 ft dies, you may use your reaction to siphon its departing essence. You gain **temporary HP equal to the creature’s level/CR**.
+- **Grave Conduit.** As an action, you may impale the staff into the ground. For 1 minute, any undead you control within 30 ft allow you to gain **+2 AC now and +2 to damage rolls on your next turn.** 
     
-- **Dark Call.** Once per day, as an action, you may call to the corpsefield. All undead within 60 ft immediately kneel to you and will not attack until you release them. Lasts 1 minute.
-    
+- **Sepulchral Veil**, Once per long rest, as a reaction when targeted by an attack, you vanish into a swirl of ghostly corpses. You **become incorporeal until the start of your next turn**, taking half damage from all sources.
 
-Each time you use Corpsefield Mastery or Dark Call, **roll a d6**. 
+Each time you use an effect of the staff, **roll a d6** up to 3d6. 
 
