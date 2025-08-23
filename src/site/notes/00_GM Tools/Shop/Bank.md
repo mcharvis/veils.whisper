@@ -46,11 +46,12 @@
 | Gold Piece (GP)     | 16     |
 | Platinum Piece (PP) |        |
 
-| Encouter | Memo                              | Inflow | Outflow | Running Total |
-| -------- | --------------------------------- | ------ | ------- | ------------- |
-|          | Starting Balance                  |        |         | 16            |
-| 7        | [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]                   | 180    |         | 196           |
-| 7        | Slain Bandit, [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]] | 36     |         | 232           |
+| Encouter | Memo                                     | Inflow | Outflow | Running Total |
+| -------- | ---------------------------------------- | ------ | ------- | ------------- |
+|          | Starting Balance                         |        |         | 16            |
+| 7        | [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]                          | 180    |         | 196           |
+| 7        | Slain Bandit, [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]        | 36     |         | 232           |
+| 7        | [[Puzzles/Inferno - Game\|Inferno - Game]] - [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]] | 40     |         | 272           |
 
 # [[05_Player Characters/Renzo Morokami\|Renzo Morokami]]
 
