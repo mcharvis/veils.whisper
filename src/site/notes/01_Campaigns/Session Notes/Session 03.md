@@ -55,7 +55,7 @@
 ---
 
 ## 🧱 Major Events
-- [[Battle - The Siege of Jade Stronghold\|Battle - The Siege of Jade Stronghold]]
+- [[Battles/Battle - The Siege of Jade Stronghold\|Battle - The Siege of Jade Stronghold]]
 ---
 
 ## 🧑‍🤝‍🧑 NPCs Met/Discovered
@@ -127,6 +127,7 @@
 	- From Ser Calvyn Roen: [[Items/Non-Magical/Wax-Sealed Military Correspondence\|Wax-Sealed Military Correspondence]]
 	- Various documents showing Drest's approval of the transfer of Oasis funds to [[02_World/01_The Evergrowing Forest/The Sanctum of Withered Light\|The Sanctum of Withered Light]]
 	- [[Folded Letter Beneath Table Mat\|Folded Letter Beneath Table Mat]]
+	- [[Items/Non-Magical/Letter Found in Locked Drawer\|Letter Found in Locked Drawer]] 
 
 ---
 
@@ -137,7 +138,7 @@
 - [ ] [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]] is a military base.
 	- [ ] Infiltrated by the party and intel was stolen.
 	- [ ] Besieged by Elite Sanctifiers in pursuit of [[06_NPCs/Velura Elaris\|Velura Elaris]].
-	- [ ] [[06_NPCs/Councilor Varn Drest\|Councilor Varn Drest]] has escaped [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]] during [[Battle - The Siege of Jade Stronghold\|Battle - The Siege of Jade Stronghold]]
+	- [ ] [[06_NPCs/Councilor Varn Drest\|Councilor Varn Drest]] has escaped [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]] during [[Battles/Battle - The Siege of Jade Stronghold\|Battle - The Siege of Jade Stronghold]]
 - [ ] The Veil can only be reached with the [[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]], but not traversed. 
 - [ ] [[06_NPCs/King Aldenor\|King Aldenor]] is somewhere in Elarith.
 - [ ] [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]] is on the run after murdering [[06_NPCs/Magda Velt, The Lunch Matron\|Magda Velt, The Lunch Matron]]

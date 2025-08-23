@@ -26,7 +26,7 @@ When Oasis established Jade Stronghold as its forward fortress, Velexia was chos
 - She believes Velura’s containment is temporary—until a better solution can be found.
 - Open to negotiation but rigid. She is **bound by duty**, not cruelty.
 - Wants to eliminate the Sanctifiers’ corrupted elite, but needs help.
-- Near death at [[Battle - The Siege of Jade Stronghold\|Battle - The Siege of Jade Stronghold]].
+- Near death at [[Battles/Battle - The Siege of Jade Stronghold\|Battle - The Siege of Jade Stronghold]].
 
 ## 🎭 **Personality Duality**
 

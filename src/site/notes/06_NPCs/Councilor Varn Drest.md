@@ -3,7 +3,7 @@
 ---
 
 A non-combatant manipulator and dangerous political schemer—ideal for interrogation, social challenges, or low-level magical interference.
-Previously controlled the [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]] until [[Battle - The Siege of Jade Stronghold\|Battle - The Siege of Jade Stronghold]]. Associated with [[02_World/01_The Evergrowing Forest/Oasis\|Oasis]]. 
+Previously controlled the [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]] until [[Battles/Battle - The Siege of Jade Stronghold\|Battle - The Siege of Jade Stronghold]]. Associated with [[02_World/01_The Evergrowing Forest/Oasis\|Oasis]]. 
 
 ![Councilor Varn Drest - 2.png](/img/user/Councilor%20Varn%20Drest%20-%202.png)
 - Bureaucrat and realist.
@@ -24,7 +24,7 @@ When Jade Stronghold was established, Drest secured his seat as the councilor ti
 
 Drest is not brave, but he is clever. He thrives in the shadows, makes sure others carry the risk, and survives when stronger men fall.
 
-Currently, he escaped in the the tunnle beneath [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]] during [[Battle - The Siege of Jade Stronghold\|Battle - The Siege of Jade Stronghold]]
+Currently, he escaped in the the tunnle beneath [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]] during [[Battles/Battle - The Siege of Jade Stronghold\|Battle - The Siege of Jade Stronghold]]
 
 
 #NPC 

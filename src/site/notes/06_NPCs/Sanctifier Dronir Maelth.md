@@ -26,4 +26,4 @@ Maelth represents the cracks in the Sanctifiers. He’s disgraced, but he knows 
 - What really happened at Ya’a Thalor.
 - Details about the Sanctifiers’ experiments.
 
-Maelth is now aligned with [[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]] through [[Spells/Divine Salvation\|Divine Salvation]]. Reportedly survived [[Battle - The Siege of Jade Stronghold\|Battle - The Siege of Jade Stronghold]]
+Maelth is now aligned with [[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]] through [[Spells/Divine Salvation\|Divine Salvation]]. Reportedly survived [[Battles/Battle - The Siege of Jade Stronghold\|Battle - The Siege of Jade Stronghold]]
