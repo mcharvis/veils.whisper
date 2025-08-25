@@ -18,10 +18,11 @@
 | Gold Piece (GP)     | 41     |
 | Platinum Piece (PP) |        |
 
-| Encouter | Memo             | Inflow | Outflow | Running Total |
-| -------- | ---------------- | ------ | ------- | ------------- |
-|          | Starting Balance |        |         | 41            |
-| 7        | [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]  | 180    |         | 221           |
+| Encouter | Memo                | Inflow | Outflow | Running Total |
+| -------- | ------------------- | ------ | ------- | ------------- |
+|          | Starting Balance    |        |         | 41            |
+| 7        | [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]     | 180    |         | 221           |
+| 9        | [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]] | 260    |         |               |
 
 # [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]]
 
@@ -32,10 +33,11 @@
 | Gold Piece (GP)     | 25     |
 | Platinum Piece (PP) |        |
 
-| Encouter | Memo             | Inflow | Outflow | Running Total |
-| -------- | ---------------- | ------ | ------- | ------------- |
-|          | Starting Balance |        |         | 25            |
-| 7        | [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]  | 180    |         | 205           |
+| Encouter | Memo                | Inflow | Outflow | Running Total |
+| -------- | ------------------- | ------ | ------- | ------------- |
+|          | Starting Balance    |        |         | 25            |
+| 7        | [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]     | 180    |         | 205           |
+| 9        | [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]] | 260    |         |               |
 
 # [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]]
 

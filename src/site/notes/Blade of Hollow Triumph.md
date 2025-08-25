@@ -33,14 +33,3 @@ Proficiency with a Greatsword allows you to add your proficiency bonus to the at
 |                    |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 
 
-%%
-##### Curse (Hidden)
-
-- **If the player cannot answer, or the tally reaches 13,** the blade awakens:
-    
-    - The wielder must succeed on a DC 15 Wisdom saving throw or become **obsessed with pursuing “worthy foes”** — compelled to challenge the strongest life within 30 feet.
-        
-    - In addition, the wielder takes 2d6 psychic damage as the blade carves the tally into their mind.
-
-
-**Temptation for another player:** For your Fighter, Rogue, or even Paladin/Warlock — anyone hungry for power or revenge. It’s a weapon that makes them stronger through bloodshed but twists their priorities.
