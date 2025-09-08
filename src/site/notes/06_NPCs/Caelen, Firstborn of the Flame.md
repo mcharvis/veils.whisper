@@ -20,7 +20,7 @@ He founded the **Ebony Wake**—a knightly order devoted not to glory, but to sa
 
 When a shadow, born of divine neglect, rose to threaten the realms in Xaphan’s absence, it was Caelen who stood against it. His final act sealed the menace away, but in doing so, bound a fragment of Caelen’s very soul. The cost was unbearable, and the world could not endure the truth—that its protector would never be whole again.
 
-And so, **Caelen gave up everything**, even his name. He commanded that his deeds be erased, his story untold. The Ebony Wake buried him in a tomb marked only by silence and four loyal knights—[[06_NPCs/Sir Lucian Caelmoor\|Sir Lucian Caelmoor]] among them —who chose to remain and protect his rest. But even though all of the clans aligned with The Ebony Wake have forgotten Caelen, [[05_Player Characters/Renzo Morokami\|one]] still holds on to the old ways.
+And so, **Caelen gave up everything**, even his name. He commanded that his deeds be erased, his story untold. The Ebony Wake buried him in a tomb marked only by silence and four loyal knights—[[06_NPCs/Sir Lucian Caelmoor\|Sir Lucian Caelmoor]] among them —who chose to remain and protect his rest. But even though all of the clans aligned with The Ebony Wake have forgotten Caelen, [[05_Player Characters/Renzo\|one]] still holds on to the old ways.
 
 His name is gone.  His story is ash.  He is **The Forgotten Hero**—by design, not by failure. 
 

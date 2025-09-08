@@ -9,36 +9,28 @@
 > _"Prepare to Die"_
 
 ## 🧭 Current Status
-- **Latest Session**: [[01_Campaigns/Session Notes/Session 03\|Session 03]]
-- **Party Members**: [[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]], [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]], [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]], [[05_Player Characters/Renzo Morokami\|Renzo Morokami]], [[05_Player Characters/Varian\|Varian]]
-- **Current Location**: [[The Evergrowing Forest\|The Evergrowing Forest]] - [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]
+- **Latest Session**: [[01_Campaigns/Session Notes/Session 04\|Session 04]]
+- **Party Members**: [[05_Player Characters/Kovinar\|Kovinar]], [[05_Player Characters/Vespertina\|Vespertina]], [[05_Player Characters/Squeaks\|Squeaks]], [[05_Player Characters/Renzo\|Renzo]], [[05_Player Characters/Varian\|Varian]]
+- **Current Location**: [[The Evergrowing Forest\|The Evergrowing Forest]] - [[02_World/01_The Evergrowing Forest/Oasis\|Oasis]] - [[The Pale Lantern Inn\|The Pale Lantern Inn]]
 - **Goals**:
-	- [ ] Can [[06_NPCs/Velura Elaris\|Velura Elaris]] be used to gain an audience with [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]].
-	- [ ] Where is [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]]?
-	- [ ] Travel to Oasis
+	- [x] Can [[06_NPCs/Velura Elaris\|Velura Elaris]] be used to gain an audience with [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]].
+	- [x] Where is [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]]?
+	- [x] Travel to Oasis
 		- [ ] Who is [[06_NPCs/Countess Ilyra Vaer-Lorne\|Countess Ilyra Vaer-Lorne]]?
-		- [ ] Meet with [[06_NPCs/Liora\|Liora]] and deliver intelligence.
-		- [ ] *Kovinar's Side Quest:* [[Deliver Drest's letter\|Deliver Drest's letter]].
+		- [x] Deliver intelligence to [[06_NPCs/Liora\|Liora]].
+		- [ ] *Kovinar's Side Quest:* [[Side Quests/Deliver Drest's letter\|Deliver Drest's letter]].
+		- [ ] Complete side quests.
 	- [ ] Travel to [[Ahrown, Kingdom of Elves\|Ahrown, Kingdom of Elves]]
-		- [ ] *Verpertina's Side Quest:* [[Side Quest - The Mad King’s Shadow\|Side Quest - The Mad King’s Shadow]] 
-		- [ ] [[01_Campaigns/Encounters/Encounter 99 - Secure Passage to Vis'Avae\|Secure Passage to Vis'Avae]]
+		- [ ] *Verpertina's Side Quest:* [[Side Quests/Side Quest - The Mad King’s Shadow\|Side Quest - The Mad King’s Shadow]] 
+		- [ ] [[01_Campaigns/Encounters/2 - Ahrown/Encounter V - Secure Passage to Vis'Avae\|Secure Passage to Vis'Avae]]
 		- [ ] Visit [[Sancitifier Halric\|Sancitifier Halric]]'s last known location in Mithril Hills.
 	- [ ] Travel to [[02_World/Vis’Avae\|Vis’Avae]]
 		- [ ] Speak to [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]].
-		- [ ] Visit the [[Bellum Crystallum\|Bellum Crystallum]].
-	- [ ] Can [[06_NPCs/Velura Elaris\|Velura Elaris]] be used to gain an audience with [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]]
-	- [ ] Travel to Oasis
-		- [ ] Who/What is Vaer-Lorne?
-	- [ ] Who are Tisiphone, Hecate, & Nyx and how do we find them?
+		- [ ] Visit the [[Bellum Crystallum\|Bellum Crystallum]] and obtain the next shard of the [[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]].
+	- [x] Can [[06_NPCs/Velura Elaris\|Velura Elaris]] be used to gain an audience with [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]]?
+	- [x] Who are Tisiphone, Hecate, & Nyx and how do we find them?
 		- [ ] Obtain the missing three pieces of the [[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]] and assemble them.
 	- [ ] Seek the advice from The Oracle ...if/when she ever returns.
-	- [x] Travel to Ya'a Thalor.
-		- [x] Find Miren
-			- [x] Who is she? Why is she important?
-			- [x] Who is her mother?
-				- [x] Where is she?
-	- [x] What is the "Mouth?"
-	- [x] Seek the advice from The Oracle ...if/when she ever returns.
 
 ---
 
@@ -49,6 +41,7 @@
 - [[01_Campaigns/Session Notes/Session 01\|Session 01]]: False Bottoms and Forgotten Children
 - [[01_Campaigns/Session Notes/Session 02\|Session 02]]: From Ashes to Ashrend
 - [[01_Campaigns/Session Notes/Session 03\|Session 03]]: Whispers of Treachery, Echoes of Escape
+- [[01_Campaigns/Session Notes/Session 04\|Session 04]]: The Scarlet Raven Descends
 
 ### 📂 Campaign Arcs
 - [ ]  A Shattered Path
@@ -99,10 +92,10 @@
 ## 🎭 Characters & Factions
 
 ### 🧑‍🤝‍🧑 Player Characters
-- [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]]
-- [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]]
-- [[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]]
-- [[05_Player Characters/Renzo Morokami\|Renzo Morokami]] 
+- [[05_Player Characters/Vespertina\|Vespertina]]
+- [[05_Player Characters/Squeaks\|Squeaks]]
+- [[05_Player Characters/Kovinar\|Kovinar]]
+- [[05_Player Characters/Renzo\|Renzo]] 
 - [[05_Player Characters/Varian\|Varian]]
 
 ### 🦴 Pets
@@ -131,17 +124,31 @@
 - [[06_NPCs/Seren of the Pale Flame\|Seren of the Pale Flame]]
 - [[06_NPCs/Snap, Crackle, and Pop\|Snap, Crackle, and Pop]]
 
+- [[06_NPCs/Malis Fiani, The Scarlet Raven\|Malis Fiani, The Scarlet Raven]]  
+- [[06_NPCs/Kaelin Vetch\|Kaelin Vetch]]  
+- [[Dreson\|Dreson]]    
+- [[06_NPCs/Thorne Drevic\|Thorne Drevic]]  
+- [[Vex Varoth\|Vex Varoth]]   
+- [[Vex Lazriel\|Vex Lazriel]]   
+- [[06_NPCs/Captain Rel Thorn\|Captain Rel Thorn]]  
+- [[06_NPCs/Eddor, the Grinless\|Eddor, the Grinless]]; [[Barkeep Mirel\|Barkeep Mirel]]  
+- [[06_NPCs/Bruma Anvil-Eye\|Bruma Anvil-Eye]]  
+- [[06_NPCs/Kelm and Crow\|Kelm and Crow]]    
+- [[06_NPCs/Gravekeeper Oth\|Gravekeeper Oth]]                        
+- [[06_NPCs/Vani, Lapidary of Bones\|Vani, Lapidary of Bones]]                
 
 ### 🛡️ Allies
 - [[06_NPCs/Sir Lucian Caelmoor\|Sir Lucian Caelmoor]] 
-- [[Kaelin Vetch\|Kaelin Vetch]]
-- [[Thorne Drevic\|Thorne Drevic]]
+- [[06_NPCs/Kaelin Vetch\|Kaelin Vetch]]
+- [[06_NPCs/Thorne Drevic\|Thorne Drevic]]
+- [[06_NPCs/Sanctifier Dronir Maelth\|Sanctifier Dronir Maelth]]
 
 ### 🏰 Factions
 - [[04_Organizations/Ebony Wake\|Ebony Wake]]
 - [[04_Organizations/The Horsemen\|The Horsemen]]
 - [[04_Organizations/The Sanctifiers\|The Sanctifiers]]
 - [[04_Organizations/The Pale Flame\|The Pale Flame]]
+	- [[02_World/01_The Evergrowing Forest/The Sanctum of Withered Light\|The Sanctum of Withered Light]]    
 
 ---
 
@@ -171,6 +178,8 @@
 - [[Items/Magical/Veiled Necrovitalis\|Veiled Necrovitalis]]
 - [[Items/Ashrend\|Ashrend]]
 - [[Items/Magical/A confiscated pendant\|A confiscated pendant]]
+- [[Items/Blade of Hollow Triumph\|Blade of Hollow Triumph]]
+- [[Items/Staff of the Corpsefield\|Staff of the Corpsefield]]
 
 ---
 

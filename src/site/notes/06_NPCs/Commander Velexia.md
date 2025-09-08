@@ -8,7 +8,7 @@
 **Public Face:** Iron-willed tactician, radiant in battle, trusted by [[06_NPCs/Councilor Varn Drest\|Councilor Varn Drest]]
 **Private Truth:** A lonely woman who wears her duty like armor and her femininity like a secret
 
-![Commander Velexia.png](/img/user/Commander%20Velexia.png)
+![Commander Velexia.png](/img/user/00_GM%20Tools/Media/Commander%20Velexia.png)
 
 Velexia was born in the slums of Oasis. Her father was a glassworker who ruined his hands on the furnace, and her family lived in poverty. As a teenager, she and her family were forced into labor during one of the forest border conflicts. When raiders attacked the camp, her parents were killed. Velexia fought with whatever she could find and killed her first man that night while protecting her younger siblings.
 
@@ -38,6 +38,10 @@ When Oasis established Jade Stronghold as its forward fortress, Velexia was chos
 
 - **In Private**
     - Keeps a hand-stitched pink silk dress hidden behind her armor stand
+    - Sips rose tea while writing late reports
+    - Reads poetry about **longing** and **thresholds**—always thresholds
+    - Has an untouched vial of perfume on her vanity, just in case
+
 ---
 
 ## 💔 **Loneliness**

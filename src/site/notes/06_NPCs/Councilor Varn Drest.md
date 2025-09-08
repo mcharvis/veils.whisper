@@ -5,7 +5,7 @@
 A non-combatant manipulator and dangerous political schemer—ideal for interrogation, social challenges, or low-level magical interference.
 Previously controlled the [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]] until [[Battles/Battle - The Siege of Jade Stronghold\|Battle - The Siege of Jade Stronghold]]. Associated with [[02_World/01_The Evergrowing Forest/Oasis\|Oasis]]. 
 
-![Councilor Varn Drest - 2.png](/img/user/Councilor%20Varn%20Drest%20-%202.png)
+![Councilor Varn Drest - 2.png](/img/user/00_GM%20Tools/Media/Councilor%20Varn%20Drest%20-%202.png)
 - Bureaucrat and realist.
 - Appears to be trying to stop the Sanctifiers politically—but secretly using Oasis funds to subsidize the Sanctifiers.
 - Was hiding Velura’s existence to use her as a weapon. Unclear target.

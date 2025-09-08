@@ -9,22 +9,22 @@ Compiled by Order of Headmistress [[06_NPCs/Rhoswyn Calvra\|R. Calvra]]
 Restricted Access Only
 
 **Incident #0150**
-Subject:  [[05_Player Characters/Kovinar Relkth\|Unknown Paladin]] (Unauthorized)  
+Subject:  [[05_Player Characters/Kovinar\|Unknown Paladin]] (Unauthorized)  
 Summary: Broke into medical wing searching for 'Subject M.' Destroyed two containment doors and injured three guards.  
 Action Taken: Subdued with tranquilizer darts. Removed by Sanctifier escort. Entry status reclassified as hostile.
 
 **Incident #0161**
-Subject: [[05_Player Characters/Verspertina Galanodel\|Unknown Sorceress]] (Unauthorized)  
+Subject: [[05_Player Characters/Vespertina\|Unknown Sorceress]] (Unauthorized)  
 Summary: Engaged in telepathic contact with three residents simultaneously. Caused a group hysteria event.  
 Action Taken: Area cleansed. Subject fled before capture. Residual psychic signatures logged for tracking.
 
 **Incident #0165**
-Subject: [[05_Player Characters/Lurtza (Squeaks)\|Unknown Half-Orc]] (Unauthorized)  
+Subject: [[05_Player Characters/Squeaks\|Unknown Half-Orc]] (Unauthorized)  
 Summary: Dispatched small rodent that breached kitchen stores. Linked to Subject [[06_NPCs/Miren Elaris\|M.]]  
-Action Taken: Missing. Unable to locate [[05_Player Characters/Lurtza (Squeaks)\|Squeaks]] or [[06_NPCs/Pets/Wilson\|the rodent]].
+Action Taken: Missing. Unable to locate [[05_Player Characters/Squeaks\|Squeaks]] or [[06_NPCs/Pets/Wilson\|the rodent]].
 
 **Incident #0184**
-Subject: Unauthorized [[05_Player Characters/Kovinar Relkth\|Paladin]], [[05_Player Characters/Verspertina Galanodel\|Sorceress]], [[05_Player Characters/Lurtza (Squeaks)\|Half-Orc]] 
+Subject: Unauthorized [[05_Player Characters/Kovinar\|Paladin]], [[05_Player Characters/Vespertina\|Sorceress]], [[05_Player Characters/Squeaks\|Half-Orc]] 
 Summary: Returned through basement breach. Opened sealed sublevel.  
 Action Taken: ***Alarm triggered.*** [[06_NPCs/Rhoswyn Calvra\|Headmistress]] notified. Unknown how they escaped again. Investigation ongoing. [[06_NPCs/Pets/Wilson\|Rodent]] unaccounted for.
 

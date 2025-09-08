@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/06-np-cs/the-cradle-of-flesh/"}
 ---
 
-![96621610-b6fb-4f8e-b3ce-b1ac7bdf538f.png](/img/user/96621610-b6fb-4f8e-b3ce-b1ac7bdf538f.png)
+![96621610-b6fb-4f8e-b3ce-b1ac7bdf538f.png](/img/user/00_GM%20Tools/Media/96621610-b6fb-4f8e-b3ce-b1ac7bdf538f.png)
 An amalgamation of flesh made from the children the [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] discarded. 
 
 It wanders a room of corpses. It pulses like a heart too large for any creature, veined with tough fibrous tissue and stitched with remnants of children: small hands, tiny ribs, a skull half-embedded in its side, its jaw frozen mid-scream. The thing slithers rather than walks, dragging itself across the blood-slick floor with twitching limbs that look borrowed, mismatched, or stolen.

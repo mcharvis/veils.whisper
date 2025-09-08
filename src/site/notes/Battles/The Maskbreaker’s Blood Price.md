@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/battles/the-maskbreaker-s-blood-price/"}
+---
+
+In an attempt to remove a dragon mask that was possessing the mind of [[05_Player Characters/Kovinar\|Kovinar]], the party finds themselves engaged in a battle with a dragon and some cultists. The party was surprised by the unexpected appearance of [[06_NPCs/Zarvok\|Zarvok]], a medium demon from [[Volencina\|Volencina]]. Unbeknownst to the party, he was chasing a young rogue half-orc, [[05_Player Characters/Squeaks\|Squeaks]], after she attempted to steal from him. They were unexpectedly transported to the overworld, catching [[06_NPCs/Zarvok\|Zarvok]] off guard. [[05_Player Characters/Squeaks\|Squeaks]] was able to flee without being seen. Xaphan immediately recognized [[06_NPCs/Zarvok\|Zarvok]] as a resident of [[Volencina\|Volencina]]. In fear that word of his benevolence would get back to [[06_NPCs/Gods/Nerull\|Nerull]], [[05_Player Characters/Inactive/Xaphan\|Xaphan]] implored the party to spare the life of [[06_NPCs/Zarvok\|Zarvok]] and maintain him as a prisoner. However, [[05_Player Characters/Inactive/Inbar\|Inbar]]’s arrow fired into the eye of [[06_NPCs/Zarvok\|Zarvok]], instantly killing him and sending him back to [[Volencina\|Volencina]] and preserving her body in Adamantite. Xaphan sacrifices the life of a teenage dragonborn girl, Talia, to consume her heart as an offering to remove the mask. [[05_Player Characters/Kovinar\|Kovinar]] was free but [[06_NPCs/Talia\|Talia]] lost her life.
+
+

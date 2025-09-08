@@ -11,7 +11,7 @@ This is the final resting place of [[06_NPCs/Caelen, Firstborn of the Flame\|Cae
 
 Caelen’s **four spectral knights** used to linger here—shades of the past, armorless and silent, bound by oath not to protect the tomb from intruders, but to **weigh intentions**. Those aligned with the Flame—whatever that may now mean—are permitted to pass unchallenged. 
 
-Three of the knights were killed by [[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]], [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]], [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]], & [[05_Player Characters/Renzo Morokami\|Renzo Morokami]].
+Three of the knights were killed by [[05_Player Characters/Kovinar\|Kovinar]], [[05_Player Characters/Vespertina\|05_Player Characters/Vespertina]], [[05_Player Characters/Squeaks\|Squeaks]], & [[05_Player Characters/Renzo\|Renzo]].
 
 ---
 

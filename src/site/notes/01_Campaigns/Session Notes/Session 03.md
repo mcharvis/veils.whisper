@@ -28,7 +28,7 @@
 - [x] Travel to [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]
 	- Paths chosen
 		- [x] Diplomacy
-			- [x] [[06_NPCs/Liora\|Liora]]'s [[Provisional Writ of Entry\|Provisional Writ of Entry]]
+			- [x] [[06_NPCs/Liora\|Liora]]'s [[Items/Provisional Writ of Entry\|Provisional Writ of Entry]]
 		- [x] Treachery
 			- [x] Use [[05_Player Characters/Varian\|Varian]] and [[06_NPCs/Liora\|Liora]]'s spies as double agents
 	- [x] Find [[06_NPCs/Velura Elaris\|Velura Elaris]]
@@ -41,10 +41,10 @@
 - [ ] Travel to Oasis
 	- [ ] Who is [[06_NPCs/Countess Ilyra Vaer-Lorne\|Countess Ilyra Vaer-Lorne]]?
 	- [ ] Meet with [[06_NPCs/Liora\|Liora]] and deliver intelligence.
-	- [ ] *Kovinar's Side Quest:* [[Deliver Drest's letter\|Deliver Drest's letter]].
+	- [ ] *Kovinar's Side Quest:* [[Side Quests/Deliver Drest's letter\|Deliver Drest's letter]].
 - [ ] Travel to [[Ahrown, Kingdom of Elves\|Ahrown, Kingdom of Elves]]
-	- [ ] *Verpertina's Side Quest:* [[Side Quest - The Mad King’s Shadow\|Side Quest - The Mad King’s Shadow]] 
-	- [ ] [[01_Campaigns/Encounters/Encounter 99 - Secure Passage to Vis'Avae\|Secure Passage to Vis'Avae]]
+	- [ ] *Verpertina's Side Quest:* [[Side Quests/Side Quest - The Mad King’s Shadow\|Side Quest - The Mad King’s Shadow]] 
+	- [ ] [[01_Campaigns/Encounters/2 - Ahrown/Encounter V - Secure Passage to Vis'Avae\|Secure Passage to Vis'Avae]]
 	- [ ] Visit [[Sancitifier Halric\|Sancitifier Halric]]'s last known location in Mithril Hills.
 - [ ] Travel to [[02_World/Vis’Avae\|Vis’Avae]]
 	- [ ] Speak to [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]].
@@ -68,12 +68,12 @@
 | [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]]   | Priest from Ya'a Thalor                                                             | Alive, wherabouts unknown                                     | Previously a [[Sanctifier\|Sanctifier]], Maligned          |
 | [[06_NPCs/The Dreaming Mouth\|The Dreaming Mouth]]            | A writhing, incorporeal mass of broken thoughts and emotional refuse at Ya'a Thalor | Dead                                                          | [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]                                |
 | [[05_Player Characters/Varian\|Varian]]                        | A knight previously employed by [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]].                                | Alive, Missing                                                | Previously [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]], Ally           |
-| [[06_NPCs/Sanctifier Dronir Maelth\|Sanctifier Dronir Maelth]]      | A veilshifter previouly aligned with Sanctifiers                                    | Unknown, Aligned with [[06_NPCs/Gods/Bahamut\|Bahamut]], Ally to [[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]] | Previously a [[Sanctifier\|Sanctifier]] at [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] |
-| [[Kaelin Vetch\|Kaelin Vetch]]                  | A spy from Oasis                                                                    | Unknown, Aligned with [[06_NPCs/Gods/Bahamut\|Bahamut]], Ally to [[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]] | [[02_World/01_The Evergrowing Forest/Oasis\|Oasis]] via [[06_NPCs/Liora\|Liora]]                        |
+| [[06_NPCs/Sanctifier Dronir Maelth\|Sanctifier Dronir Maelth]]      | A veilshifter previouly aligned with Sanctifiers                                    | Unknown, Aligned with [[06_NPCs/Gods/Bahamut\|Bahamut]], Ally to [[05_Player Characters/Kovinar\|Kovinar]] | Previously a [[Sanctifier\|Sanctifier]] at [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] |
+| [[06_NPCs/Kaelin Vetch\|Kaelin Vetch]]                  | A spy from Oasis                                                                    | Unknown, Aligned with [[06_NPCs/Gods/Bahamut\|Bahamut]], Ally to [[05_Player Characters/Kovinar\|Kovinar]] | [[02_World/01_The Evergrowing Forest/Oasis\|Oasis]] via [[06_NPCs/Liora\|Liora]]                        |
 | [[Dreson\|Dreson]]                        | A spy from Oasis                                                                    | Unknown                                                       | [[02_World/01_The Evergrowing Forest/Oasis\|Oasis]] via [[06_NPCs/Liora\|Liora]]                        |
 | [[06_NPCs/Councilor Varn Drest\|Councilor Varn Drest]]          | A corrupt politician from Oasis                                                     | Unknown                                                       | [[02_World/01_The Evergrowing Forest/Oasis\|Oasis]], [[02_World/01_The Evergrowing Forest/The Sanctum of Withered Light\|The Sanctum of Withered Light]]   |
 | [[06_NPCs/Commander Velexia\|Commander Velexia]]             | Commander of [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]                                                    | Unknown                                                       | [[02_World/01_The Evergrowing Forest/Oasis\|Oasis]]                                      |
-| [[Thorne Drevic\|Thorne Drevic]]                 | Bandit Captain at [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]                                               | Unknown, Aligned with [[06_NPCs/Gods/Bahamut\|Bahamut]], Ally to [[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]] | [[02_World/01_The Evergrowing Forest/Oasis\|Oasis]] - [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]                |
+| [[06_NPCs/Thorne Drevic\|Thorne Drevic]]                 | Bandit Captain at [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]                                               | Unknown, Aligned with [[06_NPCs/Gods/Bahamut\|Bahamut]], Ally to [[05_Player Characters/Kovinar\|Kovinar]] | [[02_World/01_The Evergrowing Forest/Oasis\|Oasis]] - [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]                |
 | [[02_World/01_The Evergrowing Forest/The Sanctum of Withered Light\|The Sanctum of Withered Light]] | Organization that [[06_NPCs/Councilor Varn Drest\|Councilor Varn Drest]] has been secretly working with.          | Unknown                                                       | [[04_Organizations/The Pale Flame\|The Pale Flame]]                             |
 
 
@@ -81,21 +81,21 @@
 
 ### 🎒 Loot & Rewards
 
-#### [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]]
+#### [[05_Player Characters/Squeaks\|Squeaks]]
 
 | Items Acquired | Description | Location                          |
 | -------------- | ----------- | --------------------------------- |
 | Bandit gold    | 36 gold     | [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]] - First Floor |
 
 
-#### [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]]
+#### [[05_Player Characters/Vespertina\|Vespertina]] 
 
 | Items Acquired            | Description                                                                           | Location            |
 | ------------------------- | ------------------------------------------------------------------------------------- | ------------------- |
 | [[Items/Magical/A confiscated pendant\|A confiscated pendant]] | The wearer is immediately cloaked in the **visual likeness of a Sanctifier acolyte**. | [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]] |
 | [[Items/Magical/Blood-Ink Quill\|Blood-Ink Quill]]       | You can cast the **Command** spell (save DC 13) once per long rest.                   | [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]] |
 
-#### [[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]]
+#### [[05_Player Characters/Kovinar\|Kovinar]]
 
 | Items Acquired                                                                              | Description                                                                                | Location            |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------- |
@@ -107,26 +107,26 @@
 
 | Level  | Character                 | XP    | New Total | XP to Level Up |
 | ------ | ------------------------- | ----- | --------- | -------------- |
-| 6      | [[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]]        | 2,987 | 18,052    | 4,948          |
-| 6      | [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]] | 3,087 | 18,552    | 4,448          |
-| 6      | [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]]      | 3,187 | 18,652    | 4,348          |
-| 4 => 5 | [[05_Player Characters/Renzo Morokami\|Renzo Morokami]]        | 2,987 | 8,760     | 5,240          |
+| 6      | [[05_Player Characters/Kovinar\|Kovinar]]        | 2,987 | 18,052    | 4,948          |
+| 6      | [[05_Player Characters/Vespertina\|05_Player Characters/Vespertina]] | 3,087 | 18,552    | 4,448          |
+| 6      | [[05_Player Characters/Squeaks\|Squeaks]]      | 3,187 | 18,652    | 4,348          |
+| 4 => 5 | [[05_Player Characters/Renzo\|Renzo]]        | 2,987 | 8,760     | 5,240          |
 | 5      | [[05_Player Characters/Varian\|Varian]]                | 2,887 | 10,347    | 5,573          |
 
 ---
 
 ## 🔍 Clues & Lore
 - Acquired Intelligence
-	- [[Provisional Writ of Entry\|Provisional Writ of Entry]]
-	- [[A partially burned report outlining “Sanctifier containment deterioration.”\|A partially burned report outlining “Sanctifier containment deterioration.”]]
-	- [[A table holds a ledger with names and dates of past occupants—Velura is not listed.\|A table holds a ledger with names and dates of past occupants—Velura is not listed.]]
+	- [[Items/Provisional Writ of Entry\|Provisional Writ of Entry]]
+	- [[Items/A partially burned report outlining “Sanctifier containment deterioration.”\|A partially burned report outlining “Sanctifier containment deterioration.”]]
+	- [[Items/A table holds a ledger with names and dates of past occupants—Velura is not listed.\|A table holds a ledger with names and dates of past occupants—Velura is not listed.]]
 	- A sealed note bearing the Oasis crest (half-broken): “If she is removed, we lose our leverage over The Sanctifiers.”
 	- The walls in Drest's sitting room hold several framed decrees from Oasis, including the founding order of the Jade Stronghold. One of the decrees looks different. It is forged—it appears Oasis never officially authorized Velura’s detention.
-	- [[A sealed letter to Varn Drest referencing Velura’s “status escalation.”\|A sealed letter to Varn Drest referencing Velura’s “status escalation.”]]
-	- **Confiscated from [[Kaelin Vetch\|Kaelin Vetch]]:** [[Items/Non-Magical/A letter addressed to Velura from Liora\|A letter addressed to Velura from Liora]]
+	- [[Items/A sealed letter to Varn Drest referencing Velura’s “status escalation.”\|A sealed letter to Varn Drest referencing Velura’s “status escalation.”]]
+	- **Confiscated from [[06_NPCs/Kaelin Vetch\|Kaelin Vetch]]:** [[Items/Non-Magical/A letter addressed to Velura from Liora\|A letter addressed to Velura from Liora]]
 	- From Ser Calvyn Roen: [[Items/Non-Magical/Wax-Sealed Military Correspondence\|Wax-Sealed Military Correspondence]]
 	- Various documents showing Drest's approval of the transfer of Oasis funds to [[02_World/01_The Evergrowing Forest/The Sanctum of Withered Light\|The Sanctum of Withered Light]]
-	- [[Folded Letter Beneath Table Mat\|Folded Letter Beneath Table Mat]]
+	- [[Items/Folded Letter Beneath Table Mat\|Folded Letter Beneath Table Mat]]
 	- [[Items/Non-Magical/Letter Found in Locked Drawer\|Letter Found in Locked Drawer]] 
 
 ---
@@ -148,8 +148,8 @@
 
 | Character                 | Notable Actions / Growth                                                                                                                                  |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]]        | Assisted with obtaining intel on [[06_NPCs/Councilor Varn Drest\|Councilor Varn Drest]]                                                                                                 |
-| [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]] | Assisted with obtaining intel on [[06_NPCs/Councilor Varn Drest\|Councilor Varn Drest]]                                                                                                 |
-| [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]]      | Established camaraderie with [[06_NPCs/Commander Velexia\|Commander Velexia]]                                                                                                        |
+| [[05_Player Characters/Kovinar\|Kovinar]]        | Assisted with obtaining intel on [[06_NPCs/Councilor Varn Drest\|Councilor Varn Drest]]                                                                                                 |
+| [[05_Player Characters/Vespertina\|05_Player Characters/Vespertina]] | Assisted with obtaining intel on [[06_NPCs/Councilor Varn Drest\|Councilor Varn Drest]]                                                                                                 |
+| [[05_Player Characters/Squeaks\|Squeaks]]      | Established camaraderie with [[06_NPCs/Commander Velexia\|Commander Velexia]]                                                                                                        |
 | Party                     | Sixth Floor explosion at [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]] has led everyone to falsely believe that some unknown number of Sanctifiers have abducted [[06_NPCs/Velura Elaris\|Velura Elaris]]. |
 

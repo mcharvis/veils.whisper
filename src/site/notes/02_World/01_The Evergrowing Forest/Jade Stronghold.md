@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-world/01-the-evergrowing-forest/jade-stronghold/"}
 ---
 
-Jade Stronghold is a fortress in the [[Evergrowing Forest\|Evergrowing Forest]], built from black stone veined with green jade. From a distance it looks harsh and unwelcoming, almost like the land itself doesn’t want it there. The forest stops short of its walls, and even the ground leading to the gate feels unnatural—swept clean without wind or hands.
+Jade Stronghold is a fortress in [[The Evergrowing Forest\|The Evergrowing Forest]], built from black stone veined with green jade. From a distance it looks harsh and unwelcoming, almost like the land itself doesn’t want it there. The forest stops short of its walls, and even the ground leading to the gate feels unnatural—swept clean without wind or hands.
 
 The stronghold was built long ago by the rulers of Oasis to control the forest and anyone who lived near it. Over time it became more than a fort—it’s a prison, a barracks, and a political chessboard. Important prisoners are kept here, soldiers are stationed here, and backroom deals are struck in its council chambers.
 

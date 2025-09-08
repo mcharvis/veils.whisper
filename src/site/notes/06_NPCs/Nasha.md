@@ -10,7 +10,7 @@
 While **ناشا** itself isn't a widely common Arabic name, it can be interpreted as a variation of words like **ناشئة (nāshiʾah)**, which means "_young girl_", "_youth_", or "_one who is growing or developing_."   
 
 **Affiliation:** None  
-**Status:** Previously mentally disturbed & physically frail. Now dead, killed by [[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]]
+**Status:** Previously mentally disturbed & physically frail. Now dead, killed by [[05_Player Characters/Kovinar\|Kovinar]]
 ![ChatGPT Image Jul 24, 2025, 10_50_17 PM.png](/img/user/Items/Non-Magical/ChatGPT%20Image%20Jul%2024,%202025,%2010_50_17%20PM.png)
 ### 🕯️ Birth: “The Delivery”
 

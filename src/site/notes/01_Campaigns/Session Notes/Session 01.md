@@ -61,12 +61,12 @@
 ---
 
 ## 🧱 Major Events
-- [[05_Player Characters/Verspertina Galanodel\|Verspertina]] was killed by [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]]'s *Gradebook of Pain*.
+- [[05_Player Characters/Vespertina\|Vespertina]] was killed by [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]]'s *Gradebook of Pain*.
 - Vespertina faced Nerull and survived the first trial.
 - Squeaks discovered the use of the [[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]]
 	- Lucky Find (2): "Last Meal," "Forget," a dagger
 	- Whispers in the Wind (3): *"Get in the bathtub"*
-- [[05_Player Characters/Kovinar Relkth\|Kovinar]] removes the body of a former student from the bathtub of the Headmistress's bathroom and gives her an honorable funeral by placing her in the fire.
+- [[05_Player Characters/Kovinar\|Kovinar]] removes the body of a former student from the bathtub of the Headmistress's bathroom and gives her an honorable funeral by placing her in the fire.
 	- Party earns inspiration for assisting in honorable disposal.
 - Party finds water-logged body of a girl in the Headmaster's bathroom.
 	- Removes her body and places her in the fire with a wooden toy horse.
@@ -98,7 +98,7 @@
 | A Perfectly Clean Plate                     | The next time you face **Nerull’s Trial**, you may **roll with advantage (6d20) once** during the bargaining. | [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] - [[06_NPCs/Magda Velt, The Lunch Matron\|Magda Velt, The Lunch Matron]] |
 | Blood-Hearth Cutlets - Recipe properly made | **+1 to weapon damage rolls**<br>**critical hits restore 1d4 HP**                                             | [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]                                    |
 
-#### [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]]
+#### [[05_Player Characters/Squeaks\|Squeaks]]
 
 | Items Acquired                                                                 | Description                                                                                                                                                   | Location                           |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
@@ -109,7 +109,7 @@
 | [[Items/Magical/Nasha's Red Blanket\|Nasha's Red Blanket]]                                                        | Once used to swaddle an abandoned infant in the Whispering Asylum. It still remembers warmth.<br><br>Disolved to threads after it's use on Nasha.             | [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]          |
 | Sugar Sleep Drops - Recipe properly made                                       | You **recover an additional spell slot** (up to 3rd level)<br>- And you may **cast that spell once without expending a spell slot** in the following 24 hours | [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]          |
 | [Hat of Disguise](https://www.dndbeyond.com/magic-items/4651-hat-of-disguise). | While wearing this hat, you can cast the [Disguise Self](https://www.dndbeyond.com/spells/2619102-disguise-self) spell. The spell ends if the hat is removed. | [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]          |
-#### [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]]
+#### [[05_Player Characters/Vespertina\|05_Player Characters/Vespertina]]
 
 | Items Acquired                                                                               | Description                                                                                                                                                                                                                                    | Location                  |
 | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
@@ -118,7 +118,7 @@
 | [Cloak of Many Fashions](https://www.dndbeyond.com/magic-items/27041-cloak-of-many-fashions) | While wearing this cloak, you can take a Bonus Action to change the style, color, and apparent quality of the garment.                                                                                                                         | [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] |
 | **Bright Green Soup**                                                                        | Tastes like nothing and leaves your tongue numb.  <br>Regain **2d8 HP**. 🤐 You are **unable to speak for 10 minutes** (no verbal spell components).<br>1) Given to Lucian and consumed<br>2) Given to Kovinar and consumed<br>3) In posession | [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] |
 
-#### [[05_Player Characters/Renzo Morokami\|Renzo Morokami]]
+#### [[05_Player Characters/Renzo\|Renzo]]
 
 | Items Acquired          | Description                                                                                                   | Location                                                     |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
@@ -128,10 +128,10 @@
 
 | Level  | Character                 | XP    | New Total | XP to Level Up |
 | ------ | ------------------------- | ----- | --------- | -------------- |
-| 5 => 6 | [[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]]        | 1,538 | 14,105    | 8,895          |
-| 5 => 6 | [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]] | 1,638 | 14,180    | 8,820          |
-| 5 => 6 | [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]]      | 1,638 | 14,180    | 8,820          |
-| 4      | [[05_Player Characters/Renzo Morokami\|Renzo Morokami]]        | 1,538 | 4,813     | 1,687          |
+| 5 => 6 | [[05_Player Characters/Kovinar\|Kovinar]]        | 1,538 | 14,105    | 8,895          |
+| 5 => 6 | [[05_Player Characters/Vespertina\|05_Player Characters/Vespertina]] | 1,638 | 14,180    | 8,820          |
+| 5 => 6 | [[05_Player Characters/Squeaks\|Squeaks]]      | 1,638 | 14,180    | 8,820          |
+| 4      | [[05_Player Characters/Renzo\|Renzo]]        | 1,538 | 4,813     | 1,687          |
 
 ---
 
@@ -164,7 +164,7 @@
 
 | Enemy                                  | Outcome                                                                                 |
 | -------------------------------------- | --------------------------------------------------------------------------------------- |
-| [[06_NPCs/Nasha\|Nasha]] (CR 4)                       | Dead, [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]] steals HP from Nasha unknowingly using her own baby blanket. |
+| [[06_NPCs/Nasha\|Nasha]] (CR 4)                       | Dead, [[05_Player Characters/Squeaks\|Squeaks]] steals HP from Nasha unknowingly using her own baby blanket. |
 | Headmistress [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] (CR 5) | Notable Death by snare followed by five Magic Missiles.                                 |
 | [[06_NPCs/The Cradle of Flesh\|The Cradle of Flesh]] (CR 4)         | Dead                                                                                    |
 
@@ -173,7 +173,7 @@
 - Renzo casts *Entangle* to restrain [[06_NPCs/The Cradle of Flesh\|The Cradle of Flesh]].
 
 ### PC Injuries / Deaths
-- [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]] died from [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]]'s *Gradebook of Pain* after dealing 25 damage.
+- [[05_Player Characters/Vespertina\|05_Player Characters/Vespertina]] died from [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]]'s *Gradebook of Pain* after dealing 25 damage.
 	- Vespertina completed the [[00_GM Tools/Homebrew rules/Elarith Death Rule - The Trial of Nerull\|Trial of Nerull]] during the battle with [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] and was spared.
 
 ---
@@ -182,5 +182,5 @@
 
 | Character                 | Notable Actions / Growth                                                                                                                   |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]] | Was killed by [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] but was spared by Nerull, only to return and land the final blow killing Calvra.                          |
-| [[05_Player Characters/Renzo Morokami\|Renzo Morokami]]        | Missed arrow targeting Valen bounces off a stone wall impaling in his neck. He pulls the arrow out of his neck and fires it back at Renzo. |
+| [[05_Player Characters/Vespertina\|05_Player Characters/Vespertina]] | Was killed by [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] but was spared by Nerull, only to return and land the final blow killing Calvra.                          |
+| [[05_Player Characters/Renzo\|Renzo]]        | Missed arrow targeting Valen bounces off a stone wall impaling in his neck. He pulls the arrow out of his neck and fires it back at Renzo. |

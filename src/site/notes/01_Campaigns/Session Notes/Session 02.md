@@ -38,13 +38,13 @@
 > In the northern room, Duven Malch (Veilshifter) was found dying. He gasped, “_[[06_NPCs/Sanctifier Dronir Maelth\|Sanctifier Dronir Maelth]] was supposed to hold the gate... We believed it was Oasis that was finally coming for Halric. Find [[06_NPCs/Sanctifier Dronir Maelth\|Sanctifier Dronir Maelth]]. He knows everyth…_” in his final breath.
 > Vespertina discovered [[Items/Ashrend\|Ashrend]], a wicked, forked longsword once used by [[02_World/01_The Evergrowing Forest/Oasis\|Oasis]] to kill vampires. History revealed it was stolen ages ago, its reputation transcending generations and certain to be recognized by [[05_Player Characters/Varian\|Varian]]. Regardless, Vespertina gave the historic weapon to Varian in hopes of gaining leverage in Oasis.
 > In the western room, a foyer revealed another crypt copy of _The Rites of Sequestration_. One page was looser and newer than the rest, as if added after the book was written. It was an excerpt entitled _Custody of the Sleepless_, which covertly revealed that [[06_NPCs/Sanctifier Halric\|Sanctifier Halric]] was not looked upon favorably by other Sanctifiers, stating that "no light shines favorably on him." Opening his crypt revealed a body with an ornate key lying on top.
-> Kovinar opened Jornis’ crypt and triggered a [[03_Lore/Psychic Vision of Miren’s First Night\|Psychic Vision of Miren’s First Night]]. Squeaks acquired a Potion of Mind Reading and used it to secretly glimpse Kovinar’s vision. Varian found Maelth’s crypt empty, its mirror showing him chained in a cell he recognized as being in [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]. Squeaks ate the severed tongue in Yllin’s crypt.
+> Kovinar opened Jornis’ crypt and triggered a [[01_Campaigns/Scenes/Psychic Vision of Miren’s First Night\|Psychic Vision of Miren’s First Night]]. Squeaks acquired a Potion of Mind Reading and used it to secretly glimpse Kovinar’s vision. Varian found Maelth’s crypt empty, its mirror showing him chained in a cell he recognized as being in [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]. Squeaks ate the severed tongue in Yllin’s crypt.
 > On the third level, Miren was found older than expected but imprisoned in a makeshift cell locked by enchantment. Initially fearful, she was told the party was there to rescue her—having found [[Items/Non-Magical/M’s note\|her note to her mother]] and [[Items/Non-Magical/Letter to M\|her mother's note]] given to [[06_NPCs/Farrún, The Wayfinder\|Farrún, The Wayfinder]] in the forest. Miren said the only way to open the door was to acquire the key guarded by [[06_NPCs/The Dreaming Mouth\|The Dreaming Mouth]]. She described her uncontrolled psychic power and explained that if attacked, she enters her "dream state," a physical transformation that allows her to unleash tremendous power.
 > Miren told the party that when she was a girl, her mother was taking her to [[02_World/Ahrown, The Kingdom of Elves/Talazan Academy\|Talazan Academy]] to learn to be a sorceress when her mother was captured by unknown soldiers. She said her mother, [[06_NPCs/Velura Elaris\|Velura Elaris]], was a kind sorceress bound to [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]]. She later went to [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]. As Vespertina quietly recalled that Tisiphone is one of the three sisters charged with protecting a shard of the [[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]], Miren quietly told her that she knew her father was dead...and that "he's...here."
 > In mercy, Kovinar used the [[Items/Magical/Forgotten Memory Charm\|Forgotten Memory Charm]] to remove her memory of her first night in Ya’a Thalor, and Vespertina gave her [[Items/Magical/Stuffed Bear of Forgotten Sorrows\|her stuffed teddy bear]], sparing the party from her psychic wrath. She spoke of [[06_NPCs/The Dreaming Mouth\|The Dreaming Mouth]], in a sanctuary of ten pillars, five on either side. She said the monster was slow but deadly, and that hiding could reduce damage. She also warned of another creature past the well—one that “doesn’t look like a monster.”
 > Miren directed the party to a secret cache of strange potions, some of which were quite harmful. Squeaks tasted a strange grey potion and nearly lost her voice.
 > Vespertina harnessed the power in the [[Items/Magical/Veiled Necrovitalis\|Veiled Necrovitalis]] and slipped past a zombie infestation, following a trail of blood to the room where [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]] gave birth to [[06_NPCs/Nasha\|Nasha]] and finding a [[Items/Non-Magical/journal letter from Miren\|journal letter from Miren]]. They began hearing screams down the hallway. One door at the end led to the Inescapable Room, a chamber with mines embedded in the floor. Three skeletons lay over blast marks, evidence the mines had killed unknown visitors. [[06_NPCs/Korin Draal\|Korin Draal]] was used to navigate the room to a doorway sealed with stone and a stone amulet in the center. Removing it caused the stones to crumble, revealing the portal Miren had once used to travel between the Asylum and Ya’a Thalor.
-> The other door opened to reveal a female Sanctifier strapped to a rust-crusted table, her limbs trembling and blood-soaked. One leg was twisted unnaturally, her robes shredded and scorched. An ogre zombie loomed over her, its decaying fist clenched around a morningstar crusted with bone and hair. The wrecked woman was choking on blood as the ogre zombie pummeled her body. Vespertina animated three skeletons to assist her and Squeaks in slaughtering the ogre. At the brink of death, the woman was given a Greater Potion of Healing before revealing herself as [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]]. Virelle described the effects of the strange potions. Squeaks told her she killed her daughter (despite Nasha actually being killed by [[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]]) and left her in the room. Vespertina used an empty potion bottle to sample the purple liquid in the barrels protected by zombies. Squeaks drank it...discovering an undisturbed cache of wine.
+> The other door opened to reveal a female Sanctifier strapped to a rust-crusted table, her limbs trembling and blood-soaked. One leg was twisted unnaturally, her robes shredded and scorched. An ogre zombie loomed over her, its decaying fist clenched around a morningstar crusted with bone and hair. The wrecked woman was choking on blood as the ogre zombie pummeled her body. Vespertina animated three skeletons to assist her and Squeaks in slaughtering the ogre. At the brink of death, the woman was given a Greater Potion of Healing before revealing herself as [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]]. Virelle described the effects of the strange potions. Squeaks told her she killed her daughter (despite Nasha actually being killed by [[05_Player Characters/Kovinar\|Kovinar]]) and left her in the room. Vespertina used an empty potion bottle to sample the purple liquid in the barrels protected by zombies. Squeaks drank it...discovering an undisturbed cache of wine.
 > In the northeastern hallways, the party found an alchemy table and a well. Inside the well, Vespertina found a Memory Pearl, a treasure granting one truthful answer from the Dreaming Mouth. Renzo’s familiar descended into the well and discovered a spider-patrolled canyon with gold and a path leading to the basement level of Jade Stronghold.
 > Lastly, a torn note in the Council Room confirmed [[06_NPCs/Velura Elaris\|Velura Elaris]]’s imprisonment in Jade Stronghold and that the Sanctifiers had withheld this information from [[06_NPCs/Miren Elaris\|Miren Elaris]], intending to invade Jade Stronghold to capture Velura as leverage to reach Tisiphone.
 
@@ -96,7 +96,7 @@
 
 | Name                            | Description                                                                         | Status                              | Affiliation                                    |
 | ------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------- | ---------------------------------------------- |
-| Sanctifier [[06_NPCs/Korin Draal\|Korin Draal]]      | A Bulwark with the Sanctifiers. Animated by [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]]               | Undead                              | [[04_Organizations/The Sanctifiers\|The Sanctifiers]], [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]] |
+| Sanctifier [[06_NPCs/Korin Draal\|Korin Draal]]      | A Bulwark with the Sanctifiers. Animated by [[05_Player Characters/Vespertina\|05_Player Characters/Vespertina]]               | Undead                              | [[04_Organizations/The Sanctifiers\|The Sanctifiers]], [[05_Player Characters/Vespertina\|05_Player Characters/Vespertina]] |
 | [[06_NPCs/Miren Elaris\|Miren Elaris]]                | The missing girl. Has poorly controlled psychic abilities                           | Alive, 3rd Floor of [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] | [[06_NPCs/Velura Elaris\|Velura Elaris]], [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]]               |
 | [[06_NPCs/King Aldenor\|King Aldenor]]                | The fallen benevolent ruler of [[The Elven Empire of Elarion\|The Elven Empire of Elarion]]                      | Unknown                             | Unknown                                        |
 | [[06_NPCs/Sanctifier Halric\|Sanctifier Halric]]           | Priest from Ya'a Thalor                                                             | Dead                                | Sanctifiers                                    |
@@ -115,13 +115,13 @@
 
 ### 🎒 Loot & Rewards
 
-#### [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]]
+#### [[05_Player Characters/Squeaks\|Squeaks]]
 
 | Items Acquired         | Description                                                                                                                                 | Location        |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | [[Items/Heartseed Husk\|Heartseed Husk]] x 2 | A dried, walnut-sized pod wrapped in withered ivy. When cracked open, it emits a deep, sweet aroma like crushed pine needles and bloodroot. | [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] |
 
-#### [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]]
+#### [[05_Player Characters/Vespertina\|05_Player Characters/Vespertina]]
 
 | Items Acquired | Description                                                                                                                                                                                                                                                                      | Location        |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
@@ -132,10 +132,10 @@
 
 | Level | Character                 | XP    | New Total | XP to Level Up |
 | ----- | ------------------------- | ----- | --------- | -------------- |
-| 6     | [[05_Player Characters/Kovinar Relkth\|Kovinar Relkth]]        | 960   | 15065     | 7,935          |
-| 6     | [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]] | 1,285 | 15,465    | 7535           |
-| 6     | [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]]      | 1,285 | 15,465    | 7535           |
-| 4     | [[05_Player Characters/Renzo Morokami\|Renzo Morokami]]        | 960   | 5,773     | 727            |
+| 6     | [[05_Player Characters/Kovinar\|Kovinar]]        | 960   | 15065     | 7,935          |
+| 6     | [[05_Player Characters/Vespertina\|05_Player Characters/Vespertina]] | 1,285 | 15,465    | 7535           |
+| 6     | [[05_Player Characters/Squeaks\|Squeaks]]      | 1,285 | 15,465    | 7535           |
+| 4     | [[05_Player Characters/Renzo\|Renzo]]        | 960   | 5,773     | 727            |
 | 5     | [[05_Player Characters/Varian\|Varian]]                | 960   | 7,460     | 8,460          |
 
 ---
@@ -148,7 +148,7 @@
 - [[Items/Non-Magical/journal letter from Miren\|journal letter from Miren]]
 - [[Items/Non-Magical/A note fragment\|A note fragment]]
 - [[Battles/The Ambush at Ya’a Thalor\|The Ambush at Ya’a Thalor]]
-- [[03_Lore/Ya'a Thalor - Last Sanctifier Death\|Ya'a Thalor - Last Sanctifier Death]]
+- [[01_Campaigns/Scenes/Ya'a Thalor - Last Sanctifier Death\|Ya'a Thalor - Last Sanctifier Death]]
 
 ---
 
@@ -192,5 +192,5 @@
 
 | Character                 | Notable Actions / Growth                                                                                                    |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]] | Bypassed a zombie swarm, animated 3 skeletons to defeat Horbon and rescue [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]]                            |
-| [[05_Player Characters/Lurtza (Squeaks)\|Lurtza (Squeaks)]]      | Used Stealth to bypass zombie swarm, assist to [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]] to defeat Horbon and rescue [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]] |
+| [[05_Player Characters/Vespertina\|05_Player Characters/Vespertina]] | Bypassed a zombie swarm, animated 3 skeletons to defeat Horbon and rescue [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]]                            |
+| [[05_Player Characters/Squeaks\|Squeaks]]      | Used Stealth to bypass zombie swarm, assist to [[05_Player Characters/Vespertina\|05_Player Characters/Vespertina]] to defeat Horbon and rescue [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]] |

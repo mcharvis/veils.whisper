@@ -20,4 +20,8 @@ Some whisper that his old masters still watch him from the dark, ensuring their 
 
 Only Varian knows the truth. And he isn’t telling.
 
+| Items Acquired | Description | Location            |
+| -------------- | ----------- | ------------------- |
+| Plate Armor    |             | [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]] |
+
 #PC 

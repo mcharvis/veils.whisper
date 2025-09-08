@@ -7,7 +7,8 @@
 **Role:** Sorceress, prisoner in Jade Stronghold  
 **Allegiance:** Spiritually tied to Tisiphone, one of the Abandoned Sisters
 
-![Velura Portrait.png](/img/user/Velura%20Portrait.png)
+![Velura real.png](/img/user/06_NPCs/Velura%20real.png)
+![Velura Portrait.png](/img/user/00_GM%20Tools/Media/Velura%20Portrait.png)
 
 ### Background
 
@@ -15,7 +16,7 @@ Velura Elaris grew up in **Vis’Avae**, a land full of color and a strange fae 
 
 She was known for her warmth and gentleness. Instead of chasing glory or ambition, Velura used her magic to mend, to protect, and to brighten lives. Children followed her when she sang little cantrips that set [[luminae\|luminae]] dancing, and travelers remembered her for conjuring lights to guide them safely home.
 
-Her quiet path changed when she became connected to **[[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]]**. Where others might have been consumed or corrupted by that power, Velura carried it with grace, never losing her compassion. 
+Her quiet path changed when she became connected to **[[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]]**, one of the Abandoned Sisters. Where others might have been consumed or corrupted by that power, Velura carried it with grace, never losing her compassion. 
 
 When **[[06_NPCs/Miren Elaris\|Miren Elaris]] turned ten**, Velura set out to take her north to **[[02_World/Ahrown, The Kingdom of Elves/Talazan Academy\|Talazan Academy]]**, hoping her daughter’s gifts could be nurtured in safety and away from Sanctifier control. They never reached their destination. On the road, Velura was seized. Miren escaped through means still unclear — some say she wandered into the forest and found her way to the Whispering Asylum — but mother and daughter were never reunited. Velura has remained a prisoner of **[[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]** ever since, her spirit unbroken but her heart fixed on the child she lost. Although she is a relatively low-level sorceress, her alignment to Tisiphone made her a target. To [[06_NPCs/Councilor Varn Drest\|Councilor Varn Drest]] and [[06_NPCs/Commander Velexia\|Commander Velexia]], Velura was not sorceress — she was weapon that could bring down the Sanctifiers.
 

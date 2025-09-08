@@ -11,12 +11,14 @@ Her loyalty to the cause was fractured in secret. In the shadow of Ya’a Thalor
 
 The night of the **zombie ambush**, she was still bound, wrists raw against iron loops in the sanctum’s lower chamber. As Sanctifiers died screaming in the corridors above, an **ogre zombie** tore through the room. It did not kill her cleanly. It beat her into the table, each blow cracking ribs and rattling loose teeth, until her world blurred into blood and stone.
 
-She might have died there, unremarked and unmourned—if not for [[05_Player Characters/Verspertina Galanodel\|Verspertina Galanodel]], who arrived mid-assault. In that moment, Virelle saw her rescuer not as a savior, but as the sudden and alien interruption to a death she had long since stopped running from.
+She might have died there, unremarked and unmourned—if not for [[05_Player Characters/Vespertina\|05_Player Characters/Vespertina]], who arrived mid-assault. In that moment, Virelle saw her rescuer not as a savior, but as the sudden and alien interruption to a death she had long since stopped running from.
 
 Now she is a survivor twice over—once of Halric’s cruelty, and once of the undead’s hunger. But now that she knows [[06_NPCs/Nasha\|Nasha]] was murdered, it is unclear whether she is grateful for either.
 
 ### Madga's Death
-When Magda’s final scream tore through the halls, Virelle did not flinch. She stood over the ghost’s unraveling form, her hands still crackling with the raw energy she had unleashed. The act was not mercy—it was possession of power, the first time she had chosen to end rather than endure. Something inside her shifted as Magda’s essence dissolved, leaving silence where sorrow had lived. In that silence, Virelle lost her purpose... No longer the discarded acolyte, no longer the forgotten Sanctifier, but something...else.
+When Magda’s final scream tore through the halls, Virelle did not flinch. She stood over the ghost’s unraveling form, her hands still crackling with the raw energy she had unleashed. The act was not mercy—it was possession of power, the first time she had chosen to end rather than endure. Something inside her shifted as Magda’s essence dissolved, leaving silence where sorrow had lived. In that silence, Virelle lost her purpose... No longer the discarded acolyte, no longer the forgotten Sanctifier... the Scarlet Raven—an omen of blood, rebirth, and vengeance. The children she lost, the torment she suffered, the years strapped to the table—all of it had carved her into something sharper. What began as survival was becoming a purpose. And soon, the world would remember her not as a victim, but as a murder.
+
+Villian arc: [[06_NPCs/Malis Fiani, The Scarlet Raven\|Malis Fiani, The Scarlet Raven]] 
 
 
 #NPC 

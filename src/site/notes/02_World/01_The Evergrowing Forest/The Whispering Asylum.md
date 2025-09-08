@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-world/01-the-evergrowing-forest/the-whispering-asylum/"}
 ---
 
-Nestled deep in the heart of the [[Evergrowing Forest\|Evergrowing Forest]], the **Whispering Asylum** sits like a stone secret waiting to be unearthed. A wide, low orphanage built of moss-covered stone and rain-slick shingles, the building appears oddly intact despite its age. Its blackened windows resemble hollow eyes. A hand-painted sign still hangs above the front steps, flaking gold letters reading: **“Whispering Asylum.”** The place is not ruined—but it _should_ be.
+Nestled deep in the heart of the [[The Evergrowing Forest\|The Evergrowing Forest]], the **Whispering Asylum** sits like a stone secret waiting to be unearthed. A wide, low orphanage built of moss-covered stone and rain-slick shingles, the building appears oddly intact despite its age. Its blackened windows resemble hollow eyes. A hand-painted sign still hangs above the front steps, flaking gold letters reading: **“Whispering Asylum.”** The place is not ruined—but it _should_ be.
 
 Inside, the architecture is wrong. The halls are too symmetrical. The air is too still. Footsteps echo in unnatural patterns, like the walls are listening. The building feels preserved not by time, but by intention—**something doesn’t want it to decay.** Dust doesn’t settle. Doors close gently when no one’s watching.
 

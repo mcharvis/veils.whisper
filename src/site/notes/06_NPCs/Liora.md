@@ -40,5 +40,14 @@ In truth, Liora is sharp enough to know the Stronghold is a powder keg. If it fa
 
 Liora represents a potential ally — but one who will demand proof before she offers trust. She does not give loyalty easily, especially to outsiders. What she values most is **evidence and leverage**: if the party brings her solid proof of Drest’s corruption or helps expose one of his schemes, she will stand behind them in the Assembly.
 
+If won over, Liora can give the party:
+
+- **Political cover** in Oasis, making it harder for Drest to turn officials against them.
+- **Information** on Assembly disputes, noble tensions, and Pale Flame sympathizers.
+- **Access** to guilds and common networks that Drest has ignored.
+
+But if the party appears careless with the stability of Oasis, Liora will turn on them as quickly as she would any other liability. To her, alliances are tools — useful until they are not.
+
+
 
 #NPC 
