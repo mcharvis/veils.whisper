@@ -44,24 +44,16 @@
 ## 🎯 Objectives
 
 ### ✅ Completed Objectives
-- [x] Defeat [[06_NPCs/The Dreaming Mouth\|The Dreaming Mouth]]
-- [x] Rescue [[06_NPCs/Miren Elaris\|Miren Elaris]]
-- [x] Travel to [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]
-	- Paths chosen
-		- [x] Diplomacy
-			- [x] [[06_NPCs/Liora\|Liora]]'s [[Items/Provisional Writ of Entry\|Provisional Writ of Entry]]
-		- [x] Treachery
-			- [x] Use [[05_Player Characters/Varian\|Varian]] and [[06_NPCs/Liora\|Liora]]'s spies as double agents
-	- [x] Find [[06_NPCs/Velura Elaris\|Velura Elaris]]
-		- [x] Can she be used to gain an audience with [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]]
-- [x] Who is Sanctifier [[06_NPCs/Sanctifier Dronir Maelth\|Sanctifier Dronir Maelth]]? 
+- [x] Rescue [[06_NPCs/Commander Velexia\|Commander Velexia]].
+- [x] Deliver intel to [[06_NPCs/Liora\|Liora]].
+- [x] Travel to Oasis
+- [x] Can [[06_NPCs/Velura Elaris\|Velura Elaris]] be used to gain an audience with [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]].
 
 ### ❌ New/Unfinished Objectives
-- [ ] Can [[06_NPCs/Velura Elaris\|Velura Elaris]] be used to gain an audience with [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]].
+
 - [ ] Where is [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]]?
-- [ ] Travel to Oasis
+- [x] Travel to Oasis
 	- [ ] Who is [[06_NPCs/Countess Ilyra Vaer-Lorne\|Countess Ilyra Vaer-Lorne]]?
-	- [ ] Meet with [[06_NPCs/Liora\|Liora]] and deliver intelligence.
 	- [ ] *Kovinar's Side Quest:* [[Side Quests/Deliver Drest's letter\|Deliver Drest's letter]].
 - [ ] Travel to [[Ahrown, Kingdom of Elves\|Ahrown, Kingdom of Elves]]
 	- [ ] *Verpertina's Side Quest:* [[Side Quests/Side Quest - The Mad King’s Shadow\|Side Quest - The Mad King’s Shadow]] 
@@ -102,14 +94,7 @@
 ---
 
 ### 🎒 Loot & Rewards
-
-#### [[05_Player Characters/Squeaks\|Squeaks]]
-
-| Items Acquired | Description | Location                          |
-| -------------- | ----------- | --------------------------------- |
-
-
-
+ 
 #### [[05_Player Characters/Vespertina\|Vespertina]]
 
 | Items Acquired               | Description                                                                                                                                                                                                          | Location                 |
