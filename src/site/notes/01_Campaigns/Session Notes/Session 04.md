@@ -65,10 +65,7 @@
 - [ ] Who are Tisiphone, Hecate, & Nyx and how do we find them?
 	- [ ] Obtain the missing three pieces of the [[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]] and assemble them.
 - [ ] Seek the advice from The Oracle ...if/when she ever returns.
----
 
-## 🧱 Major Events
-- [[Battles/Battle - The Siege of Jade Stronghold\|Battle - The Siege of Jade Stronghold]]
 ---
 
 ## 🧑‍🤝‍🧑 NPCs Met/Discovered
