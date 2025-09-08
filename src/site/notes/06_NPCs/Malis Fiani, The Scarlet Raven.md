@@ -8,14 +8,9 @@ _Former Sanctifier. Mother betrayed. Survivor twice over._
 
 - **True Name:** [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]]
     
-- **Hidden Identity:** Malis Vain, _The Scarlet Raven_
-    
 - **Class/Theme:** Sanctifier → Apostate → Dark Prophetess
     
 - **Alignment Shift:** Lawful Neutral → Lawful Evil
-    
-- **Signature Imagery:** Black-plumed cloak streaked crimson, a silver raven-skull clasp, ritual dagger with a feather-wrapped hilt, blood-and-wax-scented parchments.
-    
 
 ### **Past**
 
@@ -35,7 +30,7 @@ When Halric discovered the truth, his punishment was absolute. She was stripped 
 ### **The Breaking Point**
 
 **The Zombie Ambush**  
-During the Ahrown undead incursion into Ya’a Thalor, Virelle was still strapped to an iron table receiving her regular punishment. The screams above grew closer. The door burst open—not with rescue, but with an **ogre zombie** that smashed her into the wood until her ribs cracked and teeth shattered.
+During the Ahrown undead incursion into [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]], Virelle was still strapped to an iron table receiving her regular punishment. The screams above grew closer. The door burst open—not with rescue, but with an **ogre zombie** that smashed her into the wood until her ribs cracked and teeth shattered.
 
 It would have killed her had **[[05_Player Characters/Vespertina\|Vespertina]]** not arrived mid-assault. Vespertina cut the beast down and freed her.
 
@@ -49,7 +44,7 @@ But to Virelle, the moment wasn’t salvation—it was interruption. She had bee
 Now Virelle has learned the truth: **the party killed [[06_NPCs/Nasha\|Nasha]]**. Whether directly by their hands or as the result of their actions, her daughter—already a victim of Virelle’s abandonment—is gone.
 
 **The Scarlet Raven Rises**  
-Her grief fuses with hatred. The Sanctifiers abandoned her. Her daughter is dead. The _Mind-Chain_ no longer feels like purpose—it feels like a weapon she should turn outward. She fashions a new identity: **Malis Fiani, The Scarlet Raven**. The name is an anagram of her birth, a private reminder that she is the same woman, but stripped of loyalty, mercy, and restraint.
+Her grief fuses with hatred. The Sanctifiers abandoned her. Her daughter is dead. The _Mind-Chain_ no longer feels like purpose—it feels like a weapon she should turn outward. She fashions a new identity: **Malis Fiani, The Scarlet Raven**. The name is an anagram of her name and title, a private reminder that she is the same woman, but stripped of loyalty, mercy, and restraint.
 
 
 
