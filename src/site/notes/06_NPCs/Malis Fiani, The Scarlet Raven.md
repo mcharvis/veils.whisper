@@ -41,7 +41,7 @@ But to Virelle, the moment wasn’t salvation—it was interruption. She had bee
 ### **Present Day**
 
 **The Shattered Mother**  
-Now Virelle has learned the truth: **the party killed [[06_NPCs/Nasha\|Nasha]]**. Whether directly by their hands or as the result of their actions, her daughter—already a victim of Virelle’s abandonment—is gone.
+Now Virelle has learned the truth: **the party killed [[06_NPCs/Nasha\|Nasha]]**. Her daughter—already a victim of Virelle’s abandonment—is gone.
 
 **The Scarlet Raven Rises**  
 Her grief fuses with hatred. The Sanctifiers abandoned her. Her daughter is dead. The _Mind-Chain_ no longer feels like purpose—it feels like a weapon she should turn outward. She fashions a new identity: **Malis Fiani, The Scarlet Raven**. The name is an anagram of her name and title, a private reminder that she is the same woman, but stripped of loyalty, mercy, and restraint.
