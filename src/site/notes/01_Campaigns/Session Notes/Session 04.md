@@ -39,7 +39,7 @@
 > The name burned above them in scarlet fire: **Malis Fiani, The Scarlet Raven.** Then the letters twisted, rearranging into another name—**Sanctifier Samantha Virelle.** She vanished into the sky, leaving Squeaks broken on the ground and the party reeling with the truth.
 > That night, Kovinar and Squeaks drank the last of Oth’s potions, every drop spent to survive until morning.
 
-![Screenshot 2025-09-07 at 10.13.20 PM.png](/img/user/Screenshot%202025-09-07%20at%2010.13.20%20PM.png)
+![Screenshot 2025-09-07 at 10.13.20 PM 1.png](/img/user/Screenshot%202025-09-07%20at%2010.13.20%20PM%201.png)
 
 ## 🎯 Objectives
 
