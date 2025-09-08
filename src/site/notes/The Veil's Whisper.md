@@ -46,7 +46,8 @@
 ### 📂 Campaign Arcs
 - [ ]  A Shattered Path
 	- [ ] Road to the Abandoned Thrones
-
+	- [ ] False Prophets
+	- [ ] Scarlet Murder 
 --- 
 
 ## 🔮 Words from an Oracle
