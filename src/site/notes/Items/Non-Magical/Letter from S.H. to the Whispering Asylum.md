@@ -14,6 +14,6 @@ She doesn’t speak unless she’s alone. She doesn’t blink when she’s watch
 
 We thought she was haunted. Now I’m certain: she is the haunting. Whatever you buried in her… it isn’t dormant. You should have never let her leave.
 
-—[[06_NPCs/Sanctifier Halric\|S.H.]]
+—[[06_NPCs/Sanctifier John Halric\|S.H.]]
 
 #nonmagicalitem

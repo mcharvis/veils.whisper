@@ -33,7 +33,7 @@ A broad band of braided gold alloy and smelted volcanic glass, resembling swirli
 
 Legends of the Cinderflare Wayfinder have mostly been lost to time. A scorched page in a ruined chronicle claims fire genasi artisans forged the ring using the final breath of a phoenix. Other texts suggest rebel mages used it to escape collapsing planar portals during the [[Siege of the Ember Gate\|Siege of the Ember Gate]].
 
-By the time scholars recovered its name, its trail had already grown cold. The ring’s current whereabouts are thought to be unknown. However, it is currently in the possession of [[05_Player Characters/Vespertina\|05_Player Characters/Vespertina]]
+By the time scholars recovered its name, its trail had already grown cold. The ring’s current whereabouts are thought to be unknown. However, it is currently in the possession of [[05_Player Characters/Vespertina\|Vespertina]]
 
 ---
 

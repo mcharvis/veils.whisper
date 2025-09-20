@@ -7,6 +7,8 @@
 **Malrik Ceniza**  
 (_Vex Ceniza in life_)   
 
+![D2uJfbxULo5nspQuZkFWnf.jpeg](/img/user/D2uJfbxULo5nspQuZkFWnf.jpeg)
+
 ---
 
 ### The Life of Malrik Ceniza

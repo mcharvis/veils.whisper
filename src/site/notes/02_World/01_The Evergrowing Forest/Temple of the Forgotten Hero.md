@@ -11,7 +11,7 @@ This is the final resting place of [[06_NPCs/Caelen, Firstborn of the Flame\|Cae
 
 Caelen’s **four spectral knights** used to linger here—shades of the past, armorless and silent, bound by oath not to protect the tomb from intruders, but to **weigh intentions**. Those aligned with the Flame—whatever that may now mean—are permitted to pass unchallenged. 
 
-Three of the knights were killed by [[05_Player Characters/Kovinar\|Kovinar]], [[05_Player Characters/Vespertina\|05_Player Characters/Vespertina]], [[05_Player Characters/Squeaks\|Squeaks]], & [[05_Player Characters/Renzo\|Renzo]].
+Three of the knights were killed by [[05_Player Characters/Kovinar\|Kovinar]], [[05_Player Characters/Vespertina\|Vespertina]], [[05_Player Characters/Squeaks\|Squeaks]], & [[05_Player Characters/Renzo\|Renzo]].
 
 ---
 
@@ -20,5 +20,7 @@ Three of the knights were killed by [[05_Player Characters/Kovinar\|Kovinar]], [
 One side of the tomb bears a jagged opening—not fresh, not the work of cultists or weather. **A scar**, not a wound. Stone sloughed away like dead flesh. It leads out into [[02_World/01_The Evergrowing Forest/The Forgotten Swamp\|The Forgotten Swamp]], but its presence is **deliberate**. The wall was destroyed by raiders searching for [[Items/Magical/The Cursed Cross\|The Cursed Cross]] but they never found it. 
 
 The hole in the wall is still used by someone.... a woman calling herself [[06_NPCs/Talia\|The Oracle]], claiming to guide adventurers toward **Xaphan’s prophecy**. Her path is **self-serving**, paved with vague-truths and veiled motives. She doesn’t want to destroy the Veil—she just wants to find [[05_Player Characters/Inactive/Xaphan\|Xaphan]]. 
+
+
 
 #location

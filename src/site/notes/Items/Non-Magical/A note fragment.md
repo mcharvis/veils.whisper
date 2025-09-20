@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/non-magical/a-note-fragment/"}
 ---
 
-[[06_NPCs/Sanctifier Halric\|Halric]] agreed. 
+[[06_NPCs/Sanctifier John Halric\|Halric]] agreed. 
 He said no one would believe she left on her own. And to think that her mother is so close... 
 
 There is no way we can infiltrate the [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]…yet. [[04_Organizations/The Sanctifiers\|Sanctifiers]] aren’t numerous enough. 

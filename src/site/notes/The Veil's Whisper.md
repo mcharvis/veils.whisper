@@ -9,39 +9,42 @@
 > _"Prepare to Die"_
 
 ## 🧭 Current Status
-- **Latest Session**: [[01_Campaigns/Session Notes/Session 04\|Session 04]]
+- **Latest Session**: [[00_GM Tools/Session Notes/Session 05\|Session 05]]
 - **Party Members**: [[05_Player Characters/Kovinar\|Kovinar]], [[05_Player Characters/Vespertina\|Vespertina]], [[05_Player Characters/Squeaks\|Squeaks]], [[05_Player Characters/Renzo\|Renzo]], [[05_Player Characters/Varian\|Varian]]
-- **Current Location**: [[The Evergrowing Forest\|The Evergrowing Forest]] - [[02_World/01_The Evergrowing Forest/Oasis\|Oasis]] - [[The Pale Lantern Inn\|The Pale Lantern Inn]]
+- **Current Location**: [[Ahrown, Kingdom of Elves\|Ahrown, Kingdom of Elves]] - Mithril Hills
 - **Goals**:
-	- [x] Can [[06_NPCs/Velura Elaris\|Velura Elaris]] be used to gain an audience with [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]].
-	- [x] Where is [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]]?
+	- [ ] Where is [[06_NPCs/Malis Fiani, The Scarlet Raven\|The Scarlet Raven]]?
 	- [x] Travel to Oasis
 		- [ ] Who is [[06_NPCs/Countess Ilyra Vaer-Lorne\|Countess Ilyra Vaer-Lorne]]?
-		- [x] Deliver intelligence to [[06_NPCs/Liora\|Liora]].
-		- [ ] *Kovinar's Side Quest:* [[Side Quests/Deliver Drest's letter\|Deliver Drest's letter]].
-		- [ ] Complete side quests.
-	- [ ] Travel to [[Ahrown, Kingdom of Elves\|Ahrown, Kingdom of Elves]]
+		- [ ] Infiltrate [[02_World/01_The Evergrowing Forest/Thornhold Keep\|Thornhold Keep]] to recover a sealed reliquary from its underground archives  
+		- [ ] Complete The Hollow Market side quest
+		- [ ] Complete Grain & Gloom General side quest
+		- [ ] Complete Ashroot Homestead
+	- [x] Travel to [[Ahrown, Kingdom of Elves\|Ahrown, Kingdom of Elves]]
 		- [ ] *Verpertina's Side Quest:* [[Side Quests/Side Quest - The Mad King’s Shadow\|Side Quest - The Mad King’s Shadow]] 
-		- [ ] [[01_Campaigns/Encounters/2 - Ahrown/Encounter V - Secure Passage to Vis'Avae\|Secure Passage to Vis'Avae]]
-		- [ ] Visit [[Sancitifier Halric\|Sancitifier Halric]]'s last known location in Mithril Hills.
+		- [ ] [[01_Campaigns/Encounters/2 - Ahrown/Encounter 2.6 - Secure Passage to Vis'Avae\|Secure Passage to Vis'Avae]]
+		- [ ] Return the [[Bloodfire Shards\|Bloodfire Shards]] Mine to functional status
+	- [ ] Travel to [[Vindicative Enterprises\|Vindicative Enterprises]]
+		- [ ] Secure access to your overworld mine profits by recovering the stolen **Ledger Seal** from [[06_NPCs/Veyra, the Ashmonger\|Veyra, the Ashmonger]]
 	- [ ] Travel to [[02_World/Vis’Avae\|Vis’Avae]]
 		- [ ] Speak to [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]].
-		- [ ] Visit the [[Bellum Crystallum\|Bellum Crystallum]] and obtain the next shard of the [[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]].
-	- [x] Can [[06_NPCs/Velura Elaris\|Velura Elaris]] be used to gain an audience with [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]]?
+		- [ ] Visit the [[Bellum Crystallum\|Bellum Crystallum]].
 	- [x] Who are Tisiphone, Hecate, & Nyx and how do we find them?
 		- [ ] Obtain the missing three pieces of the [[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]] and assemble them.
 	- [ ] Seek the advice from The Oracle ...if/when she ever returns.
+
 
 ---
 
 ## 📆 Sessions & Progress
 
 ### 🧾 Session Logs
-- [[01_Campaigns/Session Notes/Session 00\|Session 00]]: Sixteen Centuries Late
-- [[01_Campaigns/Session Notes/Session 01\|Session 01]]: False Bottoms and Forgotten Children
-- [[01_Campaigns/Session Notes/Session 02\|Session 02]]: From Ashes to Ashrend
-- [[01_Campaigns/Session Notes/Session 03\|Session 03]]: Whispers of Treachery, Echoes of Escape
-- [[01_Campaigns/Session Notes/Session 04\|Session 04]]: The Scarlet Raven Descends
+- [[00_GM Tools/Session Notes/Session 00\|Session 00]]: Sixteen Centuries Late
+- [[00_GM Tools/Session Notes/Session 01\|Session 01]]: False Bottoms and Forgotten Children
+- [[00_GM Tools/Session Notes/Session 02\|Session 02]]: From Ashes to Ashrend
+- [[00_GM Tools/Session Notes/Session 03\|Session 03]]: Whispers of Treachery, Echoes of Escape
+- [[00_GM Tools/Session Notes/Session 04\|Session 04]]: The Scarlet Raven Descends
+- [[00_GM Tools/Session Notes/Session 05\|Session 05]]: The Black Crow Ascends
 
 ### 📂 Campaign Arcs
 - [ ]  A Shattered Path
@@ -80,14 +83,17 @@
 		- [[Yll'nor Dorei\|Yll'nor Dorei]]
 		- [[On'en Dorei\|On'en Dorei]]
 		- [[02_World/Ahrown, The Kingdom of Elves/Talazan Academy\|Talazan Academy]]
+		- [[Mithril Hills\|Mithril Hills]]
 	- Unknown Region
+		- Fongon Aeon Temple
 		- [[Basville\|Basville]]
 		- [[02_World/Obsidian Lands of Volencia/Necromanteion\|Necromanteion]]
 
 
 ### 📜 Lore & History
 - [[06_NPCs/Caelen, Firstborn of the Flame\|Caelen, Firstborn of the Flame]]
-
+- [[06_NPCs/Malphas\|Malphas]]
+- [[06_NPCs/Verrath Dymane\|Verrath Dymane]]
 ---
 
 ## 🎭 Characters & Factions
@@ -106,9 +112,10 @@
 - [[06_NPCs/Talia\|The Oracle]] 
 - [[06_NPCs/Miren Elaris\|Miren Elaris]]
 - [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]]
-- [[06_NPCs/Sanctifier Halric\|Sanctifier Halric]] 
+- [[06_NPCs/Sanctifier John Halric\|Sanctifier John Halric]] 
 - [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]] 
 	- [[06_NPCs/Nasha\|Nasha]]
+	- [[06_NPCs/Malis Fiani, The Scarlet Raven\|Malis Fiani, The Scarlet Raven]]  
 - [[06_NPCs/Councilor Varn Drest\|Councilor Drest]]
 - [[06_NPCs/Farrún, The Wayfinder\|Farrún, The Wayfinder]]
 - [[06_NPCs/Magda Velt, The Lunch Matron\|Magda Velt, The Lunch Matron]]
@@ -120,12 +127,10 @@
 - [[06_NPCs/Velura Elaris\|Velura Elaris]]
 - [[06_NPCs/Commander Velexia\|Commander Velexia]]
 
-- [[06_NPCs/King Aldenor\|King Aldenor]]
 - [[06_NPCs/Liora\|Liora]]
 - [[06_NPCs/Seren of the Pale Flame\|Seren of the Pale Flame]]
 - [[06_NPCs/Snap, Crackle, and Pop\|Snap, Crackle, and Pop]]
 
-- [[06_NPCs/Malis Fiani, The Scarlet Raven\|Malis Fiani, The Scarlet Raven]]  
 - [[06_NPCs/Kaelin Vetch\|Kaelin Vetch]]  
 - [[Dreson\|Dreson]]    
 - [[06_NPCs/Thorne Drevic\|Thorne Drevic]]  
@@ -136,7 +141,11 @@
 - [[06_NPCs/Bruma Anvil-Eye\|Bruma Anvil-Eye]]  
 - [[06_NPCs/Kelm and Crow\|Kelm and Crow]]    
 - [[06_NPCs/Gravekeeper Oth\|Gravekeeper Oth]]                        
-- [[06_NPCs/Vani, Lapidary of Bones\|Vani, Lapidary of Bones]]                
+- [[06_NPCs/Vani, Lapidary of Bones\|Vani, Lapidary of Bones]]             
+- [[06_NPCs/Irren the Needle\|Irren the Needle]]
+- [[06_NPCs/Verrath Dymane\|Verrath Dymane]]
+- [[06_NPCs/Malphas\|Malphas]]
+- [[Dr. Brenden Gongol\|Dr. Brenden Gongol]]
 
 ### 🛡️ Allies
 - [[06_NPCs/Sir Lucian Caelmoor\|Sir Lucian Caelmoor]] 
@@ -172,6 +181,7 @@
 
 ### 🧰 Player Resources
 - [[00_GM Tools/Books\|Books]] 
+- [[00_GM Tools/Shop/Bank\|Bank]]
 
 ### 🪙 Items & Artifacts
 - [[Items/Magical/The Cursed Cross\|The Cursed Cross]]
