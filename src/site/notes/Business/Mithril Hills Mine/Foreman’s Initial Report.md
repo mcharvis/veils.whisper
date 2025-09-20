@@ -30,27 +30,18 @@ I’ve checked each tunnel. Every chamber holds **all four ores** — iron in ro
 	    - Gold: Average
 	    - [[Bloodfire Shards\|Bloodfire Shards]]: Poor 
     
-- **Western Chamber (side cavern with timber frame):**  
-    Iron dominates here, with silver lacing and a few stubborn shards. Timbers are cracked and the bend of the cartway makes derailments likely. 
-    - NEEDS:
-	    - **175 gp: fresh wedges and braces** to keep stable. 
-		
-    - Potential Yield: 
-	    - Iron: Rich
-	    - Silver: Poor
-	    - Gold: None
-	    - [[Bloodfire Shards\|Bloodfire Shards]]: Poor 
-    
 - **Lower Tunnels (near lava flow):**  
     All ores appear, but heat drives the gold into fragile seams and shards into dangerous clusters. The air is thin and carts scorch their wheels. Without the **ventilation system** (same 80 gp bellows and ducting), this level is death to miners. With it, the chambers could be worked with a chance of sudden finds.
     - NEEDS:
 		- **80 gp: ventilation bellows**
-		
+		- **175 gp: fresh wedges and braces** to keep stable. 
     - Potential Yield: 
 	    - Iron: Average
 	    - Silver: Average
 	    - Gold: Average
 	    - [[Bloodfire Shards\|Bloodfire Shards]]: Poor but there is potential for more with new mines.
+
+“One miner can clear one 5×5×5 block per day, costing about 15 gp. Scale up by miners for speed.”
 
 ---
 
@@ -117,7 +108,7 @@ With shards glowing like lanterns and gold dust sticking to boots, theft is a ce
 
 ### Refining
 
-Selling ore raw yields **half value**. A **smelter (20 gp/week)** and a **bloomery with crucibles (1000 gp one-time)** will double profits, especially on silver, gold, and shards.
+Selling ore raw yields **half value**. A **smelter (300 gp/week)** and a **bloomery with crucibles (1000 gp one-time)** will double profits, especially on silver, gold, and shards.
 
 ##### **Smelter Capacity (one bloomery with crucibles + one smelter)**
 
