@@ -41,7 +41,7 @@ I’ve checked each tunnel. Every chamber holds **all four ores** — iron in ro
 	    - Gold: Average
 	    - [[Bloodfire Shards\|Bloodfire Shards]]: Poor but there is potential for more with new mines.
 
-“One miner can clear one 5×5×5 block per day, costing about 15 gp. Scale up by miners for speed.”
+“One miner can clear and brace one 5×5×5 block in 3 days, costing about 30 gp (10gp x 3 days). Scale up by miners for speed.”
 
 ---
 
