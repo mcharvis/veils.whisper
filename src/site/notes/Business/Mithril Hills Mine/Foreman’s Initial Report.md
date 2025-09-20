@@ -74,7 +74,7 @@ With shards glowing like lanterns and gold dust sticking to boots, theft is a ce
 
 ### Taxes 
 
-- **Mad King’s Cut:** 10% of gross profits.
+- **Mad King’s Cut:** 20% of gross profits.
 
 ---
 
@@ -112,17 +112,17 @@ Selling ore raw yields **half value**. A **smelter (300 gp/week)** and a **bloom
 
 ##### **Smelter Capacity (one bloomery with crucibles + one smelter)**
 
-- Can refine **about 100 units of ore per day**, **600 units per week**.
+- Can refine **about 50 units of ore per day**, **300 units per week**.
 - Different ores take more time:
     - **Iron:** 1 lb counts as 1 unit
     - **Silver/Gold:** 1 lb counts as 2 units
     - **Bloodfire Shards:** 1 lb counts as 4 units
 
 So in practice:
-- **600 lb of iron/week**, or
-- **300 lb of silver or gold/week**, or
-- **150 lb of Bloodfire/week**,  
-    or any mix that adds up to the weekly 600-lb limit.
+- **300 lb of iron/week**, or
+- **150 lb of silver or gold/week**, or
+- **75 lb of Bloodfire/week**,  
+    or any mix that adds up to the weekly 300-lb limit.
 
 Anything above that has to be sold raw at half value or stockpiled.
 
