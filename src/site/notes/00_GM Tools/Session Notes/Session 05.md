@@ -74,7 +74,7 @@
 		- [x] Eliminate [[06_NPCs/Sanctifier John Halric\|Sanctifier John Halric]]
 - [x] Who are Tisiphone, Hecate, & Nyx and how do we find them?
 
-Optional Objectives
+#### Optional Objectives
 - [x] Take possession of Mithril Hills: [[Bloodfire Shards\|Bloodfire Shards]] Mine
 - [x] Travel to Oasis 
 	- [x] *Kovinar's Side Quest:* [[Side Quests/Deliver Drest's letter\|Deliver Drest's letter]].
