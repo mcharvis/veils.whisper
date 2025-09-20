@@ -137,7 +137,7 @@
 
 ## 🔍 Clues & Lore
 - [[Items/Non-Magical/The 3 photos of a class\|Class Photos from The Whispering Asylum]]… some with [[06_NPCs/Miren Elaris\|Miren Elaris]] violently erased. 
-- [[Items/Non-Magical/A letter from Miren addressed to "Mama"\|A letter from Miren addressed to "Mama"]] apologizing for her escape and determination to find her. 
+- [[Items/Non-Magical/A letter from Miren addressed to Mama\|A letter from Miren addressed to Mama]] apologizing for her escape and determination to find her. 
 - An [[Items/Non-Magical/Escape Record\|Escape Record]] of [[06_NPCs/Miren Elaris\|Miren Elaris]].  
 - [[Items/Non-Magical/Torture Log\| A log that shows the Headmaster tortured the children]]. 
 - [[Items/Non-Magical/Letter from S.H. to the Whispering Asylum\|Letter from S.H. to the Whispering Asylum]]
