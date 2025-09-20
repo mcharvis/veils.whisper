@@ -112,7 +112,6 @@
 | [[06_NPCs/Verrath Dymane\|Verrath Dymane]]           | Once a scribe-turned-warmage who delighted in controlling information.                                                                                                                                                                                         | Sentient Memory |                                         |
 | [[06_NPCs/Malphas\|Malphas]] | A Duke of Hell, once a favored general of Tiamat when she still ruled Avernus. <br><br>He embodies duality: the master builder who can raise fortresses overnight, and the crow-trickster who lures mortals with promises of protection before betraying them. | Archdevil       | Carceri - [[06_NPCs/Gods/Nerull\|Nerull]]                    |
 
-
 ---
 
 ### Mosaic Dice Upgrades
