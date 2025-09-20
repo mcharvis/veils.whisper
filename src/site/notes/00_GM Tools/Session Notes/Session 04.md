@@ -5,7 +5,7 @@
 # The Scarlet Raven Descends
 
 **Date:** 08/23/2025
-**Location:** Christine's House  
+**Location:** Tristan's House  
 **DM:** Mike
 **Players Present:** Ryan, Tristan, Christine, Jesus, Mike Charvis, Mike Crump 
 
