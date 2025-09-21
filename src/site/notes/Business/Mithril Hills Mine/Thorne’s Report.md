@@ -232,6 +232,7 @@ To turn this from a death-trap into a working mine:
 - **Labor:**
     - Miners (15): 150 gp
     - Engineers (6): 90 gp
+    - Masons (0): 0 gp
     - Foreman: 25 gp
     - Supplies: 90 gp
     - Prisoners: 0 gp
