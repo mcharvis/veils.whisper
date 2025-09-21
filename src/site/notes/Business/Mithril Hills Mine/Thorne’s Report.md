@@ -222,7 +222,7 @@ To turn this from a death-trap into a working mine:
 7. **Hire 4-6 guards (25 gp/week/per guard each).**
 8. Decide the fate of the **prisoners**.
 
-**Total Immediate costs:** 1,765 gp   
+**Total Immediate costs:** 1,965 gp   
 
 ---
 
