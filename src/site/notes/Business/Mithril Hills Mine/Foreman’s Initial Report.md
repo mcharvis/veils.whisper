@@ -44,9 +44,8 @@ I’ve checked each tunnel. Every chamber holds **all four ores** — iron in ro
 ### Mining/Constructing new spaces
 
 - Requires engineer evaluation: 90 gp
-- Creating a functional room will require masons.
+
 - One miner can clear and brace one 5×5×5 block in 3 days, costing about 30 gp (10gp x 3 days). Scale up by miners for speed.
-	- Rooms are 10 ft high.
 	- Rule of Thumb (Rooms & Hallways)
 		- **10×10 room (10 ft tall):
 			- 8 blocks = **240 gp**, **24 miner-days**
@@ -58,6 +57,27 @@ I’ve checked each tunnel. Every chamber holds **all four ores** — iron in ro
 	        - 2 stacked blocks = **60 gp**, **6 miner-days**
             - With 6 miners = 1 day
 
+- Creating a functional room will require masons.
+- One mason can build one 5×5×10 wall in 1 day, costing about 30 gp (10gp x 3 days). Scale up by miners for speed.
+	- Rooms are 10 ft high.
+	- Rule of Thumb (Masons)
+		- **10×10 room (10 ft tall):**
+		    - Needs **four interior walls × 10 ft wide × 10 ft tall.**
+			- That’s **8 wall segments** (two per wall).
+	        - **8 mason-days**, **80 gp**.
+			- With 4 masons: **2 days**.
+        - **20×20 room (10 ft tall):**
+	        - Four walls × 20 ft wide × 10 ft tall.
+	        - Each wall = **8 segments** → **32 segments total.**
+            - **32 mason-days**, **320 gp**.
+            - With 8 masons: **4 days**.
+        - **5×5×10 hallway (10 ft tall, 5 ft long):**
+	        - Two long walls + two short end walls = **4 wall segments.**
+            - **4 mason-days**, **40 gp**.
+            - With 4 masons: **1 day**.
+
+
+
 ---
 
 ### People & Payroll
@@ -66,6 +86,7 @@ Current workforce:
 
 - **15 miners:** 15 miners × 10 gp/wk = **150 gp/wk**
 - **6 engineers** (on carts and rails): 6 engineers × 15 gp = **90 gp/wk**
+- **0 Masons:** 0 masons x 10 gp/wk = 0 gp/wk
 - **3 prisoners** shackled near the barracks
 - **1 foreman (myself)**: 25 gp/wk
 
@@ -73,17 +94,17 @@ Current workforce:
 
 - Miners: 150 gp/wk
 - Engineers: 90 gp/wk
+- Masons: 0 gp/wk
 - Foreman (me): 25 gp/wk
-- Supplies (food, oil, tools): 75 gp/wk
-- Prisoner rations: 3 gp/wk  
+- Supplies (food, oil, tools): 3 gp/wk/soul 
 
 **Total: ~ 343 gp/week**
 
 ### Mine Security (Needed)
 
-With shards glowing like lanterns and gold dust sticking to boots, theft is a certainty. Recommend 4-6 guards (15 gp/week each)** to patrol rails and hoists.
+With shards glowing like lanterns and gold dust sticking to boots, theft is a certainty. Recommend 4-6 guards (25 gp/week each)** to patrol rails and hoists.
 
-**Total: ~ 60-90 gp/week**
+**Total: ~ 100-150 gp/week**
 
 ---
 
@@ -95,11 +116,11 @@ With shards glowing like lanterns and gold dust sticking to boots, theft is a ce
 
 ### Transport & Protection
 
-- **Caravans:** Hauling ore to VE costs ~**25 gp per 50 lb** by mule, more if guarded wagons are used.
-	- 600 lb = 300 gp
+- **Caravans:** Hauling ore to VE costs ~**1 gp per 1 lb** by mule, more if guarded wagons are used.
+	- Max/Load: 300 lb = 300 gp
     
-- **Escorts:** Mercenaries charge **15 gp/week per head**; expect at least 4–6 for a caravan.
-	- 60-90 gp/week
+- **Escorts:** Mercenaries charge **50 gp/week per head**; expect at least 4–6 for a caravan.
+	- 200-300 gp/week
     
 - **Bandit Toll:** If unescorted, roll a d6: on 1–2, **bandits steal d100%** of that week’s shipment.
 
@@ -117,7 +138,6 @@ With shards glowing like lanterns and gold dust sticking to boots, theft is a ce
     - Poor: 1d4 lbs
     - Average: 1d6 lbs
     - Rich: 2d6 lbs
-    - Legendary: 4d6 lbs
     
 ---
 
@@ -125,7 +145,7 @@ With shards glowing like lanterns and gold dust sticking to boots, theft is a ce
 
 Selling ore raw yields **half value**. A **smelter (300 gp/week)** and a **bloomery with crucibles (1000 gp one-time)** will double profits, especially on silver, gold, and shards. We need to build a smelting room. 
 
-**Halric's alchemists were using refined Bloodfire Shards to discover/create magical substances. There are some alchemy notes to review.**
+***Halric's alchemists were using refined Bloodfire Shards to discover/create magical substances. There are some alchemy notes to review.***
 
 
 ##### **Smelter Capacity (one bloomery with crucibles + one smelter)**
@@ -182,7 +202,7 @@ Anything above that has to be sold raw at half value or stockpiled.
 
 Three captives remain chained in the barracks. Their presence sours morale. You must choose:
 
-- **Hire them** (gain +3 miners, morale boost).
+- **Hire them** (gain +3 miners/engineers/masons, morale boost).
 - **Release/banish** (save costs now, but they know about the mines).
 - **Keep imprisoned** (sabotage/disease risk).
 - **Eliminate them** (save costs, but lose moral)
@@ -199,7 +219,7 @@ To turn this from a death-trap into a working mine:
 4. **240 gp**: new ties and wheels for a broken minecart
 5. **175 gp:** fresh wedges and braces to keep stable. 
 6. **1,000 gp** for bloomery and crucibles, plus **20 gp/week** for a smelter.
-7. **Hire 4-6 guards (15 gp/week/per guard each).**
+7. **Hire 4-6 guards (25 gp/week/per guard each).**
 8. Decide the fate of the **prisoners**.
 
 **Total Immediate costs:** 1,765 gp   
@@ -214,18 +234,18 @@ To turn this from a death-trap into a working mine:
     - Engineers (6): 90 gp
     - Foreman: 25 gp
     - Supplies: 75 gp
-    - Prisoners: 3 gp
+    - Prisoners: 0 gp
     
     - **Subtotal Labor = 343 gp**
     
-- **Security:** Guards (4–6): 60–90 gp
+- **Security:** Guards (4–6): 100-150 gp
 - **Smelter:** 20 gp + fuel (≈10 gp/week)
-- **Transport:** 300 gp for a 600-lb load (if fully refined and shipped)
+- **Transport:** 300 gp for a 300-lb load (if fully refined and shipped)
 - **Escort:** 60–90 gp
 - **Taxes:** 10% gross (before costs)
 
 **Typical Costs Weekly = 793–856 gp + 20% tax**  
-(assuming 600 lb shipped with guards & smelting).
+(assuming 300 lb shipped with guards & smelting).
 
 
 ---
