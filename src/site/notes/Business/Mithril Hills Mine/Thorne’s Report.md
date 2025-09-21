@@ -47,7 +47,7 @@ I’ve checked each tunnel. Every chamber holds **all four ores** — iron in ro
 
 - One miner can clear and brace one 5×5×5 block in 3 days, costing about 30 gp (10gp x 3 days). Scale up by miners for speed.
 	- Rule of Thumb (Rooms & Hallways)
-		- **10×10 room (10 ft tall):
+		- **10×10 room (10 ft tall):**
 			- 8 blocks = **240 gp**, **24 miner-days**
 	        - With 8 miners = ~3 days
 		- **20×20 room (10 ft tall):**
