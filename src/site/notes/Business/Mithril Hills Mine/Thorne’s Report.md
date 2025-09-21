@@ -102,7 +102,7 @@ Current workforce:
 
 ### Mine Security (Needed)
 
-With shards glowing like lanterns and gold dust sticking to boots, theft is a certainty. Recommend 4-6 guards (25 gp/week each)** to patrol rails and hoists.
+With shards glowing like lanterns and gold dust sticking to boots, theft is a certainty. Recommend **4-6 guards (25 gp/week each)** to patrol rails and hoists.
 
 **Total: ~ 100-150 gp/week**
 
