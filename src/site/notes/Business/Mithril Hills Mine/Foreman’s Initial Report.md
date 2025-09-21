@@ -41,7 +41,22 @@ I’ve checked each tunnel. Every chamber holds **all four ores** — iron in ro
 	    - Gold: Average
 	    - [[Bloodfire Shards\|Bloodfire Shards]]: Poor but there is potential for more with new mines.
 
-“One miner can clear and brace one 5×5×5 block in 3 days, costing about 30 gp (10gp x 3 days). Scale up by miners for speed.”
+### Mining/Constructing new spaces
+
+- Requires engineer evaluation: 90 gp
+- Creating a functional room will require masons.
+- One miner can clear and brace one 5×5×5 block in 3 days, costing about 30 gp (10gp x 3 days). Scale up by miners for speed.
+	- Rooms are 10 ft high.
+	- Rule of Thumb (Rooms & Hallways)
+		- **10×10 room (10 ft tall):
+			- 8 blocks = **240 gp**, **24 miner-days**
+	        - With 8 miners = ~3 days
+		- **20×20 room (10 ft tall):**
+			- 32 blocks = **960 gp**, **96 miner-days**
+            - With 16 miners = ~6 days
+		- **5×5×10 hallway segment (10 ft tall, 5 ft long):**
+	        - 2 stacked blocks = **60 gp**, **6 miner-days**
+            - With 6 miners = 1 day
 
 ---
 
@@ -74,7 +89,7 @@ With shards glowing like lanterns and gold dust sticking to boots, theft is a ce
 
 ### Taxes 
 
-- **Mad King’s Cut:** 20% of gross profits.
+- **Kingdom of Ahrown:** 20% of gross profits.
 
 ---
 
@@ -95,7 +110,7 @@ With shards glowing like lanterns and gold dust sticking to boots, theft is a ce
     - Iron: 1 gp/lb
     - Silver: 5 gp/lb
     - Gold: 50 gp/lb
-    - [[Bloodfire Shards\|Bloodfire Shards]]: 100+ gp/lb
+    - [[Bloodfire Shards\|Bloodfire Shards]]: 100 gp/lb
     
 
 - **Quality (how much can be pulled each week per miner):**
@@ -108,7 +123,10 @@ With shards glowing like lanterns and gold dust sticking to boots, theft is a ce
 
 ### Refining
 
-Selling ore raw yields **half value**. A **smelter (300 gp/week)** and a **bloomery with crucibles (1000 gp one-time)** will double profits, especially on silver, gold, and shards.
+Selling ore raw yields **half value**. A **smelter (300 gp/week)** and a **bloomery with crucibles (1000 gp one-time)** will double profits, especially on silver, gold, and shards. We need to build a smelting room. 
+
+**Halric's alchemists were using refined Bloodfire Shards to discover/create magical substances. There are some alchemy notes to review.**
+
 
 ##### **Smelter Capacity (one bloomery with crucibles + one smelter)**
 
@@ -206,17 +224,9 @@ To turn this from a death-trap into a working mine:
 - **Escort:** 60–90 gp
 - **Taxes:** 10% gross (before costs)
 
-**Typical Costs Weekly = 793–856 gp + 10% tax**  
+**Typical Costs Weekly = 793–856 gp + 20% tax**  
 (assuming 600 lb shipped with guards & smelting).
 
----
-
-### Sample Revenues (if smelted & sold)
-
-- **Iron (Average, 15 miners):** ~52 gp/week gross → loss after costs.
-- **Silver (Average, 15 miners):** ~262 gp/week gross → still loss after costs.
-- **Gold (Average, 15 miners):** ~1,875 gp/week gross → **~1,020 gp net profit** after costs.
-- **Bloodfire (Average, 15 miners):** ~3,750 gp/week gross → **~2,500 gp net profit** after costs.
 
 ---
 
@@ -229,3 +239,4 @@ To turn this from a death-trap into a working mine:
     - Stick to Silver/Iron → steady work, steady losses.
     - Expand workforce → higher costs, but can feed more ore to smelter.
 - New mines can be built to find more supply or new ores, but it would require capital.
+
