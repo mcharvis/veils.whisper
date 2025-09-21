@@ -241,7 +241,7 @@ To turn this from a death-trap into a working mine:
 - **Security:** Guards (4–6): 100-150 gp
 - **Smelter:** 300 gp + fuel (≈10 gp/week)
 - **Transport:** 300 gp for a 300-lb load (if fully refined and shipped)
-- **Escort:** 60–90 gp
+- **Escort:** 200-300 gp
 - **Taxes:** 10% gross (before costs)
 
 **Typical Costs Weekly = 793–856 gp + 20% tax**  
