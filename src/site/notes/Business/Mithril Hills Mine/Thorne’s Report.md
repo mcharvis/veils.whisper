@@ -218,7 +218,7 @@ To turn this from a death-trap into a working mine:
 3. **80 gp** for bellows and ducting (north & lower tunnels).
 4. **240 gp**: new ties and wheels for a broken minecart
 5. **175 gp:** fresh wedges and braces to keep stable. 
-6. **1,000 gp** for bloomery and crucibles, plus **20 gp/week** for a smelter.
+6. **1,000 gp** for bloomery and crucibles, plus **300 gp/week** for a smelter.
 7. **Hire 4-6 guards (25 gp/week/per guard each).**
 8. Decide the fate of the **prisoners**.
 
