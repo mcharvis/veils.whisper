@@ -76,7 +76,7 @@ I’ve checked each tunnel. Every chamber holds **all four ores** — iron in ro
             - **4 mason-days**, **40 gp**.
             - With 4 masons: **1 day**.
 
-
+We will need more miners and masons to expand.
 
 ---
 
@@ -200,7 +200,7 @@ Anything above that has to be sold raw at half value or stockpiled.
 
 ### Prisoners
 
-Three captives remain chained in the barracks. Their presence sours morale. You must choose:
+Three (3) captives remain chained in the barracks. Their presence sours morale. You must choose:
 
 - **Hire them** (gain +3 miners/engineers/masons, morale boost).
 - **Release/banish** (save costs now, but they know about the mines).
