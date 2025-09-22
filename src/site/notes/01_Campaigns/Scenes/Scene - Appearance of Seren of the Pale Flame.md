@@ -58,4 +58,4 @@ She takes a step closer, slow and unhurried.
 > _“You’ll need to speak with Tisiphone. She controls the Bellum Crystallum where the second shard is—and she doesn’t grant audience to just anyone. Your only hope in obtaining the shard is to reach Vis’Avae... and for that, you’ll need transport through a land called Vindicative Enterprises. The only place with trade routes through there is the  kingdom of Ahrown...but you'll have to convince the Mad King to provide passage through the VE.”_
 ---
 
-Informed of their next mission: [[01_Campaigns/Encounters/2 - Ahrown/Encounter 2.6 - Secure Passage to Vis'Avae\|Encounter 2.6 - Secure Passage to Vis'Avae]]
+Informed of their next mission: [[03_Lore/Seren's Quest\|Seren's Quest]]

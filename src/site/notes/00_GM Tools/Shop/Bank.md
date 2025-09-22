@@ -21,12 +21,14 @@
 | Encounter | Memo                                                     | Inflow | Outflow | Running Total |
 | --------- | -------------------------------------------------------- | ------ | ------- | ------------- |
 |           | Starting Balance                                         |        |         | 41            |
-| 7         | [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]                                          | 180    |         | 221           |
-| 9         | [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]                                      | 260    |         | 481           |
-| 7.5       | [[01_Campaigns/Encounters/1 - The Evergrowing Forest/Encounter 1.9 – Ya'a Thalor + Jade Stronghold Tunnel\|Encounter 1.9 – Ya'a Thalor + Jade Stronghold Tunnel]] | 230    |         | 711           |
-| 10        | Sale of +1 Halberd                                       | 30     |         | 741           |
-| 10        | Potion of Healing                                        |        | 30      | 711           |
-|           | Bahamut                                                  |        | 75      |               |
+| 1.7       | [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]                                          | 180    |         | 221           |
+| 1.8       | [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]                                      | 260    |         | 481           |
+| 1.9       | [[01_Campaigns/Encounters/1 - The Evergrowing Forest/Encounter 1.9 – Ya'a Thalor + Jade Stronghold Tunnel\|Encounter 1.9 – Ya'a Thalor + Jade Stronghold Tunnel]] | 230    |         | 711           |
+| 1.11      | Sale of +1 Halberd                                       | 30     |         | 741           |
+| 1.11      | Potion of Healing                                        |        | 30      | 711           |
+| 1.11      | Bahamut tattoo                                           |        | 75      |               |
+| 2.0       | Halrics Loot                                             | 302    |         | 938           |
+|           |                                                          |        |         |               |
 
 # [[05_Player Characters/Vespertina\|Vespertina]]
 
@@ -44,6 +46,7 @@
 | 1 - 9     | [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]                                      | 260    |         | 465           |
 | 1 - 7.5   | [[01_Campaigns/Encounters/1 - The Evergrowing Forest/Encounter 1.9 – Ya'a Thalor + Jade Stronghold Tunnel\|Encounter 1.9 – Ya'a Thalor + Jade Stronghold Tunnel]] | 230    |         | 695           |
 | 1 - 1.11  | Potions of Greater Healing x 2                           |        | 200     | 495           |
+| 2.0       | Halrics Loot                                             | 302    |         | 797           |
 
 # [[05_Player Characters/Squeaks\|Squeaks]]
 
@@ -63,6 +66,8 @@
 | 7.5       | Ya'a Thalor + Jade Stronghold Tunnel     | 230    |         | 502           |
 | 9         | [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]                      | 150    |         | 652           |
 | 10        | Poisoner's Kit                           |        | 35      | 617           |
+|           | Wilson/Raven Tattoo                      |        | 25      | 592           |
+| 2.0       | Halrics Loot                             | 302    |         | 894           |
 
 # [[05_Player Characters/Renzo\|Renzo]]
 
@@ -79,6 +84,7 @@
 | 7         | [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]                                          | 180    |         | 226           |
 | 7         | Gambling Loss - [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]                      |        | (200)   | 26            |
 | 7.5       | [[01_Campaigns/Encounters/1 - The Evergrowing Forest/Encounter 1.9 – Ya'a Thalor + Jade Stronghold Tunnel\|Encounter 1.9 – Ya'a Thalor + Jade Stronghold Tunnel]] | 230    |         | 256           |
+| 2.0       | Halrics Loot                                             | 302    |         | 558           |
 
 # [[05_Player Characters/Varian\|Varian]]
 
@@ -94,3 +100,4 @@
 |           | Starting Balance                                         |        |         | 29            |
 | 7         | [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]                                          | 180    |         | 209           |
 | 7.5       | [[01_Campaigns/Encounters/1 - The Evergrowing Forest/Encounter 1.9 – Ya'a Thalor + Jade Stronghold Tunnel\|Encounter 1.9 – Ya'a Thalor + Jade Stronghold Tunnel]] | 230    |         | 539           |
+| 2.0       | Halrics Loot                                             | 302    |         | 841           |

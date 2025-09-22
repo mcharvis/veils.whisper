@@ -22,7 +22,7 @@
 		- [ ] Complete Ashroot Homestead
 	- [x] Travel to [[Ahrown, Kingdom of Elves\|Ahrown, Kingdom of Elves]]
 		- [ ] *Verpertina's Side Quest:* [[Side Quests/Side Quest - The Mad King’s Shadow\|Side Quest - The Mad King’s Shadow]] 
-		- [ ] [[01_Campaigns/Encounters/2 - Ahrown/Encounter 2.6 - Secure Passage to Vis'Avae\|Secure Passage to Vis'Avae]]
+		- [ ] [[03_Lore/Seren's Quest\|Secure Passage to Vis'Avae]]
 		- [ ] Return the [[Bloodfire Shards\|Bloodfire Shards]] Mine to functional status
 	- [ ] Travel to [[Vindicative Enterprises\|Vindicative Enterprises]]
 		- [ ] Secure access to your overworld mine profits by recovering the stolen **Ledger Seal** from [[06_NPCs/Veyra, the Ashmonger\|Veyra, the Ashmonger]]
