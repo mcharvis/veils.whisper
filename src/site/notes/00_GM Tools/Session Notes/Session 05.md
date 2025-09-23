@@ -156,13 +156,13 @@
 
 ### XP 
 
-| Level | Character      | XP    | New Total | XP to Level Up |
-| ----- | -------------- | ----- | --------- | -------------- |
-| 6 ⇒ 7 | [[05_Player Characters/Kovinar\|Kovinar]]    | 3,420 | 23,232    | 33,768         |
-| 6 ⇒ 7 | [[05_Player Characters/Vespertina\|Vespertina]] | 3,420 | 23,632    | 33,368         |
-| 6 ⇒ 7 | [[05_Player Characters/Squeaks\|Squeaks]]    | 3,420 | 23,832    | 33,168         |
-| 5     | [[05_Player Characters/Renzo\|Renzo]]      | 3,420 | 13,740    | 260            |
-| 5     | [[05_Player Characters/Varian\|Varian]]     | 3,420 | 15,227    | 693            |
+| Level  | Character      | XP    | New Total | XP to Level Up |
+| ------ | -------------- | ----- | --------- | -------------- |
+| 6 ⇒ 7  | [[05_Player Characters/Kovinar\|Kovinar]]    | 3,420 | 23,232    | 33,768         |
+| 6 ⇒ 7  | [[05_Player Characters/Vespertina\|Vespertina]] | 3,420 | 23,632    | 33,368         |
+| 6 ⇒ 7  | [[05_Player Characters/Squeaks\|Squeaks]]    | 3,420 | 23,832    | 33,168         |
+| 5      | [[05_Player Characters/Renzo\|Renzo]]      | 3,420 | 13,740    | 260            |
+| 5 => 6 | [[05_Player Characters/Varian\|Varian]]     | 3,420 | 15,227    | 693            |
 
 ---
 
