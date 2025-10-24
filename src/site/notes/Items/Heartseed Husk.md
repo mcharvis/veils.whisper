@@ -4,7 +4,7 @@
 
 _Wondrous item, common (single-use, no attunement)_
 
-![9b9461b6-28e8-445e-b9df-6ac8c7349186.jpeg](/img/user/Items/9b9461b6-28e8-445e-b9df-6ac8c7349186.jpeg)
+![9b9461b6-28e8-445e-b9df-6ac8c7349186.jpeg](/img/user/00_GM%20Tools/Media/9b9461b6-28e8-445e-b9df-6ac8c7349186.jpeg)
 A dried, walnut-sized pod wrapped in withered ivy. When cracked open, it emits a deep, sweet aroma like crushed pine needles and bloodroot.
 
 ---

@@ -4,9 +4,10 @@
 
 Paladin/Warlock with an oath to [[06_NPCs/Gods/Bahamut\|Bahamut]]. 
 
-![ChatGPT Image Jul 24, 2025, 06_48_20 PM.png](/img/user/ChatGPT%20Image%20Jul%2024,%202025,%2006_48_20%20PM.png)
+![ChatGPT Image Jul 24, 2025, 06_48_20 PM.png](/img/user/00_GM%20Tools/Media/ChatGPT%20Image%20Jul%2024,%202025,%2006_48_20%20PM.png)
 
-![ChatGPT Image Sep 21, 2025, 11_49_20 PM.png](/img/user/ChatGPT%20Image%20Sep%2021,%202025,%2011_49_20%20PM.png)
+
+![1000048456.png](/img/user/1000048456.png)
 
 **[Kovinar Relkth](https://www.dndbeyond.com/characters/84919060)** is a Tiefling born beneath the gilded banners of House Relkth, a noble family whose grandeur masked a rotting core. Generations ago, when their fortunes began to wane, the Relkths sought strength not from gods or honor, but from the [[Nine Hells\|Nine Hells]]. Their matriarch forged a pact with [[06_NPCs/Malphas\|Malphas]], the archdevil and general of [[Tiamat\|Tiamat]] when she still ruled [[Avernus\|Avernus]]. In exchange for wealth, military dominance, and influence, her bloodline was forever bound to Hell’s service. Thus, Kovinar was born with horns, ember-bright eyes, and the shadow of damnation upon his soul. 
 

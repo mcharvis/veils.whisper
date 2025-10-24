@@ -9,30 +9,31 @@
 > _"Prepare to Die"_
 
 ## 🧭 Current Status
-- **Latest Session**: [[00_GM Tools/Session Notes/Session 05\|Session 05]]
+- **Latest Session**: [[00_GM Tools/Session Notes/Session 06\|Session 06]]
 - **Party Members**: [[05_Player Characters/Kovinar\|Kovinar]], [[05_Player Characters/Vespertina\|Vespertina]], [[05_Player Characters/Squeaks\|Squeaks]], [[05_Player Characters/Renzo\|Renzo]], [[05_Player Characters/Varian\|Varian]]
 - **Current Location**: [[Ahrown, Kingdom of Elves\|Ahrown, Kingdom of Elves]] - Mithril Hills
 - **Goals**:
 	- [ ] Where is [[06_NPCs/Malis Fiani, The Scarlet Raven\|The Scarlet Raven]]?
 	- [x] Travel to Oasis
-		- [ ] Who is [[06_NPCs/Countess Ilyra Vaer-Lorne\|Countess Ilyra Vaer-Lorne]]?
-		- [ ] Infiltrate [[02_World/01_The Evergrowing Forest/Thornhold Keep\|Thornhold Keep]] to recover a sealed reliquary from its underground archives  
-		- [ ] Complete The Hollow Market side quest
-		- [ ] Complete Grain & Gloom General side quest
-		- [ ] Complete Ashroot Homestead
+		- Optional Side Quests
+			- [ ] Who is [[06_NPCs/Countess Ilyra Vaer-Lorne\|Countess Ilyra Vaer-Lorne]]?
+			- [ ] Infiltrate [[02_World/01_The Evergrowing Forest/Thornhold Keep\|Thornhold Keep]] to recover a sealed reliquary from its underground archives  
+			- [ ] Complete The Hollow Market side quest
+			- [ ] Complete Grain & Gloom General side quest
+			- [ ] Complete Ashroot Homestead
 	- [x] Travel to [[Ahrown, Kingdom of Elves\|Ahrown, Kingdom of Elves]]
-		- [ ] *Verpertina's Side Quest:* [[Side Quests/Side Quest - The Mad King’s Shadow\|Side Quest - The Mad King’s Shadow]] 
+		- Optional Side Quests
+			- [ ] *Verpertina's Side Quest:* [[Side Quests/Side Quest - The Mad King’s Shadow\|Side Quest - The Mad King’s Shadow]] 
 		- [ ] [[03_Lore/Seren's Quest\|Secure Passage to Vis'Avae]]
-		- [ ] Return the [[Bloodfire Shards\|Bloodfire Shards]] Mine to functional status
 	- [ ] Travel to [[Vindicative Enterprises\|Vindicative Enterprises]]
-		- [ ] Secure access to your overworld mine profits by recovering the stolen **Ledger Seal** from [[06_NPCs/Veyra, the Ashmonger\|Veyra, the Ashmonger]]
+		- [ ] Secure access to your overworld mine profits by recovering the stolen **Ledger Seal** from [[Veyra, the Ashmonger
+		- [ ] Deliver the [[Items/Harbinger Blade\|Harbinger Blade]] to [[The First World Tree\|The First World Tree]]]]
 	- [ ] Travel to [[02_World/Vis’Avae\|Vis’Avae]]
 		- [ ] Speak to [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]].
 		- [ ] Visit the [[Bellum Crystallum\|Bellum Crystallum]].
 	- [x] Who are Tisiphone, Hecate, & Nyx and how do we find them?
 		- [ ] Obtain the missing three pieces of the [[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]] and assemble them.
 	- [ ] Seek the advice from The Oracle ...if/when she ever returns.
-
 
 ---
 
@@ -45,6 +46,7 @@
 - [[00_GM Tools/Session Notes/Session 03\|Session 03]]: Whispers of Treachery, Echoes of Escape
 - [[00_GM Tools/Session Notes/Session 04\|Session 04]]: The Scarlet Raven Descends
 - [[00_GM Tools/Session Notes/Session 05\|Session 05]]: The Black Crow Ascends
+- [[00_GM Tools/Session Notes/Session 06\|Session 06]]: The Mad King's Blood
 
 ### 📂 Campaign Arcs
 - [ ]  A Shattered Path
@@ -127,6 +129,7 @@
 - [[06_NPCs/Velura Elaris\|Velura Elaris]]
 - [[06_NPCs/Commander Velexia\|Commander Velexia]]
 
+- [[06_NPCs/King Aldenor\|King Aldenor]]
 - [[06_NPCs/Liora\|Liora]]
 - [[06_NPCs/Seren of the Pale Flame\|Seren of the Pale Flame]]
 - [[06_NPCs/Snap, Crackle, and Pop\|Snap, Crackle, and Pop]]

@@ -28,6 +28,7 @@
 | 1.11      | Potion of Healing                                        |        | 30      | 711           |
 | 1.11      | Bahamut tattoo                                           |        | 75      |               |
 | 2.0       | Halrics Loot                                             | 302    |         | 938           |
+| Session 6 | Mine Renovations                                         |        | 395     |               |
 |           |                                                          |        |         |               |
 
 # [[05_Player Characters/Vespertina\|Vespertina]]
@@ -47,6 +48,7 @@
 | 1 - 7.5   | [[01_Campaigns/Encounters/1 - The Evergrowing Forest/Encounter 1.9 – Ya'a Thalor + Jade Stronghold Tunnel\|Encounter 1.9 – Ya'a Thalor + Jade Stronghold Tunnel]] | 230    |         | 695           |
 | 1 - 1.11  | Potions of Greater Healing x 2                           |        | 200     | 495           |
 | 2.0       | Halrics Loot                                             | 302    |         | 797           |
+| Session 6 | Mine Renovations                                         |        | 395     |               |
 
 # [[05_Player Characters/Squeaks\|Squeaks]]
 
@@ -68,6 +70,7 @@
 | 10        | Poisoner's Kit                           |        | 35      | 617           |
 |           | Wilson/Raven Tattoo                      |        | 25      | 592           |
 | 2.0       | Halrics Loot                             | 302    |         | 894           |
+| Session 6 | Mine Renovations                         |        | 395     |               |
 
 # [[05_Player Characters/Renzo\|Renzo]]
 
@@ -85,6 +88,7 @@
 | 7         | Gambling Loss - [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]                      |        | (200)   | 26            |
 | 7.5       | [[01_Campaigns/Encounters/1 - The Evergrowing Forest/Encounter 1.9 – Ya'a Thalor + Jade Stronghold Tunnel\|Encounter 1.9 – Ya'a Thalor + Jade Stronghold Tunnel]] | 230    |         | 256           |
 | 2.0       | Halrics Loot                                             | 302    |         | 558           |
+| Session 6 | Mine Renovations                                         |        | 395     |               |
 
 # [[05_Player Characters/Varian\|Varian]]
 
@@ -101,3 +105,4 @@
 | 7         | [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]                                          | 180    |         | 209           |
 | 7.5       | [[01_Campaigns/Encounters/1 - The Evergrowing Forest/Encounter 1.9 – Ya'a Thalor + Jade Stronghold Tunnel\|Encounter 1.9 – Ya'a Thalor + Jade Stronghold Tunnel]] | 230    |         | 539           |
 | 2.0       | Halrics Loot                                             | 302    |         | 841           |
+| Session 6 | Mine Renovations                                         |        | 395     |               |

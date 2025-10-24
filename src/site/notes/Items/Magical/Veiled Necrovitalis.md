@@ -8,7 +8,3 @@ Currently in the possession of [[05_Player Characters/Vespertina\|Vespertina]]
 
 Currently embued with _[Spare the Dying](https://www.dndbeyond.com/spells/2619067-spare-the-dying)_ & _[Animate Dead](https://www.dndbeyond.com/spells/2618853-animate-dead)_
 - Vespertina acquired after beating Nerull
-
-
-
-#magicalitem

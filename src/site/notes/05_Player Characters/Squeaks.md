@@ -5,7 +5,8 @@
 
 **Young half-orc named Lurtza (AKA [Squeaks](https://www.dndbeyond.com/characters/87773447))**
 
-![ChatGPT Image Jul 22, 2025, 07_01_49 PM.png](/img/user/ChatGPT%20Image%20Jul%2022,%202025,%2007_01_49%20PM.png)
+![ChatGPT Image Jul 22, 2025, 07_01_49 PM.png](/img/user/00_GM%20Tools/Media/ChatGPT%20Image%20Jul%2022,%202025,%2007_01_49%20PM.png)
+![1000048454.png](/img/user/1000048454.png)
 
 While attempting to steal from [[06_NPCs/Zarvok\|Zarvok]], Squeaks inadvertently activated a magical trap that Zarvok had set to protect his lair. This trap was designed to catch intruders by creating a temporary portal to the overworld, acting as a failsafe to remove any unwanted visitors from his domain in [[Elarith\|Elarith]]. The trap was linked to a small, enchanted gemstone that Squeaks attempted to steal.
 

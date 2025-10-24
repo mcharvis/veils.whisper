@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/06-np-cs/sanctifier-john-halric/"}
 ---
 
-![HALRIC.png](/img/user/HALRIC.png)
+![HALRIC.png](/img/user/00_GM%20Tools/Media/HALRIC.png)
 ### Backstory
-Halric began as an unremarkable acolyte, a man of sharp discipline and colder ambition. Through sheer conviction, he founded The Sanctifiers, shaping them into a brotherhood that preached purity while quietly perfecting cruelty. His fascination with control drew him to [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]], whose brilliance forged the terrible art of the [[Mind Chains\|Mind Chains]]. Halric admired her loyalty and skill, and admiration soon turned into a forbidden love.
+Halric began as an unremarkable acolyte, a man of sharp discipline and colder ambition. Through sheer conviction, he founded The Sanctifiers, shaping them into a brotherhood that preached purity while quietly perfecting cruelty. His fascination with control drew him to [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]], whose brilliance forged the terrible art of the [[Spells/Mind Chains\|Mind Chains]]. Halric admired her loyalty and skill, and admiration soon turned into a forbidden love.
 
 From their secret bond came a child, [[06_NPCs/Nasha\|Nasha]]. Halric demanded an abortion, unwilling to see weakness tied to his name, but Virelle delivered Nasha prematurely. Nasha was secretly abandoned to the Whispering Asylum.
 

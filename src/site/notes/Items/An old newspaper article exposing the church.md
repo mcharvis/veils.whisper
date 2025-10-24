@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/an-old-newspaper-article-exposing-the-church/"}
 ---
 
-![Копия _Olden Days Newspaper_.png](/img/user/Items/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20_Olden%20Days%20Newspaper_.png)
+![Копия _Olden Days Newspaper_.png](/img/user/00_GM%20Tools/Media/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20_Olden%20Days%20Newspaper_.png)
 
 **Psychic Church Ya’a Thalor Concealed More Than Pain—It Bred It**
 

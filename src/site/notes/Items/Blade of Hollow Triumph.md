@@ -6,7 +6,7 @@ _Weapon (Greatsword), Very Rare, Requires Attunement_
 
 This black-steel blade is etched with scenes of fallen soldiers and vanquished foes, each etched figure locked in eternal anguish. When swung, it emits a faint dirge-like hum.
 
-![ChatGPT Image Sep 21, 2025, 11_30_26 PM.png](/img/user/ChatGPT%20Image%20Sep%2021,%202025,%2011_30_26%20PM.png)
+![ChatGPT Image Sep 21, 2025, 11_30_26 PM.png](/img/user/00_GM%20Tools/Media/ChatGPT%20Image%20Sep%2021,%202025,%2011_30_26%20PM.png)
 
 #### Base Weapon Stats
 

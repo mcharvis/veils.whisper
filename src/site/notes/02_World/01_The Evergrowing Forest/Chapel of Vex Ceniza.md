@@ -2,12 +2,10 @@
 {"dg-publish":true,"permalink":"/02-world/01-the-evergrowing-forest/chapel-of-vex-ceniza/"}
 ---
 
-### Name
-
 **Malrik Ceniza**  
 (_Vex Ceniza in life_)   
 
-![D2uJfbxULo5nspQuZkFWnf.jpeg](/img/user/D2uJfbxULo5nspQuZkFWnf.jpeg)
+![D2uJfbxULo5nspQuZkFWnf.jpeg](/img/user/00_GM%20Tools/Media/D2uJfbxULo5nspQuZkFWnf.jpeg)
 
 ---
 

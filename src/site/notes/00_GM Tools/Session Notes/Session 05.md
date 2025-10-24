@@ -55,7 +55,7 @@
 > 
 > A woman knelt nearby, her face bulging as though something pressed beneath her skin, infecting the party with waves of paranoia. Renzo and Varian’s mouths filled with blood that poured unchecked, gagging and silencing them. An overturned wheelbarrow rattled with unseen movement. Dozens of corpses hung upside down from hooks, their cold hands brushed lovingly across their faces and deepening the creeping dread. A wall of darkness followed at their backs, closing in like a suffocating tide.
 > 
-> Varian suplexed guards from shadow. Among the wreckage, the party stole pickaxes from commoners and discovered [[Bloodfire Shards\|Bloodfire Shards]], pulsing with a malignant glow.
+> Varian suplexed guards from shadow. Among the wreckage, the party stole pickaxes from commoners and discovered [[Items/Bloodfire Shards\|Bloodfire Shards]], pulsing with a malignant glow.
 > 
 > Then came the clash with the Sanctifiers. Steel met steel, until the leader revealed himself—[[06_NPCs/Sanctifier John Halric\|Sanctifier John Halric]]. A familiar rune burned into the ground before him. Halric proclaimed "It's too late!" Kovinar knew it at once. Halric had summoned [[06_NPCs/Malphas\|Malphas]].
 > 
@@ -63,7 +63,7 @@
 > 
 > Kovinar’s devotion to Bahamut erupted into the open. A platinum dragon’s maw yawned wide behind him, its roar shaking the stone itself. For one frozen heartbeat, time stilled. Allies healed as the divine presence crashed across the battlefield, even as Halric staggered under its weight.
 > 
-> But Halric struck back with fury, nearly cutting down Varian and Kovinar both. At last, Kovinar seized his greatsword, driving it through Halric and cleaving him in two. In the stillness that followed, the party rifled through his remains. Among them lay a scroll—bearing the terrible incantation of the _[[Mind Chains\|Mind Chains]]_, a bearer's deed to the mine, still wet with Halric’s blood, and a small fortune.
+> But Halric struck back with fury, nearly cutting down Varian and Kovinar both. At last, Kovinar seized his greatsword, driving it through Halric and cleaving him in two. In the stillness that followed, the party rifled through his remains. Among them lay a scroll—bearing the terrible incantation of the _[[Spells/Mind Chains\|Mind Chains]]_, a bearer's deed to the mine, still wet with Halric’s blood, and a small fortune.
 
 ## 🎯 Objectives
 
@@ -75,7 +75,7 @@
 - [x] Who are Tisiphone, Hecate, & Nyx and how do we find them?
 
 #### Optional Objectives
-- [x] Take possession of Mithril Hills: [[Bloodfire Shards\|Bloodfire Shards]] Mine
+- [x] Take possession of Mithril Hills: [[Items/Bloodfire Shards\|Bloodfire Shards]] Mine
 - [x] Travel to Oasis 
 	- [x] *Kovinar's Side Quest:* [[Side Quests/Deliver Drest's letter\|Deliver Drest's letter]].
 
@@ -90,7 +90,7 @@
 - [x] Travel to [[Ahrown, Kingdom of Elves\|Ahrown, Kingdom of Elves]]
 	- [ ] *Verpertina's Side Quest:* [[Side Quests/Side Quest - The Mad King’s Shadow\|Side Quest - The Mad King’s Shadow]] 
 	- [ ] [[03_Lore/Seren's Quest\|Secure Passage to Vis'Avae]]
-	- [ ] Return the [[Bloodfire Shards\|Bloodfire Shards]] Mine to functional status
+	- [ ] Return the [[Items/Bloodfire Shards\|Bloodfire Shards]] Mine to functional status
 - [ ] Travel to [[Vindicative Enterprises\|Vindicative Enterprises]]
 	- [ ] Secure access to your overworld mine profits by recovering the stolen **Ledger Seal** from [[06_NPCs/Veyra, the Ashmonger\|Veyra, the Ashmonger]]
 - [ ] Travel to [[02_World/Vis’Avae\|Vis’Avae]]
@@ -169,8 +169,8 @@
 ## 🔍 Clues & Lore
 - [[06_NPCs/Malphas\|Malphas]] has been summoned in Mithril Hills - [[Ahrown, Kingdom of Elves\|Ahrown, Kingdom of Elves]].
 - The [[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]] has been upgraded through Squeaks' death
-- [[Advice from The Oracle\|Advice from The Oracle]]
-- [[Bloodfire Shards\|Bloodfire Shards]]
+- [[00_GM Tools/Advice from The Oracle\|Advice from The Oracle]]
+- [[Items/Bloodfire Shards\|Bloodfire Shards]]
 - [[00_GM Tools/Bahamut’s Hand Upon Kovinar\|Bahamut’s Hand Upon Kovinar]]
 
 ## 🧵 Threads & Foreshadowing

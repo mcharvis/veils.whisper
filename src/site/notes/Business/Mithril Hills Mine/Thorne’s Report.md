@@ -17,7 +17,7 @@ I’ve checked each tunnel. Every chamber holds **all four ores** — iron in ro
 	    - Iron: Average
 	    - Silver: Average
 	    - Gold: Poor
-	    - [[Bloodfire Shards\|Bloodfire Shards]]: Rich 
+	    - [[Items/Bloodfire Shards\|Bloodfire Shards]]: Rich 
     
 - **Central Spur (main rail fork):**  
     This is the heart of the works. Ore is mixed but balanced — silver shows cleanly, iron is easy, shards smaller but safer to collect. The broken rails choke cart movement.
@@ -28,7 +28,7 @@ I’ve checked each tunnel. Every chamber holds **all four ores** — iron in ro
 	    - Iron: Average
 	    - Silver: Average
 	    - Gold: Average
-	    - [[Bloodfire Shards\|Bloodfire Shards]]: Poor 
+	    - [[Items/Bloodfire Shards\|Bloodfire Shards]]: Poor 
     
 - **Lower Tunnels (near lava flow):**  
     All ores appear, but heat drives the gold into fragile seams and shards into dangerous clusters. The air is thin and carts scorch their wheels. Without the **ventilation system** (same 80 gp bellows and ducting), this level is death to miners. With it, the chambers could be worked with a chance of sudden finds.
@@ -39,7 +39,7 @@ I’ve checked each tunnel. Every chamber holds **all four ores** — iron in ro
 	    - Iron: Average
 	    - Silver: Average
 	    - Gold: Average
-	    - [[Bloodfire Shards\|Bloodfire Shards]]: Poor but there is potential for more with new mines.
+	    - [[Items/Bloodfire Shards\|Bloodfire Shards]]: Poor but there is potential for more with new mines.
 
 ### Mining/Constructing new spaces
 
@@ -131,7 +131,7 @@ With shards glowing like lanterns and gold dust sticking to boots, theft is a ce
     - Iron: 1 gp/lb
     - Silver: 5 gp/lb
     - Gold: 50 gp/lb
-    - [[Bloodfire Shards\|Bloodfire Shards]]: 100 gp/lb
+    - [[Items/Bloodfire Shards\|Bloodfire Shards]]: 100 gp/lb
     
 
 - **Quality (how much can be pulled each week per miner):**
@@ -261,3 +261,28 @@ To turn this from a death-trap into a working mine:
     - Expand workforce → higher costs, but can feed more ore to smelter.
 - New mines can be built to find more supply or new ores, but it would require capital.
 
+
+#### Haunts
+| d20 | Event                                                                                                                 |
+| --- | --------------------------------------------------------------------------------------------------------------------- |
+| 1   | Miners hear words in the echoes; they refuse to work for **1d4 days**. 1d4 / 7 = Productivity loss %.                 |
+| 2   | _DM rolls 3 dice behind the screen, smiles, and writes something down without explanation._                           |
+| 3   | Temperature plummets, tools snap. Lose **100 gp of gear**, **half output** from that section.                         |
+| 4   | _DM looks at a random player: “What’s your passive Perception again?” Then nods and moves on._                        |
+| 5   | Rock seeps blood. **200 gp of ore ruined**; miners demand ritual cleansing (**250 gp**) or won’t work.                |
+| 6   | _DM interrupts mid-scene: “Where exactly are you standing right now?” Then waves them to continue._                   |
+| 7   | Hoist bell rings on its own. Next ore shipment is “tainted” → buyers pay **–25% value**.                              |
+| 8   | _DM scribbles a name on the initiative tracker. Covers it quickly. Says nothing._                                     |
+| 9   | Childlike laughter echoes at night. Miners refuse night shifts until bribed (**100 gp**).                             |
+| 10  | _DM asks: “Can everyone give me your current HP totals again?” Then smiles faintly._                                  |
+| 11  | Voices call miners’ names. **1 miner vanishes**; morale drops (**–25% output for 2 weeks**).                          |
+| 12  | _DM leans in to one player, whispers something unintelligible, then just says: “Don’t tell them.”_                    |
+| 13  | A dead miner’s ghost points, then vanishes. That tunnel will collapse in 1 week unless reinforced (**500 gp**).       |
+| 14  | _DM rolls a d20, looks at one player: “High or low?” Writes something down. Continues normally._                      |
+| 15  | Lanterns die; a black mass spreads. **1d4 miners vanish** if sent in without wards (**250 gp**).                      |
+| 16  | _DM hands a folded note to a random player: “Read this later.” The paper is blank._                                   |
+| 17  | Miners dream of a feral girl in a storage room. Roll d6: on 1–3, **1 miner dies**; if ignored, 10% desert in a month. |
+| 18  | _DM checks one player’s sheet: “What’s your Wisdom save bonus?” then shakes head. “Never mind.”_                      |
+| 19  | Shadows move against the light. **Productivity –50% this week** unless a priest is hired (**500 gp**).                |
+| 20  | _DM pauses, looks around the table: “You don’t hear anything unusual. Yet.”_                                          |
+%%

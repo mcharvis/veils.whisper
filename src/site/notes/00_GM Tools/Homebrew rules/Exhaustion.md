@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/00-gm-tools/homebrew-rules/exhaustion/"}
+---
+
+| Level | Effect                                                                                                                                                                                                                                                                                             |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | [Disadvantage](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_2) on [ability checks](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_4)                                                                                             |
+| 2     | [Speed](https://roll20.net/compendium/dnd5e/Rules:Movement?expansion=34047#toc_1) halved                                                                                                                                                                                                           |
+| 3     | [Disadvantage](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_2) on [attack rolls](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_32) and [saving throws](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_35) |
+| 4     | [Hit point](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_47) maximum halved                                                                                                                                                                                                |
+| 5     | [Speed](https://roll20.net/compendium/dnd5e/Rules:Movement?expansion=34047#toc_1) reduced to 0                                                                                                                                                                                                     |
+| 6     | Death                                                                                                                                                                                                                                                                                              |

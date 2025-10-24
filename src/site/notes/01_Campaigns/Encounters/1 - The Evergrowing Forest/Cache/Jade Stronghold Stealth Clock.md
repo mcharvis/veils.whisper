@@ -18,7 +18,7 @@
 - **Task-Based System:**  
     Instead of fixed hours, the night is broken into **Task Segments**. Each player may attempt **1 Major Task per night**, plus as many **Minor Tasks** as they can afford before suspicion rises.
     
-- **Exhaustion:** Each full night without sleep = **1 [[00_GM Tools/Exhaustion\|Exhaustion]] level**.
+- **Exhaustion:** Each full night without sleep = **1 [[00_GM Tools/Homebrew rules/Exhaustion\|Exhaustion]] level**.
     
     - A 2–3 hour nap during the day cancels _that night’s_ exhaustion penalty, but doesn’t heal existing exhaustion.
         
