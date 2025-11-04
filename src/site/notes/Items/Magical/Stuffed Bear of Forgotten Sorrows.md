@@ -3,7 +3,7 @@
 ---
 
 *Wondrous Item, rare*
-This ragged bear is threadbare and stained with something darker than dust. Its single eye glows faintly in moonlight. It once belonged to a child who dreamed too deeply. The bear remembers what she tried to forget.
+This ragged bear is threadbare and stained with something darker than dust. Its single eye glows faintly in starlight. It once belonged to a child who dreamed too deeply. The bear remembers what she tried to forget.
 
 ![ChatGPT Image Jul 29, 2025, 06_09_57 PM.png](/img/user/Items/Non-Magical/ChatGPT%20Image%20Jul%2029,%202025,%2006_09_57%20PM.png)
 

@@ -6,7 +6,7 @@
 
  **BURNED**firm Sanctifier forces now exceeds projected levels by 43%. Attempts at suppression by sword have proven ineffective.
 
-[[06_NPCs/Commander Velexia\|Commander Velexia]] has requested reinforcement personnel, though deployment remains delayed by [[06_NPCs/Councilor Varn Drest\|Councilor Varn Drest]]’s orders. The Sanctifiers seem one step ahead all the time. Their leadership has not waned after the fall of Ya’a Thalor.
+[[06_NPCs/Velexia\|Velexia]] has requested reinforcement personnel, though deployment remains delayed by [[06_NPCs/Councilor Varn Drest\|Councilor Varn Drest]]’s orders. The Sanctifiers seem one step ahead all the time. Their leadership has not waned after the fall of Ya’a Thalor.
 
 Unless corrective action is taken, further breaches are inevitable. The deterioration is ~~not~~ confined to Ahrown. They have moved as far north as Bluegrove near Talazan  **BURNED**.
 

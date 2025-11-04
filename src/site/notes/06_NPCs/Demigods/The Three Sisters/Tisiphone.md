@@ -19,7 +19,7 @@ Her presence is not the devouring darkness Nerull commands, but the healing dark
 
 ### **Appearance**
 
-Tisiphone appears as an ethereal figure, draped in veils of shimmering night-silk that seem woven from starlight itself. Her hair flows like strands of silver moonlight, her eyes vast and filled with galaxies. Unlike the grim countenance of her brother, she radiates warmth and serenity, though sorrow is etched into every gesture—an eternal reminder of her abandonment.
+Tisiphone appears as an ethereal figure, draped in veils of shimmering night-silk that seem woven from starlight itself. Her hair flows like strands of silver starlight, her eyes vast and filled with galaxies. Unlike the grim countenance of her brother, she radiates warmth and serenity, though sorrow is etched into every gesture—an eternal reminder of her abandonment.
 
 ---
 
@@ -27,9 +27,9 @@ Tisiphone appears as an ethereal figure, draped in veils of shimmering night-sil
 
 - **Titles:** The Reflective Night, Star-Mother, Keeper of Quiet Hope
     
-- **Portfolio:** Moonlight, stars, reflection, empathy, contemplation, peace in sorrow
+- **Portfolio:** Starlight, stars, reflection, empathy, contemplation, peace in sorrow
     
-- **Symbol:** A crescent moon cradling a single star
+- **Symbol:** A crescent star cradling a single star
     
 - **Followers:** Wanderers, healers, mourners, scholars, those who seek hope in despair
     
@@ -54,7 +54,7 @@ Tisiphone represents the possibility of hope even in Nerull’s shadow. She is a
 
 ### **Powers & Gifts**
 
-- **Luminance of Mercy:** She can conjure moonlight that heals wounds and mends weary hearts.
+- **Luminance of Mercy:** She can conjure starlight that heals wounds and mends weary hearts.
     
 - **Mirror of Night:** Tisiphone shows mortals visions of themselves reflected in the starlight—sometimes comforting, sometimes brutally honest.
     

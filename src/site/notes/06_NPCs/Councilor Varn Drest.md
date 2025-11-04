@@ -20,7 +20,7 @@ He built his career not on bravery but on leverage. He funded small militias, pa
 
 Over time, his influence grew. Drest positioned himself as the “practical” choice in Oasis politics—less idealistic than reformers, less brutal than hardliners, always willing to compromise if it meant he stayed relevant. He attached himself to projects that looked good but avoided true danger, letting others fight while he claimed the credit.
 
-When Jade Stronghold was established, Drest secured his seat as the councilor tied to its oversight. His speeches made him sound like a patriot, but [[06_NPCs/Commander Velexia\|Commander Velexia]] began to become suspicious of him.
+When Jade Stronghold was established, Drest secured his seat as the councilor tied to its oversight. His speeches made him sound like a patriot, but [[06_NPCs/Velexia\|Velexia]] began to become suspicious of him.
 
 Drest is not brave, but he is clever. He thrives in the shadows, makes sure others carry the risk, and survives when stronger men fall.
 

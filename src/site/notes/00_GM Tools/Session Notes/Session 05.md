@@ -25,7 +25,7 @@
 > 
 > Squeaks made an unexpected visit into [[06_NPCs/Gods/Nerull\|Nerull]]’s hall, where death itself bends the knee to no one. There she was measured and scarred before being pulled back to Elarith as The Scarlet Raven vanished into the sky.
 > 
-> Now Oasis holds its breath. [[06_NPCs/Commander Velexia\|Commander Velexia]] carries secrets in her heart. Drest sharpens knives in shadows. [[04_Organizations/The Pale Flame\|The Pale Flame]] grows bold. And you walk on, knowing that another of your own has touched the god of death and returned.
+> Now Oasis holds its breath. [[06_NPCs/Velexia\|Velexia]] carries secrets in her heart. Drest sharpens knives in shadows. [[04_Organizations/The Pale Flame\|The Pale Flame]] grows bold. And you walk on, knowing that another of your own has touched the god of death and returned.
 > 
 > Prepare yourselves. The war beneath the surface has only just begun.
 > 
@@ -182,5 +182,5 @@
 
 | Character      | Notable Actions / Growth                                                                             |
 | -------------- | ---------------------------------------------------------------------------------------------------- |
-| [[05_Player Characters/Vespertina\|Vespertina]] | Established personal connection with [[06_NPCs/Commander Velexia\|Commander Velexia]]                                           |
-| [[05_Player Characters/Kovinar\|Kovinar]]    | Established covert party alliance with Oasis through [[06_NPCs/Captain Rel Thorn\|Captain Rel Thorn]] and [[06_NPCs/Commander Velexia\|Commander Velexia]] |
+| [[05_Player Characters/Vespertina\|Vespertina]] | Established personal connection with [[06_NPCs/Velexia\|Velexia]]                                           |
+| [[05_Player Characters/Kovinar\|Kovinar]]    | Established covert party alliance with Oasis through [[06_NPCs/Captain Rel Thorn\|Captain Rel Thorn]] and [[06_NPCs/Velexia\|Velexia]] |

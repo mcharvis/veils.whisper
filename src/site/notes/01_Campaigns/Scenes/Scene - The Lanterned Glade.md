@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-campaigns/scenes/scene-the-lanterned-glade/"}
 ---
 
-> The moon barely scratches through the canopy, pooling in silver streaks across the moss. The smell of damp earth and pine sap hangs thick in the air. Somewhere deeper in the forest, a lone nightbird calls, then stops—as if it thought better of it.
+> The starlight barely scratches through the canopy, pooling in silver streaks across the moss. The smell of damp earth and pine sap hangs thick in the air. Somewhere deeper in the forest, a lone nightbird calls, then stops—as if it thought better of it.
 > You catch the flicker of a hooded lantern through the trees. Its glow sways gently, rising and falling with the footsteps of the figure carrying it. When you step closer, the hood lifts just enough to reveal a dark-cloaked woman. 
 > She doesn’t greet you; instead, she presses a gloved finger to her lips and leads you into a shallow glade ringed with leaning oaks. The lantern’s light is swallowed by the shadows, the circle of safety uncomfortably small.
 

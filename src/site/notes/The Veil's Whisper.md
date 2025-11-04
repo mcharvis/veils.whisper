@@ -127,7 +127,7 @@
 - [[06_NPCs/Demigods/The Three Sisters/Hecate\|Hecate]]
 - [[06_NPCs/Demigods/The Three Sisters/Nyx\|Nyx]]
 - [[06_NPCs/Velura Elaris\|Velura Elaris]]
-- [[06_NPCs/Commander Velexia\|Commander Velexia]]
+- [[06_NPCs/Velexia\|Velexia]]
 
 - [[06_NPCs/King Aldenor\|King Aldenor]]
 - [[06_NPCs/Liora\|Liora]]
