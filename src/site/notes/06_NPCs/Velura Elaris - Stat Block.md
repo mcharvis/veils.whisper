@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/06-np-cs/velura-elaris-stat-block/"}
 ---
 
+Velura Elaris
 *Medium humanoid (human), Neutral Good*  
 
 **Armor Class** 15 (Mage Armor)  

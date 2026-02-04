@@ -5,7 +5,7 @@
 _Demigoddess of The Stillness of Death_  
 _One of the Abandoned Sisters of Nerull_
 
-![Hecate.png](/img/user/06_NPCs/Hecate.png)
+![VeniceAI_jhPi4aC.png](/img/user/VeniceAI_jhPi4aC.png)
 
 
 ### **Overview**

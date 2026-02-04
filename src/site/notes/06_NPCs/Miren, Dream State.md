@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/06-np-cs/miren-dream-state/"}
 ---
 
+Miren, Dream State
 _Medium aberration, Chaotic Neutral_
 
 **Armor Class** 15  

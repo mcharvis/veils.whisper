@@ -9,31 +9,20 @@
 > _"Prepare to Die"_
 
 ## 🧭 Current Status
-- **Latest Session**: [[00_GM Tools/Session Notes/Session 06\|Session 06]]
-- **Party Members**: [[05_Player Characters/Kovinar\|Kovinar]], [[05_Player Characters/Vespertina\|Vespertina]], [[05_Player Characters/Squeaks\|Squeaks]], [[05_Player Characters/Renzo\|Renzo]], [[05_Player Characters/Varian\|Varian]]
-- **Current Location**: [[Ahrown, Kingdom of Elves\|Ahrown, Kingdom of Elves]] - Mithril Hills
+- **Latest Session**: [[00_GM Tools/Session Notes/Session 12\|Session 12]]
+- **Party Members**: [[05_Player Characters/Kovinar\|Kovinar]], [[05_Player Characters/Vespertina\|Vespertina]], [[05_Player Characters/Squeaks\|Squeaks]],  [[05_Player Characters/Varian\|Varian]], 
+	- **Separated**: [[05_Player Characters/Renzo\|Renzo]] (Currently in [[02_World/The Pedronian Empire\|The Pedronian Empire]],
+- **Current Location**: Outskirts of [[02_World/The Pedronian Empire\|The Pedronian Empire]]
 - **Goals**:
-	- [ ] Where is [[06_NPCs/Malis Fiani, The Scarlet Raven\|The Scarlet Raven]]?
-	- [x] Travel to Oasis
-		- Optional Side Quests
-			- [ ] Who is [[06_NPCs/Countess Ilyra Vaer-Lorne\|Countess Ilyra Vaer-Lorne]]?
-			- [ ] Infiltrate [[02_World/01_The Evergrowing Forest/Thornhold Keep\|Thornhold Keep]] to recover a sealed reliquary from its underground archives  
-			- [ ] Complete The Hollow Market side quest
-			- [ ] Complete Grain & Gloom General side quest
-			- [ ] Complete Ashroot Homestead
-	- [x] Travel to [[Ahrown, Kingdom of Elves\|Ahrown, Kingdom of Elves]]
-		- Optional Side Quests
-			- [ ] *Verpertina's Side Quest:* [[Side Quests/Side Quest - The Mad King’s Shadow\|Side Quest - The Mad King’s Shadow]] 
-		- [ ] [[03_Lore/Seren's Quest\|Secure Passage to Vis'Avae]]
-	- [ ] Travel to [[Vindicative Enterprises\|Vindicative Enterprises]]
-		- [ ] Secure access to your overworld mine profits by recovering the stolen **Ledger Seal** from [[Veyra, the Ashmonger
-		- [ ] Deliver the [[Items/Harbinger Blade\|Harbinger Blade]] to [[The First World Tree\|The First World Tree]]]]
-	- [ ] Travel to [[02_World/Vis’Avae\|Vis’Avae]]
-		- [ ] Speak to [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]].
-		- [ ] Visit the [[Bellum Crystallum\|Bellum Crystallum]].
-	- [x] Who are Tisiphone, Hecate, & Nyx and how do we find them?
-		- [ ] Obtain the missing three pieces of the [[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]] and assemble them.
-	- [ ] Seek the advice from The Oracle ...if/when she ever returns.
+- [x] Travel to [[Vindicative Enterprises\|Vindicative Enterprises]]
+	- [ ] Secure access to your overworld mine profits by recovering the stolen **Ledger Seal** from [[06_NPCs/Veyra, the Ashmonger\|Veyra, the Ashmonger]]
+		- [ ] Complete Veyra's Relic Seeking Mission
+- [x] Who are Tisiphone, Hecate, & Nyx and how do we find them?
+	- [ ] Obtain the missing three pieces of the [[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]] and assemble them.
+		- [x] Piece 1
+		- [ ] Piece 2
+		- [ ] Piece 3
+- [ ] Seek the advice from The Oracle ...if/when she ever returns.
 
 ---
 
@@ -47,12 +36,19 @@
 - [[00_GM Tools/Session Notes/Session 04\|Session 04]]: The Scarlet Raven Descends
 - [[00_GM Tools/Session Notes/Session 05\|Session 05]]: The Black Crow Ascends
 - [[00_GM Tools/Session Notes/Session 06\|Session 06]]: The Mad King's Blood
+- [[00_GM Tools/Session Notes/Session 07\|Session 07]]: Online Housekeeping
+- [[00_GM Tools/Session Notes/Session 08\|Session 08]]: Reversal of Vespertina's Curse
+- [[Session 09\|Session 09]]: No Notes.
+- [[00_GM Tools/Session Notes/Session 10\|Session 10]]: AirDND 2026 - The Veil's Whisper
+- [[00_GM Tools/Session Notes/Session 11\|Session 11]]: The Living Reliquary
+- [[00_GM Tools/Session Notes/Session 12\|Session 12]]: Through the Flames of Misfortune
 
 ### 📂 Campaign Arcs
 - [ ]  A Shattered Path
 	- [ ] Road to the Abandoned Thrones
 	- [ ] False Prophets
 	- [ ] Scarlet Murder 
+	- [ ] The Pedronian Surrender
 --- 
 
 ## 🔮 Words from an Oracle
@@ -66,6 +62,7 @@
 - **Advice about Elarith?** "Hear my words: not all that seeks to harm you is your enemy, and not all who offer aid are your friends. This place has mystery all around you. See with your *mind*, as well as your eyes. Use wisdom and be intentional. Look for details…*the little things*. Look at the forest **AND** the trees.”
 - **What can the [[Items/Magical/Veiled Necrovitalis\|Veiled Necrovitalis]] do?** "The [[Items/Magical/Veiled Necrovitalis\|Veiled Necrovitalis]] is a powerful artifact that allows one to perform necromancy. If careless, it could sway the mind to focus on the dead...and undead. It could eventually be used to command armies of undead...if left to it's own destiny."
 - **Advice?** "Be strategic about when to be bold, remember one's strengths & weaknesses."
+- **On Samantha** "I can see most lives in this place but I can no longer locate **[[Samantha\|Samantha]]**. She has disconnected herself from the world."
 ---
 
 ## 🗺️ Worldbuilding
@@ -86,6 +83,30 @@
 		- [[On'en Dorei\|On'en Dorei]]
 		- [[02_World/Ahrown, The Kingdom of Elves/Talazan Academy\|Talazan Academy]]
 		- [[Mithril Hills\|Mithril Hills]]
+	- [[Vindicative Enterprises\|Vindicative Enterprises]]
+		- [[Light's Museum\|Light's Museum]]
+		- [[Isber\|Isber]]
+			- [[Organ Hospital\|Organ Hospital]]
+		- [[Helmfirth\|Helmfirth]]
+			- [[Orc Organ Market\|Orc Organ Market]]
+			- [[The Helmfirth Substation\|The Helmfirth Substation]]
+		- [[02_World/The First World Tree\|The First World Tree]]
+	- [[Vis'Avae\|Vis'Avae]]
+		- [[Bridge of Pale Glass\|Bridge of Pale Glass]]
+		- [[Eimear’s Rise\|Eimear’s Rise]]
+		- [[The Hall of Chains\|The Hall of Chains]]
+		- [[The Hall of Mirrors\|The Hall of Mirrors]]
+		- [[Statue of the First Vis’Ar\|Statue of the First Vis’Ar]]
+		- [[The Hall of Doors\|The Hall of Doors]]
+		- [[The Hall of Chains\|The Hall of Chains]]
+		- [[Aerathriel, Tree of the Coven\|Aerathriel, Tree of the Coven]]
+		- [[Bellum Crystallum\|Bellum Crystallum]]
+		- [[Fae Garden\|Fae Garden]]
+	- [[02_World/The Pedronian Empire\|The Pedronian Empire]]
+		- [[Nalyun City\|Nalyun City]]: site of 1st pagoda
+		- [[Nantianemen Citiy\|Nantianemen Citiy]]: site of 2nd pagoda
+		- [[Kawa No Mura\|Kawa No Mura]]: site of the 3rd pagoda
+		- [[The Hikarai\|The Hikarai]]: AKA Luxom Crystallum
 	- Unknown Region
 		- Fongon Aeon Temple
 		- [[Basville\|Basville]]
@@ -104,8 +125,8 @@
 - [[05_Player Characters/Vespertina\|Vespertina]]
 - [[05_Player Characters/Squeaks\|Squeaks]]
 - [[05_Player Characters/Kovinar\|Kovinar]]
-- [[05_Player Characters/Renzo\|Renzo]] 
 - [[05_Player Characters/Varian\|Varian]]
+- [[05_Player Characters/Renzo\|Renzo]]: In The Pedronian Empire
 
 ### 🦴 Pets
 - [[06_NPCs/Pets/Wilson\|Wilson]]
@@ -133,7 +154,7 @@
 - [[06_NPCs/Liora\|Liora]]
 - [[06_NPCs/Seren of the Pale Flame\|Seren of the Pale Flame]]
 - [[06_NPCs/Snap, Crackle, and Pop\|Snap, Crackle, and Pop]]
-
+- [[06_NPCs/Varkhal, The Oathwrought Sentinel\|Varkhal, The Oathwrought Sentinel]]
 - [[06_NPCs/Kaelin Vetch\|Kaelin Vetch]]  
 - [[Dreson\|Dreson]]    
 - [[06_NPCs/Thorne Drevic\|Thorne Drevic]]  
@@ -143,12 +164,46 @@
 - [[06_NPCs/Eddor, the Grinless\|Eddor, the Grinless]]; [[Barkeep Mirel\|Barkeep Mirel]]  
 - [[06_NPCs/Bruma Anvil-Eye\|Bruma Anvil-Eye]]  
 - [[06_NPCs/Kelm and Crow\|Kelm and Crow]]    
-- [[06_NPCs/Gravekeeper Oth\|Gravekeeper Oth]]                        
-- [[06_NPCs/Vani, Lapidary of Bones\|Vani, Lapidary of Bones]]             
+- [[06_NPCs/Gravekeeper Oth\|Gravekeeper Oth]]                       
+- [[06_NPCs/Vani, Lapidary of Bones\|Vani, Lapidary of Bones]]           
 - [[06_NPCs/Irren the Needle\|Irren the Needle]]
 - [[06_NPCs/Verrath Dymane\|Verrath Dymane]]
 - [[06_NPCs/Malphas\|Malphas]]
 - [[Dr. Brenden Gongol\|Dr. Brenden Gongol]]
+- [[06_NPCs/Demigods/Aspect of Famine\|Aspect of Famine]]
+- [[06_NPCs/Demigods/Aspect of Pestilence\|Aspect of Pestilence]]
+- [[06_NPCs/Demigods/Aspect of War\|Aspect of War]]
+- [[06_NPCs/Demigods/Aspect of Death\|Aspect of Death]]
+- [[06_NPCs/Dr. Severin Vile\|Dr. Severin Vile]]
+- [[06_NPCs/Veyra, the Ashmonger\|Veyra, the Ashmonger]]
+- [[06_NPCs/Funny/Junebug\|Junebug]]
+- [[Maldravok, Ancient Deep Dragon\|Maldravok, Ancient Deep Dragon]]
+- [[Charon\|Charon]]
+- [[Eimear\|Eimear]]
+- [[Saoirse\|Saoirse]]
+- [[Niamh\|Niamh]]
+- [[Caoimhe\|Caoimhe]]
+- [[Maeve\|Maeve]]
+- [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]]
+- [[06_NPCs/The Watcher Beneath\|The Watcher Beneath]]
+- [[06_NPCs/Gods/Nerull\|Nerull]]
+- [[06_NPCs/Son Goku\|Son Goku]] 
+- [[06_NPCs/Amaterasu\|Amaterasu]] 
+- [[06_NPCs/Izanami\|Izanami]] 
+- [[06_NPCs/Shadowclaw\|Shadowclaw]] 
+- [[Susanoo] 
+- [[06_NPCs/Inari Okami\|Inari Okami]] 
+- [[06_NPCs/Hachiman\|Hachiman]] 
+- [[06_NPCs/Raijin\|Raijin]]
+- [[06_NPCs/Fujin\|Fujin]]
+- [[06_NPCs/Uzume\|Uzume]]
+- [[06_NPCs/Toyotama-Hime\|Toyotama-Hime]]
+- [[06_NPCs/Watasumi\|Watasumi]]
+- [[06_NPCs/Izanagi\|Izanagi]]
+- [[06_NPCs/Tsukuyomi\|Tsukuyomi]]
+- [[06_NPCs/Tsukuyomi’s Shadow Assassin\|Tsukuyomi’s Shadow Assassin]]
+- [[06_NPCs/Amaterasu's Ethereal peasants\|Amaterasu's Ethereal peasants]]
+- [[06_NPCs/Malphas\|Malphas]]
 
 ### 🛡️ Allies
 - [[06_NPCs/Sir Lucian Caelmoor\|Sir Lucian Caelmoor]] 
@@ -162,6 +217,7 @@
 - [[04_Organizations/The Sanctifiers\|The Sanctifiers]]
 - [[04_Organizations/The Pale Flame\|The Pale Flame]]
 	- [[02_World/01_The Evergrowing Forest/The Sanctum of Withered Light\|The Sanctum of Withered Light]]    
+- [[02_World/The Pedronian Empire\|The Pedronian Empire]]
 
 ---
 

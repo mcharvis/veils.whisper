@@ -9,7 +9,7 @@
 Then came the sound—soft at first, like wind through broken glass.
 
 They emerged from the trees—**dozens of them**.  
-Flesh pale and sunken. Eyes clouded with green haze.  
+Once-elven bodies. Flesh pale and sunken. Eyes clouded with green haze.  
 Not shambling. Not moaning.  
 **Walking with purpose.**
 

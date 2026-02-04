@@ -139,7 +139,7 @@
 - [ ] Where is [[06_NPCs/Malis Fiani, The Scarlet Raven\|The Scarlet Raven]]?
 - [ ] Travel to [[Vindicative Enterprises\|Vindicative Enterprises]]
 	- [ ] Secure access to your overworld mine profits by recovering the stolen **Ledger Seal** from [[06_NPCs/Veyra, the Ashmonger\|Veyra, the Ashmonger]]
-	- [ ] Deliver the [[Items/Harbinger Blade\|Harbinger Blade]] to [[The First World Tree\|The First World Tree]]
+	- [ ] Deliver the [[Items/Harbinger Blade\|Harbinger Blade]] to [[02_World/The First World Tree\|The First World Tree]]
 - [ ] Travel to [[02_World/Vis’Avae\|Vis’Avae]]
 	- [ ] Speak to [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]].
 	- [ ] Visit the [[Bellum Crystallum\|Bellum Crystallum]].
@@ -177,7 +177,7 @@
 ---
 
 ## 🔍 Clues & Lore
-- The 4 Horsemen of the Apocalypse are closing in on Ahrown in pursuit of the [[Items/Harbinger Blade\|Harbinger Blade]]. It has to be buried in [[The First World Tree\|The First World Tree]].
+- The 4 Horsemen of the Apocalypse are closing in on Ahrown in pursuit of the [[Items/Harbinger Blade\|Harbinger Blade]]. It has to be buried in [[02_World/The First World Tree\|The First World Tree]].
 
 ## 🧵 Threads & Foreshadowing
 - [ ] The [[04_Organizations/The Horsemen\|The Horsemen]] will tempt the party into giving up the [[Items/Harbinger Blade\|Harbinger Blade]] to spark the Apocalypse.

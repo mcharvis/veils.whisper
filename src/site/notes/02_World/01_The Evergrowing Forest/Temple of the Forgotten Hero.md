@@ -7,7 +7,7 @@ _Resting place of Caelen, Firstborn of the Flame_
 The temple doesn’t rise from the swamp—it **sinks** into it.  
 Stone columns jut from the muck like the fingers of a buried titan. Moss drapes every surface. Ivy strangles the cracked reliefs of long-faded valor. This was once a shrine, a sanctuary, **a promise**—but time has reshaped it into something mournful.
 
-This is the final resting place of [[06_NPCs/Caelen, Firstborn of the Flame\|Caelen, Firstborn of the Flame]] - A knight whose name once rang like a war cry, now reduced to a whisper etched in wet stone. He was entombed here by the knights of [[04_Organizations/Ebony Wake\|Ebony Wake]].
+This is the final resting place of [[06_NPCs/Caelen, Firstborn of the Flame\|06_NPCs/Caelen, Firstborn of the Flame]] - A knight whose name once rang like a war cry, now reduced to a whisper etched in wet stone. He was entombed here by the knights of [[04_Organizations/Ebony Wake\|Ebony Wake]].
 
 Caelen’s **four spectral knights** used to linger here—shades of the past, armorless and silent, bound by oath not to protect the tomb from intruders, but to **weigh intentions**. Those aligned with the Flame—whatever that may now mean—are permitted to pass unchallenged. 
 
