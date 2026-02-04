@@ -164,4 +164,68 @@ At her words, the air above the crater ignited. Letters of scarlet fire burned i
 
 With a final, chilling look at the wreckage she had made of her "rescuers," Samantha unfurled her blood-red wings and vanished into the storm. Behind her, Squeaks lay dead in the mud, Kovinar bleeding from a mortal wound, and the party was left with the realization that they hadn't just saved a victim, they had forged a monster.
 
+Her despair descended into a laboratory of madness. Samantha stopped looking for prayers and started looking for mechanics. She tried the **Reanimation of the Seven Veils**, stitching soul-threads from faintlings into Nasha’s cold skin, but the threads only withered and turned to ash. She tried the **Sanguine Transfusion**, draining her own psychic essence until her heart nearly stopped, trying to jumpstart the girl’s pulse. Nothing worked.
+
+Finally, she turned to the most forbidden art of all: **The Ossuary Bridge.** The text in the stolen grimoire had been maddeningly vague, written in the frantic shorthand of a necromancer losing his mind. It spoke of "Nerull's Book of the Dead" and "The Chest of Resurrection." To Samantha, in her grief-blinded state, "the way" could only mean one thing: the path for Nasha to return. Samantha's own bones weren't enough to turn the lock of death, she reasoned, the key had to be made from the lock itself. 
+
+With a steady hand and a heart of ice, she performed the extraction. She took a sliver of bone from Nasha’s sternum, a hidden lock to her heart...a piece of the daughter to find the daughter. She spent days in a trance, carving the white bone into an intricate skeleton key.
+
+When it was finished, she held the key over Nasha’s body in the center of a ritual circle drawn in her own blood. She waited for a door to manifest...a portal...anything. She waited for the air to tear open. She waited for a spectral lock to appear that would let her reach into Nerull's Veil and pull her child home.
+
+But the room remained silent. The air did not stir. The key felt heavy and useless in her hand, a mocking piece of graveyard debris. To Samantha, the silence was the final rejection. "The Ossuary Bridge" had led nowhere.
+
+---
+
+### **The Burial at Vis’Avae**
+
+The air in Vis’Avae was thick with the scent of crushed lilies and black roses. It is a place where the veil between worlds is thin, but for Samantha, it felt like a wall of iron. The ground beneath her feet was soft with a rain that never seemed to stop, a rhythmic weeping of the sky that mirrored her own.
+
+She knelt in the center of the fae garden, the small grave already dug, a dark, hungry mouth in the glowing moss. Samantha lowered the girl's body into the soil. Nasha looked smaller now, her frame fragile and missing the pieces Samantha had taken in her madness.
+
+Samantha’s voice was a rough, shaking ruin as she began to push the earth over the red blanket. With every handful of soil, a new sob tore from her throat. She began to notice faint flickers of light coming from the grave...holding her. The luminae cradled and caressed Samantha...seemingly healing her...emboldening her. She began to push the last of the mossy dirt over the body and the useless key. As the red fabric vanished, her grief finally turned into a cold, sharp-edged fury. She looked up at the silver, blue & purple-leafed canopy into the darkness of night her eyes burning with a predatory scarlet light.
+
+"Where were you?" she shrieked. "Where were you when they strapped me to the table? Where were you when those monsters killed her with her blanket?"
+
+She cursed the God of Death, not for the end of life, but for the **neglect** of it. She cursed his absence, his cold calculations, and the cruelty of a divine order that allowed the "righteous" to destroy the innocent while he watched in silence. 
+
+At last, Samantha slumped over the mound covering her only daughter. She stayed there until her clothes were soaked and her skin turned blue with cold. She had tried to be a healer, a mother, and a miracle-worker. She had failed at all of them.
+
+Then, the rhythm of the rain changed. The soft squelch of boots on moss echoed through the silver trees.
+
+### **The Gathering of the Damned**
+
+Samantha didn’t reach for her bow. She didn't call the ravens. She simply stayed on her knees, her fingers stained with the dirt of her daughter’s grave. **"There’s movement behind you,"** the wind seemed to whisper. **"Familiar people are standing in the mist."**
+
+She rose slowly, her joints protesting with the phantom pains of her instinct. She turned to face them, the same faces that had been the architects of her "rescue" and the heralds of her ruin. Kovinar stood at the front, the mist clinging to his armor like a shroud.
+
+Kovinar stepped forward. There was no bravado in his stance, no "heroic" justification. He looked at the grave, then at the woman who had become a nightmare. He spoke with a weight that Samantha recognized, the weight of a man who had finally stopped running from himself.
+
+He thinks to himself..._"Truth is not the burden you carry alone. It’s the bridge you build when you let someone else see it. Truth shared becomes peace."_
+
+He did not offer an explanation. He did not speak of "necessity" or "the greater good." He simply looked at the dirt under her fingernails and took ownership of the blood. He admitted to the death of Nasha as a fact, raw and bleeding, laid bare between them.
+
+### **The Sight Beyond the Veil**
+
+Samantha stared at him. For years, she had been a practitioner of the _Mind-Chains_. She knew the difference between the hand that strikes and the will that commands it. You don't blame the sword for the wound; you blame the one who wields it.
+
+She stepped toward him, the distance between them closing until she could smell the iron and rain on his breath. She reached out, her hands...the same hands that healed that child...the same hands that carried her baby...the same hands that killed the callous half-orc...the same hands that had carved Nasha's bone...and offered them to Kovinar...not as Malis Fiani, The Scarlet Raven...but as Samantha...just Samantha, a woman grasping on her last thread of humanity. He reluctantly places his hands into hers as her pulls them to her chest. She leaned her forehead against his, a gesture that was half-prayer and half-intrusion.
+
+She pushed her mind into his.
+
+She didn't look for his memories of the fight; she looked for the _rot_. And she found it. Deep in the corners of Kovinar’s psyche, she saw the oily, necrotic fingerprints of **Nerull**. She saw the subtle whispers, the corruption of intent, the way the God of Death had nudged him toward cruelty under the guise of mercy.
+
+Kovinar hadn't been the murderer; he had been the tool. The true killer was sitting on a throne of bone, watching this play out with a cold, divine amusement. 
+
+The scarlet light in Samantha’s eyes softened, turning from the color of fire to the color of a sunset. In that shared headspace, she felt Kovinar’s genuine sorrow, a bridge built of truth.
+
+She chose.
+
+She forgave the sword. She let the hatred for the man dissolve, leaving behind only a focused, crystalline loathing for the God of Death who had orchestrated it all. She pulled back, her forehead still buzzing from the contact, and looked at the party. They were not her enemy...but they would not stand in her way.
+
+_"He made them do it,"_ she thought. _"He watched. And he will pay."_
+
+The peace did not make her Samantha again. She was still the Scarlet Raven. But now, her talons were no longer aimed at bystanders. They were aimed at the veil.
+
+
+
 #NPC 
