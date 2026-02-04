@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/06-np-cs/sanctifier-samantha-virelle/"}
 ---
 
-<p align="left">فيريل</p>
 ## I. The Artist of the Mind-Chains
 
 The stone corridors of Ya’a Thalor did not echo; they swallowed sound. For Samantha Virelle, this was the sound of perfection. As a low-ranking psychic acolyte, she found a cold, clinical beauty in the _Mind-Chains_ rituals. While other acolytes recoiled from the psychic backlash of a subject’s unraveling ego, Samantha leaned in. She loved the way a memory looked when it was being flayed...thin, iridescent strands of gold and grey being pulled from a screaming mind to leave behind a "purified" void.
