@@ -70,8 +70,6 @@
 
 
 ## Summary
-> _“You should not be here,”_ the Sovereign’s voice echoed, a sound like grinding tectonic plates. _“You will not disrupt everything we control with your foolish faith. He is forgotten... and so shall you be.”_
-> 
 > The air in the tunnel is thick with the smell of wet stone, old blood, and the sour sweat of a party that has spent the last few hours fighting for every inch of ground. There’s no poetry down here—just the cold weight of your gear and the knowledge that the world above is currently a meat grinder.
 > 
 > It started in the valley, a place choked with enough ash to make every breath a struggle. You were supposed to be observers, watching the clans of **Son Goku** and **Elder Izanami** tear each other apart, but the battlefield has a way of swallowing the bystanders. The moment you were spotted, the war paused just long enough for both sides to decide you were a more convenient target than each other. You stood back-to-back, blades slick with clan blood, holding the line simply because there was nowhere else to go.
