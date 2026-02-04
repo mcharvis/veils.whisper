@@ -6,6 +6,10 @@
 
 The stone corridors of Ya’a Thalor did not echo; they swallowed sound. For Samantha Virelle, this was the sound of perfection. As a low-ranking psychic acolyte, she found a cold, clinical beauty in the _Mind-Chains_ rituals. While other acolytes recoiled from the psychic backlash of a subject’s unraveling ego, Samantha leaned in. She loved the way a memory looked when it was being flayed...thin, iridescent strands of gold and grey being pulled from a screaming mind to leave behind a "purified" void.
 
+It started with a touch. She remembered the smell of beeswax and the way jer eyes burned from days without sleep. She looked at the child on the cot, trembling, haunted by things no child should see, and I knew I could fix it. Samantha pressed her palm to their forehead, and the blue sigils flowed like cool water.
+
+_"You’re safe now,"_ she whispered, her own tears hitting the floor. _"You’ll never see your trauma again."_ She thought she was a savior. She thought she had invented peace.
+
 She was a quiet cog, but an efficient one. Her devotion caught the eye of the one man more cold and precise than the rituals themselves: **[[06_NPCs/Sanctifier John Halric\|Sanctifier John Halric]]**.
 
 At the beginning, **John Halric** was not the monster of the lower chambers; he was a visionary. He saw in Samantha a rare, gentle brilliance, a psychic who didn't just tear at minds, but understood the delicate geometry of the soul. He was powerful, a rising sun within the Sanctifiers, and she was a "nobody" acolyte, yet he treated her as his intellectual peer.
@@ -40,7 +44,7 @@ As the iron shackles fell and the ogre’s weight was dragged off her, Samantha 
 
 Her first words were a ragged, wet rasp, a plea that had been her only fuel for years: **"My name is Samantha...Samantha Virelle. I just want to find my daughter."**
 
-The air in the room didn't just go cold; it vanished. **Squeaks** stepped forward, his posture lacking the weight of the moment, his voice almost cavalier as she tossed the truth into the room like a discarded bone. **"I killed your daughter,"** she claimed, the words flat and devoid of the gravity Samantha had carried for a lifetime.
+The air in the room didn't just go cold; it vanished. **Squeaks** stepped forward, her posture lacking the weight of the moment, her voice almost cavalier as she tossed the truth into the room like a discarded bone. **"I killed your daughter,"** she claimed, the words flat and devoid of the gravity Samantha had carried for a lifetime.
 
 The silence that followed was more violent than the ogre's blows.
 
