@@ -23,6 +23,8 @@
 		- [ ] Piece 2
 		- [ ] Piece 3
 - [ ] Seek the advice from The Oracle ...if/when she ever returns.
+- [ ] [[05_Player Characters/Kovinar\|Kovinar]]
+	- [ ] Pray to [[06_NPCs/Gods/Bahamut\|Bahamut]] and ask for forgiveness of Samantha's descent into evil.
 
 ---
 
