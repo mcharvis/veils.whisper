@@ -494,12 +494,10 @@ Samantha pondered the cost. She didn't fear the evil within the pages; she had a
 
 Samantha took it. A curt, stoic _"Thanks"_ was all she offered. 
 
-To Samantha, the air around Vespertina began to warp.
-
-It was as if the very atmosphere was being siphoned into an invisible drain. Samantha watched with a detached fascination as the liquid darkness, the raw, unrefined essence of the void, began to leak from the space Vespertina occupied. 
+To Samantha, the air around Vespertina began to warp. It was as if the very atmosphere was being siphoned into an invisible drain. Samantha watched with a detached fascination as the liquid darkness, the raw, unrefined essence of the void, began to leak from the space Vespertina occupied. 
 
 As Samantha watched, the liquid darkness, the raw essence of the void, began to leak from the space Vespertina occupied. To anyone else, it was merely a shadow. But Samantha saw the way the darkness coiled around the **Book of the Profane Word**, reaching out like a living thing to find access in her.
 
-She watched with a growing, cold confusion as the shadows pressed against the relic, searching for access. The darkness sought to enter Vespertina, to hollow out the pages of her mind and claim the space within. It followed her, constantly attempting to possess her but failing to find a gate...as if already occupied.  
+She watched with a growing, cold confusion as the shadows pressed against the relic, searching for access. The darkness sought to enter Vespertina, to hollow out the pages of her mind and claim the space within. It followed her, constantly attempting to possess her but failing to find a gate...as if something already occupied that space.  
 
 #NPC 
