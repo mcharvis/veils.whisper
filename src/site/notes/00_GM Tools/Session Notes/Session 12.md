@@ -78,6 +78,8 @@
 - [x] Travel to [[Vindicative Enterprises\|Vindicative Enterprises]]
 	- [ ] Secure access to your overworld mine profits by recovering the stolen **Ledger Seal** from [[06_NPCs/Veyra, the Ashmonger\|Veyra, the Ashmonger]]
 		- [ ] Complete Veyra's Relic Seeking Mission
+- [ ] [[05_Player Characters/Kovinar\|Kovinar]]
+	- [ ] Ask [[06_NPCs/Gods/Bahamut\|Bahamut]] to forgive Samantha's descent into evil.
 - [x] Who are Tisiphone, Hecate, & Nyx and how do we find them?
 	- [ ] Obtain the missing three pieces of the [[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]] and assemble them.
 		- [x] Piece 1
