@@ -4,7 +4,7 @@
 
 ## I. The Artist of the Mind-Chains
 
-The stone corridors of Ya’a Thalor did not echo; they swallowed sound. For Samantha Virelle, this was the sound of perfection. As a low-ranking psychic acolyte, she found a cold, clinical beauty in the _Mind-Chains_ rituals. While other acolytes recoiled from the psychic backlash of a subject’s unraveling ego, Samantha leaned in. She loved the way a memory looked when it was being flayed...thin, iridescent strands of gold and grey being pulled from a screaming mind to leave behind a "purified" void.
+The stone corridors of Ya’a Thalor used to not not echo; they absorbed sound. For Samantha Virelle, this was the sound of perfection. As a low-ranking psychic acolyte, she found a cold, clinical beauty in the _Mind-Chains_ rituals. While other acolytes recoiled from the psychic backlash of a subject’s unraveling ego, Samantha leaned in. She loved the way a memory looked when it was being flayed...thin, iridescent strands of gold and grey being pulled from a screaming mind to leave behind a "purified" void.
 
 It started with a touch. She remembered the smell of beeswax and the way jer eyes burned from days without sleep. She looked at the child on the cot, trembling, haunted by things no child should see, and I knew I could fix it. Samantha pressed her palm to their forehead, and the blue sigils flowed like cool water.
 
@@ -234,7 +234,7 @@ She sits. She breathes. And for the first time in her life, Samantha Virelle tur
 
 She manifests the blue-white sigils of her healing art, but they don't glow with the soft warmth they once held in the infirmary. As they wrap around her own temples, they turn a sharp, crystalline scarlet. She begins to flay her own psyche, searching through the layers of the sactifier, the prisoner, and the grieving mother, the murderer. She is looking for the "Samantha" that survived Halric, the one who still knows how to hope.
 
-But the deeper she goes, the more she realizes that the "Samantha" she is looking for is gone. In her place is a vast, echoing cathedral of rage and clinical intent. By opening her mind so completely, she drops the final barrier.
+But the deeper she goes, the more she realizes that the "Samantha" she is looking for is gone. In her place is a vast, echoing cathedral of rage andprecis intent. By opening her mind so completely, she drops the final barrier.
 
 **Tisiphone** doesn't break in with a roar; she sneaks in through the cracks of Samantha's self-reflection. The Stillness of Night manifests within the psychic space of the Mind-Chains, her presence appearing as a beautiful but towering godess against the scarlet backdrop of Samantha's thoughts.
 
@@ -254,7 +254,7 @@ Tisiphone steps closer, her gaze pinning Samantha to her own thoughts.
 
 Samantha’s mind flares with a scarlet light—a reflex of rejection. "They are the tools of my daughter's murder," she hisses.
 
-"Exactly," Tisiphone counters, her tone clinical. "And that is why they are perfect. They are the only ones who can reach him because they are the only ones he thinks he has already beaten. You are The Veil's Whisper, Samantha. You are the one who will guide them into Nerull's Veil. Without them, you are just a woman screaming at a mound of dirt the rain."
+"Exactly," Tisiphone counters, her tone precise. "And that is why they are perfect. They are the only ones who can reach him because they are the only ones he thinks he has already beaten. You are The Veil's Whisper, Samantha. You are the one who will guide them into Nerull's Veil. Without them, you are just a woman screaming at a mound of dirt the rain."
 
 ---
 
@@ -280,7 +280,7 @@ She pushes too hard. Instead of a bridge, she creates a fracture. Her interventi
 
 The result is a disaster. By attempting to force the clans to her will, Samantha inadvertently stirs the hive. The sky over Pedronia turns a bruised, electric purple as the **Izanami** and **Son Goku** are drawn into a furious battle.
 
-The land itself begins to tear apart under the perpetual weight of thousands of years of combat. Samantha finds herself standing in the center of a war she cannot control, realizing too late that her clinical precision has caused a wound that even she cannot stitch back together.
+The land itself begins to tear apart under the perpetual weight of thousands of years of combat. Samantha finds herself standing in the center of a war she cannot control, realizing too late that her precision has caused a wound that even she cannot stitch back together.
  
 ### **The Party’s Arrival**
 
@@ -296,7 +296,7 @@ The air around her tasted of ozone and failed ambition. The Command Verses were 
 
 ### **The View from the Canopy**
 
-Down below, the valley was a choked throat of ash. She saw them move into it, a small, defiant knot of color against the crimson ground blanketed by ash. Why were they here? She watched with a clinical, detached horror as the clans of **Son Goku** and **Elder Izanami**, the very people she had tried to "heal" into an army, turned their collective fury upon the interlopers.
+Down below, the valley was a choked throat of ash. She saw them move into it, a small, defiant knot of color against the crimson ground blanketed by ash. Why were they here? She watched with a detached horror as the clans of **Son Goku** and **Elder Izanami**, the very people she had tried to "heal" into an army, turned their collective fury upon the interlopers.
 
 She didn't descend. She couldn't. She watched as they stood back-to-back, their blades flashing like dying fireflies. She saw Kovinar's stance, saw the desperate rhythm of their defense as the meat grinder of the clans closed in. They were holding a line that didn't exist, fighting for a ground that had already been promised to the grave.
 
@@ -318,7 +318,7 @@ The valley floor didn't just break; it imploded.
 
 From her high vantage point, Samantha saw the sinkhole open like a hungry mouth. She saw the party, her "murderers," her "tools," her only bridge to Nerull, get swallowed by the abyss. One moment they were fighting for their lives; the next, they were gone, dropped into a bone-jarring darkness, leaving behind only a settling cloud of dust and the ringing silence of a Sovereign’s judgment.
 
-Samantha stood up on the obsidian ledge, her scarlet wings unfurling slowly. She looked down into the black hole where the party had vanished. The clinical certainty she had gained from Tisiphone felt like a lead weight in her chest.
+Samantha stood up on the obsidian ledge, her scarlet wings unfurling slowly. She looked down into the black hole where the party had vanished. The certainty she had gained from Tisiphone felt like a lead weight in her chest.
 
 "I followed the procedure," she whispered to the empty, ash-choked wind. "I used the verses. I forged the path."
 
@@ -409,7 +409,7 @@ As his consciousness drifted toward the vulnerable surrender of sleep, Samantha 
 
 The landscape of Kovinar’s psyche was not a sanctuary. It was a sunless cathedral, echoing with the clatter of iron and the scent of old ash. Samantha’s presence manifested as a flickering, scarlet shadow against the high, vaulted ribs of his thoughts.
 
-_"Your mind…is a dark place,"_ her voice echoed, devoid of the warmth he remembered, replaced by a clinical, razor-edged clarity. _"This is not a mind free of turmoil. What are you fighting in here…? What…are you hiding… in here?"_
+_"Your mind…is a dark place,"_ her voice echoed, devoid of the warmth he remembered, replaced by a razor-edged clarity. _"This is not a mind free of turmoil. What are you fighting in here…? What…are you hiding… in here?"_
 
 She moved closer, her spectral form shimmering with the weight of the **Grimoire**.
 
