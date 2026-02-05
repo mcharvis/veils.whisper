@@ -56,9 +56,9 @@ Now, she realized she had fought to stay alive for nothing. She had been on the 
 
 ## III. The Rise of Malis Fiani
 
-The words spoken by the half-orc _"I killed your daughter"_ did not just break Samantha’s heart; they hollowed her out. She collapsed into the filth of the dining hall, clawing at the stone until her fingernails bled, wailing until her throat tore raw. She was a woman who had lost the sun, the stars, and finally, the earth beneath her feet. When Vespertina and Squeaks left her there, sobbing and abandoned, they left behind the husk of a mother and the beginning of a monster.
+The words spoken by the half-orc _"I killed your daughter"_ did not just break Samantha’s heart; they hollowed her out. She collapsed into the filth of the torture chamber, clawing at the stone until her fingernails bled, wailing until her throat tore raw. She was a woman who had lost the sun, the stars, and finally, the earth beneath her feet. When Vespertina and Squeaks left her there, sobbing and abandoned, they left behind the husk of a mother and the beginning of a monster.
 
-Driven by a madness that felt like clarity, Samantha stumbled across the hall of Ya’a Thalor. She crawled through the portal to **[[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]**, her eyes fixed and glassy. She scrambled past the grotesque, lifeless remains of the **[[Cradle of Flesh\|Cradle of Flesh]]**, recognizing the faces of children. She climbed the iron ladder, through the false-bottom bathtub, and into the Headmistress’s chambers, a ghost haunting the site of her own daughter's death.
+Driven by a madness that felt like clarity, Samantha stumbled across the hall of Ya’a Thalor. She crawled through the portal to **[[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]**, her eyes fixed and glassy. She scrambled past the grotesque, lifeless remains of the **[[Cradle of Flesh\|Cradle of Flesh]]**, recognizing the faces of dead children. She climbed the iron ladder, through the false-bottom bathtub, and into the Headmistress’s chambers, a ghost haunting the site of her own daughter's death.
 
 She found herself in the dining hall. There sat **Magda Velt**, the Lunch Matron, looking up from a bowl of broth with eyes full of a terrifying, unshaken kindness.
 
