@@ -24,7 +24,7 @@ At seven months, in a room that smelled of iron and shame, she birthed a frail, 
 
 ## II. The Table and the Beast
 
-The mercy Samantha expected for her "loyalty" never came. When Halric discovered the truth: the birth, the abandonment, the defiance. His response was a masterclass in the very cruelty she had watched him create with her magic Samantha was stripped of her robes and her rank. She was dragged to the lower chambers of [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]], to the very iron tables where she had once stood as a practitioner.
+The mercy Samantha expected for her "loyalty" never came. When Halric discovered the truth: the birth, the abandonment, the defiance. His response was a masterclass in the very cruelty she had watched him create with her magic. Samantha was stripped of her robes and her rank. She was dragged to the lower chambers of [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]], to the very iron tables where she had once stood as a practitioner.
 
 For years, Samantha was a vessel for Halric’s penance. The man who had once looked at her with respect now looked at her as a living monument to his own "sin."  
 
