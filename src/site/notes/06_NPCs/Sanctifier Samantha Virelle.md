@@ -9,6 +9,7 @@ The stone corridors of Ya’a Thalor used to not not echo; they absorbed sound. 
 It started with a touch. She remembered the smell of beeswax and the way jer eyes burned from days without sleep. She looked at the child on the cot, trembling, haunted by things no child should see, and I knew I could fix it. Samantha pressed her palm to their forehead, and the blue sigils flowed like cool water.
 
 _"You’re safe now,"_ she whispered, her own tears hitting the floor. _"You’ll never see your trauma again."_ She thought she was a savior. She thought she had invented peace.
+![unnamed (2).jpg](/img/user/unnamed%20(2).jpg)
 
 She was a quiet cog, but an efficient one. Her devotion caught the eye of the one man more cold and precise than the rituals themselves: **[[06_NPCs/Sanctifier John Halric\|Sanctifier John Halric]]**.
 
@@ -17,6 +18,8 @@ At the beginning, **John Halric** was not the monster of the lower chambers; he 
 In the early years, they met in the ground-floor libraries of Ya’a Thalor, discussing how the _Mind-Chains_ could be used to truly heal the broken. He was her protector and her mentor, and she loved the man who spoke of a world without suffering.
 
 But as Halric climbed the ranks of **The Order**, the corruption began to take root. The "necessary evils" of his position started to callously rewrite his morality. The man who once held Samantha’s hand with tenderness began to view people (and eventually her) as mere variables in a grander equation of control. By the time Samantha realized she was pregnant, the man she loved had already been replaced by the Overseer who served the machine. His "respectable" love hadn't died; it had curdled into a possessive, cold tyranny. The mandate from Halric and The Order was cruel but absolute: _Terminate the child._ She intended to obey. She prepared the herbs, the psychic triggers to force the body to reject the life within. But at the final moment, her hand stayed. Whether it was a flicker of hope or a final act of rebellion against Halric’s control, she let the child grow in the dark.
+
+![unnamed (3).jpg](/img/user/unnamed%20(3).jpg)
 
 At seven months, in a room that smelled of iron and shame, she birthed a frail, premature girl: **[[06_NPCs/Nasha\|Nasha]]**. She did not hold her for long. Terrified of the scandal and the man she had loved, Samantha wrapped the tiny, shivering creature in a torn piece of a red Sanctifier cermonial ritual cloth with sigils sewn into the hem. Under the cover of a moonless night, she left the bundle on the cold stone threshold of **[[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]**. No note. No name. Only the dampness of blood and afterbirth and the silence of a mother who had painfully chosen her cult over her kin.
 
@@ -33,6 +36,8 @@ Samantha became a prisoner of the very stone she had once walked as a free woman
 He treated her body like a piece of iron that needed to be beaten into a new shape. There was no psychic finesse, only the wet crack of leather on skin and the low, muttered prayers of a man who believed that every bruise he gave her washed a bit of the scandal from his own soul. Her spirit wasn't harvested; it was ground down into a fine, bitter dust under the weight of his physical obsession. By the time the undead arrived, she was less a woman and more a collection of scar tissue and screams.
 
 She was strapped to that table the night the Ahrown zombies breached Ya’a Thalor. The screams of the dying Sanctifiers above were a melody she welcomed. Then the door burst open. It wasn't a savior; it was a hulking, rotting **ogre zombie**. It didn't care for her psychic potential or her past sins. It saw meat.
+
+![unnamed (5).jpg](/img/user/unnamed%20(5).jpg)
 
 The ogre zombie did not bring the quick end Samantha craved. When it fell upon her, she was still shackled, a prisoner of the iron loops that had held her for Halric’s lash. Each blow from the creature's massive, necrotic fists was a thunderclap of agony. Ribs snapped like dry kindling; teeth shattered and sprayed across the stained wood of the table. Her lungs began to fill with blood, and the world started to tilt into a merciful, final grey. 
 
@@ -114,6 +119,8 @@ A young squire, barely a man, stopped his sweeping and looked up in confusion. �
 
 Samantha didn't blink. She didn't even see him. She walked past him with a terrifying, singular focus, her boots leaving bloody prints on the flagstones. She reached the altar of Vex Ceniza, a cold, obsidian slab, and laid the blanket across it. The fabric was heavy, still wet with her tears and the congealed blood of the girl she had left in the storage room.
 
+![unnamed (6).jpg](/img/user/unnamed%20(6).jpg)
+
 The squire watched in a mixture of awe and primal fear. He saw the way she placed her cut, ink-stained hands on the wool. He saw the torches begin to shift from amber to a deep, bruised red. The very air in the chapel grew thick, vibrating with a sound like slow, labored breathing coming from the stone itself.
 
 “I’ll give anything,” Samantha whispered, her voice cracking the heavy silence. “I’ll give it all.”
@@ -143,6 +150,8 @@ Samantha’s eyes went wide as the energy she had summoned recoiled. The red bla
 The scream that tore from Samantha’s throat was one of pure, unadulterated despair, the sound of a mother watching her daughter die for a second time. As the chapel turned a violent, bruised scarlet, the backfire struck her full in the chest.
 
 She felt her physical form lose its cohesion. Her ribs, her skin, her very memories seemed to splinter. Her body didn't fall; it shattered. In a horrific eruption of feathers and light, Samantha’s form split into hundreds and hundreds of **Scarlet Ravens**. They swirled in a frantic, screaming vortex that filled the chapel, their wings beating against the stone walls like a thousand frantic hearts, before they spilled out through the shattered stained glass and into the weeping night sky.
+
+![unnamed (7).jpg](/img/user/unnamed%20(7).jpg)
 
 From the center of the murder, Samantha’s eyes found the one thing that mattered: **Squeaks**, standing in the muddy pit, clutching the handful of consecrated skulls that had been meant to bring Nasha back.
 
@@ -189,6 +198,8 @@ Samantha’s voice was a rough, shaking ruin as she began to push the earth over
 She cursed the God of Death, not for the end of life, but for the **neglect** of it. She cursed his absence, his cold calculations, and the cruelty of a divine order that allowed the "righteous" to destroy the innocent while he watched in silence. 
 
 At last, Samantha slumped over the mound covering her only daughter. She stayed there until her clothes were soaked and her skin turned blue with cold. She had tried to be a healer, a mother, and a miracle-worker. She had failed at all of them.
+
+![unnamed (8).jpg](/img/user/unnamed%20(8).jpg)
 
 Then, the rhythm of the rain changed. The soft squelch of boots on moss echoed through the silver trees.
 
@@ -351,7 +362,7 @@ She lay there, a shattered wreck of meat and malice, her heart a stuttering drum
 
 As the stoic shadow of **Hecate** coalesced over her, Samantha didn't ask for life. She didn't ask for a cure. She reached out with a trembling, blood-slicked hand and gripped the hem of the goddess's robes.
 
-She rasped, the sound like a blade dragging over bone. _"I am a mark...I am a target. Nerull will see me cross His Veil. Hide me from The Grave. If I am to be a monster, let me be a ghost that even a God cannot find."_
+She rasped, the sound like a blade dragging over bone. _"I am a mark...I am a target. Nerull will see me cross His Veil. Hide me from The Grave. Take these wings...this curse...If I am to be a monster, let me be a ghost that even a God cannot find."_
 
 ### **The Severing and the Scar**
 
@@ -395,6 +406,8 @@ Hecate stepped back, dissolving into the swirling ash until only the weight of h
 
 She looked down into the black hole. She didn't need wings to descend. She had the weight of her own darkness to pull her down.
 
+![c3d9f6be-8630-47f4-8b36-245200fa5b0b.png](/img/user/c3d9f6be-8630-47f4-8b36-245200fa5b0b.png)
+
 **"I will find them,"** Samantha whispered, the Grimoire beginning to bleed a bruised, violet light. **"And I will turn them into something that even Malphas will fear to look upon. I was a healer of children; now, I am the blacksmith of death."**
 
 For hours, there was only the hurricane of the battle below: the thrum of Izanami’s fury and Son Goku’s defiance. But as the sun dipped and the world cooled into a bruised purple night, the psychic static settled.
@@ -432,7 +445,7 @@ _"He puts innocent children in front of you and makes you think you have no choi
 
 She leaned in, her voice a freezing rasp against his soul.
 
-_"I could have saved her, Kovinar. But alas, I couldn’t save her from Nerull… I couldn’t save her from you."
+*"I could have saved her, Kovinar. But alas, I couldn’t save her from Nerull… I couldn’t save her from you."*
 
 She recalls Tisiphone’s advice...that Kovinar carries the weight that balances the scales of Fate.
 
