@@ -70,9 +70,9 @@ Then, with the casual air of someone discussing the weather, Magda delivered the
 
 “They made quick work of that cruel headmistress, you know. That little band of fighters. Even took care of Nasha, that evil girl in the storage. Braver than anyone gives them credit for, I say. I love them, Samantha. Truly, I do. They carry light into dark places like this.”
 
-The world snapped. The rage that boiled up in Samantha was a physical thing, a volcanic surge of grief and madness that incinerated the last traces of the kind woman inside. Her spoon clattered against the stone floor. She stared at the table, her fists white-knuckled. She tried to scream _"No!"_—tried to mouth _"Not them. Not Nasha!"_—but the soup held her tongue in a silken, magical grip.
+The world snapped. The rage that boiled up in Samantha was a physical thing, a volcanic surge of grief and madness that incinerated the last traces of the kind woman inside. Her spoon clattered against the stone floor. She stared at the table, her fists white-knuckled. She tried to scream _"No!"_...tried to mouth _"Not them. Not Nasha!"_...but the soup held her tongue in a silken, magical grip.
 
-Magda leaned in, her face full of misplaced sorrow. “What's the matter, child? They're kind peop'—”
+Magda leaned in, her face full of misplaced sorrow. “What's the matter, child? They're kind peop'...”
 
 The sentence was drowned in a sound that should have been impossible. A scream tore through the magical silence, a sharp, metallic shriek like a blade scraping across bone. Samantha lunged across the table, seizing Magda with both hands.
 
@@ -122,7 +122,7 @@ The squire watched in a mixture of awe and primal fear. He saw the way she place
 
 A rustle of feathers erupted from the darkness above. Along the rafters, dozens of ravens appeared, their black feathers shimmering with an unnatural, oily sheen. They didn't croak; they watched with eyes that held too much intelligence.
 
-From the shifting shadows of the rafters, a low voice spoke. It wasn't the booming voice of a god, nor the whisper of a demon. It was a neutral, ancient sound—not kind, not cruel, but purely transactional.
+From the shifting shadows of the rafters, a low voice spoke. It wasn't the booming voice of a god, nor the whisper of a demon. It was a neutral, ancient sound...not kind, not cruel, but purely transactional.
 
 **_"The child is ash,"_** the voice vibrated through the floorboards. **_"To bring the ash to flame, the mother must become the hearth. Are you prepared to burn, Samantha Virelle?"_**
 
@@ -182,7 +182,7 @@ The air in Vis’Avae was thick with the scent of crushed lilies and black roses
 
 She knelt in the center of the fae garden, the small grave already dug, a dark, hungry mouth in the glowing moss. Samantha lowered the girl's body into the soil. Nasha looked smaller now, her frame fragile and missing the pieces Samantha had taken in her madness.
 
-Samantha’s voice was a rough, shaking ruin as she began to push the earth over the red blanket. With every handful of soil, a new sob tore from her throat. She began to notice faint flickers of light coming from the grave...holding her. The luminae cradled and caressed Samantha...seemingly healing her...emboldening her. She began to push the last of the mossy dirt over the body and the useless key. As the red fabric vanished, her grief finally turned into a cold, sharp-edged fury. She looked up at the silver, blue & purple-leafed canopy into the darkness of night her eyes burning with a predatory scarlet light.
+Samantha’s voice was a rough, shaking ruin as she began to push the earth over her body. With every handful of soil, a new sob tore from her throat. She began to notice faint flickers of light coming from the grave...holding her. The luminae cradled and caressed Samantha...seemingly healing her...emboldening her. She began to push the last of the mossy dirt over the body and the useless key. As the red fabric vanished, her grief finally turned into a cold, sharp-edged fury. She looked up at the silver, blue & purple-leafed canopy into the darkness of night her eyes burning with a predatory scarlet light.
 
 "Where were you?" she shrieked. "Where were you when they strapped me to the table? Where were you when those monsters killed her with her blanket?"
 
@@ -252,7 +252,7 @@ Tisiphone steps closer, her gaze pinning Samantha to her own thoughts.
 
 "You will not succeed if you are not willing to accept your fate. You aren't meant to be a lone shadow. You require those people in the mist...**Vespertina**...**Kovinar**. He is the stone that Nerull tried to crack, yet he still stands. He carries the weight that balances the scales of Fate, and he and Vespertina have connections to 'truth' and 'honor' that you’ve long since traded for vengeance. You need them...and they need you...as they are discovering in this very moment. Open your mind to them...show them your pain."
 
-Samantha’s mind flares with a scarlet light—a reflex of rejection. "They are the tools of my daughter's murder," she hisses.
+Samantha’s mind flares with a scarlet light, a reflex of rejection. "They are the tools of my daughter's murder," she hisses.
 
 "Exactly," Tisiphone counters, her tone precise. "And that is why they are perfect. They are the only ones who can reach him because they are the only ones he thinks he has already beaten. You are The Veil's Whisper, Samantha. You are the one who will guide them into Nerull's Veil. Without them, you are just a woman screaming at a mound of dirt the rain."
 
@@ -345,7 +345,7 @@ As the light faded from her eyes, the wind died. The chaos of the battle was rep
 
 Hecate stood over Samantha’s broken form. She cared for one reason only: Samantha had become an anomaly. "You have flown too high on stolen wings, Samantha Virelle," Hecate said, her voice like grinding tectonic plates. "And you have fallen into the dirt where you belong."
 
-She lay there, a shattered wreck of meat and malice, her heart a stuttering drum of war. The cataclysmic evil within her had turned her blood into a psychic toxin, and yet, the terror remained—the jagged, vulnerable knowledge that so long as she existed as a part of the world’s tapestry, **Nerull** and **Malphas** could pluck her threads. She was a beacon of hate, and to a God of Death, a beacon is a target.
+She lay there, a shattered wreck of meat and malice, her heart a stuttering drum of war. The cataclysmic evil within her had turned her blood into a psychic toxin, and yet, the terror remained...the jagged, vulnerable knowledge that so long as she existed as a part of the world’s tapestry, **Nerull** and **Malphas** could pluck her threads. She was a beacon of hate, and to a God of Death, a beacon is a target.
 
 ### **The Request for Nullification**
 
@@ -424,9 +424,9 @@ She moved through his thoughts with the cold, predatory grace, systematically di
 
 She circled his mental form, her scarlet eyes burning with a cataclysmic malice.
 
-_"Nerull doesn’t fear your oath to Bahamut. He targets it. He doesn’t challenge you because you’re dangerous—he challenges you because you’re principled. You can be forced. You can be manipulated."_
+_"Nerull doesn’t fear your oath to Bahamut. He targets it. He doesn’t challenge you because you’re dangerous...he challenges you because you’re principled. You can be forced. You can be manipulated."_
 
-She projected the image of **Nasha**—the child he had "mercifully" killed—into the center of his mind.
+She projected the image of **Nasha**...the child he had "mercifully" killed...into the center of his mind.
 
 _"He puts innocent children in front of you and makes you think you have no choice but to murder them. You chose to spare the torturers, and that makes you Nerull's accomplice, not her avenger. Kovinar, recognize the trick. Nerull robbed you of the knowledge that her own mother created the magic that could eliminate Nasha’s trauma."_
 
