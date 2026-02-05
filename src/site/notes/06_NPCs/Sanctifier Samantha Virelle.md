@@ -482,7 +482,7 @@ When the moment came, Samantha didn't use a blade. She gripped Malphas’ head, 
 
 In the sudden, ringing silence of the aftermath, the temperature plummeted. **Nerull** manifested, not in fury, but in a cold, bureaucratic inevitability, to claim the cooling remains of his messenger. The God of Death’s presence was a reminder that even this victory was just a restructuring of his kingdom.
 
-In the freezing isolation of the valley’s edge, Samantha looked down at the object in the demigoddess's hands. It didn’t just feel like a book; it felt like a cold, heavy pulse against the air, the leather bound in the skin of things that had never found rest.
+In the freezing isolation of the valley’s edge, Samantha looked down at the object in the Vespertina's hands. It didn’t just feel like a book; it felt like a cold, heavy pulse against the air, the leather bound in the skin of things that had never found rest.
 
 **Vespertina** stepped from the shadows, offering the **Book of the Profane Word**, a relic heavy with the stench of the grave.
 
