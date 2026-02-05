@@ -38,17 +38,17 @@ The ogre zombie did not bring the quick end Samantha craved. When it fell upon h
 
 With a ragged, silent cry of the soul, Samantha turned her magic inward. She didn't use it to heal, but to **tether**. She wove psychic threads between her broken bones, lashing her organs together with shimmering ribbons of blue light just to keep them from failing. It was a gruesome, internal scaffolding. She was conscious for every agonizing second of the beating, her own power forcing her heart to keep beating in a body that was little more than a pulp of meat and shattered bone.
 
-She was hovering at the absolute threshold of death, her magic flickering like a guttering candle, when the door finally burst open. Through the haze of blood, she saw the flash of steel as **[[05_Player Characters/Squeaks\|Squeaks]], [Vespertina], and a few skeletons** cut the beast down. The shackles were broken, but as the iron fell away, Samantha’s internal tethering began to fail. She collapsed into the blood on the floor...a survivor not by luck, but by a horrific act of psychic will that left her more hollow than the grave.
+She was hovering at the absolute threshold of death, her magic flickering like a guttering candle, when the door finally burst open. Through the haze of blood, she saw the flash of steel as **[[05_Player Characters/Squeaks\|Squeaks]], [[05_Player Characters/Vespertina\|Vespertina]], and a few skeletons** cut the beast down. The shackles were broken, but as the iron fell away, Samantha’s internal tethering began to fail. She collapsed into the blood on the floor...a survivor not by luck, but by a horrific act of psychic will that left her more hollow than the grave.
 
 As the iron shackles fell and the ogre’s weight was dragged off her, Samantha lay in the gore, her internal psychic scaffolding barely holding her lungs in place. She looked up at her rescuers through a mask of blood and shattered teeth. 
 
 Her first words were a ragged, wet rasp, a plea that had been her only fuel for years: **"My name is Samantha...Samantha Virelle. I just want to find my daughter."**
 
-The air in the room didn't just go cold; it vanished. **Squeaks** stepped forward, her posture lacking the weight of the moment, her voice almost cavalier as she tossed the truth into the room like a discarded bone. **"I killed your daughter,"** she claimed, the words flat and devoid of the gravity Samantha had carried for a lifetime.
+The air in the room didn't just go cold; it vanished. **Squeaks** stepped forward, her posture lacking the weight of the moment, her voice almost cavalier as she tossed the lie into the room like a discarded bone. **"I killed your daughter,"** she claimed, the words flat and devoid of the gravity Samantha had carried for a lifetime.
 
 The silence that followed was more violent than the ogre's blows.
 
-Samantha looked at the faces of the party, and the gratitude they might have expected was replaced by a look of profound, soul-deep betrayal. She felt cheated. She had used every ounce of her psychic will to tether her soul to a broken body, suffering through a death-beating just for the chance to see Nasha again.
+Samantha looked at the faces of the party, and the gratitude they might have expected was replaced by a look of profound, soul-deep betrayal. She felt cheated. She had used every ounce of her psychic will to tether her soul to a broken body, suffering through a death-beating just for the chance to see [[06_NPCs/Nasha\|Nasha]] again.
 
 Now, she realized she had fought to stay alive for nothing. She had been on the precipice of a merciful end, and these "heroes" had dragged her back into the darkness of a world that was now truly empty. The rescuers weren't saviors; they were the final architects of her emotional ruin.
 
