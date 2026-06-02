@@ -41,7 +41,7 @@ In the broader tradition of the gods, Nerull is one of the oldest death deities 
 **His domain** is the *Necromanteion* — a hall of grey ash and stone at the bottom of the afterlife, where he maintains the **Book of the Dead**: a ledger of every soul that has passed through death, every bargain struck at the threshold, every name that has been written into his keeping. The Book is not just a record. It is a *claim*.
 
 **His servants** include:
-- The **Knights of Nine** — nine champions bound to him by a Geas and a Covenant of the Grave, their souls written into his ledger in his own blood. See: [[Knights of Nine - Vorgar the Hollow\|The Knights of Nine]].
+- The **Knights of Nine** — nine champions bound to him by a Geas and a Covenant of the Grave, their souls written into his ledger in his own blood. See: [[Knights of Nine\|The Knights of Nine]].
 - [[06_NPCs/Malphas\|Malphas]] — the Prince of Crows, Duke of Hell, who served as Nerull's instrument in Elarith. Nerull feared the Horsemen and kept them chained like hounds he could not hunt with. Malphas was his hunting dog of choice instead.
 - The undead armies that populate the Underworld — not creatures of chaos, but of *administration*. They are, in Nerull's view, inventory.
 
@@ -84,6 +84,6 @@ The Necromanteion is a hall of grey ash and stone. There is no dramatic architec
 
 The **Book of the Dead** sits at its center — not a book in any legible sense, but a living ledger of every soul in Nerull's keeping. Every name written in it is, in his view, *his property*. To remove a name from the Book requires either divine intervention, a ritual of extraordinary complexity, or the destruction of the book itself.
 
-*See also: [[06_NPCs/Malis Fiani, The Scarlet Raven\|Malis Fiani, The Scarlet Raven]] · [[05_Player Characters/Kovinar\|Kovinar]] · [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]] · [[06_NPCs/Nasha\|Nasha]] · [[06_NPCs/Malphas\|Malphas]] · [[06_NPCs/Talia\|Talia]] · [[Knights of Nine - Vorgar the Hollow\|Knights of Nine - Vorgar the Hollow]] · [[02 World/The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] · [[06_NPCs/Gods/Bahamut\|Bahamut]] · [[02 World/The First World Tree\|The First World Tree]] · [[01 Campaigns/Encounters/6 - The Long Grey/The Long Grey\|The Long Grey]] · [[02 World/Obsidian Lands of Volencia/Necromanteion\|Necromanteion]]*
+*See also: [[06_NPCs/Malis Fiani, The Scarlet Raven\|Malis Fiani, The Scarlet Raven]] · [[05_Player Characters/Kovinar\|Kovinar]] · [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]] · [[06_NPCs/Nasha\|Nasha]] · [[06_NPCs/Malphas\|Malphas]] · [[06_NPCs/Talia\|Talia]] · [[Knights of Nine\|Knights of Nine]] · [[02 World/The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] · [[06_NPCs/Gods/Bahamut\|Bahamut]] · [[02 World/The First World Tree\|The First World Tree]] · [[01 Campaigns/Encounters/6 - The Long Grey/The Long Grey\|The Long Grey]] · [[02 World/Obsidian Lands of Volencia/Necromanteion\|Necromanteion]]*
 
 #god #NPC #antagonist #deceased #endgame

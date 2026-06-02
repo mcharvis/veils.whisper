@@ -139,4 +139,4 @@
 
 ## 🧵 Threads & Foreshadowing
 - [[02 World/The Pedronian Empire\|The Pedronian Empire]] is compiled of 6 clans in a perpetual war with each other. Uniting the clans will open [[The Hikarai\|The Hikarai]] to locate [[Items/The Tsukaru\|The Tsukaru]].
-- [[Items/The Tsukaru\|The Tsukaru]] and [[01 Campaigns/Encounters/6 - The Long Grey/Crown of the Quiet Sovereign\|Crown of the Quiet Sovereign]] are combined. What they make is unknown.
+- [[Items/The Tsukaru\|The Tsukaru]] and [[Crown of the Quiet Sovereign\|Crown of the Quiet Sovereign]] are combined. What they make is unknown.

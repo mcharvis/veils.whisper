@@ -15,3 +15,5 @@
 
 "Hear my words: not all that seeks to harm you is your enemy, and not all who offer aid are your friends. This place has mystery all around you. See with your mind, as well as your eyes. Use wisdom and be intentional. Look for details… the little things. Look at the forest AND the trees."
 
+
+“Time flows strangely in Elarith—what’s a moment above can stretch into centuries here. Past, present, and future twist together like smoke. This is a land of shifting shadows, where even the trees in the Evergrowing Forest seem to watch. Magic thickens the air. Every creature, every whisper, holds a secret. Beware the Dregar Territory. The fog hides lies and the soil swallows the careless. Not all who greet you are allies—some are sorrow-bound, others seething with rage. And if you’re lucky, you may glimpse the Luminae—beings of light who guide the lost. They do not linger, but their wisdom can light a path through the dark.”

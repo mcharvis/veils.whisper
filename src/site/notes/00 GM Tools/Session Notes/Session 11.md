@@ -120,6 +120,6 @@
 - Renzo united the clans with Caelen's voice using [[Items/The Six Command Verses of Pedronia\|The Six Command Verses of Pedronia]]
 
 ## 🧵 Threads & Foreshadowing
-- [[Items/The Tsukaru\|The Tsukaru]] and [[01 Campaigns/Encounters/6 - The Long Grey/Crown of the Quiet Sovereign\|Crown of the Quiet Sovereign]] are combined. What they make is unknown.
+- [[Items/The Tsukaru\|The Tsukaru]] and [[Crown of the Quiet Sovereign\|Crown of the Quiet Sovereign]] are combined. What they make is unknown.
 - The party has [[Items/The Tsukaru\|The Tsukaru]] but has no idea what to do with it.
 - [[06_NPCs/Malphas\|Malphas]] was pleased to see that his loyal servant has delivered the [[Tsukaru\|Tsukaru]], as promised.

@@ -89,7 +89,7 @@ The sea before you folds away, showing a stretch of burning cities.
  
 Her gaze fixes on **Renzo Morokami.**
 
-> “Renzo Morokami, of [[The House Takaren\|The House Takaren]]...your blood ties you to them. The House Takaren once joined the clans that followed [[06_NPCs/Caelen, Firstborn of the Flame\|Caelen, Firstborn of the Flame]]. You’re the last of that line who still honors the old ways. The others have forgotten what they fought for. Your path leads north” she says. “To **[[The Hikarai\|The Hikarai]] (hee-KAH-rye)**—a crystallum built to hold the [[Items/The Tsukaru\|The Tsukaru]] (tsoo-KAH-roo), A sacred gemstone that bestows power unto the [[01 Campaigns/Encounters/6 - The Long Grey/Crown of the Quiet Sovereign\|Crown of the Quiet Sovereign]].”
+> “Renzo Morokami, of [[The House Takaren\|The House Takaren]]...your blood ties you to them. The House Takaren once joined the clans that followed [[06_NPCs/Caelen, Firstborn of the Flame\|Caelen, Firstborn of the Flame]]. You’re the last of that line who still honors the old ways. The others have forgotten what they fought for. Your path leads north” she says. “To **[[The Hikarai\|The Hikarai]] (hee-KAH-rye)**—a crystallum built to hold the [[Items/The Tsukaru\|The Tsukaru]] (tsoo-KAH-roo), A sacred gemstone that bestows power unto the [[Crown of the Quiet Sovereign\|Crown of the Quiet Sovereign]].”
 
 
 > “But the stone is inaccessible. The clans that once protected the The Hikarai have turned on each other...on themselves. Without them, the Tsukaru will remain lost.”

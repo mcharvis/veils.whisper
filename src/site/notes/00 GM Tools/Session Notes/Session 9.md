@@ -67,7 +67,7 @@
 > 
 > In the [[Séance of Six Flames\|Séance of Six Flames]], they formed a circle of candles to summon Tisiphone, bu [[Maeve\|Maeve]] refused to light her candle. [[05_Player Characters/Vespertina\|Vespertina]] chose to light it at the guidance of [[06_NPCs/Velura Elaris\|Velura Elaris]] but accidentally summoned [[06_NPCs/The Watcher Beneath\|The Watcher Beneath]], a demon sent by [[06_NPCs/Gods/Nerull\|Nerull]]. They held the line, and as the ritual finished, they reached [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]]. She demanded proof that [[05_Player Characters/Squeaks\|Squeaks]] could accept destiny, and fate chose the [[06_NPCs/Sanctifier Samantha Virelle\|The Scarlet Raven]] to be their **Whisper**—the soul to guide them across the Veil.
 > 
-> With a shard of the [[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]] in hand, the path turned north to [[02 World/The Pedronian Empire\|The Pedronian Empire]]. They saw burning villages and the six Ronin Clans once united under [[06_NPCs/Caelen, Firstborn of the Flame\|Caelen, Firstborn of the Flame]], now slaughtering one another. For [[05_Player Characters/Renzo\|Renzo Morokami]], the last honor of [[The House Takaren\|The House Takaren]] remains: reunite the clans, reach [[The Hikarai\|The Hikarai]], and claim the [[Tsukaru\|Tsukaru]] gemstone to empower the [[01 Campaigns/Encounters/6 - The Long Grey/Crown of the Quiet Sovereign\|Crown of the Quiet Sovereign]].
+> With a shard of the [[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]] in hand, the path turned north to [[02 World/The Pedronian Empire\|The Pedronian Empire]]. They saw burning villages and the six Ronin Clans once united under [[06_NPCs/Caelen, Firstborn of the Flame\|Caelen, Firstborn of the Flame]], now slaughtering one another. For [[05_Player Characters/Renzo\|Renzo Morokami]], the last honor of [[The House Takaren\|The House Takaren]] remains: reunite the clans, reach [[The Hikarai\|The Hikarai]], and claim the [[Tsukaru\|Tsukaru]] gemstone to empower the [[Crown of the Quiet Sovereign\|Crown of the Quiet Sovereign]].
 
 ## 🎯 Objectives
 
@@ -132,4 +132,4 @@
 
 ## 🧵 Threads & Foreshadowing
 - [[02 World/The Pedronian Empire\|The Pedronian Empire]] is compiled of 6 clans in a perpetual war with each other. Uniting the clans will open [[The Hikarai\|The Hikarai]] to locate [[Items/The Tsukaru\|The Tsukaru]].
-- [[Items/The Tsukaru\|The Tsukaru]] and [[01 Campaigns/Encounters/6 - The Long Grey/Crown of the Quiet Sovereign\|Crown of the Quiet Sovereign]] are combined. What they make is unknown.
+- [[Items/The Tsukaru\|The Tsukaru]] and [[Crown of the Quiet Sovereign\|Crown of the Quiet Sovereign]] are combined. What they make is unknown.
