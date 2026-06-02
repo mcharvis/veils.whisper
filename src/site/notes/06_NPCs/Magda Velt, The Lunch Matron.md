@@ -14,6 +14,7 @@
 **Origin:** [[Basville\|Basville]]
 **Formerly:** Fed plague victims in [[Basville\|Basville]]'s undercity before her time at the Asylum
 
+![[ChatGPT Image Jul 29, 2025, 05_54_31 PM.png\|ChatGPT Image Jul 29, 2025, 05_54_31 PM.png]]
 ---
 
 ## Early Life — Basville's Undercity
@@ -133,6 +134,8 @@ She lunged across the table.
 There was no blue light of mercy. A shimmer of **scarlet, glassy light** erupted from her palms. She didn't tether Magda's soul — she *shredded* it. The thin, brittle strands of the echo's essence snapped one by one. In seconds, the kindness was gone, the broth was cold, and Magda Velt was nothing but silence.
 
 The echo did not survive. What [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]] destroyed was not just a spirit — it was the last warm thing in a dying place.
+
+In the aftermath, it was this moment — Magda's unwitting words, her misplaced love for the party — that transformed Samantha into [[06_NPCs/Malis Fiani, The Scarlet Raven\|Malis Fiani, The Scarlet Raven]].
 
 ---
 
