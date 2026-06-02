@@ -30,7 +30,7 @@ When Halric discovered the truth, his punishment was absolute. She was stripped 
 ### **The Breaking Point**
 
 **The Zombie Ambush**  
-During the Ahrown undead incursion into [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]], Virelle was still strapped to an iron table receiving her regular punishment. The screams above grew closer. The door burst open—not with rescue, but with an **ogre zombie** that smashed her into the wood until her ribs cracked and teeth shattered.
+During the Ahrown undead incursion into [[02 World/The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]], Virelle was still strapped to an iron table receiving her regular punishment. The screams above grew closer. The door burst open—not with rescue, but with an **ogre zombie** that smashed her into the wood until her ribs cracked and teeth shattered.
 
 It would have killed her had **[[05_Player Characters/Vespertina\|Vespertina]]** not arrived mid-assault. Vespertina cut the beast down and freed her.
 

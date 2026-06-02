@@ -9,7 +9,7 @@
 
 **Type:** Residual Psychic Entity
 **Classification:** Undead-Adjacent Spirit (CR 1/4)
-**Origin:** [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]], [[The Evergrowing Forest\|The Evergrowing Forest]]
+**Origin:** [[02 World/The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]], [[The Evergrowing Forest\|The Evergrowing Forest]]
 **Threat Level:** Non-hostile (conditional) — see [[06_NPCs/Faintlings#Behavior\|#Behavior]]
 
 ---
@@ -18,7 +18,7 @@
 
 Faintlings are not ghosts. They did not die with unfinished business. They were never fully alive to begin with.
 
-They are the residue of psychic overflow — fragments of emotion, memory, and trauma shed by the children of [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] during years of distress and [[06_NPCs/Miren Elaris\|Miren's]] involuntary dream bleed. When a mind in enough pain leaks, something fills the space left behind. Not a soul. Not a will. Something thinner than both.
+They are the residue of psychic overflow — fragments of emotion, memory, and trauma shed by the children of [[02 World/The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] during years of distress and [[06_NPCs/Miren Elaris\|Miren's]] involuntary dream bleed. When a mind in enough pain leaks, something fills the space left behind. Not a soul. Not a will. Something thinner than both.
 
 A Faintling is approximately child-shaped. It moves in the peripheral vision — there when you look away, gone when you focus. It speaks in non-sequiturs that are not random: every utterance is a fragment of a real thought, from a real child, spoken at a real moment of fear or confusion. The Faintlings have absorbed these thoughts so completely they can no longer tell the difference between remembering and being.
 
@@ -87,7 +87,7 @@ The reason is unclear. It may be tied to her dragon-touched transformation, her 
 
 ## Nasha — The One Who Spoke Back
 
-Of every soul that passed through [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]], only one ever communicated with the Faintlings in a way they recognized.
+Of every soul that passed through [[02 World/The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]], only one ever communicated with the Faintlings in a way they recognized.
 
 [[06_NPCs/Nasha\|Nasha]] — the infant left on the Asylum's doorstep, locked in the south storage room and largely forgotten — grew up immersed in the Faintlings' constant, fragmented speech. She had no other language. No one spoke to her. No books, no lessons, no lullabies except the ones that filtered faintly through two walls from [[Magda Velt\|Magda's]] kitchen. What she had, in abundance, was the Faintlings pressing close to the walls of her room in the dark, murmuring their endless, looping fragments.
 
@@ -162,6 +162,6 @@ The soup has gone cold. There is nothing holding the dark back anymore.
 
 ---
 
-*See also: [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] · [[06_NPCs/Miren Elaris\|Miren Elaris]] · [[06_NPCs/Magda Velt, The Lunch Matron\|Magda Velt, The Lunch Matron]] · [[06_NPCs/Nasha\|Nasha]] · [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] · [[05_Player Characters/Vespertina\|Vespertina]] · [[06_NPCs/The Dreaming Mouth\|The Dreaming Mouth]] · [[The Evergrowing Forest\|The Evergrowing Forest]]*
+*See also: [[02 World/The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] · [[06_NPCs/Miren Elaris\|Miren Elaris]] · [[06_NPCs/Magda Velt, The Lunch Matron\|Magda Velt, The Lunch Matron]] · [[06_NPCs/Nasha\|Nasha]] · [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] · [[05_Player Characters/Vespertina\|Vespertina]] · [[06_NPCs/The Dreaming Mouth\|The Dreaming Mouth]] · [[The Evergrowing Forest\|The Evergrowing Forest]]*
 
 #creature #spirit #horror #undead-adjacent #whispering-asylum

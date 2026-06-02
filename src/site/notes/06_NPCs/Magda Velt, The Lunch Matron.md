@@ -8,7 +8,7 @@
 ---
 
 **Status:** Echo (Residual Spirit) — *Soul subsequently destroyed*
-**Location:** [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] — Cafeteria Wing
+**Location:** [[02 World/The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] — Cafeteria Wing
 **Former Role:** Cook, Caretaker
 **Known As:** Mother Magda
 **Origin:** [[Basville\|Basville]]
@@ -32,7 +32,7 @@ She never married. Never explained why. When asked, she would shrug and say she 
 
 ## Arrival at the Asylum
 
-She was forty-three when a representative of the [[Order of the Morrow Veil\|Order of the Morrow Veil]] found her — specifically because of her reputation in the quarantine kitchens. The Order was staffing [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]], a new sanctuary deep in [[The Evergrowing Forest\|The Evergrowing Forest]] for children and adults afflicted by prophetic visions and psychic disturbances. They needed someone who could feed a rotating population of fragile, unpredictable patients without flinching.
+She was forty-three when a representative of the [[Order of the Morrow Veil\|Order of the Morrow Veil]] found her — specifically because of her reputation in the quarantine kitchens. The Order was staffing [[02 World/The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]], a new sanctuary deep in [[The Evergrowing Forest\|The Evergrowing Forest]] for children and adults afflicted by prophetic visions and psychic disturbances. They needed someone who could feed a rotating population of fragile, unpredictable patients without flinching.
 
 Magda had never heard of the Order. She accepted the position because the pay was steady and the work was familiar: keep the difficult ones fed, keep the kitchen running, keep the warmth going.
 
@@ -116,7 +116,7 @@ But she didn't know that either.
 
 > *This is the moment Magda's echo became an instrument of tragedy — not through malice, but through the cruelest kind of kindness.*
 
-After [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]] escaped the horrors of [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] — broken, bloodied, and barely held together by her own psychic scaffolding — she crawled through a portal into [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]. Half-mad with grief and searching for [[06_NPCs/Nasha\|Nasha]], the daughter she had conceived with [[06_NPCs/Sanctifier John Halric\|Sanctifier John Halric]] and abandoned on the Asylum's threshold years before, Samantha stumbled into the dining hall.
+After [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]] escaped the horrors of [[02 World/The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] — broken, bloodied, and barely held together by her own psychic scaffolding — she crawled through a portal into [[02 World/The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]. Half-mad with grief and searching for [[06_NPCs/Nasha\|Nasha]], the daughter she had conceived with [[06_NPCs/Sanctifier John Halric\|Sanctifier John Halric]] and abandoned on the Asylum's threshold years before, Samantha stumbled into the dining hall.
 
 Magda was there. As she always was. Warm and waiting.
 
@@ -152,7 +152,7 @@ It took something it never anticipated to finally undo her: her own warmth, weap
 
 Her destruction at Samantha's hands was not a villain's victory. It was a tragedy: a woman who survived plague and poverty and the slow rot of a place that broke everyone around her — undone by her own innocent kindness, in the very kitchen where she died the first time.
 
-The cafeteria of [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] is now simply cold. The pots no longer bubble. The [[06_NPCs/Faintlings\|Faintlings]] have no reason to stay back.
+The cafeteria of [[02 World/The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] is now simply cold. The pots no longer bubble. The [[06_NPCs/Faintlings\|Faintlings]] have no reason to stay back.
 
 ---
 
@@ -169,6 +169,6 @@ The cafeteria of [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The
 
 ---
 
-*See also: [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] · [[06_NPCs/Faintlings\|Faintlings]] · [[Order of the Morrow Veil\|Order of the Morrow Veil]] · [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] · [[06_NPCs/Miren Elaris\|Miren Elaris]] · [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]] · [[06_NPCs/Sanctifier John Halric\|Sanctifier John Halric]] · [[06_NPCs/Malis Fiani, The Scarlet Raven\|Malis Fiani, The Scarlet Raven]] · [[06_NPCs/Nasha\|Nasha]] · [[Basville\|Basville]] · [[The Evergrowing Forest\|The Evergrowing Forest]]*
+*See also: [[02 World/The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] · [[06_NPCs/Faintlings\|Faintlings]] · [[Order of the Morrow Veil\|Order of the Morrow Veil]] · [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] · [[06_NPCs/Miren Elaris\|Miren Elaris]] · [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]] · [[06_NPCs/Sanctifier John Halric\|Sanctifier John Halric]] · [[06_NPCs/Malis Fiani, The Scarlet Raven\|Malis Fiani, The Scarlet Raven]] · [[06_NPCs/Nasha\|Nasha]] · [[Basville\|Basville]] · [[The Evergrowing Forest\|The Evergrowing Forest]]*
 
 #NPC #echo #spirit #deceased

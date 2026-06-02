@@ -4,7 +4,7 @@
 
 _Knight of the Forgotten Tomb_
 
-**Sir Lucian Caelmoor** is one of **four knights** who remain within the [[02_World/01_The Evergrowing Forest/Temple of the Forgotten Hero\|Temple of the Forgotten Hero]], stationed in deliberate formation sworn to protect a memory. Their armor is worn, their blades nicked with age—but their discipline remains absolute.
+**Sir Lucian Caelmoor** is one of **four knights** who remain within the [[02 World/The Evergrowing Forest/Temple of the Forgotten Hero\|Temple of the Forgotten Hero]], stationed in deliberate formation sworn to protect a memory. Their armor is worn, their blades nicked with age—but their discipline remains absolute.
 
 They do not speak.  
 They do not move unless the tomb is violated.  

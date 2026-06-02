@@ -2,16 +2,16 @@
 {"dg-publish":true,"permalink":"/06-np-cs/rhoswyn-calvra/"}
 ---
 
-Rhoswyn Calvra was born in **[[Basville\|Basville]]**, a city known for its libraries, lanternlight lectures, and rigid social order. A prodigy in child development and behavioral correction, she graduated with honors from the [[02_World/Ahrown, The Kingdom of Elves/Talazan Academy\|Talazan Academy]], where she specialized in abnormal learning patterns and emotional calibration—a field that aimed to teach even the “unreachable” child.
+Rhoswyn Calvra was born in **[[Basville\|Basville]]**, a city known for its libraries, lanternlight lectures, and rigid social order. A prodigy in child development and behavioral correction, she graduated with honors from the [[02 World/Ahrown, The Kingdom of Elves/Talazan Academy\|Talazan Academy]], where she specialized in abnormal learning patterns and emotional calibration—a field that aimed to teach even the “unreachable” child.
 
 She was bright, composed, and determined to fix what others gave up on.
 
-Originally founded by psychic monks from the [[Order of the Morrow Veil\|Order of the Morrow Veil]] in [[02_World/01_The Evergrowing Forest/Oasis\|Oasis]], the Asylum was meant to be a sanctuary for those “afflicted by unseen tongues”—children and adults haunted by visions, voices, or dreams that predicted things no one else should know. Calvra volunteered to lead it. She called it her “*final thesis made flesh.*”
+Originally founded by psychic monks from the [[Order of the Morrow Veil\|Order of the Morrow Veil]] in [[02 World/The Evergrowing Forest/Oasis\|Oasis]], the Asylum was meant to be a sanctuary for those “afflicted by unseen tongues”—children and adults haunted by visions, voices, or dreams that predicted things no one else should know. Calvra volunteered to lead it. She called it her “*final thesis made flesh.*”
 
 ![ChatGPT Image Jul 29, 2025, 05_46_58 PM.png](/img/user/Items/Non-Magical/ChatGPT%20Image%20Jul%2029,%202025,%2005_46_58%20PM.png)
 She arrived with a curriculum. With order. With hope.
 
-At first, **Rhoswyn Calvra** ran the [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] like a gifted boarding school. The children were disturbed, yes—but she saw them as misunderstood. She held lessons under lanternlight, taught breathing exercises, even established a “merit badge” system for emotional control. Her educational theories, once groundbreaking at [[02_World/Ahrown, The Kingdom of Elves/Talazan Academy\|Talazan Academy]], were tested daily in the shadowed, shifting halls of [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]].
+At first, **Rhoswyn Calvra** ran the [[02 World/The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] like a gifted boarding school. The children were disturbed, yes—but she saw them as misunderstood. She held lessons under lanternlight, taught breathing exercises, even established a “merit badge” system for emotional control. Her educational theories, once groundbreaking at [[02 World/Ahrown, The Kingdom of Elves/Talazan Academy\|Talazan Academy]], were tested daily in the shadowed, shifting halls of [[02 World/The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]].
 
 But [[The Evergrowing Forest\|The Evergrowing Forest]] doesn’t care for pedagogy.
 ![a856affb-7701-4f5a-9039-f7538f4a873d.png](/img/user/Items/Non-Magical/a856affb-7701-4f5a-9039-f7538f4a873d.png)

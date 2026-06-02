@@ -8,7 +8,7 @@
 
 ### 💥 What Happened
 
-- A sudden incursion of undead from [[02_World/Ahrown, The Kingdom of Elves/Capital of Ahrown\|Capital of Ahrown]] breached [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]’s perimeter.
+- A sudden incursion of undead from [[02 World/Ahrown, The Kingdom of Elves/Capital of Ahrown\|Capital of Ahrown]] breached [[02 World/The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]’s perimeter.
     
 - The undead—fast, coordinated, and strangely **intelligent**—were unlike anything the Sanctifiers had faced before. Some suspect a necromancer was involved. 
     
@@ -30,7 +30,7 @@
 
 ## 👤 Maelth's Current Role
 
-- Now **imprisoned in the [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]**, not because of guilt, but because **[[06_NPCs/Councilor Varn Drest\|Councilor Varn Drest]]** (or another political figure) sees him as a valuable pawn:
+- Now **imprisoned in the [[02 World/The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]**, not because of guilt, but because **[[06_NPCs/Councilor Varn Drest\|Councilor Varn Drest]]** (or another political figure) sees him as a valuable pawn:
     
     - **He knows the Sanctifiers’ secrets.**
         

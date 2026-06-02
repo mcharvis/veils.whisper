@@ -17,14 +17,14 @@ Travel to the **[[Capital of Arhown\|Capital of Arhown]]**, the dark elven city,
 
 - The **[[Bellum Crystallum\|Bellum Crystallum]]** is guarded by [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]].
     
-- [[02_World/Vis’Avae\|Vis’Avae]] is surrounded on either side by [[02_World/Vindicative Enterprises/VE HQ\|VE HQ]] and [[02_World/The Pedronian Empire\|The Pedronian Empire]].
+- [[02 World/Vis’Avae\|Vis’Avae]] is surrounded on either side by [[02 World/Vindicative Enterprises/VE HQ\|VE HQ]] and [[02 World/The Pedronian Empire\|The Pedronian Empire]].
     
-- The **[[Capital of Arhown\|Capital of Arhown]]** has contracts with [[02_World/Vindicative Enterprises/VE HQ\|VE HQ]] for trade through to [[02_World/Vis’Avae\|Vis’Avae]] 
+- The **[[Capital of Arhown\|Capital of Arhown]]** has contracts with [[02 World/Vindicative Enterprises/VE HQ\|VE HQ]] for trade through to [[02 World/Vis’Avae\|Vis’Avae]] 
 
 **Complication:**
 
 - The [[06_NPCs/King Aldenor\|Mad King]] is unpredictable.
-- The roads through **[[02_World/Vindicative Enterprises/VE HQ\|VE HQ]]** are crawling with mercenaries, living constructs, and toll-enforcing bounty squads. It is a place corrupted with cruel capitalism.
+- The roads through **[[02 World/Vindicative Enterprises/VE HQ\|VE HQ]]** are crawling with mercenaries, living constructs, and toll-enforcing bounty squads. It is a place corrupted with cruel capitalism.
 - [[Arhown\|Arhown]] is deeply xenophobic, racist towards anyone not elven...and won't trust outsiders.
 
 

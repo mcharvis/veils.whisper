@@ -12,7 +12,7 @@
 **Alias:** The Red Child · Ghost-Girl in the Storage Room
 **Name Origin:** Arabic — *Nāshā* (ناشا), interpreted from *ناشئة (nāshiʾah)*: *young girl, youth, one who is growing*
 **Pronounced:** *Nāshā*
-**Status:** Deceased — killed by [[05_Player Characters/Kovinar\|Kovinar]] during the events at [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]
+**Status:** Deceased — killed by [[05_Player Characters/Kovinar\|Kovinar]] during the events at [[02 World/The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]
 **Parents:** [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]] (mother) · [[06_NPCs/Sanctifier John Halric\|Sanctifier John Halric]] (father)
 
 ![ChatGPT Image Jul 24, 2025, 10_50_17 PM.png](/img/user/Items/Non-Magical/ChatGPT%20Image%20Jul%2024,%202025,%2010_50_17%20PM.png)
@@ -23,7 +23,7 @@
 
 Nasha was a child who was never supposed to exist, in a place that was never supposed to keep her, growing into something that no one ever tried to understand.
 
-She was the secret daughter of [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]] and [[06_NPCs/Sanctifier John Halric\|Sanctifier John Halric]] — a union that violated every code of the [[04_Organizations/The Sanctifiers\|Sanctifier Order]], a pregnancy that was commanded to be terminated, a birth that happened anyway in a cold storage room beneath [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] while her father lectured junior acolytes on spiritual purity one floor above.
+She was the secret daughter of [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]] and [[06_NPCs/Sanctifier John Halric\|Sanctifier John Halric]] — a union that violated every code of the [[04_Organizations/The Sanctifiers\|Sanctifier Order]], a pregnancy that was commanded to be terminated, a birth that happened anyway in a cold storage room beneath [[02 World/The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] while her father lectured junior acolytes on spiritual purity one floor above.
 
 She spent her entire life in a single room. She died in it.
 
@@ -35,7 +35,7 @@ She was a teenager when the party found her. She looked younger.
 
 Samantha Virelle carried Nasha for seven months in secret — defying [[06_NPCs/Sanctifier John Halric\|Halric's]] direct command to terminate the pregnancy, hiding her body beneath Sanctifier robes, learning to breathe around the weight of what she was keeping.
 
-She gave birth alone, in a sub-level storage room beneath [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]], biting down on her own leather sleeve to muffle the pain. No midwife. No witness. Just a single lantern swinging above her, casting stuttering shadows across the blood-slick floor.
+She gave birth alone, in a sub-level storage room beneath [[02 World/The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]], biting down on her own leather sleeve to muffle the pain. No midwife. No witness. Just a single lantern swinging above her, casting stuttering shadows across the blood-slick floor.
 
 The child was small. Quiet. Alive.
 
@@ -43,7 +43,7 @@ Virelle held her for exactly one minute. She wrapped her in a strip of red cerem
 
 > *"I'm sorry, Nasha. You were never supposed to be."*
 
-She walked through the forest for hours. She placed the bundle on the stone threshold of [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]. She kissed the girl's forehead once.
+She walked through the forest for hours. She placed the bundle on the stone threshold of [[02 World/The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]. She kissed the girl's forehead once.
 
 She never looked back.
 
@@ -153,7 +153,7 @@ Then — **BOOM.**
 
 A silent explosion of smoky purple magic burst outward, consuming everything in a haze of violet ash and static. The party's bodies did not fall. Their minds did — plummeting into a vast, silent dark. Not shadow. A memory.
 
-Every player within 30 feet experienced [[01_Campaigns/Scenes/Scene - The Candle and the Crate\|the vision]]: Samantha Virelle, alone in the sub-level of [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]], giving birth. The red cloth. The whispered apology. The walk through the dark forest. The doorstep. The kiss. The candle guttering out just as [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] opened the door.
+Every player within 30 feet experienced [[01 Campaigns/Scenes/Scene - The Candle and the Crate\|the vision]]: Samantha Virelle, alone in the sub-level of [[02 World/The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]], giving birth. The red cloth. The whispered apology. The walk through the dark forest. The doorstep. The kiss. The candle guttering out just as [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] opened the door.
 
 The darkness receded like smoke sucked through a keyhole. The air was still thick with violet shimmer, fading like embers. Some of the party were sweating. One was crying. There was a metallic taste in every mouth.
 
@@ -165,7 +165,7 @@ They had just killed her. And now they knew everything.
 
 Nasha's death set in motion a chain of consequences that reshaped the campaign.
 
-**[[06_NPCs/Sanctifier Samantha Virelle\|Samantha]]** found her body in the storage room after crawling through the portal from [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] — broken, barely alive, silenced by [[Magda Velt\|Magda's]] soup, and searching desperately for a daughter she had spent years trying to reclaim. She found Nasha on the floor, in the dark, still dressed in the remnants of the red blanket.
+**[[06_NPCs/Sanctifier Samantha Virelle\|Samantha]]** found her body in the storage room after crawling through the portal from [[02 World/The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] — broken, barely alive, silenced by [[Magda Velt\|Magda's]] soup, and searching desperately for a daughter she had spent years trying to reclaim. She found Nasha on the floor, in the dark, still dressed in the remnants of the red blanket.
 
 She knelt in the filth. She pulled the girl's body into her lap. She rocked her.
 
@@ -185,7 +185,7 @@ The blanket still remembers warmth, according to those who've held it since.
 
 - Her name. It was never spoken to her.
 - Her mother had defied a direct order to keep her alive.
-- Her mother had spent years in captivity at [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] partly because of the scandal her birth created.
+- Her mother had spent years in captivity at [[02 World/The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] partly because of the scandal her birth created.
 - Her mother had tried to find her.
 - [[Magda Velt\|Magda Velt]] had kept her alive as an infant — and then chosen to stop.
 - [[Magda Velt\|Magda Velt]] was thirty feet away, on the other side of a wall, for most of her life.
@@ -208,6 +208,6 @@ Whether that absolution is real, or simply what Samantha needed to believe in or
 
 ---
 
-*See also: [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]] · [[06_NPCs/Sanctifier John Halric\|Sanctifier John Halric]] · [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] · [[06_NPCs/Magda Velt, The Lunch Matron\|Magda Velt, The Lunch Matron]] · [[06_NPCs/Faintlings\|Faintlings]] · [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] · [[06_NPCs/Malis Fiani, The Scarlet Raven\|Malis Fiani, The Scarlet Raven]] · [[05_Player Characters/Kovinar\|Kovinar]] · [[Items/Magical/Nasha's Red Blanket\|Nasha's Red Blanket]] · [[01_Campaigns/Scenes/Scene - The Candle and the Crate\|Scene - The Candle and the Crate]] · [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] · [[Vis'Avae\|Vis'Avae]] · [[06_NPCs/Gods/Nerull\|Nerull]]*
+*See also: [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]] · [[06_NPCs/Sanctifier John Halric\|Sanctifier John Halric]] · [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] · [[06_NPCs/Magda Velt, The Lunch Matron\|Magda Velt, The Lunch Matron]] · [[06_NPCs/Faintlings\|Faintlings]] · [[02 World/The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] · [[06_NPCs/Malis Fiani, The Scarlet Raven\|Malis Fiani, The Scarlet Raven]] · [[05_Player Characters/Kovinar\|Kovinar]] · [[Items/Magical/Nasha's Red Blanket\|Nasha's Red Blanket]] · [[01 Campaigns/Scenes/Scene - The Candle and the Crate\|Scene - The Candle and the Crate]] · [[02 World/The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] · [[Vis'Avae\|Vis'Avae]] · [[06_NPCs/Gods/Nerull\|Nerull]]*
 
 #NPC #deceased #tragedy #whispering-asylum

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/06-np-cs/miren-elaris/"}
 ---
 
-**Miren**, traumatized and unknowingly dangerous, escaped the **[[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]** after her psychic powers disturbed the other children. Her escape is what brings the party into contact with this network of injustice.
+**Miren**, traumatized and unknowingly dangerous, escaped the **[[02 World/The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]** after her psychic powers disturbed the other children. Her escape is what brings the party into contact with this network of injustice.
 
 Miren was a child patient at the Whispering Asylum, admitted after she was found in the woods. A trauma that caused her to stop speaking but start dreaming—lucid, predictive, terrifying dreams. The asylum labeled her a "sleeper-seer," a rare phenomenon tied to intense psychic bleed. She spoke in riddles when asleep, wept memories that weren’t hers, and once drew a picture of Ya’a Thalor’s altar years before anyone rediscovered it. While at the asylum, the children around her began…declining. She escaped somehow.
 
@@ -16,15 +16,15 @@ Now, she’s grown, physically—but her mind is fractured across years of dream
 ## Status
 
 🧬 **Found imprisoned in the lowest level of Ya'a Thalor** 
-Fleed the [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] through a hidden tunnel. Currently in the dungeon of [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]].
+Fleed the [[02 World/The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] through a hidden tunnel. Currently in the dungeon of [[02 World/The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]].
 
 
 ## Background
-Miren was born the daughter of a reclusive sorceress, [[06_NPCs/Velura Elaris\|Velura Elaris]] living at the edge of the [[The Evergrowing Forest\|The Evergrowing Forest]]. When Miren was 10, Velura was taking her to [[02_World/Ahrown, The Kingdom of Elves/Talazan Academy\|Talazan Academy]] to be evaluated for education as a sorceress when her mother was abruptly taken by agents from the [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]. Miren fled into the woods, but eventually travelled to the [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] in search of shelter.
+Miren was born the daughter of a reclusive sorceress, [[06_NPCs/Velura Elaris\|Velura Elaris]] living at the edge of the [[The Evergrowing Forest\|The Evergrowing Forest]]. When Miren was 10, Velura was taking her to [[02 World/Ahrown, The Kingdom of Elves/Talazan Academy\|Talazan Academy]] to be evaluated for education as a sorceress when her mother was abruptly taken by agents from the [[02 World/The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]. Miren fled into the woods, but eventually travelled to the [[02 World/The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] in search of shelter.
 
-[[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]], under the cruelty of its headmistress, became a prison instead. Her natural psychic abilities—amplified by trauma and grief—began to warp the emotions of others around her. The staff labeled her unstable. The children grew fearful.
+[[02 World/The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]], under the cruelty of its headmistress, became a prison instead. Her natural psychic abilities—amplified by trauma and grief—began to warp the emotions of others around her. The staff labeled her unstable. The children grew fearful.
 
-But she found the hidden tunnel that lead to the lower levels of [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]].
+But she found the hidden tunnel that lead to the lower levels of [[02 World/The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]].
 
 ## Known History
 
@@ -32,7 +32,7 @@ But she found the hidden tunnel that lead to the lower levels of [[02_World/01_T
 - Demonstrated dangerous psychic resonance during sleep
 - Was isolated after causing multiple emotional breakdowns among other children
 - Escaped through a tunnel beneath the Asylum, which she found after recurring dreams of a circular stone room
-- Recaptured by the [[04_Organizations/The Sanctifiers\|The Sanctifiers]], who confined her to [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] to pacify [[06_NPCs/The Dreaming Mouth\|The Dreaming Mouth]]. 
+- Recaptured by the [[04_Organizations/The Sanctifiers\|The Sanctifiers]], who confined her to [[02 World/The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] to pacify [[06_NPCs/The Dreaming Mouth\|The Dreaming Mouth]]. 
 
 ## Personality
 Quiet, observant, unnervingly empathetic. Miren often says little, but when she speaks, her words have weight. She's known to echo things others are about to say—sometimes days before they say them.
@@ -54,13 +54,13 @@ She doesn’t trust institutions, but she still seeks connection.
 
 ## Possible Current Location
 
-- Rumors place her near the ruins beneath [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]
+- Rumors place her near the ruins beneath [[02 World/The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]
 
 ## Connections
 
-- [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] – Her prison and the source of her pain
+- [[02 World/The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] – Her prison and the source of her pain
     
-- [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] – Where she was confined and experimented on
+- [[02 World/The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] – Where she was confined and experimented on
     
 - [[06_NPCs/The Dreaming Mouth\|The Dreaming Mouth]]  – Calmed or bound by her presence
     

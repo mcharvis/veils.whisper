@@ -21,7 +21,7 @@ Until **Basville**.
 
 ### The Betrayal in Basville
 
-Seren went to **Basville**, a rotting city in [[02_World/Elethon\|Elethon]], with suspicions of Sanctifier corruption. 
+Seren went to **Basville**, a rotting city in [[02 World/Elethon\|Elethon]], with suspicions of Sanctifier corruption. 
 
 Seren saw **children burned in locked basements**, sacrifices to a stillborn god kept alive by bureaucracy and blood. She found monks and priests conspiring with some members of the Noble House of Vaer-Lorne. She found **truths no oath could justify**.
 

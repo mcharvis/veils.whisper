@@ -7,7 +7,7 @@
 
 My Lord,
 
-In accordance with your directive, I send this dispatch under seal. The tomb of [[06_NPCs/Sanctifier John Halric\|Sanctifier John Halric]] in [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] was opened by my order three nights past. What lay within was not man nor bone, but a shell of iron and wax, shaped to resemble a knight’s remains. There was no soulbound residue. No true death.
+In accordance with your directive, I send this dispatch under seal. The tomb of [[06_NPCs/Sanctifier John Halric\|Sanctifier John Halric]] in [[02 World/The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] was opened by my order three nights past. What lay within was not man nor bone, but a shell of iron and wax, shaped to resemble a knight’s remains. There was no soulbound residue. No true death.
 
 This burial was false.
 

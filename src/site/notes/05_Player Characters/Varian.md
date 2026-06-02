@@ -4,8 +4,8 @@
 
 Varian – The Relentless Blade
 
-![4aeea0f3-6481-4448-b230-4612555be47a.png](/img/user/00_GM%20Tools/Media/4aeea0f3-6481-4448-b230-4612555be47a.png)
-![1000048453.png](/img/user/00_GM%20Tools/Media/1000048453.png)
+![4aeea0f3-6481-4448-b230-4612555be47a.png](/img/user/00%20GM%20Tools/Media/4aeea0f3-6481-4448-b230-4612555be47a.png)
+![1000048453.png](/img/user/00%20GM%20Tools/Media/1000048453.png)
 Few in the realm know Varian’s true origin, and fewer still live to speak of it. Born in the shadowed borderlands where warlords traded power in blood, Varian’s earliest memories are of steel clashing and the smell of burning earth. His parents—simple farmers—were cut down in a raid when he was no more than six. He would have perished too, had a figure known only as [[06_NPCs/The Black Wolf\|The Black Wolf]] not taken him.
 
 [[06_NPCs/The Black Wolf\|The Black Wolf]] was no mere sellsword, but a legendary warrior whose name was whispered as a curse on battlefields. Seeing something cold and unyielding in the boy’s eyes, he brought Varian into a hidden brotherhood—an order of master warriors who honed their skills far from the eyes of kings and common folk. Over years, Varian was forged, not raised. His masters were killers, tacticians, and champions—each one unmatched in a different art of war: the precision of the duelist’s blade, the raw fury of the berserker, the patience of the marksman.
@@ -24,6 +24,6 @@ Only Varian knows the truth. And he isn’t telling.
 
 | Items Acquired | Description | Location            |
 | -------------- | ----------- | ------------------- |
-| Plate Armor    |             | [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]] |
+| Plate Armor    |             | [[02 World/The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]] |
 
 #PC 

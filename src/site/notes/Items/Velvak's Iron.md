@@ -27,7 +27,7 @@ It **leaves no burns—but it remembers every scar it gave.**
 He forged this weapon not for war—but to deliver judgment through **purified pain**.  
 It was used in **ritualized punishment**, **martyrdom rites**, and **anointments by fire**.
 
-Eventually, it was **sealed beneath [[02_World/01_The Evergrowing Forest/Thornhold Keep\|Thornhold Keep]]** after [[06_NPCs/Velvak\|Velvak]] disappeared—whether consumed by the Flame or killed for going too far, no one knows.
+Eventually, it was **sealed beneath [[02 World/The Evergrowing Forest/Thornhold Keep\|Thornhold Keep]]** after [[06_NPCs/Velvak\|Velvak]] disappeared—whether consumed by the Flame or killed for going too far, no one knows.
 
 ---
 

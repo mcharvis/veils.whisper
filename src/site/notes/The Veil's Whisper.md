@@ -9,10 +9,10 @@
 > _"Prepare to Die"_
 
 ## 🧭 Current Status
-- **Latest Session**: [[00_GM Tools/Session Notes/Session 11\|Session 11]]
+- **Latest Session**: [[00 GM Tools/Session Notes/Session 11\|Session 11]]
 - **Party Members**: [[05_Player Characters/Kovinar\|Kovinar]], [[05_Player Characters/Vespertina\|Vespertina]], [[05_Player Characters/Squeaks\|Squeaks]],  [[05_Player Characters/Varian\|Varian]], 
-	- **Separated**: [[05_Player Characters/Renzo\|Renzo]] (Currently in [[02_World/The Pedronian Empire\|The Pedronian Empire]],
-- **Current Location**: Outskirts of [[02_World/The Pedronian Empire\|The Pedronian Empire]]
+	- **Separated**: [[05_Player Characters/Renzo\|Renzo]] (Currently in [[02 World/The Pedronian Empire\|The Pedronian Empire]],
+- **Current Location**: Outskirts of [[02 World/The Pedronian Empire\|The Pedronian Empire]]
 - **Goals**:
 - [x] Travel to [[Vindicative Enterprises\|Vindicative Enterprises]]
 	- [ ] Secure access to your overworld mine profits by recovering the stolen **Ledger Seal** from [[06_NPCs/Veyra, the Ashmonger\|Veyra, the Ashmonger]]
@@ -31,19 +31,19 @@
 ## 📆 Sessions & Progress
 
 ### 🧾 Session Logs
-- [[00_GM Tools/Session Notes/Session 00\|Session 00]]: Sixteen Centuries Late
-- [[00_GM Tools/Session Notes/Session 01\|Session 01]]: False Bottoms and Forgotten Children
-- [[00_GM Tools/Session Notes/Session 02\|Session 02]]: From Ashes to Ashrend
-- [[00_GM Tools/Session Notes/Session 03\|Session 03]]: Whispers of Treachery, Echoes of Escape
-- [[00_GM Tools/Session Notes/Session 04\|Session 04]]: The Scarlet Raven Descends
-- [[00_GM Tools/Session Notes/Session 05\|Session 05]]: The Black Crow Ascends
-- [[00_GM Tools/Session Notes/Session 06\|Session 06]]: The Mad King's Blood
-- [[00_GM Tools/Session Notes/Session 07\|Session 07]]: Online Housekeeping
-- [[00_GM Tools/Session Notes/Session 08\|Session 08]]: Reversal of Vespertina's Curse
+- [[00 GM Tools/Session Notes/Session 00\|Session 00]]: Sixteen Centuries Late
+- [[00 GM Tools/Session Notes/Session 01\|Session 01]]: False Bottoms and Forgotten Children
+- [[00 GM Tools/Session Notes/Session 02\|Session 02]]: From Ashes to Ashrend
+- [[00 GM Tools/Session Notes/Session 03\|Session 03]]: Whispers of Treachery, Echoes of Escape
+- [[00 GM Tools/Session Notes/Session 04\|Session 04]]: The Scarlet Raven Descends
+- [[00 GM Tools/Session Notes/Session 05\|Session 05]]: The Black Crow Ascends
+- [[00 GM Tools/Session Notes/Session 06\|Session 06]]: The Mad King's Blood
+- [[00 GM Tools/Session Notes/Session 07\|Session 07]]: Online Housekeeping
+- [[00 GM Tools/Session Notes/Session 08\|Session 08]]: Reversal of Vespertina's Curse
 - [[Session 09\|Session 09]]: No Notes.
-- [[00_GM Tools/Session Notes/Session 9\|Session 9]]: AirDND 2026 - The Veil's Whisper
-- [[00_GM Tools/Session Notes/Session 10\|Session 10]]: The Living Reliquary
-- [[00_GM Tools/Session Notes/Session 11\|Session 11]]: Through the Flames of Misfortune
+- [[00 GM Tools/Session Notes/Session 9\|Session 9]]: AirDND 2026 - The Veil's Whisper
+- [[00 GM Tools/Session Notes/Session 10\|Session 10]]: The Living Reliquary
+- [[00 GM Tools/Session Notes/Session 11\|Session 11]]: Through the Flames of Misfortune
 
 ### 📂 Campaign Arcs
 - [ ]  A Shattered Path
@@ -72,18 +72,18 @@
 ### 🌍 Regions & Maps
 - Elarith
 	- [[The Evergrowing Forest\|The Evergrowing Forest]]
-		- [[02_World/01_The Evergrowing Forest/The Forgotten Swamp\|The Forgotten Swamp]]
-		- [[02_World/01_The Evergrowing Forest/Temple of the Forgotten Hero\|Temple of the Forgotten Hero]]
+		- [[02 World/The Evergrowing Forest/The Forgotten Swamp\|The Forgotten Swamp]]
+		- [[02 World/The Evergrowing Forest/Temple of the Forgotten Hero\|Temple of the Forgotten Hero]]
 		- [[Night Camp\|Night Camp]]
-		- [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]
-		- [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]
-		- [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]
-		- [[02_World/01_The Evergrowing Forest/Oasis\|Oasis]] 
+		- [[02 World/The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]
+		- [[02 World/The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]
+		- [[02 World/The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]
+		- [[02 World/The Evergrowing Forest/Oasis\|Oasis]] 
 	- [[Ahrown, Kingdom of Elves\|Ahrown]]
-		- [[02_World/Ahrown, The Kingdom of Elves/Capital of Ahrown\|Capital of Ahrown]]
+		- [[02 World/Ahrown, The Kingdom of Elves/Capital of Ahrown\|Capital of Ahrown]]
 		- [[Yll'nor Dorei\|Yll'nor Dorei]]
 		- [[On'en Dorei\|On'en Dorei]]
-		- [[02_World/Ahrown, The Kingdom of Elves/Talazan Academy\|Talazan Academy]]
+		- [[02 World/Ahrown, The Kingdom of Elves/Talazan Academy\|Talazan Academy]]
 		- [[Mithril Hills\|Mithril Hills]]
 	- [[Vindicative Enterprises\|Vindicative Enterprises]]
 		- [[Light's Museum\|Light's Museum]]
@@ -92,7 +92,7 @@
 		- [[Helmfirth\|Helmfirth]]
 			- [[Orc Organ Market\|Orc Organ Market]]
 			- [[The Helmfirth Substation\|The Helmfirth Substation]]
-		- [[02_World/The First World Tree\|The First World Tree]]
+		- [[02 World/The First World Tree\|The First World Tree]]
 	- [[Vis'Avae\|Vis'Avae]]
 		- [[Bridge of Pale Glass\|Bridge of Pale Glass]]
 		- [[Eimear’s Rise\|Eimear’s Rise]]
@@ -104,7 +104,7 @@
 		- [[Aerathriel, Tree of the Coven\|Aerathriel, Tree of the Coven]]
 		- [[Bellum Crystallum\|Bellum Crystallum]]
 		- [[Fae Garden\|Fae Garden]]
-	- [[02_World/The Pedronian Empire\|The Pedronian Empire]]
+	- [[02 World/The Pedronian Empire\|The Pedronian Empire]]
 		- [[Nalyun City\|Nalyun City]]: site of 1st pagoda
 		- [[Nantianemen Citiy\|Nantianemen Citiy]]: site of 2nd pagoda
 		- [[Kawa No Mura\|Kawa No Mura]]: site of the 3rd pagoda
@@ -112,7 +112,7 @@
 	- Unknown Region
 		- Fongon Aeon Temple
 		- [[Basville\|Basville]]
-		- [[02_World/Obsidian Lands of Volencia/Necromanteion\|Necromanteion]]
+		- [[02 World/Obsidian Lands of Volencia/Necromanteion\|Necromanteion]]
 
 
 ### 📜 Lore & History
@@ -218,31 +218,31 @@
 - [[04_Organizations/The Horsemen\|The Horsemen]]
 - [[04_Organizations/The Sanctifiers\|The Sanctifiers]]
 - [[04_Organizations/The Pale Flame\|The Pale Flame]]
-	- [[02_World/01_The Evergrowing Forest/The Sanctum of Withered Light\|The Sanctum of Withered Light]]    
-- [[02_World/The Pedronian Empire\|The Pedronian Empire]]
+	- [[02 World/The Evergrowing Forest/The Sanctum of Withered Light\|The Sanctum of Withered Light]]    
+- [[02 World/The Pedronian Empire\|The Pedronian Empire]]
 
 ---
 
 ## 🧩 Mechanics & Homebrew
 
 ### 📕 Homebrew Rules
-- [[00_GM Tools/Homebrew rules/Bloodied State\|Bloodied State]]
-- [[00_GM Tools/Homebrew rules/Divine Salvation Mechanic\|Divine Salvation Mechanic]]
-- [[00_GM Tools/Homebrew rules/DMPC, Mob Rule - The Quiet Followers\|DMPC, Mob Rule - The Quiet Followers]]
-- [[00_GM Tools/Homebrew rules/Elarith Critical Hits\|Elarith Critical Hits]]
-- [[00_GM Tools/Homebrew rules/Elarith Death Rule - The Trial of Nerull\|Elarith Death Rule - The Trial of Nerull]]
-- [[00_GM Tools/Homebrew rules/Exhaustion for Success - The Final Bargain\|Exhaustion for Success - The Final Bargain]]
-- [[00_GM Tools/Homebrew rules/Potion of Healing (Revised Rule)\|Potion of Healing (Revised Rule)]]
-- [[00_GM Tools/Homebrew rules/Remainder Hit Points (Overflow Damage Rule)\|Remainder Hit Points (Overflow Damage Rule)]]
-- [[00_GM Tools/Homebrew rules/Retreat - Escape Comes at a Cost\|Retreat - Escape Comes at a Cost]]
-- [[00_GM Tools/Homebrew rules/Spellcasting Without Slots - Magic Has a Price\|Spellcasting Without Slots - Magic Has a Price]]
+- [[00 GM Tools/Homebrew rules/Bloodied State\|Bloodied State]]
+- [[00 GM Tools/Homebrew rules/Divine Salvation Mechanic\|Divine Salvation Mechanic]]
+- [[00 GM Tools/Homebrew rules/DMPC, Mob Rule - The Quiet Followers\|DMPC, Mob Rule - The Quiet Followers]]
+- [[00 GM Tools/Homebrew rules/Elarith Critical Hits\|Elarith Critical Hits]]
+- [[00 GM Tools/Homebrew rules/Elarith Death Rule - The Trial of Nerull\|Elarith Death Rule - The Trial of Nerull]]
+- [[00 GM Tools/Homebrew rules/Exhaustion for Success - The Final Bargain\|Exhaustion for Success - The Final Bargain]]
+- [[00 GM Tools/Homebrew rules/Potion of Healing (Revised Rule)\|Potion of Healing (Revised Rule)]]
+- [[00 GM Tools/Homebrew rules/Remainder Hit Points (Overflow Damage Rule)\|Remainder Hit Points (Overflow Damage Rule)]]
+- [[00 GM Tools/Homebrew rules/Retreat - Escape Comes at a Cost\|Retreat - Escape Comes at a Cost]]
+- [[00 GM Tools/Homebrew rules/Spellcasting Without Slots - Magic Has a Price\|Spellcasting Without Slots - Magic Has a Price]]
 
 ### Homebrew Spells
 - [[Spells/Divine Salvation\|Divine Salvation]]
 
 ### 🧰 Player Resources
-- [[00_GM Tools/Books\|Books]] 
-- [[00_GM Tools/Shop/Bank\|Bank]]
+- [[00 GM Tools/Books\|Books]] 
+- [[00 GM Tools/Shop/Bank\|Bank]]
 
 ### 🪙 Items & Artifacts
 - [[Items/Magical/The Cursed Cross\|The Cursed Cross]]

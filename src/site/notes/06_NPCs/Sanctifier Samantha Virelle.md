@@ -21,13 +21,13 @@ But as Halric climbed the ranks of **The Order**, the corruption began to take r
 
 ![unnamed (3).jpg](/img/user/unnamed%20(3).jpg)
 
-At seven months, in a room that smelled of iron and shame, she birthed a frail, premature girl: **[[06_NPCs/Nasha\|Nasha]]**. She did not hold her for long. Terrified of the scandal and the man she had loved, Samantha wrapped the tiny, shivering creature in a torn piece of a red Sanctifier cermonial ritual cloth with sigils sewn into the hem. Under the cover of a moonless night, she left the bundle on the cold stone threshold of **[[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]**. No note. No name. Only the dampness of blood and afterbirth and the silence of a mother who had painfully chosen her cult over her kin.
+At seven months, in a room that smelled of iron and shame, she birthed a frail, premature girl: **[[06_NPCs/Nasha\|Nasha]]**. She did not hold her for long. Terrified of the scandal and the man she had loved, Samantha wrapped the tiny, shivering creature in a torn piece of a red Sanctifier cermonial ritual cloth with sigils sewn into the hem. Under the cover of a moonless night, she left the bundle on the cold stone threshold of **[[02 World/The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]**. No note. No name. Only the dampness of blood and afterbirth and the silence of a mother who had painfully chosen her cult over her kin.
 
 ---
 
 ## II. The Table and the Beast
 
-The mercy Samantha expected for her "loyalty" never came. When Halric discovered the truth: the birth, the abandonment, the defiance. His response was a masterclass in the very cruelty she had watched him create with her magic. Samantha was stripped of her robes and her rank. She was dragged to the lower chambers of [[02_World/01_The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]], to the very iron tables where she had once stood as a practitioner.
+The mercy Samantha expected for her "loyalty" never came. When Halric discovered the truth: the birth, the abandonment, the defiance. His response was a masterclass in the very cruelty she had watched him create with her magic. Samantha was stripped of her robes and her rank. She was dragged to the lower chambers of [[02 World/The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]], to the very iron tables where she had once stood as a practitioner.
 
 For years, Samantha was a vessel for Halric’s penance. The man who had once looked at her with respect now looked at her as a living monument to his own "sin."  
 
@@ -63,7 +63,7 @@ Now, she realized she had fought to stay alive for nothing. She had been on the 
 
 The words spoken by the half-orc _"I killed your daughter"_ did not just break Samantha’s heart; they hollowed her out. She collapsed into the filth of the torture chamber, clawing at the stone until her fingernails bled, wailing until her throat tore raw. She was a woman who had lost the sun, the stars, and finally, the earth beneath her feet. When Vespertina and Squeaks left her there, sobbing and abandoned, they left behind the husk of a mother and the beginning of a monster.
 
-Driven by a madness that felt like clarity, Samantha stumbled across the hall of Ya’a Thalor. She crawled through the portal to **[[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]**, her eyes fixed and glassy. She scrambled past the grotesque, lifeless remains of the **[[Cradle of Flesh\|Cradle of Flesh]]**, recognizing the faces of dead children. She climbed the iron ladder, through the false-bottom bathtub, and into the Headmistress’s chambers, a ghost haunting the site of her own daughter's death.
+Driven by a madness that felt like clarity, Samantha stumbled across the hall of Ya’a Thalor. She crawled through the portal to **[[02 World/The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]]**, her eyes fixed and glassy. She scrambled past the grotesque, lifeless remains of the **[[Cradle of Flesh\|Cradle of Flesh]]**, recognizing the faces of dead children. She climbed the iron ladder, through the false-bottom bathtub, and into the Headmistress’s chambers, a ghost haunting the site of her own daughter's death.
 
 She found herself in the dining hall. There sat **Magda Velt**, the Lunch Matron, looking up from a bowl of broth with eyes full of a terrifying, unshaken kindness.
 

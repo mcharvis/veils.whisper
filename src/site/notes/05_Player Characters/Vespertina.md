@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/05-player-characters/vespertina/"}
 ---
 
-![c132c4ac-8f14-42f1-a341-6b0c9985557e.png](/img/user/00_GM%20Tools/Media/c132c4ac-8f14-42f1-a341-6b0c9985557e.png)![1000048457 1.png](/img/user/00_GM%20Tools/Media/1000048457%201.png)
+![c132c4ac-8f14-42f1-a341-6b0c9985557e.png](/img/user/00%20GM%20Tools/Media/c132c4ac-8f14-42f1-a341-6b0c9985557e.png)![1000048457 1.png](/img/user/00%20GM%20Tools/Media/1000048457%201.png)
 
-![5162899480614202168.png](/img/user/00_GM%20Tools/Media/5162899480614202168.png)
+![5162899480614202168.png](/img/user/00%20GM%20Tools/Media/5162899480614202168.png)
 
 When her father, the kind and respected [[06_NPCs/King Aldenor\|King Aldenor]] of [[The Elven Empire of Elarion\|The Elven Empire of Elarion]] died under mysterious circumstances, the young Princess Verspertina Galanodel was next in line to inherit the throne. However, her uncle, [[06_NPCs/Lord Rauconen\|Lord Rauconen]], convinced the [[04_Organizations/Royal Council\|Royal Council]] that he should assume the role of Regent and safeguard the Crown until she was old enough to rule. Though Vespertina had never found him warm, Rauconen was once beloved by the kingdom and honored as a war hero. But it wasn’t long before he became consumed by greed, and his true colors—those of ruthless tyranny—came to light. He allied with wretched leaders, betrayed former allies, slaughtered his own people, and transformed a once-noble army into a cruel and merciless force that devastated neighboring kingdoms—leaving their people either silenced or enslaved.
 
@@ -31,15 +31,15 @@ Sylastra, the Grieving – Sorceress who accidentally cursed Vespertina; her cur
 
 | Items Acquired                           | Description                                                                                         | Location                         |
 | ---------------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------- |
-| [[Items/Magical/Cinderflare Wayfinder\|Cinderflare Wayfinder]]                | Establish or Teleport to/from waypoints                                                             | [[02_World/01_The Evergrowing Forest/The Forgotten Swamp\|The Forgotten Swamp]]          |
-| Bell (engraved)                          | A ceremonial bronze bell. May have once marked a changing of watch.                                 | [[02_World/01_The Evergrowing Forest/Temple of the Forgotten Hero\|Temple of the Forgotten Hero]] |
-| Greater Healing Potion x 1<br>(uncommon) | You regain Hit Points when you drink this potion. Regain 4d4 + 4 Hit Points                         | [[02_World/01_The Evergrowing Forest/Temple of the Forgotten Hero\|Temple of the Forgotten Hero]] |
+| [[Items/Magical/Cinderflare Wayfinder\|Cinderflare Wayfinder]]                | Establish or Teleport to/from waypoints                                                             | [[02 World/The Evergrowing Forest/The Forgotten Swamp\|The Forgotten Swamp]]          |
+| Bell (engraved)                          | A ceremonial bronze bell. May have once marked a changing of watch.                                 | [[02 World/The Evergrowing Forest/Temple of the Forgotten Hero\|Temple of the Forgotten Hero]] |
+| Greater Healing Potion x 1<br>(uncommon) | You regain Hit Points when you drink this potion. Regain 4d4 + 4 Hit Points                         | [[02 World/The Evergrowing Forest/Temple of the Forgotten Hero\|Temple of the Forgotten Hero]] |
 | Blank parchment and charcoal sticks      |                                                                                                     | [[Night Camp\|Night Camp]]                   |
 | Mirror shard                             | peek or signal                                                                                      | [[Night Camp\|Night Camp]]                   |
 | Brass whistle                            | emits piercing tone                                                                                 | [[Night Camp\|Night Camp]]                   |
 | White Pearl                              |                                                                                                     |                                  |
-| Battlefield Stimulant                    | Bitter tonic of blood-moss. Restores 1d4+1 HP and immediately allows advantage on saves and checks. | [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]              |
-| [[Items/Staff of the Corpsefield\|Staff of the Corpsefield]]             |                                                                                                     | [[02_World/01_The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]              |
+| Battlefield Stimulant                    | Bitter tonic of blood-moss. Restores 1d4+1 HP and immediately allows advantage on saves and checks. | [[02 World/The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]              |
+| [[Items/Staff of the Corpsefield\|Staff of the Corpsefield]]             |                                                                                                     | [[02 World/The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]              |
 |                                          |                                                                                                     |                                  |
 
 #PC
