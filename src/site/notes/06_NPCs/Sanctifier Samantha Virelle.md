@@ -382,7 +382,7 @@ Samantha stood up. To the physical eye, she was a scarred, wingless woman clutch
 
 "You are free of the Knight’s gaze and Elarith’s claim."
 
-The goddess didn't offer a hand to help her rise. Instead, she looked down at the **Grimoire of the Scarlet Raven** now clutched in Samantha’s hands, the literal weight of her disconnected soul.
+The goddess didn't offer a hand to help her rise. Instead, she looked down at the **[[Grimoire of the Scarlet Raven\|Grimoire of the Scarlet Raven]]** now clutched in Samantha’s hands, the literal weight of her disconnected soul.
 
 ### **The Charge of the Crossroads**
 

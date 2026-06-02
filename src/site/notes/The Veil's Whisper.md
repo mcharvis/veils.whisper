@@ -9,7 +9,7 @@
 > _"Prepare to Die"_
 
 ## 🧭 Current Status
-- **Latest Session**: [[00_GM Tools/Session Notes/Session 12\|Session 12]]
+- **Latest Session**: [[00_GM Tools/Session Notes/Session 11\|Session 11]]
 - **Party Members**: [[05_Player Characters/Kovinar\|Kovinar]], [[05_Player Characters/Vespertina\|Vespertina]], [[05_Player Characters/Squeaks\|Squeaks]],  [[05_Player Characters/Varian\|Varian]], 
 	- **Separated**: [[05_Player Characters/Renzo\|Renzo]] (Currently in [[02_World/The Pedronian Empire\|The Pedronian Empire]],
 - **Current Location**: Outskirts of [[02_World/The Pedronian Empire\|The Pedronian Empire]]
@@ -41,9 +41,9 @@
 - [[00_GM Tools/Session Notes/Session 07\|Session 07]]: Online Housekeeping
 - [[00_GM Tools/Session Notes/Session 08\|Session 08]]: Reversal of Vespertina's Curse
 - [[Session 09\|Session 09]]: No Notes.
-- [[00_GM Tools/Session Notes/Session 10\|Session 10]]: AirDND 2026 - The Veil's Whisper
-- [[00_GM Tools/Session Notes/Session 11\|Session 11]]: The Living Reliquary
-- [[00_GM Tools/Session Notes/Session 12\|Session 12]]: Through the Flames of Misfortune
+- [[00_GM Tools/Session Notes/Session 9\|Session 9]]: AirDND 2026 - The Veil's Whisper
+- [[00_GM Tools/Session Notes/Session 10\|Session 10]]: The Living Reliquary
+- [[00_GM Tools/Session Notes/Session 11\|Session 11]]: Through the Flames of Misfortune
 
 ### 📂 Campaign Arcs
 - [ ]  A Shattered Path

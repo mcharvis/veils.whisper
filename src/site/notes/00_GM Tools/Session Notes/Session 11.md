@@ -2,115 +2,84 @@
 {"dg-publish":true,"permalink":"/00-gm-tools/session-notes/session-11/"}
 ---
 
-**Date:** 12/15/25
+**Date:** 1/24/26
 **Location:** Christine's House  
 **DM:** Mike
-**Players Present:** Ryan, Tristan, Christine, Mike Charvis, Mike Crump 
+**Players Present:** Ryan, Tristan, Christine, Mike Charvis 
 
 ## Introduction
-> Prepare to Die
+> Prepare to die. 
 > 
-> Last time, you learned what it feels like to be hunted by things that do not get tired.
+> Torchlight fades. The cave stays cold. Your armor and packs are piled close because nobody trusts the dark down here.
 > 
-> You found the **Harbinger Sword** in ash and ruin—close enough to touch, close enough to die for—but it wasn’t truly visible to everyone. The **Four Horsemen** tore through the wreckage again and again in desperate fury, circling a prize they couldn’t see. When you finally collapsed, broken and bleeding, **Conquest** refused to leave empty-handed. He grabbed **Lucian** by the breastplate and threw him across a warhorse like stolen property.
+> Hours ago, the surface betrayed you.
 > 
-> You woke in **Vindictive Enterprises’ organ hospital**, strapped down, stripped, and missing your gear. The air stank of rot and antiseptic, and the lights swung like the place couldn’t decide if it was a clinic or a slaughterhouse. **Dr. Severin Vile**—masked, calm, and thrilled—made it clear you weren’t prisoners. You were inventory. He planned to carve you slowly, keep you alive, and sell you a dozen times. You broke free, found **Renzo** unconscious on an operating table, and fought through Vile’s attendants in tight, ugly rooms until the butcher finally died.
+> You walked up on Son Goku locked in combat with Izanami. Before you could even decide how to approach, both clans turned on you—together. Outsiders. Convenient targets. You held your ground long enough to keep breathing, long enough to keep each other standing.
 > 
-> You traced the rot upward and found out it had patrons.
+> Then Sovereign Amaterasu arrived to defend Izanami.
 > 
-> You met **Veyra Light**, a collector with a museum full of carefully labeled sins. You needed a **Ledger Seal**. She wanted payment in something rare enough to matter, and her attention kept circling the idea of **Ashrend**, a vampiric killing sword. Beneath her museum was a hidden vault protected by layered glyphwork—treasure locked under cascading wards meant to punish greed, curiosity, and impatience.
+> She didn’t speak. She didn’t warn you. She struck.
 > 
-> You hit the supply chain next.
+> Lightning came down in a volley. Stone cracked. The ground broke apart under your feet. You dropped into the open dark and hit hard, far below the battlefield, in a cave lost to time
 > 
-> North of Helfirth, you walked into a **VE orc mercenary camp**—the main buyer for Vile’s harvested organs—and learned someone had put **10,000 gp bounties** on each of your heads. You stormed the camp, cut down guards and officers, and then a young orc girl stumbled out—**Junebug**—sword dragging, eyes cold, and rage too big for her body. **Varian** tried to stop her and killed her by accident. For a blink, the world fractured in his mind: a childhood farm burning, parents screaming, raiders in smoke—then the shadow of the **Black Wolf** and those merciless eyes. When the vision snapped back, Junebug lay in the dirt. Varian brought her back anyway. He gave her his flail. She decided you were heroes. She started calling him **Captain Muscles** and Vespertina **SuperSparkles**, like naming you could make the world less cruel.
+> A skeleton knight met you down there. You pushed deeper, still not sure if you were escaping or being funneled somewhere on purpose.
 > 
-> Then you struck Vindictive Enterprises where it hurts.
+> A Shadowclaw found you next. You killed it, but it took time and blood.
 > 
-> You entered the sanitation sector in **Operation Redflow**, a maintenance underworld where everything hummed, dripped, and moved like a body trying to digest its own filth. You fought technicians, an overseer, and the reclaimer, shut down power, reversed the pumps, and flooded VE with excrement. You turned their machine against itself and left them drowning in what they thought they could hide.
+> Then you found the stone door with no way through
 > 
-> But the Harbinger still pulled at the world.
+> You found the trap door and the fiery stone beneath it. You triggered the mechanism and watched the stone rise, lifting the door and revealing a chamber that was never meant to be discovered.
 > 
-> You brought the sword to the **First World Tree** to bury it somewhere obsession couldn’t reach. The Tree answered with trials—**the Seven Deadly Sins** as manifestations, not real enemies, but real pain. In that place, **Renzo died** and faced **Nerull**, and the campaign reminded you: death here is not a line you cross once. It’s a presence that watches for you to slip.
+> Squeaks crossed first.
 > 
-> When **Wrath** rose, the **Scarlet Raven** carved through you with ease. You went blind under Murder’s Eclipse, and it should have ended there—until a flash of gold split the dark and a figure with a greatsword ended the Raven’s avatar in three strikes. The one who saved you wasn’t a hero.  He was Sir Lucian, The Oath Rekindled.
+> Nothing happened.
 > 
-> A man sat on bare stone with no camp and no fear. He spoke like this was inevitable. Then his skin split into scale and wing, and **Maldravok**, an ancient deep dragon, promised that anything you hid in that chamber would never leave while he still breathed.
+> Then the rest of you stepped in, and the room changed immediately.
 > 
-> You moved toward Vis’Avae next, and the world changed texture.
+> Varkhal, the Oath-Wrought Sentinel, looked past most of you and focused on Lucian. He recognized him—one of Caelen’s old guards. Lucian didn’t flinch. He told him why you came: to reunite the clans and open the Hikarai.
 > 
-> At the black river, **Charon** demanded blood for passage—loyalty proved in pain. **Velura** stepped forward first, then cut **Miren’s** palm, and the river drank eagerly. When each of you paid, the river gave judgments that felt less like blessings and more like being recorded: **Remembered. Favored. Redeemed. Clever. Untamed. Enduring.** Velura crossed ahead with Miren and warned you plainly: the inner realm doesn’t care if you’re good. It cares if you’re resolute.
+> Varkhal refused the idea outright.
 > 
-> Then the tests began.
+> He said it was impossible. Not because you lacked strength, not because you lacked proof, but because Lucian wasn’t Japanese.  
 > 
-> **Eimear** made you cross the **Bridge of Pale Glass**, where conviction mattered because hesitation broke the world beneath your feet. **Saoirse** led you into the **Hall of Chains**, where the wards had inverted and the innocent were bound while the condemned walked free, forcing you to choose who deserved release and who needed binding. **Niamh** trapped you in the **Hall of Mirrors**, where reflections lied, statues tracked movement through angles you couldn’t predict, and light itself became a weapon.
+> Then Renzo dropped from wild shape.
 > 
-> In the woods, the world turned quiet in a different way.
+> Renzo transformed out of wild shape and a magnificent statue of Caelen appears from the mist. The statue appeared strangely realistic. Renzo Stands because the statue and gazes absently at it... Raising his sword in the same way the statue does. The party watches in awe as a shadow from the statue appears to move from the wall over Renzo in a perfect match. Renzo snaps or if his daze, somewhat unimpressed. The party looks at each other, confused about what they just witnessed.
 > 
-> You chased **luminae** to a fey garden and found the **Scarlet Raven** on her knees, shaking, grieving, holding something small and lost. When you approached, she didn’t fight. She walked through your blows like she needed the pain to feel real. Then she reached **Kovinar**, pressed his hands to her heart, rested her forehead against his, and left without explanation—flying off into the dark as if the only thing she trusted was distance.
-> 
-> At the Statue of the First Vis’Ar, **Caoimhe** told you growth only happens when something gets fed. The **Devourer in Bloom** rose—made from your own vitality, your own defenses—and it could be weakened only by sacrifice. **Kovinar** chose the brutal option. He died willingly. He faced **Nerull** again. The Devourer fell, and you walked forward carrying the cost of that decision like a fresh wound.
-> 
-> Then **Maeve** tried to break you with nothing but continuity.
-> 
-> In the **Hall of Doors**, every door opened into the same hall again. Every spell, every tool, every attempt to force progress only reset the trap. The only way out was to refuse to play—to stop moving, stop solving, stop proving yourself. When you finally did, the hallway decayed into dust and left one real doorway ahead.
-> 
-> That door opened to **Tisiphone**.
-> 
-> In the **Séance of Six Flames**, Velura and the sorceresses formed a circle of candles and hidden trials meant to test mind, nerve, and restraint. As the last flame locked upright and turned pale, something **noticed** you. Maeve’s eyes rolled white, then black, and a demon sent by Nerull—**The Watcher Beneath**—tore up through cracking stone. You fought to protect the candles, because if a flame went out, a spirit would be lost.
-> 
-> You held.
-> 
-> When the ritual completed, smoke fell like a curtain and you stepped into a ring of fey trees, each a different hue, surrounding the **Mosaic Die**. **Tisiphone** spoke the truth: you came for the shard of the **Death-Wrought Mosaic**, an artifact meant to twist fate hard enough to bind Nerull’s hands. She demanded proof that you could accept destiny, not just fight it—then made you roll the Mosaic to choose a **Whisper**, the soul that would guide you across the Veil where living flesh cannot go.
-> 
-> Fate chose **the Scarlet Raven** as the Veil’s Whisper.
-> 
-> Tisiphone gave you the shard, warned the Mosaic must be hidden beyond Nerull’s reach, and then she turned your eyes north. The horizon peeled back to show the **Pedronian Empire**—burning villages, shattered fields, and six ronin clans that once stood united under **Caelen** now killing each other for nothing. She bound the path to **Renzo Morokami** and the last honor of House Takaren, and named your next objective: reunite the six clans under one banner to open the way to **The Hikarai**, a crystallum holding the **Tsukaru**, the gemstone needed to empower the **Crown of the Quiet Sovereign**.
-> 
-> That’s where we begin so prepare to die
-
+> After cutting down a dozen skeletons, the party long rests at the exit. Now they prepare to ascend to the surface... Confused about what happened and what will happen next. One thing is certain, sovereign Amaterasu seemed determined to eliminate Renzo but it's not clear why. If the gods are determined to kill Renzo, we must be prepared to die.
 
 ## Summary
-> The air in the tunnel is thick with the smell of wet stone, old blood, and the sour sweat of a party that has spent the last few hours fighting for every inch of ground. There’s no poetry down here—just the cold weight of your gear and the knowledge that the world above is currently a meat grinder.
+> The air tasted like ash and copper, the lingering weight of a world that had been broken and roughly stitched back together in a single, bloody night. The survivors stood in the wreckage of **[[02_World/The Pedronian Empire\|The Pedronian Empire]]**, breathing in the stagnant remains of a war that had finally burned itself out.
 > 
-> It started in the valley, a place choked with enough ash to make every breath a struggle. You were supposed to be observers, watching the clans of **Son Goku** and **Elder Izanami** tear each other apart, but the battlefield has a way of swallowing the bystanders. The moment you were spotted, the war paused just long enough for both sides to decide you were a more convenient target than each other. You stood back-to-back, blades slick with clan blood, holding the line simply because there was nowhere else to go.
+> It began in the suffocating dark of **[[05_Player Characters/Kovinar\|Kovinar]]**’s mind. **[[Samantha\|Samantha]]** had cornered him in his own dream, not to offer comfort, but to strip his spirit bare. She tore into his devotion to **[[06_NPCs/Gods/Bahamut\|Bahamut]]** with a serrated tongue, mocking the labels he used to protect himself. _"Good is a label people slap on power they’re afraid to question,"_ she spat, watching the paladin struggle. She laid the blood of the child, **[[06_NPCs/Nasha\|Nasha]]**, at his feet, mocking the "illusion of choice" that **[[06_NPCs/Gods/Nerull\|Nerull]]** had used to turn a paladin into an accomplice. Her voice echoed with a final, chilling directive: _"Don’t hand your spine to a dragon and call it faith. Ask your god to forgive my descent into evil, Kovinar. It is the only way."_ Before vanishing, she forced the **Six Commands of the [[Forgotten Hero\|Forgotten Hero]]** into his custody and left him with a blunt ultimatum: _"Just finish it."_
 > 
-> Then **Sovereign Amaterasu** arrived, and the fighting stopped because the air itself became a weapon. She didn't offer a challenge or a speech. She looked at **Renzo** and decided the ground he stood on didn't need to exist anymore. 
+> When the party finally clawed their way out of the depths, they were met by the cold steel of **[[06_NPCs/Elder Susanoo\|Elder Susanoo]]** and **[[06_NPCs/Son Goku\|Son Goku]]**. The air hummed with impending slaughter. **[[05_Player Characters/Renzo\|Renzo]]** attempted to seize command with the charisma of a leader, but the clans remained unmoved. It was only when **[[05_Player Characters/Kovinar\|Kovinar]]** remembered **[[Samantha\|Samantha]]**’s warning—_“When we surrender, we rise from the flames of our misfortune”_, that the power shifted. He didn’t command with pride; he commanded through the acceptance of his own failure. The words **"Stand down"** didn't just carry weight; they carried the authority of the grave. The clans obeyed.
 > 
-> _“You should not be here,”_ the Sovereign’s voice echoed, a sound like grinding tectonic plates. _“You will not disrupt everything we control with your foolish faith. He is forgotten... and so shall you be.”_
+> The journey through the empire was a gauntlet of shifting loyalties and divine wrath. They navigated pagodas choked with conflicting orders and weathered the storms of **[[06_NPCs/Raijin\|Raijin]]** and **[[06_NPCs/Fujin\|Fujin]]**. In the end, it was **[[05_Player Characters/Renzo\|Renzo]]** who paid the ultimate price. To break the stalemate, he offered his life to the fury of **[[06_NPCs/Sovereign Amaterasu\|Sovereign Amaterasu]]**, who looked upon him with divine disdain. _"He is forgotten... and so shall you be,"_ she declared. As his body broke under her radiant wrath, the veil tore open. The spirit of **[[Caelen\|Caelen]]** reached through the gap, snatching **[[05_Player Characters/Renzo\|Renzo]]** back from the God of Death. The party turned the gods' own power against them, commanding the clans to deny the Sovereigns. Without the fuel of worship, **[[06_NPCs/Sovereign Amaterasu\|Sovereign Amaterasu]]** and **[[06_NPCs/Tsukuyomi\|Tsukuyomi]]** faded into the ash. **[[05_Player Characters/Renzo\|Renzo]]** remained behind, a living reliquary for **[[Caelen\|Caelen]]**, to rule the ruins of an empire that finally knew its master.
 > 
-> The lightning didn't just strike; it hammered the earth with mechanical, gold-white violence until the valley floor shattered. You didn't just descend—you fell into a bone-jarring abyss, swallowed by a sinkhole that dropped you into a tomb lost to time.
+> The remaining companions pushed into the **[[Hikarai\|Hikarai]]**, discovering a chamber of thirteen severed heads with sewn-shut mouths. They navigated a lethal cipher, ignored a red-painted herring, and put down a **Death Knight** that rose from a bald man's skull. From the correct pike, they claimed the **[[tsukaru\|tsukaru]]**, a raw gemstone that felt heavy with the cost of their journey. But as they emerged, a new shadow fell over them. **[[06_NPCs/Pets/Wilson\|Wilson]]**’s breath simply stopped. For several minutes, he was a corpse. When he finally gasped back to life, a faint, rhythmic thumping could be felt in his chest—a second heartbeat, out of sync and alien, marking time for something other than a man.
 > 
-> The dark was immediate and hostile. You hit the floor of an ancient military complex, a place where the skeletons don't stay in the ground. You smashed through a **Skeleton Knight** and spent blood and exhaustion putting down a **Shadowclaw** that hunted you through the geometry of the ruins. The path forward was a dead end of solid stone until you found the trap door. You triggered the mechanism, listening to the scream of ancient gears as the stone rose to reveal a chamber that had been sealed for centuries to keep a secret in.
+> The night sky offered no peace. Under a canopy of black clouds, **[[06_NPCs/Malphas\|Malphas]]** appeared—a towering silhouette of horns and wings. He spoke with the calm certainty of a predator who had already won. _"My loyal servant was true to their word. They opened the Hikarai... and have delivered the stone,"_ he said, his voice carrying without effort. Then, with a cold finality, he issued his terms: _"Relinquish the stone, and I shall grant you a swift demise. Defy me… and your soul will beg for freedom... ever... more."_ He dismantled the party with terrifying ease, sealing **[[05_Player Characters/Kovinar\|Kovinar]]** inside a sacrificial tower to await the end.
 > 
-> **Squeaks** crossed the threshold first into the heavy silence. When everyone else followed, the room woke up. **Varkhal, the Oath-Wrought Sentinel**, stepped out of the gloom. He looked at **Lucian**, recognizing the face of one of **Caelen’s** old guards, but the reunion was cold. When Lucian spoke of unity and the Hikarai, Varkhal shut him down with a blunt, ugly truth. It wasn't about strength or honor; Varkhal refused him because Lucian wasn't Japanese. A wall of heritage that no sword could cut through.
+> The bells of **[[Vex Ceniza\|Vex Ceniza]]** broke the silence. Scarlet ravens flooded the sky, and **[[Samantha\|Samantha]]** tore through the tower’s stone like it was parchment. She didn't come with a prayer; she came with a sneer. _"What the fuck are you doing in here? Praying?"_ she barked at **[[05_Player Characters/Kovinar\|Kovinar]]**. _"The bad guy is outside. Mommy's here and timeout's over."_ She looked at the bloodied party and added, _"You guys fight like shit,"_ before weaving runes of blood and shadow that turned them into a murder of invisible ravens and winged hunters. Together, they cornered **[[06_NPCs/Malphas\|Malphas]]**. **[[Samantha\|Samantha]]** gripped the creature's head and disintegrated his mind while **[[05_Player Characters/Kovinar\|Kovinar]]** took the trophy of his neck.
 > 
-> Then **Renzo** shed his wild shape, shifting from spider back to man. As he did, the mist in the chamber coiled into a statue of Caelen that looked less like carved stone and more like a man frozen in time. It was unnervingly real, every dent in the armor and every vein in the hand rendered with terrifying precision. Renzo walked up to it in a daze, raising his sword to match the statue’s weary, lethal stance. The party watched, frozen, as the statue’s shadow literally peeled off the wall and slid across the floor to lock onto Renzo’s.
-> 
-> When the shadow-meld broke, Renzo just shook it off, looking more annoyed than impressed. The rest of you were left standing in the dark, wondering what the hell you just saw. You didn't have long to think about it before a dozen more skeletons rose from the dust. You cut them down, one by one, until the floor was littered with bone and the silence returned.
-> 
-> Now, you’re huddled at the exit, taking a long rest you haven't earned but desperately need. The surface is waiting, and Amaterasu has already made it clear she wants Renzo dead. You’re heading back up into the ash, but the man walking with you might not be the same one who fell down here.
+> In the quiet aftermath, **[[06_NPCs/Gods/Nerull\|Nerull]]** appeared to claim the cooling remains of **[[06_NPCs/Malphas\|Malphas]]**, his presence a grim reminder of who truly owns the dead. **[[05_Player Characters/Vespertina\|Vespertina]]** handed **[[Samantha\|Samantha]]** the **[[Items/Book of the Profane Word\|Book of the Profane Word]]**, a relic of the God of Death himself. With a curt, stoic _"Thanks,"_ **[[Samantha\|Samantha]]** turned her back on the party and vanished. The **[[Oracle\|Oracle]]** arrived soon after, her voice trembling. _"I can see most lives in this place but I can no longer locate Samantha,"_ she whispered. _"She has disconnected herself from the world."_ The woman was no longer a thread in the tapestry; she was a wildcard loose in a world that was already burning.
 
 ## 🎯 Objectives
 
 ### ✅ Completed Objectives
-- [x] Where is [[06_NPCs/Malis Fiani, The Scarlet Raven\|The Scarlet Raven]]?
-- [x] Travel to [[Vindicative Enterprises\|Vindicative Enterprises]]
-	- [ ] Secure access to your overworld mine profits by recovering the stolen **Ledger Seal** from [[06_NPCs/Veyra, the Ashmonger\|Veyra, the Ashmonger]]  
 - [x] Who are Tisiphone, Hecate, & Nyx and how do we find them?
 	- [ ] Obtain the missing three pieces of the [[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]] and assemble them.
 		- [x] Piece 1
 - [x] Travel to The Pedronian Empire
-	- [ ] Reunite the Six Clans
-
-#### Optional Objectives
-- [x] Travel to Oasis
-	- [ ] Who is [[06_NPCs/Countess Ilyra Vaer-Lorne\|Countess Ilyra Vaer-Lorne]]?
-
+	- [x] Reunite the Six Clans
 
 ### ❌ New/Unfinished Objectives
 - [x] Travel to [[Vindicative Enterprises\|Vindicative Enterprises]]
 	- [ ] Secure access to your overworld mine profits by recovering the stolen **Ledger Seal** from [[06_NPCs/Veyra, the Ashmonger\|Veyra, the Ashmonger]]
 		- [ ] Complete Veyra's Relic Seeking Mission
+- [ ] [[05_Player Characters/Kovinar\|Kovinar]]
+	- [ ] Ask [[06_NPCs/Gods/Bahamut\|Bahamut]] to forgive Samantha's descent into evil.
 - [x] Who are Tisiphone, Hecate, & Nyx and how do we find them?
 	- [ ] Obtain the missing three pieces of the [[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]] and assemble them.
 		- [x] Piece 1
@@ -122,21 +91,35 @@
 
 ## 🧑‍🤝‍🧑 NPCs Met/Discovered
 
-| Name                                  | Description | Status | Affiliation   |
-| ------------------------------------- | ----------- | ------ | ------------- |
-| [[06_NPCs/Son Goku\|Son Goku]]                          |             |        | [[06_NPCs/Susanoo\|Susanoo]]   |
-| [[06_NPCs/Amaterasu\|Amaterasu]]                         |             |        |               |
-| [[06_NPCs/Izanami\|Izanami]]                           |             |        | [[06_NPCs/Amaterasu\|Amaterasu]] |
-| [[06_NPCs/Caelen, Firstborn of the Flame\|Caelen, Firstborn of the Flame]]    |             |        |               |
-| [[06_NPCs/Varkhal, The Oathwrought Sentinel\|Varkhal, The Oathwrought Sentinel]] |             |        |               |
-| [[06_NPCs/Shadowclaw\|Shadowclaw]]                        |             |        |               |
+| Name                                  | Description                                                     | Status | Affiliation                        |
+| ------------------------------------- | --------------------------------------------------------------- | ------ | ---------------------------------- |
+| [[06_NPCs/Son Goku\|Son Goku]]                          | Clan Leader                                                     | Alive  | [[06_NPCs/Susanoo\|Susanoo]]                        |
+| [[06_NPCs/Amaterasu\|Amaterasu]]                         | Sovereign                                                       | Alive  | [[06_NPCs/Gods/Nerull\|Nerull]]                         |
+| [[06_NPCs/Izanami\|Izanami]]                           | Clan Leader                                                     | Alive  | [[06_NPCs/Amaterasu\|Amaterasu]]                      |
+| [[06_NPCs/Caelen, Firstborn of the Flame\|Caelen, Firstborn of the Flame]]    | Xaphan's Half Brother. Lives in spiritual form within [[05_Player Characters/Renzo\|Renzo]] | Godly  | [[05_Player Characters/Inactive/Xaphan\|Xaphan]]                         |
+| [[06_NPCs/Varkhal, The Oathwrought Sentinel\|Varkhal, The Oathwrought Sentinel]] | Guardian of Caelen Spirit                                       | Undead | [[06_NPCs/Caelen, Firstborn of the Flame\|Caelen, Firstborn of the Flame]] |
+| [[06_NPCs/Shadowclaw\|Shadowclaw]]                        | Clan Leader                                                     | Dead   |                                    |
+| [[06_NPCs/Susanoo\|Susanoo]]                           | Elder                                                           | Alive  | [[06_NPCs/Tsukuyomi\|Tsukuyomi]]                      |
+| [[06_NPCs/Inari Okami\|Inari Okami]]                       | Elder                                                           | Alive  | [[06_NPCs/Amaterasu\|Amaterasu]]                      |
+| [[06_NPCs/Hachiman\|Hachiman]]                          | Clan Leader                                                     | Alive  | [[06_NPCs/Inari Okami\|Inari Okami]]                    |
+| [[06_NPCs/Raijin\|Raijin]]                            | Elder                                                           | Alive  | [[06_NPCs/Tsukuyomi\|Tsukuyomi]]                      |
+| [[06_NPCs/Fujin\|Fujin]]                             | Elder                                                           | Alive  | [[06_NPCs/Tsukuyomi\|Tsukuyomi]]                      |
+| [[06_NPCs/Uzume\|Uzume]]                             | Clan Leader                                                     | Alive  | [[06_NPCs/Toyotama-Hime\|Toyotama-Hime]]                  |
+| [[06_NPCs/Toyotama-Hime\|Toyotama-Hime]]                     | Elder                                                           | Alive  | [[06_NPCs/Amaterasu\|Amaterasu]]                      |
+| [[06_NPCs/Watasumi\|Watasumi]]                          | Cloud Dragon                                                    | Godly  |                                    |
+| [[06_NPCs/Izanagi\|Izanagi]]                           | Clan Leader                                                     | Alive  | [[06_NPCs/Tsukuyomi\|Tsukuyomi]]                      |
+| [[06_NPCs/Tsukuyomi\|Tsukuyomi]]                         | Sovereign                                                       | Alive  | [[06_NPCs/Gods/Nerull\|Nerull]]                         |
+| [[06_NPCs/Tsukuyomi’s Shadow Assassin\|Tsukuyomi’s Shadow Assassin]]       |                                                                 | Alive  | [[06_NPCs/Tsukuyomi\|Tsukuyomi]], [[06_NPCs/Izanagi\|Izanagi]]         |
+| [[06_NPCs/Amaterasu's Ethereal peasants\|Amaterasu's Ethereal peasants]]     |                                                                 | Alive  | [[06_NPCs/Amaterasu\|Amaterasu]], [[06_NPCs/Izanami\|Izanami]]         |
 
 
 ---
 
 ## 🔍 Clues & Lore
 - [[The House Takaren\|The House Takaren]] and [[06_NPCs/Sir Lucian Caelmoor\|Sir Lucian Caelmoor]] are connected through [[06_NPCs/Caelen, Firstborn of the Flame\|Caelen, Firstborn of the Flame]].
+- Renzo united the clans with Caelen's voice using [[Items/The Six Command Verses of Pedronia\|The Six Command Verses of Pedronia]]
 
 ## 🧵 Threads & Foreshadowing
-- [[02_World/The Pedronian Empire\|The Pedronian Empire]] is compiled of 6 clans in a perpetual war with each other. Uniting the clans will open [[The Hikarai\|The Hikarai]] to locate [[Items/The Tsukaru\|The Tsukaru]].
-- [[Items/The Tsukaru\|The Tsukaru]] and [[Crown of the Quiet Sovereign\|Crown of the Quiet Sovereign]] are combined. What they make is unknown.
+- [[Items/The Tsukaru\|The Tsukaru]] and [[01_Campaigns/Encounters/6 - The Long Grey/Crown of the Quiet Sovereign\|Crown of the Quiet Sovereign]] are combined. What they make is unknown.
+- The party has [[Items/The Tsukaru\|The Tsukaru]] but has no idea what to do with it.
+- [[06_NPCs/Malphas\|Malphas]] was pleased to see that his loyal servant has delivered the [[Tsukaru\|Tsukaru]], as promised.
