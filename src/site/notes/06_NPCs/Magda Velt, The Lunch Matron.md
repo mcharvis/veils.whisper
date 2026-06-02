@@ -14,7 +14,8 @@
 **Origin:** [[Basville\|Basville]]
 **Formerly:** Fed plague victims in [[Basville\|Basville]]'s undercity before her time at the Asylum
 
-![[ChatGPT Image Jul 29, 2025, 05_54_31 PM.png\|ChatGPT Image Jul 29, 2025, 05_54_31 PM.png]]
+![ChatGPT Image Jul 29, 2025, 05_54_31 PM.png](/img/user/ChatGPT%20Image%20Jul%2029,%202025,%2005_54_31%20PM.png)
+
 ---
 
 ## Early Life — Basville's Undercity
