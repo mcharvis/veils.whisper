@@ -85,9 +85,29 @@ The reason is unclear. It may be tied to her dragon-touched transformation, her 
 
 ---
 
+## Nasha — The One Who Spoke Back
+
+Of every soul that passed through [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]], only one ever communicated with the Faintlings in a way they recognized.
+
+[[06_NPCs/Nasha\|Nasha]] — the infant left on the Asylum's doorstep, locked in the south storage room and largely forgotten — grew up immersed in the Faintlings' constant, fragmented speech. She had no other language. No one spoke to her. No books, no lessons, no lullabies except the ones that filtered faintly through two walls from [[Magda Velt\|Magda's]] kitchen. What she had, in abundance, was the Faintlings pressing close to the walls of her room in the dark, murmuring their endless, looping fragments.
+
+She learned them.
+
+The old forgotten tongues that began emerging from her mouth as she grew were not nonsense. They were Faintling language — the psychic residue dialect of the Asylum's accumulated grief — spoken back to its source by the only living creature who had ever been submerged in it long enough to absorb it. The symbols she etched into the storage room walls with her fingernails were the same dialect, written down.
+
+No scholar has ever formally documented Faintling language. Nasha was the only person who spoke it, and she never knew what it was.
+
+The Faintlings, for their part, did not *understand* this in any conscious way. But they responded to it. They stayed near her door long after any instinct toward warmth or survival need had been satisfied. They kept her warm in the early years when [[Magda Velt\|Magda's]] visits stopped. They nudged [[06_NPCs/Rhoswyn Calvra\|Calvra]], in the same unconscious way they nudge everything, to check the door occasionally — just enough to sustain the secret, not enough to reveal it.
+
+They were, in the only sense available to things without souls, her companions. The closest thing she ever had to family — which says something devastating about the Asylum, and everything about what Nasha was made of.
+
+When she died, the Faintlings did not mourn. They cannot. But the storage room has been notably quieter since. They still gather near the door sometimes, pressing against the walls where her symbols are still carved. Whether this is memory, habit, or something else — no one who could answer that question is still in the building.
+
+---
+
 ## Combat (Hostile State)
 
-When Faintlings turn hostile, they operate as a **mob**. They do not fight individually — they swarm, blur, and disorient.
+When Faintlings turn hostile, they operate as a **mob** (CR 1/4 × 12 = effective CR 4). They do not fight individually — they swarm, blur, and disorient.
 
 **Key traits in combat:**
 - They pass through walls and solid objects, making positioning unpredictable
@@ -98,6 +118,7 @@ When Faintlings turn hostile, they operate as a **mob**. They do not fight indiv
 **Weaknesses:**
 - Warmth — literal and metaphorical. Fire disrupts them. Acts of genuine compassion or calm can cause them to pause or scatter briefly
 - [[06_NPCs/Miren Elaris\|Miren's]] presence would destabilize them entirely — she is their origin, and proximity to her creates a kind of recursive interference that they cannot process
+- Nasha's symbols, if spoken aloud by someone who can read them, cause the Faintlings to still completely — though no one currently living knows how to read them
 
 ---
 
