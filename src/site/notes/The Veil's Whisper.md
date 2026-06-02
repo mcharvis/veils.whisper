@@ -144,7 +144,7 @@
 - [[06_NPCs/Councilor Varn Drest\|Councilor Drest]]
 - [[06_NPCs/Farrún, The Wayfinder\|Farrún, The Wayfinder]]
 - [[06_NPCs/Magda Velt, The Lunch Matron\|Magda Velt, The Lunch Matron]]
-- [[Faintlings\|Faintlings]]
+- [[06_NPCs/Faintlings\|Faintlings]]
 - [[06_NPCs/Zarvok\|Zarvok]]
 - [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]]
 - [[06_NPCs/Demigods/The Three Sisters/Hecate\|Hecate]]

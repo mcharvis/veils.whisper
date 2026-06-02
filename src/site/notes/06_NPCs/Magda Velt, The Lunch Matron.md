@@ -54,7 +54,7 @@ Magda's famous rules were not arbitrary. Each one emerged from hard-won experien
 
 > *It was said her stews could "mute the inner voice" — a gift in a place full of children who heard too much.*
 
-She didn't know she was right. She had no psychic training, no understanding of leylines or the Veil or the [[Faintlings\|Faintlings]] that nested in the Asylum's stone. She only knew what she observed: warm soup, sleeping children. Cold hearth, screaming.
+She didn't know she was right. She had no psychic training, no understanding of leylines or the Veil or the [[06_NPCs/Faintlings\|Faintlings]] that nested in the Asylum's stone. She only knew what she observed: warm soup, sleeping children. Cold hearth, screaming.
 
 ---
 
@@ -86,7 +86,7 @@ The soup went cold with her.
 
 That night, seven children died in their sleep. The others say the soup turned black.
 
-Whether her presence had been literally keeping the [[Faintlings\|Faintlings]] at bay, or whether it was coincidence, or whether the Asylum simply recognized the loss of its last warm thing — no one lived long enough in that place to determine the cause. The result was the same.
+Whether her presence had been literally keeping the [[06_NPCs/Faintlings\|Faintlings]] at bay, or whether it was coincidence, or whether the Asylum simply recognized the loss of its last warm thing — no one lived long enough in that place to determine the cause. The result was the same.
 
 ---
 
@@ -106,7 +106,7 @@ If anyone tried to leave food untouched, she followed. Not in anger. In *concern
 
 > *"You need to eat. Eat, eat, eat!"*
 
-The soup she served in this state was not what it once was. Whatever warmth had lived in her cooking during her life — whatever quality had kept the shadows back — had curdled in death. The broth she ladled now carried the residue of the [[Faintlings\|Faintlings]] that had long since claimed the building. Consuming it unwisely was dangerous.
+The soup she served in this state was not what it once was. Whatever warmth had lived in her cooking during her life — whatever quality had kept the shadows back — had curdled in death. The broth she ladled now carried the residue of the [[06_NPCs/Faintlings\|Faintlings]] that had long since claimed the building. Consuming it unwisely was dangerous.
 
 But she didn't know that either.
 
@@ -152,7 +152,7 @@ It took something it never anticipated to finally undo her: her own warmth, weap
 
 Her destruction at Samantha's hands was not a villain's victory. It was a tragedy: a woman who survived plague and poverty and the slow rot of a place that broke everyone around her — undone by her own innocent kindness, in the very kitchen where she died the first time.
 
-The cafeteria of [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] is now simply cold. The pots no longer bubble. The [[Faintlings\|Faintlings]] have no reason to stay back.
+The cafeteria of [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] is now simply cold. The pots no longer bubble. The [[06_NPCs/Faintlings\|Faintlings]] have no reason to stay back.
 
 ---
 
@@ -163,12 +163,12 @@ The cafeteria of [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The
 - **She is not hostile** — but she is relentless in her care. Players who refuse to "eat" may find her trailing them through the Asylum.
 - **She cannot be reasoned with** about her own death. Telling her directly may cause her to flicker, distort, or simply reset.
 - **Completing her loop** — allowing her to serve a full meal, eating it, and thanking her — may have been the key to putting her to rest peacefully. That window is now closed.
-- **The cold soup** she served may carry residual [[Faintlings\|Faintling]] influence. Consuming it unwisely could have consequences.
+- **The cold soup** she served may carry residual [[06_NPCs/Faintlings\|Faintling]] influence. Consuming it unwisely could have consequences.
 - **Her silence** on certain topics was not ignorance — the soup suppressed speech in those she fed. Players who ate her broth and then tried to speak against her preferred subjects may have found their tongues unexpectedly still.
 - **She knew about Nasha** — she knew there was a child hidden in the storage room. She called her "that evil girl." Whether she believed that, or whether it was Rhoswyn's framing she had absorbed over years of proximity, she never questioned it. She never fed her.
 
 ---
 
-*See also: [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] · [[Faintlings\|Faintlings]] · [[Order of the Morrow Veil\|Order of the Morrow Veil]] · [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] · [[06_NPCs/Miren Elaris\|Miren Elaris]] · [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]] · [[06_NPCs/Sanctifier John Halric\|Sanctifier John Halric]] · [[06_NPCs/Malis Fiani, The Scarlet Raven\|Malis Fiani, The Scarlet Raven]] · [[06_NPCs/Nasha\|Nasha]] · [[Basville\|Basville]] · [[The Evergrowing Forest\|The Evergrowing Forest]]*
+*See also: [[02_World/01_The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] · [[06_NPCs/Faintlings\|Faintlings]] · [[Order of the Morrow Veil\|Order of the Morrow Veil]] · [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] · [[06_NPCs/Miren Elaris\|Miren Elaris]] · [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]] · [[06_NPCs/Sanctifier John Halric\|Sanctifier John Halric]] · [[06_NPCs/Malis Fiani, The Scarlet Raven\|Malis Fiani, The Scarlet Raven]] · [[06_NPCs/Nasha\|Nasha]] · [[Basville\|Basville]] · [[The Evergrowing Forest\|The Evergrowing Forest]]*
 
 #NPC #echo #spirit #deceased
