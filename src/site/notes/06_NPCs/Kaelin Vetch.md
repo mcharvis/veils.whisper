@@ -10,7 +10,7 @@
 
 Kaelin Vetch was born in [[The Evergrowing Forest\|The Evergrowing Forest]], the son of a failed merchant who drank himself into debt and an overworked mother who sold herbs in the street markets. From a young age, Kaelin started as a street rat who made coin by running errands, then by listening at windows, and eventually by selling secrets to whoever would pay.
 
-By the time he was grown, Kaelin had made a reputation as someone who could be trusted to get information quietly. He didn’t fight, didn’t swagger, didn’t play at being a noble — he watched, remembered, and whispered. He had already worked for guilds and lesser Assembly members when **[[06_NPCs/Liora\|Liora]]** took notice. Unlike most who hired him, she treated him as more than a disposable tool. She offered him something rare: trust and steady work. Since then, Kaelin has been her ears in Oasis’s taverns, alleys, and back rooms.
+By the time he was grown, Kaelin had made a reputation as someone who could be trusted to get information quietly. He didn’t fight, didn’t swagger, didn’t play at being a noble — he watched, remembered, and whispered. He had already worked for guilds and lesser Assembly members when **[[Liora Vane\|Liora Vane]]** took notice. Unlike most who hired him, she treated him as more than a disposable tool. She offered him something rare: trust and steady work. Since then, Kaelin has been her ears in Oasis’s taverns, alleys, and back rooms.
 
 ### Personality
 

@@ -35,9 +35,9 @@
 - [x] Travel to [[02 World/The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]
 	- Paths chosen
 		- [x] Diplomacy
-			- [x] [[06_NPCs/Liora\|Liora]]'s [[Items/Provisional Writ of Entry\|Provisional Writ of Entry]]
+			- [x] [[Liora Vane\|Liora Vane]]'s [[Items/Provisional Writ of Entry\|Provisional Writ of Entry]]
 		- [x] Treachery
-			- [x] Use [[05_Player Characters/Varian\|Varian]] and [[06_NPCs/Liora\|Liora]]'s spies as double agents
+			- [x] Use [[05_Player Characters/Varian\|Varian]] and [[Liora Vane\|Liora Vane]]'s spies as double agents
 	- [x] Find [[06_NPCs/Velura Elaris\|Velura Elaris]]
 		- [ ] Can she be used to gain an audience with [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]]
 - [x] Who is Sanctifier [[06_NPCs/Sanctifier Dronir Maelth\|Sanctifier Dronir Maelth]]? 
@@ -47,7 +47,7 @@
 - [ ] Where is [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]]?
 - [ ] Travel to Oasis
 	- [ ] Who is [[06_NPCs/Countess Ilyra Vaer-Lorne\|Countess Ilyra Vaer-Lorne]]?
-	- [ ] Meet with [[06_NPCs/Liora\|Liora]] and deliver intelligence.
+	- [ ] Meet with [[Liora Vane\|Liora Vane]] and deliver intelligence.
 	- [ ] *Kovinar's Side Quest:* [[Side Quests/Deliver Drest's letter\|Deliver Drest's letter]].
 - [ ] Travel to [[Ahrown, Kingdom of Elves\|Ahrown, Kingdom of Elves]]
 	- [ ] *Verpertina's Side Quest:* [[Side Quests/Side Quest - The Mad King’s Shadow\|Side Quest - The Mad King’s Shadow]] 
@@ -76,8 +76,8 @@
 | [[06_NPCs/The Dreaming Mouth\|The Dreaming Mouth]]            | A writhing, incorporeal mass of broken thoughts and emotional refuse at Ya'a Thalor | Dead                                                          | [[02 World/The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]]                                |
 | [[05_Player Characters/Varian\|Varian]]                        | A knight previously employed by [[02 World/The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]].                                | Alive, Missing                                                | Previously [[02 World/The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]], Ally           |
 | [[06_NPCs/Sanctifier Dronir Maelth\|Sanctifier Dronir Maelth]]      | A veilshifter previouly aligned with Sanctifiers                                    | Unknown, Aligned with [[06_NPCs/Gods/Bahamut\|Bahamut]], Ally to [[05_Player Characters/Kovinar\|Kovinar]] | Previously a [[Sanctifier\|Sanctifier]] at [[02 World/The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] |
-| [[06_NPCs/Kaelin Vetch\|Kaelin Vetch]]                  | A spy from Oasis                                                                    | Unknown, Aligned with [[06_NPCs/Gods/Bahamut\|Bahamut]], Ally to [[05_Player Characters/Kovinar\|Kovinar]] | [[02 World/The Evergrowing Forest/Oasis\|Oasis]] via [[06_NPCs/Liora\|Liora]]                        |
-| [[Dreson\|Dreson]]                        | A spy from Oasis                                                                    | Unknown                                                       | [[02 World/The Evergrowing Forest/Oasis\|Oasis]] via [[06_NPCs/Liora\|Liora]]                        |
+| [[06_NPCs/Kaelin Vetch\|Kaelin Vetch]]                  | A spy from Oasis                                                                    | Unknown, Aligned with [[06_NPCs/Gods/Bahamut\|Bahamut]], Ally to [[05_Player Characters/Kovinar\|Kovinar]] | [[02 World/The Evergrowing Forest/Oasis\|Oasis]] via [[Liora Vane\|Liora Vane]]                        |
+| [[Dreson\|Dreson]]                        | A spy from Oasis                                                                    | Unknown                                                       | [[02 World/The Evergrowing Forest/Oasis\|Oasis]] via [[Liora Vane\|Liora Vane]]                        |
 | [[06_NPCs/Councilor Varn Drest\|Councilor Varn Drest]]          | A corrupt politician from Oasis                                                     | Unknown                                                       | [[02 World/The Evergrowing Forest/Oasis\|Oasis]], [[02 World/The Evergrowing Forest/The Sanctum of Withered Light\|The Sanctum of Withered Light]]   |
 | [[06_NPCs/Velexia\|Velexia]]             | Commander of [[02 World/The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]                                                    | Unknown                                                       | [[02 World/The Evergrowing Forest/Oasis\|Oasis]]                                      |
 | [[06_NPCs/Thorne Drevic\|Thorne Drevic]]                 | Bandit Captain at [[02 World/The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]                                               | Unknown, Aligned with [[06_NPCs/Gods/Bahamut\|Bahamut]], Ally to [[05_Player Characters/Kovinar\|Kovinar]] | [[02 World/The Evergrowing Forest/Oasis\|Oasis]] - [[02 World/The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]]                |

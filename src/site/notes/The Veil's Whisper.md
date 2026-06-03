@@ -42,8 +42,8 @@
 - [[00 GM Tools/Session Notes/Session 06\|Session 06]]: The Mad King's Blood
 - [[00 GM Tools/Session Notes/Session 07\|Session 07]]: Online Housekeeping
 - [[00 GM Tools/Session Notes/Session 08\|Session 08]]: Reversal of Vespertina's Curse
-- [[Session 09\|Session 09]]: No Notes.
-- [[00 GM Tools/Session Notes/Session 9\|Session 9]]: AirDND 2026 - The Veil's Whisper
+- [[00 GM Tools/Session Notes/Session 09\|Session 09]]: No Notes.
+- [[00 GM Tools/Session Notes/Session 09\|00 GM Tools/Session Notes/Session 09]]: AirDND 2026 - The Veil's Whisper
 - [[00 GM Tools/Session Notes/Session 10\|Session 10]]: The Living Reliquary
 - [[00 GM Tools/Session Notes/Session 11\|Session 11]]: Through the Flames of Misfortune
 
@@ -155,7 +155,7 @@
 - [[06_NPCs/Velexia\|Velexia]]
 
 - [[06_NPCs/King Aldenor\|King Aldenor]]
-- [[06_NPCs/Liora\|Liora]]
+- [[Liora Vane\|Liora Vane]]
 - [[06_NPCs/Seren of the Pale Flame\|Seren of the Pale Flame]]
 - [[06_NPCs/Snap, Crackle, and Pop\|Snap, Crackle, and Pop]]
 - [[06_NPCs/Varkhal, The Oathwrought Sentinel\|Varkhal, The Oathwrought Sentinel]]

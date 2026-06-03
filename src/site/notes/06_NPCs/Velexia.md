@@ -57,4 +57,8 @@ When Oasis established Jade Stronghold as its forward fortress, Velexia was chos
 
 - At first: An impenetrable, loyal agent of control
 
+## Promotion
+[[06_NPCs/High Marshal Velexia\|High Marshal Velexia]]
+
+
 #NPC 

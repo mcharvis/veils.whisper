@@ -15,7 +15,7 @@
 > 
 > You are not forgotten.  You are not abandoned.
 > 
-> —[[06_NPCs/Liora\|Liora]]
+> —[[Liora Vane\|Liora Vane]]
 
 _Near the bottom, a faint water blot smudges the final word. A small piece of dried violet petal is pressed between the folds._
 
