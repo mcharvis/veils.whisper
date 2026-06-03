@@ -58,7 +58,7 @@ So, being stripped of his oath, the knight made a new one. To Kovinar; to Bahamu
 
 ---
 
-The memory left him cleanly. That was the worst part of it. He had expected it to feel like tearing — had steeled himself for the specific grief of losing something that had mattered — but it went the way and exhale goes...without ceremony.
+The memory left him cleanly. That was the worst part of it. He had expected it to feel like tearing — had steeled himself for the specific grief of losing something that had mattered — but it went the way an exhalation goes...without ceremony.
 
 He remembered Caelen. He remembered the campaigns, the brotherhood, the specific quality of a man who had become unforgotten and did it without self-pity. He remembered the past four hundred years, and...unexpectedly, remembered Kovinar's hand on his shoulder and the Cursed Cross flaring gold.
 
