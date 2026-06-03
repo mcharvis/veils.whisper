@@ -180,7 +180,7 @@
 - The 4 Horsemen of the Apocalypse are closing in on Ahrown in pursuit of the [[Items/Harbinger Blade\|Harbinger Blade]]. It has to be buried in [[02 World/The First World Tree\|The First World Tree]].
 
 ## 🧵 Threads & Foreshadowing
-- [ ] The [[04_Organizations/The Horsemen\|The Horsemen]] will tempt the party into giving up the [[Items/Harbinger Blade\|Harbinger Blade]] to spark the Apocalypse.
+- [ ] The [[06_NPCs/Demigods/The Horsemen\|06_NPCs/Demigods/The Horsemen]] will tempt the party into giving up the [[Items/Harbinger Blade\|Harbinger Blade]] to spark the Apocalypse.
 ---
 
 ### Notable Actions

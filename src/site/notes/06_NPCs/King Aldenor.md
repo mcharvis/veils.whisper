@@ -84,7 +84,7 @@ Only she could see the gleam of steel within it, the faint shimmer of a blade th
 
 *"This is the Harbinger Blade. In their hands, it is the end of all things. Every company I have sent to carry it has returned broken, hollow-eyed."*
 
-He told her to take it south, beyond the merchants and the liars and the scars of war, to the [[02 World/The First World Tree\|First World Tree]] — older than Nerull's whispers, older than death itself. If anything could swallow the blade and keep it from the [[04_Organizations/The Horsemen\|Four Horsemen]] closing in on Ahrown, it was there.
+He told her to take it south, beyond the merchants and the liars and the scars of war, to the [[02 World/The First World Tree\|First World Tree]] — older than Nerull's whispers, older than death itself. If anything could swallow the blade and keep it from the [[06_NPCs/Demigods/The Horsemen\|Four Horsemen]] closing in on Ahrown, it was there.
 
 *"Good luck, my child. This will not be easy. Your friends may betray you. If you fail, it will not be only our crown that rots — it will be all that is."*
 

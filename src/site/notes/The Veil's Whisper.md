@@ -217,7 +217,7 @@
 
 ### 🏰 Factions
 - [[04_Organizations/Ebony Wake\|Ebony Wake]]
-- [[04_Organizations/The Horsemen\|The Horsemen]]
+- [[06_NPCs/Demigods/The Horsemen\|06_NPCs/Demigods/The Horsemen]]
 - [[04_Organizations/The Sanctifiers\|The Sanctifiers]]
 - [[04_Organizations/The Pale Flame\|The Pale Flame]]
 	- [[02 World/The Evergrowing Forest/The Sanctum of Withered Light\|The Sanctum of Withered Light]]    
