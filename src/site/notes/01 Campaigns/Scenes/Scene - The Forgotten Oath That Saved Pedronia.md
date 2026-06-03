@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/01-campaigns/scenes/scene-the-forgotten-oath-that-saved-pedronia/","title":"Scene - The Forgotten Oath That Saved Pedronia","tags":["scene","lucian","bahamut","first-world-tree","caelen","conquest"]}
 ---
 
-## What the Party Knows
-
 They saw Conquest take him.
 
 They were already broken and bleeding when the Rider reached down and seized Lucian by the breastplate and threw him across the warhorse like stolen property and vanished into the smoke. They saw it happen. They could not stop it. They collapsed in the ruin shortly after, and the last image some of them carried into unconsciousness was a knight disappearing into the dark on the back of something that does not return what it takes.
