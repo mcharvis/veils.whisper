@@ -46,7 +46,7 @@
 
 > The descent into the **Blackmire** began immediately after Hecate's vision faded — a lightless underground passage carved by veins of emerald and amethyst light, reeking of coal and graveyard dust. At the base of the stairs, the party found **Garrik** — a dying mercenary of the Black Wolf's crew, slumped against a boulder, his armor caked in filth and a wound weeping dark, sluggish red. He had followed [[05_Player Characters/Varian\|Varian]] into these woods after watching him open a hidden mountain door with purple fire no one recognized as his. The rest of the Black Wolf's crew had been taken by the mire. Garrik was the last.
 >
-> He gave them what he knew: [[05_Player Characters/Varian\|Varian]] had gone hunting for **[[06_NPCs/Demigods/The Three Sisters/Nyx\|Nyx]]** — *"a real dark one, a cruel one"* — deep in the gut of the woods. A pack of followers crawled in the dirt around her, worshipping the dark she brought. The Black Wolf had taken Varian and a Crown he had found, and was heading for the **Sleepy Griffin Inn** to meet a buyer. *"He's already a corpse,"* Garrik said, *"he just hasn't stopped moving yet."* He asked to be buried deep. They obliged.
+> He gave them what he knew: [[05_Player Characters/Varian\|Varian]] had gone hunting for **[[06_NPCs/Demigods/The Three Sisters/Nyx\|Nyx]]** — *"a real dark one, a cruel one"* — deep in the gut of the woods. 
 >
 > The first trial of the Sanguine Trail was sound. The party ascended a gallery of crucified mercenaries — mouths stitched shut with black thread — where any noise caused the Quiet to lash back. **Two Invisible Stalkers** used shove to force noise. A **Banshee** lurked at the rear, waiting for the DC to climb. A **Stone Golem** slowed passage through the dead zone. They survived through silence and discipline.
 >
@@ -63,11 +63,6 @@
 ---
 
 ## 🎯 Objectives
-
-### ❌ Carried Forward / New Objectives
-
-
- 
 
 ### ✅ Completed Objectives
 - [x] Travel to The Rotten Woodlands
@@ -148,14 +143,8 @@
 ---
 
 ## 🧵 Threads & Foreshadowing
-- [ ] Who is the buyer the Black Wolf is delivering [[05_Player Characters/Varian\|Varian]] to at the Sleepy Griffin Inn?
 - [ ] What is possessing Varian — and why did it open the mausoleum?
-- [ ] The Ninth Knight of Nine is free — the party doesn't know yet that it is [[06_NPCs/Talia\|The Oracle]]
-- [ ] Wilson's emerald pulse will happen again — each SW encounter escalates: the Pull, the Dead Lunge, the Claim Across the Veil
-- [ ] Samantha is removing pages from Nerull's Book of the Dead — Nasha, Francis, King Aldenor, possibly Father Relkth
-- [ ] *"The key to resurrection is in the bones"* — Xaphan's letter. Nasha's sternum key is in her grave. The Knights of Nine are trying to get to it first.
-- [ ] The Oracle's curse on Vespertina — she is the Ninth Knight, manipulating everything from within
-
+- [ ] *"The key to resurrection is in the bones"* — Xaphan's letter. Nasha's 
 ---
 
 ## ⚔️ Combat Notes

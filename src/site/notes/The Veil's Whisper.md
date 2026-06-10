@@ -11,22 +11,32 @@
 > 	— *The Ashen Codex, Vol. III — Prophecies of the Fallen Age*
 
 ## 🧭 Current Status
-- **Latest Session**: [[00 GM Tools/Session Notes/Session 11\|Session 11]]
-- **Party Members**: [[05_Player Characters/Kovinar\|Kovinar]], [[05_Player Characters/Vespertina\|Vespertina]], [[05_Player Characters/Squeaks\|Squeaks]],  [[05_Player Characters/Varian\|Varian]], 
-	- **Separated**: [[05_Player Characters/Renzo\|Renzo]] (Currently in [[02 World/The Pedronian Empire\|The Pedronian Empire]],
-- **Current Location**: Outskirts of [[02 World/The Pedronian Empire\|The Pedronian Empire]]
+- **Latest Session**: [[00 GM Tools/Session Notes/Session 13\|Session 13]]
+- **Party Members**: [[05_Player Characters/Kovinar\|Kovinar]], [[05_Player Characters/Vespertina\|Vespertina]], [[05_Player Characters/Squeaks\|Squeaks]]
+	- **Missing / Possessed**: [[05_Player Characters/Varian\|Varian]]
+	- **Separated**: [[05_Player Characters/Renzo\|Renzo]] (Currently in [[02 World/The Pedronian Empire\|The Pedronian Empire]])
+- **Current Location**: The Rotten Woodlands — top of the Breathless Ascent
 - **Goals**:
+- [ ] Find [[05_Player Characters/Varian\|Varian]]
+	- [ ] Lift the curse on [[05_Player Characters/Varian\|Varian]]
+	- [ ] Determine who/what is possessing [[05_Player Characters/Varian\|Varian]]
 - [x] Travel to [[Vindicative Enterprises\|Vindicative Enterprises]]
 	- [ ] Secure access to your overworld mine profits by recovering the stolen **Ledger Seal** from [[06_NPCs/Veyra, the Ashmonger\|Veyra, the Ashmonger]]
 		- [ ] Complete Veyra's Relic Seeking Mission
 - [x] Who are Tisiphone, Hecate, & Nyx and how do we find them?
 	- [ ] Obtain the missing three pieces of the [[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]] and assemble them.
 		- [x] Piece 1
-		- [ ] Piece 2
+		- [x] Piece 2
 		- [ ] Piece 3
-- [ ] Seek the advice from The Oracle ...if/when she ever returns.
-- [ ] [[05_Player Characters/Kovinar\|Kovinar]]
-	- [ ] Pray to [[06_NPCs/Gods/Bahamut\|Bahamut]] and ask for forgiveness of Samantha's descent into evil.
+- [x] Seek the advice from The Oracle ...if/when she ever returns.
+- [x] [[05_Player Characters/Kovinar\|Kovinar]]
+	- [x] Pray to [[06_NPCs/Gods/Bahamut\|Bahamut]] and ask for forgiveness of Samantha's descent into evil.
+- [ ] [[05_Player Characters/Vespertina\|Vespertina]] is dying.
+	- [ ] Lift the curse on [[05_Player Characters/Vespertina\|Vespertina]]
+- [ ] Find [[06_NPCs/Demigods/The Three Sisters/Nyx\|Nyx]]
+	- [ ] Travel to The Mortem Crystallum
+- [ ] [[05_Player Characters/Squeaks\|Squeaks]]
+	- [ ] Determine the source and meaning of [[06_NPCs/Pets/Wilson\|Wilson]]'s emerald pulse and the soul-thread anchoring him to [[05_Player Characters/Squeaks\|Squeaks]]
 
 ---
 
@@ -42,10 +52,11 @@
 - [[00 GM Tools/Session Notes/Session 06\|Session 06]]: The Mad King's Blood
 - [[00 GM Tools/Session Notes/Session 07\|Session 07]]: Online Housekeeping
 - [[00 GM Tools/Session Notes/Session 08\|Session 08]]: Reversal of Vespertina's Curse
-- [[00 GM Tools/Session Notes/Session 09\|Session 09]]: No Notes.
-- [[00 GM Tools/Session Notes/Session 09\|00 GM Tools/Session Notes/Session 09]]: AirDND 2026 - The Veil's Whisper
+- [[00 GM Tools/Session Notes/Session 09\|Session 09]]: AirDND 2026 - The Veil's Whisper
 - [[00 GM Tools/Session Notes/Session 10\|Session 10]]: The Living Reliquary
 - [[00 GM Tools/Session Notes/Session 11\|Session 11]]: Through the Flames of Misfortune
+- [[00 GM Tools/Session Notes/Session 12\|Session 12]]: The Long Grey
+- [[00 GM Tools/Session Notes/Session 13\|Session 13]]: What the Quiet Keeps
 
 ### 📂 Campaign Arcs
 - [ ]  A Shattered Path
@@ -121,6 +132,41 @@
 - [[06_NPCs/Caelen, Firstborn of the Flame\|Caelen, Firstborn of the Flame]]
 - [[06_NPCs/Malphas\|Malphas]]
 - [[06_NPCs/Verrath Dymane\|Verrath Dymane]]
+
+### 🎬 Scenes
+- [[01 Campaigns/Scenes/Scene - The Candle and the Crate\|The Candle and the Crate]]
+- [[01 Campaigns/Scenes/The Fall of King Aldenor\|The Fall of King Aldenor]]
+- [[01 Campaigns/Scenes/Scene - Psychic Vision of Miren’s First Night\|Psychic Vision of Miren’s First Night]]
+- [[01 Campaigns/Scenes/Ya'a Thalor - Last Sanctifier Death\|Ya'a Thalor — Last Sanctifier Death]]
+- [[01 Campaigns/Scenes/Scene - Psychic vision of Magda's death\|Psychic Vision of Magda's Death]]
+- [[01 Campaigns/Scenes/Scene - Encountering the Dreaming Mouth\|Encountering the Dreaming Mouth]]
+- [[01 Campaigns/Scenes/Scene - Death of the Dreaming Mouth\|Death of the Dreaming Mouth]]
+- [[01 Campaigns/Scenes/Scene - Appearance of Seren of the Pale Flame\|Appearance of Seren of the Pale Flame]]
+- [[01 Campaigns/Scenes/Scene - The Descent of the Sanctifiers\|The Descent of the Sanctifiers]]
+- [[01 Campaigns/Scenes/Scene - The Lanterned Glade\|The Lanterned Glade]]
+- [[01 Campaigns/Scenes/Scene - Questioning Varian\|Questioning Varian]]
+- [[01 Campaigns/Scenes/Scene - Questioning the party's leader\|Questioning the Party's Leader]]
+- [[01 Campaigns/Scenes/Scene - The King’s Hand, the Princess’ Secret\|The King’s Hand, the Princess’ Secret]]
+- [[01 Campaigns/Scenes/Scene - Reverse Vespertina's curse\|Reverse Vespertina's Curse]]
+- [[01 Campaigns/Scenes/Scene - The Restoration of Ahrown\|The Restoration of Ahrown]]
+- [[01 Campaigns/Scenes/Scene - The Flicker of A Relentless Blade\|The Flicker of a Relentless Blade]]
+- [[01 Campaigns/Scenes/Scene - Appearance of Maldravok\|Appearance of Maldravok]]
+- [[01 Campaigns/Scenes/Scene - The Veil's Whisper\|The Veil's Whisper]]
+- [[01 Campaigns/Scenes/Samantha's Occupation of Kovinar's Mind\|Samantha's Occupation of Kovinar's Mind]]
+- [[01 Campaigns/Scenes/Scene - Appearance of Malphas\|Appearance of Malphas]]
+- [[01 Campaigns/Scenes/Scene - The Forgotten Oath That Saved Pedronia\|The Forgotten Oath That Saved Pedronia]]
+
+
+### 🎬 Scenes
+- [[Battles/The Maskbreaker’s Blood Price\|The Maskbreaker’s Blood Price]]
+- [[Battles/Battle of The Abandoned Love Child\|Battle of The Abandoned Love Child]]
+- [[Battles/The Breach During Virelle’s Punishment\|The Breach During Virelle’s Punishment]]
+- [[Battles/Battle - The Siege of Jade Stronghold\|Battle - The Siege of Jade Stronghold]]
+
+
+
+
+
 ---
 
 ## 🎭 Characters & Factions
@@ -129,7 +175,7 @@
 - [[05_Player Characters/Vespertina\|Vespertina]]
 - [[05_Player Characters/Squeaks\|Squeaks]]
 - [[05_Player Characters/Kovinar\|Kovinar]]
-- [[05_Player Characters/Varian\|Varian]]
+- [[05_Player Characters/Varian\|Varian]]: Missing — possessed
 - [[05_Player Characters/Renzo\|Renzo]]: In The Pedronian Empire
 
 ### 🦴 Pets
@@ -153,7 +199,7 @@
 - [[06_NPCs/Demigods/The Three Sisters/Nyx\|Nyx]]
 - [[06_NPCs/Velura Elaris\|Velura Elaris]]
 - [[06_NPCs/Velexia\|Velexia]]
-
+- [[06_NPCs/Countess Ilyra Vaer-Lorne\|Countess Ilyra Vaer-Lorne]]
 - [[06_NPCs/King Aldenor\|King Aldenor]]
 - [[Liora Vane\|Liora Vane]]
 - [[06_NPCs/Seren of the Pale Flame\|Seren of the Pale Flame]]
@@ -188,14 +234,13 @@
 - [[Niamh\|Niamh]]
 - [[Caoimhe\|Caoimhe]]
 - [[Maeve\|Maeve]]
-- [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]]
 - [[06_NPCs/The Watcher Beneath\|The Watcher Beneath]]
 - [[06_NPCs/Gods/Nerull\|Nerull]]
 - [[06_NPCs/Son Goku\|Son Goku]] 
 - [[06_NPCs/Amaterasu\|Amaterasu]] 
 - [[06_NPCs/Izanami\|Izanami]] 
 - [[06_NPCs/Shadowclaw\|Shadowclaw]] 
-- [[Susanoo] 
+- [[06_NPCs/Susanoo\|Susanoo]] 
 - [[06_NPCs/Inari Okami\|Inari Okami]] 
 - [[06_NPCs/Hachiman\|Hachiman]] 
 - [[06_NPCs/Raijin\|Raijin]]
@@ -207,7 +252,9 @@
 - [[06_NPCs/Tsukuyomi\|Tsukuyomi]]
 - [[Tsukuyomi's Shadow Assassin\|Tsukuyomi's Shadow Assassin]]
 - [[06_NPCs/Amaterasu's Ethereal peasants\|Amaterasu's Ethereal peasants]]
-- [[06_NPCs/Malphas\|Malphas]]
+- [[Knights of Nine\|Knights of Nine]]
+- [[Garrik\|Garrik]] *(deceased — Blackmire)*
+- [[06_NPCs/The Black Wolf\|The Black Wolf]]
 
 ### 🛡️ Allies
 - [[06_NPCs/Sir Lucian Caelmoor\|Sir Lucian Caelmoor]] 
@@ -217,7 +264,7 @@
 
 ### 🏰 Factions
 - [[04_Organizations/Ebony Wake\|Ebony Wake]]
-- [[06_NPCs/Demigods/The Horsemen\|06_NPCs/Demigods/The Horsemen]]
+- [[06_NPCs/Demigods/The Horsemen\|The Horsemen]]
 - [[04_Organizations/The Sanctifiers\|The Sanctifiers]]
 - [[04_Organizations/The Pale Flame\|The Pale Flame]]
 	- [[02 World/The Evergrowing Forest/The Sanctum of Withered Light\|The Sanctum of Withered Light]]    
