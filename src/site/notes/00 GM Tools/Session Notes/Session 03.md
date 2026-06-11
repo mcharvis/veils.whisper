@@ -51,7 +51,7 @@
 	- [ ] *Kovinar's Side Quest:* [[Side Quests/Deliver Drest's letter\|Deliver Drest's letter]].
 - [ ] Travel to [[Ahrown, Kingdom of Elves\|Ahrown, Kingdom of Elves]]
 	- [ ] *Verpertina's Side Quest:* [[Side Quests/Side Quest - The Mad King’s Shadow\|Side Quest - The Mad King’s Shadow]] 
-	- [ ] [[03_Lore/Seren's Quest\|Secure Passage to Vis'Avae]]
+	- [ ] [[01 Campaigns/Scenes/Seren's Quest\|Secure Passage to Vis'Avae]]
 	- [ ] Visit [[Sancitifier Halric\|Sancitifier Halric]]'s last known location in Mithril Hills.
 - [ ] Travel to [[02 World/Vis’Avae\|Vis’Avae]]
 	- [ ] Speak to [[06_NPCs/Demigods/The Three Sisters/Tisiphone\|Tisiphone]].

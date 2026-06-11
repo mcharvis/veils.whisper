@@ -143,7 +143,7 @@
 ## 🔍 Clues & Lore
 - [[Items/An old newspaper article exposing the church\|An old newspaper article exposing the church]]
 - [[Items/Scout's Note\|Scout's Note]]
-- [[03_Lore/The Trigger Event - They Thought Oasis Was Coming\|The Trigger Event - They Thought Oasis Was Coming]]
+- [[Items/The Trigger Event - They Thought Oasis Was Coming\|The Trigger Event - They Thought Oasis Was Coming]]
 - [[Items/a secret stash of potions\|a secret stash of potions]]
 - [[Items/Non-Magical/journal letter from Miren\|journal letter from Miren]]
 - [[Items/Non-Magical/A note fragment\|A note fragment]]
