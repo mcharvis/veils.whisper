@@ -27,5 +27,7 @@ This is among the most politically sophisticated entries in the collection. Whoe
 
 *— A. Senne*
 
+
+
 ---
 *[[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/00 - Table of Contents\|Back to Table of Contents]] · [[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/15 - Prophecy XIV\|Next: Prophecy XIV]]*

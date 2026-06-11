@@ -32,5 +32,7 @@ The second hand on Shard 18 is the same calm hand as Shard 14. I am increasingly
 
 *— A. Senne*
 
+
+
 ---
 *[[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/00 - Table of Contents\|Back to Table of Contents]] · [[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/24 - Prophecy XXIII\|Next: Prophecy XXIII]]*

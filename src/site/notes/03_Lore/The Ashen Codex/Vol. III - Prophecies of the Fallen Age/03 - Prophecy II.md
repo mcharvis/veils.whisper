@@ -25,5 +25,7 @@ The subject here is female. That is rare in the Testimonies. The death-figures o
 
 *— A. Senne*
 
+
+
 ---
 *[[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/00 - Table of Contents\|Back to Table of Contents]] · [[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/04 - Prophecy III\|Next: Prophecy III]]*

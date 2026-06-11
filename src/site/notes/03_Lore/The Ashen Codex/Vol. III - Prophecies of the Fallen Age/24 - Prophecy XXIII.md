@@ -27,5 +27,7 @@ I do not know what that means. I do not know if I am meant to find it comforting
 
 *— A. Senne*
 
+
+
 ---
 *[[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/00 - Table of Contents\|Back to Table of Contents]] · [[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/25 - Editor's Closing Note\|Next: Editor's Closing Note]]*

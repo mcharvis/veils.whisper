@@ -26,5 +26,7 @@ I leave it unresolved. My colleagues may be right. If they are, the dating probl
 
 *— A. Senne*
 
+
+
 ---
 *[[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/00 - Table of Contents\|Back to Table of Contents]] · [[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/07 - Prophecy VI\|Next: Prophecy VI]]*

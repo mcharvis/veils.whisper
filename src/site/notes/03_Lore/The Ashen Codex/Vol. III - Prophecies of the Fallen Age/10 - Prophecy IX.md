@@ -26,5 +26,7 @@ I have, in weaker moments, found this entry upsetting. I include that only becau
 
 *— A. Senne*
 
+
+
 ---
 *[[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/00 - Table of Contents\|Back to Table of Contents]] · [[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/11 - Prophecy X\|Next: Prophecy X]]*

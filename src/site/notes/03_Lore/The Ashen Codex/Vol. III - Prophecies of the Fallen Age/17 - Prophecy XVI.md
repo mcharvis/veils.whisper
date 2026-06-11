@@ -28,5 +28,7 @@ I have been asked, at lectures, whether this entry frightens me. I have declined
 
 *— A. Senne*
 
+
+
 ---
 *[[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/00 - Table of Contents\|Back to Table of Contents]] · [[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/18 - Prophecy XVII\|Next: Prophecy XVII]]*

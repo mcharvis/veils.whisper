@@ -25,5 +25,7 @@ A still heart that is louder than a beating one. I have no satisfactory interpre
 
 *— A. Senne*
 
+
+
 ---
 *[[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/00 - Table of Contents\|Back to Table of Contents]] · [[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/09 - Prophecy VIII\|Next: Prophecy VIII]]*

@@ -29,5 +29,7 @@ I have no historical referent for this. Orders of nine are not common in the lit
 
 *— A. Senne*
 
+
+
 ---
 *[[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/00 - Table of Contents\|Back to Table of Contents]] · [[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/19 - Prophecy XVIII\|Next: Prophecy XVIII]]*

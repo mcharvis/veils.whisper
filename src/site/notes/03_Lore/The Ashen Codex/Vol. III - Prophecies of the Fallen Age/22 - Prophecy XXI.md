@@ -31,5 +31,7 @@ I am more troubled by this partial entry than by several of the complete ones. W
 
 *— A. Senne*
 
+
+
 ---
 *[[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/00 - Table of Contents\|Back to Table of Contents]] · [[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/23 - Prophecy XXII\|Next: Prophecy XXII]]*

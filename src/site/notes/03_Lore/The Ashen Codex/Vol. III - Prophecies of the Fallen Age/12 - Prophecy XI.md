@@ -28,5 +28,7 @@ I find the image of a language the earth has forgotten more disturbing than any 
 
 *— A. Senne*
 
+
+
 ---
 *[[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/00 - Table of Contents\|Back to Table of Contents]] · [[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/13 - Prophecy XII\|Next: Prophecy XII]]*

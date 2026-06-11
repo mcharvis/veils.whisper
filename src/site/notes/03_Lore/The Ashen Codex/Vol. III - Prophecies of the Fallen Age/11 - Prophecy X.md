@@ -32,5 +32,7 @@ I am aware I may be reading comfort into a text that is not offering it. I note 
 
 *— A. Senne*
 
+
+
 ---
 *[[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/00 - Table of Contents\|Back to Table of Contents]] · [[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/12 - Prophecy XI\|Next: Prophecy XI]]*

@@ -29,5 +29,7 @@ I find the compassion in this entry striking. Whoever wrote it was not intereste
 
 *— A. Senne*
 
+
+
 ---
 *[[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/00 - Table of Contents\|Back to Table of Contents]] · [[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/17 - Prophecy XVI\|Next: Prophecy XVI]]*

@@ -14,5 +14,7 @@
 
 *— A. Senne, Year of the Greying 43*
 
+
+
 ---
 *[[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/00 - Table of Contents\|Back to Table of Contents]] · [[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/21 - Prophecy XX\|Next: Prophecy XX]]*

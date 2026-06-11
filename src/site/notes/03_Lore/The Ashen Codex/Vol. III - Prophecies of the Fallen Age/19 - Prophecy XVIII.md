@@ -29,5 +29,7 @@ I do not find this entry consoling. I include that observation not to color the 
 
 *— A. Senne*
 
+
+
 ---
 *[[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/00 - Table of Contents\|Back to Table of Contents]] · [[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/20 - Prophecy XIX\|Next: Prophecy XIX]]*

@@ -28,5 +28,7 @@ I find this the most psychologically precise entry in the collection. Whoever wr
 
 *— A. Senne*
 
+
+
 ---
 *[[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/00 - Table of Contents\|Back to Table of Contents]] · [[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/10 - Prophecy IX\|Next: Prophecy IX]]*

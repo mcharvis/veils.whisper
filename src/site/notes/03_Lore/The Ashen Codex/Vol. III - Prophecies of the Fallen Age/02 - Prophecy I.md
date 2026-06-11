@@ -28,5 +28,7 @@ I note it here because the image of the third door recurs twice more in this vol
 
 *— A. Senne*
 
+
+
 ---
 *[[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/00 - Table of Contents\|Back to Table of Contents]] · [[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/03 - Prophecy II\|Next: Prophecy II]]*

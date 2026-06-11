@@ -27,5 +27,7 @@ There is something in this entry that the others do not have. I am not sure what
 
 *— A. Senne*
 
+
+
 ---
 *[[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/00 - Table of Contents\|Back to Table of Contents]] · [[03_Lore/The Ashen Codex/Vol. III - Prophecies of the Fallen Age/22 - Prophecy XXI\|Next: Prophecy XXI]]*
