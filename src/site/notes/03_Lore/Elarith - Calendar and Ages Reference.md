@@ -3,10 +3,8 @@
 ---
 
 
-# Elarith — Calendar & Ages Reference
-
 *A reference document for dating events across all eras of Elarith's history.*
-*For GM use. Player-facing content should reference only the current era.*
+Mmostly for GM use. Player-facing content should reference only the current era.*
 
 ---
 
