@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Ashen Codex — Timeline of Significant Events</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: Georgia, 'Times New Roman', serif;
+    background: #0e0c0a;
+    color: #d4c9b0;
+    padding: 3rem 2rem;
+    min-height: 100vh;
+  }
+
+  .page {
+    max-width: 860px;
+    margin: 0 auto;
+  }
+
+  .header {
+    text-align: center;
+    border-bottom: 1px solid #3a3228;
+    padding-bottom: 2rem;
+    margin-bottom: 3rem;
+  }
+
+  .header .series {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: #7a6e5e;
+    margin-bottom: 0.75rem;
+  }
+
+  .header h1 {
+    font-size: 28px;
+    font-weight: normal;
+    color: #e8dfc8;
+    line-height: 1.3;
+    margin-bottom: 0.5rem;
+  }
+
+  .header .subtitle {
+    font-size: 14px;
+    color: #7a6e5e;
+    font-style: italic;
+  }
+
+  .era-label {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 10px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #5a5040;
+    margin-bottom: 0.5rem;
+  }
+
+  .era-heading {
+    font-size: 18px;
+    font-weight: normal;
+    color: #c4b898;
+    margin-bottom: 0.25rem;
+  }
+
+  .era-desc {
+    font-size: 13px;
+    color: #6a5e4e;
+    font-style: italic;
+    margin-bottom: 2rem;
+  }
+
+  /* TIMELINE TRACK */
+  .timeline {
+    position: relative;
+    padding-left: 2.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .timeline::before {
+    content: '';
+    position: absolute;
+    left: 10px;
+    top: 0;
+    bottom: 0;
+    width: 1px;
+    background: #3a3228;
+  }
+
+  .event {
+    position: relative;
+    margin-bottom: 1.75rem;
+  }
+
+  .event::before {
+    content: '';
+    position: absolute;
+    left: -2rem;
+    top: 7px;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: #5a5040;
+    border: 1px solid #8a7860;
+  }
+
+  .event.highlight::before {
+    background: #9a7840;
+    border-color: #c4a060;
+    box-shadow: 0 0 6px rgba(180, 140, 60, 0.3);
+  }
+
+  .event.gm-only::before {
+    background: #6a3030;
+    border-color: #a05050;
+  }
+
+  .event .date {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    color: #8a7860;
+    margin-bottom: 3px;
+  }
+
+  .event .title {
+    font-size: 15px;
+    color: #d4c9b0;
+    margin-bottom: 4px;
+    line-height: 1.4;
+  }
+
+  .event.highlight .title {
+    color: #e8d8a0;
+  }
+
+  .event.gm-only .title {
+    color: #c09090;
+  }
+
+  .event .desc {
+    font-size: 13px;
+    color: #7a6e5e;
+    line-height: 1.65;
+  }
+
+  .event .source {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 10px;
+    color: #5a5040;
+    margin-top: 4px;
+    letter-spacing: 0.05em;
+    font-style: italic;
+  }
+
+  /* INTERVAL BREAK */
+  .interval {
+    text-align: center;
+    padding: 2.5rem 0;
+    margin: 2rem 0;
+    border-top: 1px solid #2a2218;
+    border-bottom: 1px solid #2a2218;
+    position: relative;
+  }
+
+  .interval .interval-label {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 10px;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: #4a4030;
+    margin-bottom: 0.5rem;
+  }
+
+  .interval .interval-title {
+    font-size: 20px;
+    color: #5a5040;
+    font-style: italic;
+    margin-bottom: 0.5rem;
+  }
+
+  .interval .interval-desc {
+    font-size: 13px;
+    color: #4a4030;
+    max-width: 500px;
+    margin: 0 auto;
+    line-height: 1.7;
+  }
+
+  /* LEGEND */
+  .legend {
+    display: flex;
+    gap: 2rem;
+    margin-bottom: 2.5rem;
+    padding: 1rem 1.25rem;
+    border: 1px solid #2a2218;
+    border-radius: 4px;
+    flex-wrap: wrap;
+  }
+
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 12px;
+    color: #7a6e5e;
+  }
+
+  .legend-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .dot-standard { background: #5a5040; border: 1px solid #8a7860; }
+  .dot-highlight { background: #9a7840; border: 1px solid #c4a060; box-shadow: 0 0 4px rgba(180,140,60,0.3); }
+  .dot-gm { background: #6a3030; border: 1px solid #a05050; }
+
+  .section-gap { margin-bottom: 2.5rem; }
+
+  .footnote {
+    margin-top: 3rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #2a2218;
+    font-size: 12px;
+    color: #4a4030;
+    font-style: italic;
+    line-height: 1.8;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <div class="header">
+    <div class="series">The Ashen Codex · GM Reference Document</div>
+    <h1>Timeline of Significant Events</h1>
+    <div class="subtitle">From the Fallen Age to the Current Reckoning</div>
+  </div>
+
+  <div class="legend">
+    <div class="legend-item"><div class="legend-dot dot-standard"></div>Documented event</div>
+    <div class="legend-item"><div class="legend-dot dot-highlight"></div>Major turning point</div>
+    <div class="legend-item"><div class="legend-dot dot-gm"></div>GM-only / hidden lore</div>
+  </div>
+
+  <!-- FALLEN AGE -->
+  <div class="era-label">Era I</div>
+  <div class="era-heading">The Fallen Age</div>
+  <div class="era-desc">Approx. Years 1–1,200 of the Fallen Age calendar · ending roughly 3,000–4,000 years before the current reckoning</div>
+
+  <div class="timeline">
+
+    <div class="event">
+      <div class="date">Before the Fallen Age — Deep Time</div>
+      <div class="title">Nerull begins accumulating</div>
+      <div class="desc">The Old King has been managing the grey between since before any named civilization. He is not new to this. The Fallen Age is one phase in a project of indefinite duration.</div>
+      <div class="source">Source: Nerull vault file · Doth's Notes throughout Vol. I</div>
+    </div>
+
+    <div class="event">
+      <div class="date">Before the Fallen Age — Deep Time</div>
+      <div class="title">The Litany of the Nine is first performed</div>
+      <div class="desc">Nine champions are bound to Nerull's service in a formal covenant ceremony. They enter willingly. The ninth chamber is left empty — kept for a figure the covenant anticipates but does not yet name.</div>
+      <div class="source">Source: Vol. II — The Litany of the Nine</div>
+    </div>
+
+    <div class="event highlight">
+      <div class="date">Early Fallen Age — approx. Year 760</div>
+      <div class="title">The Sundering of Vel'Amara</div>
+      <div class="desc">The Conclave of the Open Hand, after twenty-three years of preparation, opens a planar gate. It runs the wrong direction. The city falls silent over three days. One survivor walks out. Vel'Amara is never resettled. Maps mark it: do not approach from the east.</div>
+      <div class="source">Source: Vol. I — The Sundering of Vel'Amara</div>
+    </div>
+
+    <div class="event">
+      <div class="date">Early Fallen Age — approx. Year 800</div>
+      <div class="title">The Accord of Dravan's Mouth</div>
+      <div class="desc">A Grey Emissary brokers a coalition treaty between seven powers. Terms include a ban on planar research for one hundred years, and the surrender of violators to the emissary for "disposition." Six powers sign. The city-state of Areveth declines and outlasts three signatories.</div>
+      <div class="source">Source: Vol. I — The Accord of Dravan's Mouth · Diplomatic Register Years 820–880</div>
+    </div>
+
+    <div class="event">
+      <div class="date">Year 803 of the Fallen Age</div>
+      <div class="title">The Three Thrones of Ossian — covenant begins</div>
+      <div class="desc">The Ossian Crown enters formal covenant with the Lord of the Third Account. A third throne — the Steward of the Grey — is established. Ossian receives protection: its dead stay buried, its citizens die once. Nerull receives annual death records in triplicate.</div>
+      <div class="source">Source: Vol. I — The Three Thrones of Ossian · Ossian Covenant Registers</div>
+    </div>
+
+    <div class="event">
+      <div class="date">Year 803–864 of the Fallen Age</div>
+      <div class="title">The Rite of the First Breath — mandatory in Ossian</div>
+      <div class="desc">Every newborn in Ossian is registered in Nerull's ledger at birth. The rite is warm, parental, and performed within one day. You are written. You are counted. You are not lost between. The claim is filed before the child can speak.</div>
+      <div class="source">Source: Vol. II — The Rite of the First Breath</div>
+    </div>
+
+    <div class="event">
+      <div class="date">Year 864 of the Fallen Age</div>
+      <div class="title">The Three Thrones of Ossian — covenant completes</div>
+      <div class="desc">The covenant is declared satisfied. The Unnamed Congregation disperses. The third throne is vacated. Three congregation members are found dead at the old hall. Ossian outlasts the covenant by nineteen years before a quality of absence settles over it.</div>
+      <div class="source">Source: Vol. I — The Three Thrones of Ossian</div>
+    </div>
+
+    <div class="event">
+      <div class="date">Year 940–1,091 of the Fallen Age</div>
+      <div class="title">The Pale Cartographers operate</div>
+      <div class="desc">The Order of the Pale Line surveys the Veil's boundary conditions for over a century. They document thinning sites across the known world, file annual reports with the Ossian Surveyor General's office, and are consistently ignored.</div>
+      <div class="source">Source: Vol. I — The Pale Cartographers</div>
+    </div>
+
+    <div class="event highlight">
+      <div class="date">Approx. Year 1,070 of the Fallen Age</div>
+      <div class="title">Survey Mark 7 — the Veil goes absent</div>
+      <div class="desc">In the marshlands northeast of what will become the Evergrowing Forest, the Pale Cartographers document a site where the Veil is not thinned but absent. It does not grow. It is held at exactly the same size year after year. A threshold maintained, not a wound spreading. The monitoring station is never built.</div>
+      <div class="source">Source: Vol. I — The Pale Cartographers · Fragment: The Cartographer's Last Entry</div>
+    </div>
+
+    <div class="event">
+      <div class="date">Approx. Year 1,076–1,087 of the Fallen Age</div>
+      <div class="title">The Unmaking of the Silver Road</div>
+      <div class="desc">Three currency arbiters die in fourteen months — illness, accident, old age. Their replacements negotiate slightly less favorable exchange rates. Eleven years of compound marginal deterioration follow. The last waystation closes in Year 1,087. The postmaster leaves the spare key under a stone in case the road starts up again.</div>
+      <div class="source">Source: Vol. I — The Unmaking of the Silver Road</div>
+    </div>
+
+    <div class="event">
+      <div class="date">Year 1,091 of the Fallen Age</div>
+      <div class="title">The Pale Cartographers dissolve</div>
+      <div class="desc">The Order votes unanimously to dissolve. Their final resolution: the work we were founded to do has been done, and what happens next is not our work to do. Their records are deposited with the Duskhollow archive. No member appears in any record after this date.</div>
+      <div class="source">Source: Vol. I — The Pale Cartographers</div>
+    </div>
+
+    <div class="event">
+      <div class="date">Shortly after Year 1,091 of the Fallen Age</div>
+      <div class="title">The Cartographer's Last Entry — Survey Mark 7 revisited</div>
+      <div class="desc">An unnamed Cartographer returns to Survey Mark 7 in violation of the dissolution resolution. The absence is unchanged. Still the same size. Still held. They note the patience at its edge — not like a person waiting, but like a stone. They go home to teach their granddaughter to fish.</div>
+      <div class="source">Source: Vol. I — Fragment: The Cartographer's Last Entry</div>
+    </div>
+
+    <div class="event">
+      <div class="date">Year 1,099 of the Fallen Age</div>
+      <div class="title">The Last Conclave of Duskhollow</div>
+      <div class="desc">Thirty-one scholars gather under cover of a planar theory colloquium. They compare findings across disciplines. The picture that emerges is not chaos — it is administration. Someone is running a long dissolution. On the final evening, Torvel Ash says plainly what that someone is. He never appears in any record again.</div>
+      <div class="source">Source: Vol. I — The Last Conclave of Duskhollow</div>
+    </div>
+
+    <div class="event">
+      <div class="date">Year 1,101 of the Fallen Age</div>
+      <div class="title">The Ossuary Institute is founded</div>
+      <div class="desc">Lorekeeper Maren founds the Institute in Duskhollow. Her stated purpose: to ensure that what happened is understood by those who come after. She is building the archive for whoever comes after the interval ends. She knows she will not be the one to use it.</div>
+      <div class="source">Source: Vol. I — The Last Conclave of Duskhollow</div>
+    </div>
+
+    <div class="event highlight">
+      <div class="date">Approx. Year 1,200 of the Fallen Age</div>
+      <div class="title">The Collapse — the Fallen Age ends</div>
+      <div class="desc">The Age does not end dramatically. It has been ending for a century. The collapse is the moment when the last functioning institutions cease to function. What it leaves behind: the Duskhollow archive, the Ossuary Institute, Survey Mark 7, and the grey between — louder now, and patient.</div>
+      <div class="source">Source: Vol. I — Editor's Preface (Doth)</div>
+    </div>
+
+  </div>
+
+  <!-- INTERVAL -->
+  <div class="interval">
+    <div class="interval-label">The Long Interval</div>
+    <div class="interval-title">~3,000 to 4,000 Years of Silence</div>
+    <div class="interval-desc">The Fallen Age ends. The world rebuilds slowly, without memory of what came before. Nerull consolidates. The grey between stabilizes. Survey Mark 7 remains open — held at exactly the same size, by whatever holds it, for millennia. The Ossuary Institute endures, changes hands, and eventually becomes something Maren would not recognize.</div>
+  </div>
+
+  <!-- CURRENT ERA -->
+  <div class="era-label">Era II</div>
+  <div class="era-heading">The Current Reckoning — Years of the Greying</div>
+  <div class="era-desc">The calendar of the present era · the Ossuary Institute persists in altered form</div>
+
+  <div class="timeline">
+
+    <div class="event">
+      <div class="date">Year of the Greying 1–10</div>
+      <div class="title">Ossuary Institute archive recovery begins</div>
+      <div class="desc">The Institute, now generations removed from Maren's founding, begins systematic recovery of the Blackened Testimonies. The first expeditions to Vis'Avae recover multiple shards. The archive Maren built has survived the interval. The scholars working it do not yet understand what they have.</div>
+      <div class="source">Source: Vol. III — Editor's Preface (Aldric Senne)</div>
+    </div>
+
+    <div class="event">
+      <div class="date">Year of the Greying 11</div>
+      <div class="title">The Cartographer's Last Entry is found</div>
+      <div class="desc">A loose document is recovered from the Duskhollow archive, unsorted, inside a sealed leather case bearing the Pale Line guild mark. The handwriting matches no known Cartographer. It describes Survey Mark 7. It is filed and largely ignored for seventeen years, until Doth finds it.</div>
+      <div class="source">Source: Vol. I — Fragment: The Cartographer's Last Entry</div>
+    </div>
+
+    <div class="event">
+      <div class="date">Year of the Greying 14</div>
+      <div class="title">Silver Road trade records compiled</div>
+      <div class="desc">The Duskhollow Institute of Commerce produces a compilation of surviving trade registry records from multiple city archives. The Silver Road's collapse is documented for the first time as a unified event rather than a series of local failures.</div>
+      <div class="source">Source: Vol. I — The Unmaking of the Silver Road</div>
+    </div>
+
+    <div class="event">
+      <div class="date">Year of the Greying 22</div>
+      <div class="title">The Binding Words of Vel'Amara are recovered</div>
+      <div class="desc">Archivist-Field Tomas Renn leads an expedition to the Vel'Amara site and recovers a stone box from a sealed sub-basement. The box was locked from the outside. The key was in the lock. Inside: the Binding Words — a planar interface rite with two sections missing. The Compact and Closing are absent.</div>
+      <div class="source">Source: Vol. II — The Binding Words of Vel'Amara</div>
+    </div>
+
+    <div class="event">
+      <div class="date">Year of the Greying 28–33</div>
+      <div class="title">Serevane Doth compiles Vol. I — Histories of the Fallen Age</div>
+      <div class="desc">Doth, First Archivist, spends five years building the historical volume. He finds the Cartographer's Last Entry, reads the Pale Cartographers' full archive, traces Nerull's operational presence across six historical events, and becomes increasingly certain of something he cannot bring himself to name plainly in print.</div>
+      <div class="source">Source: Vol. I — Editor's Preface and Closing Note</div>
+    </div>
+
+    <div class="event gm-only">
+      <div class="date">Year of the Greying 33 — after Vol. I is published</div>
+      <div class="title">Doth writes the Prayer of the Third Door</div>
+      <div class="desc">GM only. After reading the liturgical material designated for Vol. II, Doth understands the full shape of what he has been working inside. He writes the Prayer for himself and hides it inside the Pale Cartographers' final survey report — the Survey Mark 7 document. He addresses it to whatever is on the other side of the threshold. He says he is not afraid. He means it.</div>
+      <div class="source">Source: DM Notes — Ashen Codex Hidden Architecture</div>
+    </div>
+
+    <div class="event">
+      <div class="date">Year of the Greying 34–39</div>
+      <div class="title">Auren Vestl compiles Vol. II — Liturgies of the Fallen Age</div>
+      <div class="desc">Vestl, Second Archivist, spends five years on the liturgical material. She finds the Prayer of the Third Door among the archive's unsorted materials. She recognizes Doth's voice. She does not write down whose it is. She finishes the volume he assigned her and addresses her closing note to whoever comes after.</div>
+      <div class="source">Source: Vol. II — Editor's Preface and Closing Note</div>
+    </div>
+
+    <div class="event gm-only">
+      <div class="date">Year of the Greying 36</div>
+      <div class="title">Serevane Doth dies at his desk</div>
+      <div class="desc">GM only. Doth is found dead mid-sentence, working on Vol. IV — the cosmological material, Nerull's domain, the records of what the Fallen Age believed waited at the end of the third door. The pen is still in his hand. Vestl becomes Second Archivist the following month.</div>
+      <div class="source">Source: Vol. II — Editor's Closing Note (Vestl)</div>
+    </div>
+
+    <div class="event">
+      <div class="date">Year of the Greying 41–44</div>
+      <div class="title">Aldric Senne compiles Vol. III — Prophecies of the Fallen Age</div>
+      <div class="desc">Senne, twenty-seven years old and certain he does not believe in prophecy, spends three years with the Blackened Testimonies. He becomes a man who writes "I suspect the latter" and "I find that I cannot say." Vol. III is published in Year 44. It is the last honest work the Ossuary Institute produces.</div>
+      <div class="source">Source: Vol. III — Editor's Preface and Closing Note</div>
+    </div>
+
+    <div class="event">
+      <div class="date">Year of the Greying 39 — Vis'Avae fire</div>
+      <div class="title">Shard 5 of the Blackened Testimonies is destroyed</div>
+      <div class="desc">A fire at the Vis'Avae archive destroys Shard 5 — reportedly the longest single fragment in the collection. Two expedition members who had briefly handled it disagreed on what it concerned. One said water. The other disagreed. The text is unrecoverable.</div>
+      <div class="source">Source: Vol. III — Table of Contents notation</div>
+    </div>
+
+    <div class="event highlight">
+      <div class="date">Year of the Greying 51</div>
+      <div class="title">The Ossuary Institute dissolves — becomes a death cult</div>
+      <div class="desc">Seven years after Vol. III is published, the Institute votes to redirect its mission from historical preservation toward active liturgical practice. The minority who object leave. The majority who stay gradually become what the documents they were preserving had warned against. They keep excellent records. They sing the Canticle of the Kept. They are the kept, and they are grateful.</div>
+      <div class="source">Source: DM Notes — Ashen Codex Hidden Architecture</div>
+    </div>
+
+    <div class="event">
+      <div class="date">Year of the Greying 51 — noted</div>
+      <div class="title">Vol. IV is never written</div>
+      <div class="desc">The cosmological material — Nerull's domain, the records of what the Fallen Age believed waited at the end of the third door — remains unsorted on Doth's old desk. No archivist returns to it. The Ossuary Institute's successor institution has no interest in documenting what it now worships.</div>
+      <div class="source">Source: Vol. I and Vol. III — Closing Notes</div>
+    </div>
+
+  </div>
+
+  <!-- CURRENT CAMPAIGN -->
+  <div class="section-gap"></div>
+  <div class="era-label">Era III</div>
+  <div class="era-heading">The Present — The Veil's Whisper</div>
+  <div class="era-desc">Current campaign timeline · Session 14 onward</div>
+
+  <div class="timeline">
+
+    <div class="event">
+      <div class="date">Approx. 1,600 years before present</div>
+      <div class="title">Xaphan is trapped beyond the Veil</div>
+      <div class="desc">The fire genasi Xaphan — who will eventually want to die — is bound beyond Nerull's Veil. His imprisonment begins during the long interval following the Fallen Age's collapse. He has been waiting longer than most civilizations have existed.</div>
+      <div class="source">Source: Campaign vault — Oracle dialogue</div>
+    </div>
+
+    <div class="event gm-only">
+      <div class="date">Indeterminate — deep past</div>
+      <div class="title">Talia fills the ninth chamber</div>
+      <div class="desc">GM only. The slot left empty in the Litany of the Nine is eventually filled. Talia enters the covenant willingly, in full knowledge of its terms. The covenant anticipated her before she existed. She thinks she has been running her own game. She has been filling a pre-cut slot in someone else's.</div>
+      <div class="source">Source: DM Notes · Vol. II — The Litany of the Nine</div>
+    </div>
+
+    <div class="event highlight">
+      <div class="date">Present — Arc 7 onward</div>
+      <div class="title">The party carries the Crown toward Samantha's coronation</div>
+      <div class="desc">The wolves are herded. They carry a key of bone — Nasha's sternum, buried in Vis'Avae. They carry a blessing for the hand that leads — Xaphan's beating heart, which the party will harvest unknowingly. They are prepared to die. The preparation is the point. The Fallen Age's long setup is reaching its conclusion.</div>
+      <div class="source">Source: Vol. III — Prophecy XIV · Campaign arc notes</div>
+    </div>
+
+    <div class="event gm-only">
+      <div class="date">Present — Survey Mark 7</div>
+      <div class="title">The threshold is still open</div>
+      <div class="desc">GM only. Survey Mark 7, documented by the Pale Cartographers millennia ago as an absent section of the Veil held open at a fixed size, is located in the marshlands northeast of the Evergrowing Forest — the Whispering Asylum region, or adjacent to it. It has been held open across the entire interval. The party has not found it yet.</div>
+      <div class="source">Source: DM Notes — Ashen Codex Hidden Architecture</div>
+    </div>
+
+  </div>
+
+  <div class="footnote">
+    Compiled from: The Ashen Codex Vol. I–III (Ossuary Institute, Years of the Greying 33–44) · Campaign vault files · DM Notes — Ashen Codex Hidden Architecture<br>
+    GM reference only. Treat all GM-only entries with standard sensitivity protocols.<br>
+    The Fallen Age calendar (Years 1–1,200) and the Years of the Greying calendar are separated by an interval of approximately 3,000–4,000 years. Exact dating within the Fallen Age is scholarly consensus, not confirmed record.
+  </div>
+
+</div>
+</body>
+</html>
