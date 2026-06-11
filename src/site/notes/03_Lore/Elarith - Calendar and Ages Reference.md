@@ -200,17 +200,6 @@ The Greying is not a celebration. It is an acknowledgment. The world is thinning
 
 
 
----
-
-## A Note on Precision
-
-These dates are working canon, not absolute truth. Doth himself says the Fallen Age's terminus is disputed. The Long Interval has no calendar because no one was keeping one. The exact year of the Greying in the current campaign has not been set.
-
-When precision matters — for a specific document, a scene, an NPC's age — establish the number and commit to it. The framework above will hold it. Until then, the relationships between eras are what matter more than the specific years.
-
-The Fallen Age was thousands of years ago. Xaphan has been waiting sixteen centuries. The Ossuary Institute's publications are within living institutional memory. The coronation is imminent.
-
-That is enough to work with.
 
 ---
 *Filed: post-Ashen Codex worldbuilding session*
