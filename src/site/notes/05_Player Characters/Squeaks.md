@@ -37,7 +37,7 @@ A botched heist took them all in a single night. By dawn she stood alone among t
 
 The raid broke something in her that had already been close to breaking. She miscarried in the weeks that followed — alone, in the dark, with no one to tell and nowhere to put it.
 
-It was in a secluded glen, beneath a moonless sky, that a witch found her and offered something impossible: the soul of her child bound into a vessel, kept from dissolving entirely. The vessel would need to be willing. Wilson chittered softly and bowed his tiny head.
+It was in a secluded glen, beneath a moonless sky, that a witch found her and offered something impossible: the soul of her child bound into a vessel, kept from dissolving entirely. The vessel would need to be willing. [[06_NPCs/Pets/Wilson\|Wilson]] chittered softly and bowed his tiny head.
 
 He was already dead — had been for years, his body walking on borrowed energy. He had no life to give, but he had something else: a frame already threaded through with death-magic, already hollowed enough to hold more than one thing. The ritual began. It failed. The bond wouldn't hold without someone who already knew the stitching.
 
@@ -47,42 +47,42 @@ There was only one person Squeaks knew who fit that description.
 
 ## Xaphan
 
-She had met [[05_Player Characters/Inactive/Xaphan\|Xaphan]] years before, on the worst night of her life up to that point — the night Wilson died the first time. She had begged every necromancer in the room. Most laughed. One didn't. He knelt in the dirt behind a tavern and drew sigils that smoldered orange, and when Wilson's paw finally twitched and his eyes opened faintly glowing red, Xaphan stood and brushed the soot from his palms and said: *"Congratulations. You're now the proud owner of the world's smallest revenant."*
+She had met [[05_Player Characters/Inactive/Xaphan\|Xaphan]] years before, on the worst night of her life up to that point — the night [[06_NPCs/Pets/Wilson\|Wilson]] died the first time. She had begged every necromancer in the room. Most laughed. One didn't. He knelt in the dirt behind a tavern and drew sigils that smoldered orange, and when Wilson's paw finally twitched and his eyes opened faintly glowing red, [[05_Player Characters/Inactive/Xaphan\|Xaphan]] stood and brushed the soot from his palms and said: *"Congratulations. You're now the proud owner of the world's smallest revenant."*
 
 She had been finding his camp ever since.
 
-Now she found him again — three days after the witch, two towns over. She sat down across from him without a word and placed Wilson on the table between them. The rat's chest rose and fell, but faintly. Too faintly. The rhythm wrong.
+Now she found him again — three days after the witch, two towns over. She sat down across from him without a word and placed [[06_NPCs/Pets/Wilson\|Wilson]] on the table between them. The rat's chest rose and fell, but faintly. Too faintly. The rhythm wrong.
 
-Xaphan looked at the rat. Then at Squeaks. Something in his eyes went very still.
+[[05_Player Characters/Inactive/Xaphan\|Xaphan]] looked at the rat. Then at Squeaks. Something in his eyes went very still.
 
 *"Tell me,"* he said.
 
-She did. When she finished, he picked up Wilson with both hands — gently, the way you hold something fragile in ways that have nothing to do with size — and said: *"I can stabilize it. I can't promise what it becomes. But I can keep it from dissolving."*
+She did. When she finished, he picked up [[06_NPCs/Pets/Wilson\|Wilson]] with both hands — gently, the way you hold something fragile in ways that have nothing to do with size — and said: *"I can stabilize it. I can't promise what it becomes. But I can keep it from dissolving."*
 
 *"That's enough,"* Squeaks said. *"That's everything."*
 
-He anchored the bond in the alley behind the tavern, threading the soul into the undead body the way you splice a fraying rope — not cleanly, but firmly, knot over knot until it holds. Wilson's eyes, when he opened them, glowed a slightly different color than before. His second heartbeat — faint, unsteady, offset from his own — was new.
+He anchored the bond in the alley behind the tavern, threading the soul into the undead body the way you splice a fraying rope — not cleanly, but firmly, knot over knot until it holds. [[06_NPCs/Pets/Wilson\|Wilson]]'s eyes, when he opened them, glowed a slightly different color than before. His second heartbeat — faint, unsteady, offset from his own — was new.
 
-*"Congratulations,"* Xaphan said quietly. *"The world's smallest revenant, with a soul twice burdened."*
+*"Congratulations,"* [[05_Player Characters/Inactive/Xaphan\|Xaphan]] said quietly. *"The world's smallest revenant, with a soul twice burdened."*
 
-Squeaks held Wilson to her chest and didn't speak for a long time.
+Squeaks held [[06_NPCs/Pets/Wilson\|Wilson]] to her chest and didn't speak for a long time.
 
 *"Thank you,"* she said finally. *"Both times."*
 
-Xaphan said nothing. He sat down beside her on the cold stone and waited until she was ready to move.
+[[05_Player Characters/Inactive/Xaphan\|Xaphan]] said nothing. He sat down beside her on the cold stone and waited until she was ready to move.
 
 ---
 
 ## Where She Stands Now
 
-While attempting to steal from [[06_NPCs/Zarvok\|Zarvok]], a demon in the Underworld, Squeaks stumbled upon a plot to summon [[05_Player Characters/Inactive/Xaphan\|Xaphan]] back to [[02 World/Obsidian Lands of Volencia/Necromanteion\|Necromanteion]]. When she touched the item, Zarvok cam for her but she triggered a protection spell that transported them into the Material Realm. Zarvok found himself caught in the crossfire of a battle. Despite [[05_Player Characters/Inactive/Xaphan\|Xaphan's]] protests, [[05_Player Characters/Inactive/Inbar\|Inbar]] killed Zarvok, sending him back to [[Volencina\|Volencina]]. Xaphan knew it was only a matter of time before [[06_NPCs/Gods/Nerull\|Nerull]] discovered what he was up to. Squeaks escaped, and eventually warned him. Xaphan began making plans that required Squeaks to guide his friends when that dreadful day came.
+While attempting to steal from [[06_NPCs/Zarvok\|Zarvok]], a demon in the Underworld, Squeaks stumbled upon a plot to summon [[05_Player Characters/Inactive/Xaphan\|Xaphan]] back to [[02 World/Obsidian Lands of Volencia/Necromanteion\|Necromanteion]]. When she touched the item, [[06_NPCs/Zarvok\|Zarvok]] came for her but she triggered a protection spell that transported them into the Material Realm. [[06_NPCs/Zarvok\|Zarvok]] found himself caught in the crossfire of a battle. Despite [[05_Player Characters/Inactive/Xaphan\|Xaphan]]'s protests, [[05_Player Characters/Inactive/Inbar\|Inbar]] killed [[06_NPCs/Zarvok\|Zarvok]], sending him back to [[Volencina\|Volencina]]. [[05_Player Characters/Inactive/Xaphan\|Xaphan]] knew it was only a matter of time before [[06_NPCs/Gods/Nerull\|Nerull]] discovered what he was up to. Squeaks escaped, and eventually warned him. [[05_Player Characters/Inactive/Xaphan\|Xaphan]] began making plans that required Squeaks to guide his friends when that dreadful day came.
 
-She walks the world now with Wilson on her shoulder and grief threaded through every quiet moment. She does not speak of her son. She does not know if what is inside Wilson is still becoming, or if it will ever be more than a warmth and a reach and a need.
+She walks the world now with [[06_NPCs/Pets/Wilson\|Wilson]] on her shoulder and grief threaded through every quiet moment. She does not speak of her son. She does not know if what is inside [[06_NPCs/Pets/Wilson\|Wilson]] is still becoming, or if it will ever be more than a warmth and a reach and a need.
 
 And somewhere in a rat's rotten chest, something small and unfinished carries on.
 
 ---
 
-*See also: [[06_NPCs/Pets/Wilson\|Wilson]] · [[05_Player Characters/Inactive/Xaphan\|Xaphan]] · [[06_NPCs/Rurik Ironhand\|Rurik Ironhand]] · [[02 World/Obsidian Lands of Volencia/Necromanteion\|Necromanteion]] · [[06_NPCs/Zarvok\|Zarvok]] · [[Elarith\|Elarith]] · [[02 World/The Evergrowing Forest/Temple of the Forgotten Hero\|Temple of the Forgotten Hero]]*
+*See also: [[06_NPCs/Pets/Wilson\|Wilson]] · [[05_Player Characters/Inactive/Xaphan\|Xaphan]] · [[06_NPCs/Rurik Ironhand\|Rurik Ironhand]] · [[02 World/Obsidian Lands of Volencia/Necromanteion\|Necromanteion]] · [[06_NPCs/Zarvok\|Zarvok]] · [[03_Lore/Elarith - Calendar and Ages Reference\|Elarith]] · [[02 World/The Evergrowing Forest/Temple of the Forgotten Hero\|Temple of the Forgotten Hero]] · [[06_NPCs/Gods/Nerull\|Nerull]] · [[01 Campaigns/Encounters/Squeaks - Wilson arcs\|Squeaks - Wilson arcs]]*
 
 #PC #active #half-orc #ranger #rogue
