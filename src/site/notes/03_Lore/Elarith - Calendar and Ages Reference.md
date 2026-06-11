@@ -103,11 +103,6 @@ The name "the Greying" refers to the quality of the age that preceded it — the
 ### Era IV — The Year of the New Shroud
 *Calendar: Year of the New Shroud (NS) · Post-campaign, future era*
 
-This calendar does not exist yet in the campaign's present. It begins when Samantha's coronation completes and the Raven Queen formally claims the Shadowfell.
-
-Vol. IV — *The Book of the Unburied* — is dated **Year of the New Shroud 1.** It is the first document produced under the new order. The faithful use this calendar. Vecna's agents suppress it wherever they find it.
-
-**What lives here:** The new Shadowfell under Samantha's stewardship. Xaphan elevated as the Fulfilled. Nasha's resurrection. The path of the Daughter. Whatever Nasha builds that will outlast her.
 
 ---
 
@@ -125,13 +120,13 @@ The current campaign — *The Veil's Whisper* — takes place in the **Years of 
 
 ## Calendar Quick Reference
 
-| Era | Calendar Name | Abbreviation | Approx. Duration | Status |
-|---|---|---|---|---|
-| Before the Counting | None | — | Unknown | Deep past |
-| The Fallen Age | Years of the Fallen Age | FA | ~1,200 years | Ended ~3,000–4,000 years ago |
-| The Long Interval | None | — | ~2,000–3,000 years | The dark between |
-| The Years of the Greying | Years of the Greying | YG | Ongoing | Current era |
-| The New Shroud | Year of the New Shroud | NS | Future | Begins at Samantha's coronation |
+| Era                      | Calendar Name           | Abbreviation | Approx. Duration   | Status                          |
+| ------------------------ | ----------------------- | ------------ | ------------------ | ------------------------------- |
+| Before the Counting      | None                    | —            | Unknown            | Deep past                       |
+| The Fallen Age           | Years of the Fallen Age | FA           | ~1,200 years       | Ended ~3,000–4,000 years ago    |
+| The Long Interval        | None                    | —            | ~2,000–3,000 years | The dark between                |
+| The Years of the Greying | Years of the Greying    | YG           | Ongoing            | Current era                     |
+| The Long Dark            | Year of the New Shroud  | NS           | Future             | Begins at Samantha's coronation |
 
 ---
 
