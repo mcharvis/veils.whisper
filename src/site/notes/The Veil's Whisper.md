@@ -8,7 +8,7 @@
 
 > 	*"Wolves are herded into the coming of winter.*
 > 	*Prepared to die, they carry keys of bone and a blessing for the hand that leads."*
-> 	— *The Ashen Codex, Vol. III — Prophecies of the Fallen Age*
+> 	— *The Ashen Codex, Vol. III — Prophecies of the Fallen Age, Prophecy XIV*
 
 ## 🧭 Current Status
 - **Latest Session**: [[00 GM Tools/Session Notes/Session 13\|Session 13]]
