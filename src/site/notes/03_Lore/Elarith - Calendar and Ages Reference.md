@@ -25,7 +25,7 @@ The period before any surviving record. Nerull exists here. The Litany of the Ni
 
 Nothing from this period is recoverable in any conventional archival sense. It surfaces only in the oldest liturgical fragments — the ones that predate even the Fallen Age's scribal tradition — and in the behavior of gods who remember it.
 
-**What lives here:** Nerull's original accumulation. The first binding of the Knights of Nine. The empty ninth chamber waiting for Talia.
+**What lives here:** Nerull's original accumulation. The first binding of the Knights of Nine. 
 
 ---
 
