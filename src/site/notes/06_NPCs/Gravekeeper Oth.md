@@ -48,12 +48,6 @@ He responds to:
 
 He does not respond to authority, coin, urgency, or flattery.
 
-**DC 15 Insight** before speaking reads the room correctly: he already knows more than the party does. He is deciding whether they deserve to hear it.
-
-**DC 13 History or Religion** on the chapel itself opens the first layer: the Vex title, what Ceniza was, and why the altar dust behaves the way it does.
-
-**Honest engagement + DC 14 Persuasion** (or a direct, unvarnished statement of what the party is trying to do and why) unlocks what he saw the night of the transformation.
-
 ---
 
 *See also: [[02 World/The Evergrowing Forest/Chapel of Vex Ceniza\|Chapel of Vex Ceniza]] · [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]] · [[06_NPCs/Malis Fiani, The Scarlet Raven\|Malis Fiani, The Scarlet Raven]] · [[06_NPCs/Malphas\|Malphas]] · [[02 World/The Evergrowing Forest/Oasis\|Oasis]] · [[06_NPCs/Nasha\|Nasha]]*
