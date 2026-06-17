@@ -11,7 +11,7 @@
 > 	— *The Ashen Codex, Vol. III — Prophecies of the Fallen Age, Prophecy XIV*
 
 ## 🧭 Current Status
-- **Latest Session**: [[00 GM Tools/Session Notes/Session 13\|Session 13]]
+- **Latest Session**: [[01 Campaigns/Session Notes/Session 13\|Session 13]]
 - **Party Members**: [[05_Player Characters/Kovinar\|Kovinar]], [[05_Player Characters/Vespertina\|Vespertina]], [[05_Player Characters/Squeaks\|Squeaks]]
 	- **Missing / Possessed**: [[05_Player Characters/Varian\|Varian]]
 	- **Separated**: [[05_Player Characters/Renzo\|Renzo]] (Currently in [[02 World/The Pedronian Empire\|The Pedronian Empire]])
@@ -43,20 +43,20 @@
 ## 📆 Sessions & Progress
 
 ### 🧾 Session Logs
-- [[00 GM Tools/Session Notes/Session 00\|Session 00]]: Sixteen Centuries Late
-- [[00 GM Tools/Session Notes/Session 01\|Session 01]]: False Bottoms and Forgotten Children
-- [[00 GM Tools/Session Notes/Session 02\|Session 02]]: From Ashes to Ashrend
-- [[00 GM Tools/Session Notes/Session 03\|Session 03]]: Whispers of Treachery, Echoes of Escape
-- [[00 GM Tools/Session Notes/Session 04\|Session 04]]: The Scarlet Raven Descends
-- [[00 GM Tools/Session Notes/Session 05\|Session 05]]: The Black Crow Ascends
-- [[00 GM Tools/Session Notes/Session 06\|Session 06]]: The Mad King's Blood
-- [[00 GM Tools/Session Notes/Session 07\|Session 07]]: Online Housekeeping
-- [[00 GM Tools/Session Notes/Session 08\|Session 08]]: Reversal of Vespertina's Curse
-- [[00 GM Tools/Session Notes/Session 09\|Session 09]]: AirDND 2026 - The Veil's Whisper
-- [[00 GM Tools/Session Notes/Session 10\|Session 10]]: The Living Reliquary
-- [[00 GM Tools/Session Notes/Session 11\|Session 11]]: Through the Flames of Misfortune
-- [[00 GM Tools/Session Notes/Session 12\|Session 12]]: The Long Grey
-- [[00 GM Tools/Session Notes/Session 13\|Session 13]]: What the Quiet Keeps
+- [[01 Campaigns/Session Notes/Session 00\|Session 00]]: Sixteen Centuries Late
+- [[01 Campaigns/Session Notes/Session 01\|Session 01]]: False Bottoms and Forgotten Children
+- [[01 Campaigns/Session Notes/Session 02\|Session 02]]: From Ashes to Ashrend
+- [[01 Campaigns/Session Notes/Session 03\|Session 03]]: Whispers of Treachery, Echoes of Escape
+- [[01 Campaigns/Session Notes/Session 04\|Session 04]]: The Scarlet Raven Descends
+- [[01 Campaigns/Session Notes/Session 05\|Session 05]]: The Black Crow Ascends
+- [[01 Campaigns/Session Notes/Session 06\|Session 06]]: The Mad King's Blood
+- [[01 Campaigns/Session Notes/Session 07\|Session 07]]: Online Housekeeping
+- [[01 Campaigns/Session Notes/Session 08\|Session 08]]: Reversal of Vespertina's Curse
+- [[01 Campaigns/Session Notes/Session 09\|Session 09]]: AirDND 2026 - The Veil's Whisper
+- [[01 Campaigns/Session Notes/Session 10\|Session 10]]: The Living Reliquary
+- [[01 Campaigns/Session Notes/Session 11\|Session 11]]: Through the Flames of Misfortune
+- [[01 Campaigns/Session Notes/Session 12\|Session 12]]: The Long Grey
+- [[01 Campaigns/Session Notes/Session 13\|Session 13]]: What the Quiet Keeps
 
 ### 📂 Campaign Arcs
 - [ ]  A Shattered Path
@@ -64,6 +64,9 @@
 	- [ ] False Prophets
 	- [ ] Scarlet Murder 
 	- [ ] The Pedronian Surrender
+	- [ ] The Long Grey
+	- [ ] The Sanguine Trail
+	- [ ] What Remains
 --- 
 
 ## 🔮 Words from an Oracle
@@ -145,7 +148,7 @@
 - [[01 Campaigns/Scenes/Scene - The Descent of the Sanctifiers\|The Descent of the Sanctifiers]]
 - [[01 Campaigns/Scenes/Scene - The Lanterned Glade\|The Lanterned Glade]]
 - [[01 Campaigns/Scenes/Scene - Questioning Varian\|Questioning Varian]]
-- [[01 Campaigns/Scenes/Scene - Questioning the party's leader\|Questioning the Party's Leader]]
+- [[01 Campaigns/Scenes/Scene - What the Gate Remembers\|Questioning the Party's Leader]]
 - [[01 Campaigns/Scenes/Scene - The King’s Hand, the Princess’ Secret\|The King’s Hand, the Princess’ Secret]]
 - [[01 Campaigns/Scenes/Scene - Reverse Vespertina's curse\|Reverse Vespertina's Curse]]
 - [[01 Campaigns/Scenes/Scene - The Restoration of Ahrown\|The Restoration of Ahrown]]

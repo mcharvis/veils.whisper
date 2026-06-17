@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/a-sealed-letter-to-varn-drest-referencing-velura-s-status-escalation/"}
 ---
 
-Councilor Drest,
+hCouncilor Drest,
 
 Per your instructions, I write to confirm that **the matter of Velura has entered a state of escalation**. Though her confinement remains secure, there are complications beyond the walls of the Stronghold that require your immediate counsel. Certain voices in the Civil Assembly press for clarification, while others grow restless at her suspected detainment.
 

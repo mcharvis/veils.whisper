@@ -58,4 +58,4 @@ When a creature within 5 ft. of Lucian is hit, he can impose disadvantage on the
 
 ---
 
-*See also: [[06_NPCs/Sir Lucian Caelmoor\|Sir Lucian Caelmoor]] · [[05_Player Characters/Kovinar\|Kovinar]] · [[06_NPCs/Gods/Bahamut\|Bahamut]] · [[04_Organizations/Ebony Wake\|Ebony Wake]] · [[02 World/The Evergrowing Forest/Temple of the Forgotten Hero\|Temple of the Forgotten Hero]] · [[01 Campaigns/Encounters/7 - The Crown of the Quiet Sovereign/Act II/Encounter 7.2x Scene - Lucian's Death\|Encounter 7.2x Scene - Lucian's Death]]*
+*See also: [[06_NPCs/Sir Lucian Caelmoor\|Sir Lucian Caelmoor]] · [[05_Player Characters/Kovinar\|Kovinar]] · [[06_NPCs/Gods/Bahamut\|Bahamut]] · [[04_Organizations/Ebony Wake\|Ebony Wake]] · [[02 World/The Evergrowing Forest/Temple of the Forgotten Hero\|Temple of the Forgotten Hero]] · [[01 Campaigns/Encounters/7 - The Crown of the Quiet Sovereign/Act II - What Remains/Encounter 7.2e0 Scene - Lucian's Death\|Encounter 7.2e0 Scene - Lucian's Death]]*

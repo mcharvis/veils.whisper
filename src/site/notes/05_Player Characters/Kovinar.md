@@ -25,6 +25,21 @@ Among the common folk, Kovinar is whispered of as the *Dragon's Shadow*—a knig
 | --------------------------- | --------------------------------------------------------------------------------------------------- | ------------------- |
 | Battlefield Stimulant       | Bitter tonic of blood-moss. Restores 1d4+1 HP and immediately allows advantage on saves and checks. | [[02 World/The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]] |
 | [[Items/Blade of Hollow Triumph\|Blade of Hollow Triumph]] |                                                                                                     | [[02 World/The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]] |
+| [[Cursed Cross\|Cursed Cross]] | Gift from Xaphan; channels *Divine Salvation* | — |
+
+## Quick Reference — Active Gear & Marks
+
+**[[Items/Blade of Hollow Triumph\|Blade of Hollow Triumph]]** (attuned)
+- Necrotic Edge: +1d8+4 necrotic damage on a hit.
+- Glory to Death: choose to gain advantage on all attacks until the end of your turn.
+- Nerull's Dividend (1/long rest): when you drop below half HP, make one reaction melee attack — on a hit, deal +2d8 necrotic and heal that amount.
+- Upkeep: requires a running tally of kills and ability uses.
+
+**[[Cursed Cross\|Cursed Cross]]** (attuned)
+- Grants the ritual cantrip [[Spells/Divine Salvation\|Divine Salvation]]: touch a creature, it makes a Wisdom save vs. your Charisma or becomes a mortal ally. Transformation completes at the end of your turn; redeemed allies act as one unit; their deaths are permanent. No limit on uses.
+- +3 Wisdom while in Elarith.
+
+**Mark: Last Light** — Once per long rest, when reduced to 0 HP, release a flash of radiant energy; each ally within 15 ft. gains temp HP equal to your Paladin level before you die.
 
 ---
 

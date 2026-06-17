@@ -26,3 +26,5 @@ Crafted by exiled vampire hunters from Oasis who saw **the gods do nothing**, _A
         
     - It must succeed on a **DC 13 Constitution save** or be **forced into its true form**
         
+
+Given to [[05_Player Characters/Varian\|Varian]].

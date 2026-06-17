@@ -25,9 +25,18 @@ Only Varian knows the truth. And he isn't telling.
 | Items Acquired | Description | Location            |
 | -------------- | ----------- | ------------------- |
 | Plate Armor    |             | [[02 World/The Evergrowing Forest/Jade Stronghold\|Jade Stronghold]] |
+| [[Items/Ashrend\|Ashrend]] | +1 longsword forged by exiled vampire hunters | — |
+
+## Quick Reference — Active Gear & Marks
+
+**[[Items/Ashrend\|Ashrend]]** (attuned, +1 longsword)
+- Radiant Bite: +1d4 radiant damage on a hit against undead.
+- Vampire's Bane: on a hit against a vampire or vampire spawn, it can't regenerate until the start of your next turn, and must succeed a DC 13 Constitution save or be forced into its true form.
+
+**Mark: Steel Torrent** — Once per long rest, when you take the Attack action, you may make one additional attack and add +2 to the damage of all weapon attacks this turn.
 
 ---
 
-*See also: [[06_NPCs/The Black Wolf\|The Black Wolf]] · [[05_Player Characters/Kovinar\|Kovinar]] · [[01 Campaigns/Scenes/Scene - The Flicker of A Relentless Blade\|Scene - The Flicker of A Relentless Blade]] · [[01 Campaigns/Scenes/Scene - Questioning Varian\|Scene - Questioning Varian]] · [[01 Campaigns/Encounters/7 - The Crown of the Quiet Sovereign/Act II/Encounter 7.2x Scene - Lucian's Death\|Encounter 7.2x Scene - Lucian's Death]]*
+*See also: [[06_NPCs/The Black Wolf\|The Black Wolf]] · [[05_Player Characters/Kovinar\|Kovinar]] · [[01 Campaigns/Scenes/Scene - The Flicker of A Relentless Blade\|Scene - The Flicker of A Relentless Blade]] · [[Scene - Questioning Varian\|Scene - Questioning Varian]] · [[01 Campaigns/Encounters/7 - The Crown of the Quiet Sovereign/Act II - What Remains/Encounter 7.2e0 Scene - Lucian's Death\|Encounter 7.2e0 Scene - Lucian's Death]]*
 
 #PC 

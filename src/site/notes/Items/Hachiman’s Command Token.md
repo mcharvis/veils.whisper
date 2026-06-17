@@ -5,3 +5,5 @@
 Rare
 A bronze coin stamped with an archery god’s crest
 As an action, choose up to 3 allies within 30 ft. Move them up to half speed without provoking opportunity attacks. 3 charges 
+
+Given to [[05_Player Characters/Renzo\|Renzo]].

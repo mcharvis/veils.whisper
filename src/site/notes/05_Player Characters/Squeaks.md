@@ -83,6 +83,28 @@ And somewhere in a rat's rotten chest, something small and unfinished carries on
 
 ---
 
+| Items Acquired | Description | Location |
+| --- | --- | --- |
+| [[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]] | Obsidian dice set; bends fate | — |
+| Heartseed Husk | Dried pod; crush for a quick heal | — |
+
+## Quick Reference — Active Gear & Marks
+
+**[[Items/Magical/Death-Wrought Mosaic\|Death-Wrought Mosaic]]** (attuned)
+- Death's Override: 1/day, declare the result of one die instead of rolling it.
+- Veilshaker: 1/day, after rolling, keep any number of dice and reroll the rest once. At level 10, reroll up to all four.
+
+**Heartseed Husk** (single-use, no attunement)
+- Bonus action: crush it and you or a creature within 5 ft. instantly regains 1d6+2 HP. Consumed after use.
+
+**Nerull's Temptation** (Trial of Nerull bargain, permanent)
+- Fiendish Vigor: cast *False Life* on yourself once per long rest.
+- Cost: take 10 psychic damage every dawn.
+
+**Mark: Slippery Minded** — Once per short or long rest, reroll a failed Dex or Int save.
+
+---
+
 *See also: [[06_NPCs/Pets/Wilson\|Wilson]] · [[05_Player Characters/Inactive/Xaphan\|Xaphan]] · [[06_NPCs/Rurik Ironhand\|Rurik Ironhand]] · [[02 World/Obsidian Lands of Volencia/Necromanteion\|Necromanteion]] · [[06_NPCs/Zarvok\|Zarvok]] · [[03_Lore/Elarith - Calendar and Ages Reference\|Elarith]] · [[02 World/The Evergrowing Forest/Temple of the Forgotten Hero\|Temple of the Forgotten Hero]] · [[06_NPCs/Gods/Nerull\|Nerull]] · [[01 Campaigns/Encounters/Squeaks - Wilson arcs\|Squeaks - Wilson arcs]]*
 
 #PC #active #half-orc #ranger #rogue

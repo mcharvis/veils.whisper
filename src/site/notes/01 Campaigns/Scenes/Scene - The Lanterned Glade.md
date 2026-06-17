@@ -2,44 +2,37 @@
 {"dg-publish":true,"permalink":"/01-campaigns/scenes/scene-the-lanterned-glade/"}
 ---
 
-> The starlight barely scratches through the canopy, pooling in silver streaks across the moss. The smell of damp earth and pine sap hangs thick in the air. Somewhere deeper in the forest, a lone nightbird calls, then stops—as if it thought better of it.
-> You catch the flicker of a hooded lantern through the trees. Its glow sways gently, rising and falling with the footsteps of the figure carrying it. When you step closer, the hood lifts just enough to reveal a dark-cloaked woman. 
-> She doesn’t greet you; instead, she presses a gloved finger to her lips and leads you into a shallow glade ringed with leaning oaks. The lantern’s light is swallowed by the shadows, the circle of safety uncomfortably small.
+The starlight barely scratches through the canopy, pooling in silver streaks across the moss. The smell of damp earth and pine sap hangs thick in the air, and somewhere deeper in the forest a lone nightbird calls, then stops, as if it thought better of it.
 
----
+You catch the flicker of a hooded lantern through the trees, its glow swaying with the footsteps of whoever carries it. When you draw closer, the hood lifts just enough to show a dark-cloaked woman beneath it. She doesn't greet you. She only presses a gloved finger to her lips and leads you into a shallow glade ringed with leaning oaks, where the lantern's light is swallowed by shadow almost as soon as it's raised, the circle of safety it offers small enough to feel like none at all.
 
+When she finally speaks, her voice is taut. She gives her name as Liora, of Oasis's High Civil Assembly, though she's traded the Assembly's silks for a dark riding cloak, the hem still muddied from the road.
 
-<font color="#a5a5a5">*When she finally speaks, her voice is taut. She introduces herself as Liora, a member of the Oasis High Civil Assembly. Instead of wearing Civil Assembly silks, she has traded them for a dark riding cloak, the hem muddied from travel.*</font>
+"You've followed a strange woman into the dark woods," she says. "You're as brave as I'd hoped. I know you're pursuing Velura. My mole on the inside tells me Varn Drest sold [[06_NPCs/Velura Elaris\|Velura Elaris]] to the Sanctifiers. I'm pushing for her release through the Assembly, but every step costs me favors I can't replace. They don't believe Drest has a sorceress from [[Vis'Avae\|Vis'Avae]] locked away, not without proof, and he's hiding her for some reason I haven't found yet. They'll bury this unless I bring something they can't deny. Evidence. Or pressure they can't ignore. And I think Drest is already on to me."
 
->The party follows her
-> 	You have followed a strange woman into the dark woods. You are as brave as I had hoped.
+A gust rattles the leaves overhead. For a moment her gaze darts past you into the dark, checking whether you were followed.
 
-> I know you're pursuing Velura. My mole on the inside tells me Varn Drest sold Velura Elaris to the Sanctifiers.”   
-> “I’m pushing for her release through the Assembly, but every step forward costs me favors I cannot replace. The Assembly doesn't believe that Drest has imprisoned a Sorceress from [[02 World/Vis’Avae\|Vis’Avae]]. He's concealing her for some reason. The Civil Assembly keep dismissing me and they’ll bury this if I can’t bring something that forces their hand. Evidence that can’t be denied. Or pressure they can’t ignore. I think Drest is on to me.”
+"I can't be seen with you in the city, nor in Jade. Too many eyes. If you're willing to help, I'll guide you to what I know, but we'll need to keep our movements... untraceable."
 
-A gust rattles the leaves overhead, and for a moment, her gaze darts past you into the dark, checking if you were followed.
+She exhales slowly, reaches into the folds of her cloak, and draws out a parchment bound with twine, the paper creased, the wax seal pressed slightly off-center. Before any of you can reach for it, she tucks it away again.
 
-> “I cannot be seen with you in the city, nor in Jade. Too many eyes. If you’re willing to help, I’ll guide you to what I know—but we’ll need to keep our movements… untraceable.”
+"This is a [[Items/Provisional Writ of Entry\|Provisional Writ of Entry]], in the Countess' name. It isn't entirely...official. The less anyone studies it, the better for all of us."
 
-She exhales slowly, then reaches into the folds of her cloak and withdraws a parchment bound with twine. The paper is creased, the red wax seal pressed slightly off-center.
+She doesn't let it go yet. Whatever she tells you next, she's weighing carefully. Her network inside the Stronghold has thinned, one of her two spies gone dark these past days, the other still feeding her scraps, and what she shares now is whatever's left of it.
 
-> *She produces a folded page bound with twine, then tucks it away again before you can reach for it.* 
-> “This is a **[[Items/Provisional Writ of Entry\|Provisional Writ of Entry]]**, in the Countess’s name. It is… not entirely official. The less anyone studies it, the better for all of us.”
+"Listen closely. Velura's cell is on the sixth floor, central corridor, guarded by Commander Velexia and two knights. Velexia is powerful and disciplined. She won't be swayed by lies. Convince her that moving Velura serves the Countess directly and she may cooperate, but you'll still need to handle Drest on your own. Fail to convince her, and you'll need to distract her and the guards, or draw them off the floor entirely, before you touch that cell. Either way, expect them to come looking once it's noticed. Drest is a whole separate problem."
 
-She doesn’t release the parchment right away. [She reveals intel from her two spies on the inside. One hasn't been responding. Still sends info.]
+Her voice drops lower still.
 
-> “Listen closely. Velura’s cell is on the sixth floor, central corridor, guarded by Commander Velexia and two knights. Velexia is powerful AND disciplined — she won’t be swayed by lies. If you can convince her that moving Velura serves the Countess directly, she may cooperate but you'll need to handle Drest separately. Failing that… you’ll need to distract her and the guards or get them away from the floor entirely before you break into the cell...expect a response if you do so. Drest will be a whole other problem.”
+"There are two stairwells on the fourth floor, northern and southern. The northern one connects Velexia's and Drest's quarters to Drest's office and meeting room, one floor up. The southern one is the guarded stairway, the one that leads to Velura. The cell key is usually kept on Velexia's planning table. Take it, and get her out before the watch rotation turns. Midnight is your best chance, when most of the guards are asleep. Whoever's left, you'll need to distract."
 
-Liora’s voice drops even lower.
+Her gaze fixes on you, quiet and intent, as she finally presses the writ into your hand.
 
-> “There are two separate stairwells on the 4th floor, northern and southern. The northern one connects Velexia and Drest's quarters on the 4th floor to Drest's office and his meeting room on the 5th. The Southern stairwell is a guarded stairway from Velura. The key is usually on Velexia’s planning table. Take it and get her out before the watch rotation — midnight is your best chance...when most guards are sleeping. Distract the remaining guards.”
+"This writ should open the Stronghold's doors. Or get you arrested. Either way, the safest path out for her through the VE runs through Ahrown, where armed transport to Vis'Avae can be obtained...if you can convince the Mad King. Once you're clear, make for the capital, and remember this: if she vanishes without a trace, the Civil Assembly can't tie it to either of us."
 
-Her gaze fixes on you with quiet intensity as she finally presses the writ into your hand.
+The lantern light catches the faintest tremor in her hand before she turns back toward the dark trees.
 
-> “The writ of entry should open the Stronghold’s doors. Or get you arrested. The safest way to get her to Vis'Avae is with secret transport from Ahrown. Once your out, seek the capital city and remember — if she vanishes without trace, the Civil Assembly can’t tie it to either of us.”
+"We have three days," she says. "No more. The guards are fierce but not clever. Make friends. Play along."
 
-The lantern light catches the faintest tremor in her hand before she turns toward the dark trees.
+Then she's gone, the lantern's glow swallowed by the trees, and you're left alone in the glade with a folded writ and the cold settling back in around you.
 
-> “We have maybe 3 days. No more. The guards are fierce but stupid. Make friends, play along.”
-
-Liora intention:  She intends for the party to **expose Velura’s illegal detainment**, hoping it will **politically destroy Varn Drest** and destabilize the Stronghold so the Assembly can **install a less Sanctifier-aligned leader.**

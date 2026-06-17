@@ -15,6 +15,7 @@ To replace their absent strength, Aldenor elevated **Commander Velexia** to **Hi
 The reshaping of power continued in silence. **Captain Rel Thorn** previously in command of Oasis was reassigned to lead a recon division whose captain had been killed in the border wars in the [[Realm of Elethon\|Realm of Elethon]]. Aldenor’s message was clear: service would be rewarded, failure would be recycled.
 
 And then there was the matter of **Councilor Varn Drest**.  
+
 The man who once whispered policy into royal ears found himself standing before the throne without a voice. Aldenor’s judgment was not theatrical; it was clinical. Drest’s name was stricken from the council registry, his seat left empty. “Vacancy,” Aldenor said, “is preferable to rot.”
 
 By dusk, the city of Oasis had changed hands without a single blade drawn. The old noble court was gone, the banners repainted, and the people stood beneath a rule they could neither love nor resist.

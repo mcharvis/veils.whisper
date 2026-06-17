@@ -118,13 +118,13 @@ The current campaign — *The Veil's Whisper* — takes place in the **Years of 
 
 ## Calendar Quick Reference
 
-| Era                      | Calendar Name           | Abbreviation | Approx. Duration   | Status                          |
-| ------------------------ | ----------------------- | ------------ | ------------------ | ------------------------------- |
-| Before the Counting      | None                    | —            | Unknown            | Deep past                       |
-| The Fallen Age           | Years of the Fallen Age | FA           | ~1,200 years       | Ended ~3,000–4,000 years ago    |
-| The Long Interval        | None                    | —            | ~2,000–3,000 years | The dark between                |
-| The Years of the Greying | Years of the Greying    | YG           | Ongoing            | Current era                     |
-| The Long Dark            | Year of the New Shroud  | NS / LD      | Future             | Begins at Samantha's coronation |
+| Era                      | Calendar Name           | Abbreviation | Approx. Duration | Status                          |
+| ------------------------ | ----------------------- | ------------ | ---------------- | ------------------------------- |
+| Before the Counting      | None                    | —            | Unknown          | Deep past                       |
+| The Fallen Age           | Years of the Fallen Age | FA           | ~1,200 years     | Ended ~3,000–4,000 years ago    |
+| The Long Interval        | None                    | —            | ~2,000 years     | The dark between                |
+| The Years of the Greying | Years of the Greying    | YG           | Ongoing          | Current era                     |
+| The Long Dark            | Year of the New Shroud  | NS / LD      | Future           | Begins at Samantha's coronation |
 
 ---
 

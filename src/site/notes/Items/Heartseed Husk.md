@@ -16,3 +16,5 @@ As a **bonus action**, you can **crush the Heartseed Husk** in your hand and inh
 - You or a creature within 5 feet instantly regains **1d6 + 2 HP**.
 
 After use, the husk crumbles into cold, damp mulch.
+
+Given to [[05_Player Characters/Renzo\|Renzo]].

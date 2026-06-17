@@ -23,7 +23,7 @@ It **leaves no burns—but it remembers every scar it gave.**
 
 ### 🩸 Lore:
 
-[[06_NPCs/Velvak\|Velvak]] was a [[04_Organizations/Pale Flame\|Pale Flame]] monk, one of the **original artisans of ritual suffering**.  
+[[06_NPCs/Velvak\|Velvak]] was a [[_Trash/Pale Flame\|Pale Flame]] monk, one of the **original artisans of ritual suffering**.  
 He forged this weapon not for war—but to deliver judgment through **purified pain**.  
 It was used in **ritualized punishment**, **martyrdom rites**, and **anointments by fire**.
 

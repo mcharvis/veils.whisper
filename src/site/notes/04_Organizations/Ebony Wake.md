@@ -1,0 +1,17 @@
+---
+{"dg-publish":true,"permalink":"/04-organizations/ebony-wake/"}
+---
+
+#organization
+
+The Ebony Wake was never built for conquest. Its knights swore to ideals rather than crowns, and the order's founder, [[06_NPCs/Caelen, Firstborn of the Flame\|Caelen]], proved exactly how far that kind of loyalty could reach: he held six warring Pedronian clans in uneasy peace without ever once asking them to kneel to him. The Ebony Wake stood at his back the entire time, armed not with ambition but with the specific discipline of men who had decided that sacrifice, not glory, was the only oath worth keeping. Their symbol is a black tide washing away forgotten sins. The name is deliberate. A wake is what you hold for the dead, and the order has always understood itself, in some buried way, as one long funeral rite that never quite finished being held.
+
+When Caelen fell, struck down by gods who feared what a mortal without divine backing might mean for their own relevance, he made one final demand of the order he'd built: erase him. Strike his name from every record. Let the clans believe their unifier had simply vanished. The Ebony Wake obeyed completely, the way soldiers obey an order they hate, because obedience was the last thing he'd ever asked of them and refusing it would have been its own kind of betrayal.
+
+Four knights chose to go further than obedience. Rather than stay among the clans they'd helped unify, they took up a private vigil far from [[02 World/The Pedronian Empire\|The Pedronian Empire]], in a stone chamber buried in [[The Evergrowing Forest\|The Evergrowing Forest]], guarding a tomb that held nothing of the man they were honoring. It was never meant to hold him. It was built hollow on purpose, a monument in the shape of a grave, the same kind of lie the Tomb of the Unknown Soldier tells, and the four knights who stood vigil over it for centuries were, without ever fully realizing it, completing the same misdirection Caelen had designed alone in his final hour. Let the world believe he died in a forest no one important would ever visit.
+
+Three of those knights, Valen, Mordred, and Dracoren, held that post until [[05_Player Characters/Kovinar\|Kovinar]], [[05_Player Characters/Vespertina\|Vespertina]], [[05_Player Characters/Squeaks\|Squeaks]], and [[05_Player Characters/Renzo\|Renzo]] finally found the [[02 World/The Evergrowing Forest/Temple of the Forgotten Hero\|Temple of the Forgotten Hero]] and ended centuries of waiting the only way it could end. The fourth, [[06_NPCs/Sir Lucian Caelmoor\|Lucian]], chose differently. Spared by Divine Salvation, he laid down the vigil and walked out with the party instead, carrying the order's grief forward in a name he'd built for himself rather than the one he'd been ordered to forget.
+
+A separate guardian, [[06_NPCs/Varkhal, The Oathwrought Sentinel\|Varkhal]], an older oath-construct bound to something larger than any one post, was present at the Temple as well and never engaged, watching the battle and Lucian's redemption without intervening. Once it was settled, he left for the Pedronian Empire, to stand over the one thing actually worth guarding.  
+
+What's left of the Ebony Wake in the Pedronian Empire itself, if anything, is unknown. The order's last visible chapter ended in a stone room in someone else's forest, guarding a grave with no one in it.

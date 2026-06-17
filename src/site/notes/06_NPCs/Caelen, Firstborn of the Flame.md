@@ -80,6 +80,8 @@ He waited for someone loyal enough to come.
 
 ## The Return — Through Renzo
 
+Before any of them reached the statue, [[06_NPCs/Varkhal, The Oathwrought Sentinel\|Varkhal]] was already there, the same oath-construct who had let three of them pass at the empty tomb in the Evergrowing Forest without ever explaining why. He was strong enough to have ended the fight on his own terms. He didn't. Lucian's presence, and whatever he sensed in Renzo before Renzo sensed it himself, were apparently enough.
+
 [[05_Player Characters/Renzo\|Renzo Morokami]] was the last person alive who still honored Caelen's memory — not as doctrine, but as the kind of truth passed down in whispers at the end of long nights by the last surviving line of [[House Takaren\|House Takaren]]. When Renzo entered the Chamber, Caelen recognized him before Renzo recognized anything.
 
 The possession was quiet. Renzo was unaware. The party saw Caelen's shadow overlapping Renzo's form — slightly larger, slightly older, standing in the posture of the statue — before Renzo had any sense that something had changed.

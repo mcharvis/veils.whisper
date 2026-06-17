@@ -16,3 +16,5 @@ This small charm (a blackened coin stamped with a sneering face) carries a singl
 - **Components:** Verbal only (you must be able to speak).
     
 - **On a failed save:** The target takes **1d4 psychic damage** and has **disadvantage on the next attack roll** it makes before the end of its next turn.
+
+Given to [[05_Player Characters/Vespertina\|Vespertina]].

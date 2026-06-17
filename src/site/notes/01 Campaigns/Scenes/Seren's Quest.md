@@ -4,7 +4,7 @@
 
 # Seren's Mission
 > _“You’ll need to speak with Tisiphone. She controls the Bellum Crystallum where the second shard is—and she doesn’t grant audience to just anyone. Your only hope in obtaining the shard is to reach Vis’Avae... and for that, you’ll need transport through a land called Vindicative Enterprises. The only place with trade routes through there is the  kingdom of Ahrown...but you'll have to convince the Mad King to provide passage through the VE.”_
-> - [[Seren\|Seren]] of the [[04_Organizations/Pale Flame\|Pale Flame]]
+> - [[Seren\|Seren]] of the [[_Trash/Pale Flame\|Pale Flame]]
 
 #encounter
 
@@ -28,6 +28,3 @@ Travel to the **[[Capital of Arhown\|Capital of Arhown]]**, the dark elven city,
 - [[Arhown\|Arhown]] is deeply xenophobic, racist towards anyone not elven...and won't trust outsiders.
 
 
-
-
-- Vespertina may choose the party's own guard. Any CR 4 creature or less. Budget CR 4.

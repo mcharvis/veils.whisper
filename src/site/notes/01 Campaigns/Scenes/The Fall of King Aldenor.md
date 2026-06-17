@@ -19,3 +19,4 @@ Aldenor’s bargain had been twisted. Nerull had spared Vespertina, yes—but he
 Now destined to spend an eternity in Elarith without his only daughter...[[06_NPCs/King Aldenor\|King Aldenor]] has slowly been driven mad in longing for her.
 
 Vespertina has faced her father’s murderer not once, but twice—[[06_NPCs/Lord Rauconen\|Lord Rauconen]] in the flesh, and [[06_NPCs/Gods/Nerull\|Nerull]] in the shadows.
+

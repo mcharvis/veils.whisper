@@ -81,7 +81,7 @@ Faintlings become a hostile mob under the following conditions:
 
 Faintlings demonstrate a notable behavioral anomaly around [[05_Player Characters/Vespertina\|Vespertina]]. They do not follow her. They do not speak at her. They watch — but from further away, with something that reads as *deference* rather than curiosity.
 
-The reason is unclear. It may be tied to her dragon-touched transformation, her connection to [[Valamaradace\|Valamaradace]], or simply to the quality of her presence. Whatever the cause, a Faintling mob that has turned hostile will functionally ignore Vespertina — and in some cases will actively assist her, forming a protective proximity that disrupts hostile formations.
+The reason is unclear. It may be tied to her dragon-touched transformation, her connection to [[06_NPCs/Gods/Valamaradace\|Valamaradace]], or simply to the quality of her presence. Whatever the cause, a Faintling mob that has turned hostile will functionally ignore Vespertina — and in some cases will actively assist her, forming a protective proximity that disrupts hostile formations.
 
 ---
 
