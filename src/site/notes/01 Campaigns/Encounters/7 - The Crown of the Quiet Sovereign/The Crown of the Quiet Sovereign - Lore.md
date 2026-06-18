@@ -96,7 +96,7 @@ The Crown was not meant to leave the Blackmire. It was not meant for [[05_Player
 
 Three known scholars have attempted to write comprehensive histories of the Crown. The first stopped mid-sentence in the fourteenth page of his manuscript -- the sentence reads *the king's eyes were open and he was* -- and the manuscript ends there. The second completed her work and delivered it to a buyer in [[Nalyun City\|Nalyun]]. Both the scholar and the buyer were found three days later. Their voices were gone. Their tongues were black. They were still alive when found. They did not remain so. The buyer's daughter has committed to finding the crown to complete her father's work. The third scholar, who was apparently aware of his predecessors' fates, wrote his history in a cipher that has not been broken and sealed it in a lead box that has not been opened. The box is somewhere in the [[01 Campaigns/Encounters/7 - The Crown of the Quiet Sovereign/Act I - The Sanguine Trail/Encounter 7.1a - The Vault of the Silent Cartographer\|Vault of the Silent Cartographer]]. 
 
-Collectors who know what the Crown is want it anyway. This is what collectors are.
+Collectors who know what the Crown is want it anyway. 
 
 ---
 
