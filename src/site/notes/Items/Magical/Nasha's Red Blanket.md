@@ -24,4 +24,4 @@ It is described in those who have held it since as still carrying warmth that ha
 
 ---
 
-*See also: [[06_NPCs/Nasha\|Nasha]] · [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]] · [[02 World/The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] · [[02 World/The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] · [[Vis'Avae\|Vis'Avae]] · [[01 Campaigns/Scenes/Scene - The Candle and the Crate\|Scene - The Candle and the Crate]]*
+*See also: [[06_NPCs/Nasha\|Nasha]] · [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]] · [[02 World/The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] · [[02 World/The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] · [[Vis'Avae\|Vis'Avae]] · [[Scene - The Candle and the Crate\|Scene - The Candle and the Crate]]*

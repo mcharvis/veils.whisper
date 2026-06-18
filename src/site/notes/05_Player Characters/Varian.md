@@ -37,6 +37,6 @@ Only Varian knows the truth. And he isn't telling.
 
 ---
 
-*See also: [[06_NPCs/The Black Wolf\|The Black Wolf]] · [[05_Player Characters/Kovinar\|Kovinar]] · [[01 Campaigns/Scenes/Scene - The Flicker of A Relentless Blade\|Scene - The Flicker of A Relentless Blade]] · [[Scene - Questioning Varian\|Scene - Questioning Varian]] · [[01 Campaigns/Encounters/7 - The Crown of the Quiet Sovereign/Act II - What Remains/Encounter 7.2e0 Scene - Lucian's Death\|Encounter 7.2e0 Scene - Lucian's Death]]*
+*See also: [[06_NPCs/The Black Wolf\|The Black Wolf]] · [[05_Player Characters/Kovinar\|Kovinar]] · [[Scene - The Flicker of A Relentless Blade\|Scene - The Flicker of A Relentless Blade]] · [[Scene - Questioning Varian\|Scene - Questioning Varian]] · [[01 Campaigns/Encounters/7 - The Crown of the Quiet Sovereign/Act II - What Remains/Encounter 7.2e0 Scene - Lucian's Death\|Encounter 7.2e0 Scene - Lucian's Death]]*
 
 #PC 

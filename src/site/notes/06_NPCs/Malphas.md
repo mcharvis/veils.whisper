@@ -53,4 +53,4 @@ For Malphas, [[06_NPCs/Malis Fiani, The Scarlet Raven\|The Scarlet Raven]] is no
 
 ---
 
-*See also: [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]] · [[06_NPCs/Malis Fiani, The Scarlet Raven\|Malis Fiani, The Scarlet Raven]] · [[05_Player Characters/Kovinar\|Kovinar]] · [[06_NPCs/Gods/Nerull\|Nerull]] · [[Tiamat\|Tiamat]] · [[06_NPCs/Malphas - Stat Block\|Malphas - Stat Block]] · [[01 Campaigns/Scenes/Scene - Appearance of Malphas\|Scene - Appearance of Malphas]]*
+*See also: [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]] · [[06_NPCs/Malis Fiani, The Scarlet Raven\|Malis Fiani, The Scarlet Raven]] · [[05_Player Characters/Kovinar\|Kovinar]] · [[06_NPCs/Gods/Nerull\|Nerull]] · [[Tiamat\|Tiamat]] · [[06_NPCs/Malphas - Stat Block\|Malphas - Stat Block]] · [[Scene - Appearance of Malphas\|Scene - Appearance of Malphas]]*

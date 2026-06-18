@@ -16,4 +16,4 @@
 - [x] Complete Ashroot Homestead
 
 ### Scene
-[[01 Campaigns/Scenes/Scene - The Restoration of Ahrown\|Scene - The Restoration of Ahrown]]  
+[[Scene - The Restoration of Ahrown\|Scene - The Restoration of Ahrown]]  

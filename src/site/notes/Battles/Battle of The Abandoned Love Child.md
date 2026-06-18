@@ -12,4 +12,4 @@ Then— **BOOM.**
 
 A silent **explosion of smoky purple magic** bursts outward, consuming everything in a haze of violet ash and static. Your body doesn't fall, but your mind does—**plummeting into a vast, silent dark**. You recognize that you are not in shadow; you're in a memory.
 
-Everyone within 30 feet experiences a [[01 Campaigns/Scenes/Scene - The Candle and the Crate\|vision]]. 
+Everyone within 30 feet experiences a [[Scene - The Candle and the Crate\|vision]]. 

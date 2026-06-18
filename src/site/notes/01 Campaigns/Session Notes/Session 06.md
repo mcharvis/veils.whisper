@@ -122,7 +122,7 @@
 	- [x] Visit [[Sancitifier Halric\|Sancitifier Halric]]'s last known location in Mithril Hills.
 	- [x] Locate [[06_NPCs/Sanctifier John Halric\|Sanctifier John Halric]]
 		- [x] Eliminate [[06_NPCs/Sanctifier John Halric\|Sanctifier John Halric]]
-	- [x] [[01 Campaigns/Scenes/Seren's Quest\|Secure Passage to Vis'Avae]]
+	- [x] [[Seren's Quest\|Secure Passage to Vis'Avae]]
 	- [x] Return the [[Items/Bloodfire Shards\|Bloodfire Shards]] Mine to functional status
 - [x] Who are Tisiphone, Hecate, & Nyx and how do we find them?
 

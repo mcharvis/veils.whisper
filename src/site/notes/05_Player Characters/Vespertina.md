@@ -73,6 +73,6 @@ Sylastra, the Grieving – Sorceress who accidentally cursed Vespertina; her cur
 
 ---
 
-*See also: [[06_NPCs/King Aldenor\|King Aldenor]] · [[06_NPCs/Lord Rauconen\|Lord Rauconen]] · [[The Elven Empire of Elarion\|The Elven Empire of Elarion]] · [[06_NPCs/Talia\|Talia]] · [[01 Campaigns/Scenes/Scene - Reverse Vespertina's curse\|Scene - Reverse Vespertina's curse]] · [[Items/Magical/Cinderflare Wayfinder\|Cinderflare Wayfinder]] · [[Items/Staff of the Corpsefield\|Staff of the Corpsefield]]*
+*See also: [[06_NPCs/King Aldenor\|King Aldenor]] · [[06_NPCs/Lord Rauconen\|Lord Rauconen]] · [[The Elven Empire of Elarion\|The Elven Empire of Elarion]] · [[06_NPCs/Talia\|Talia]] · [[Scene - Reverse Vespertina's curse\|Scene - Reverse Vespertina's curse]] · [[Items/Magical/Cinderflare Wayfinder\|Cinderflare Wayfinder]] · [[Items/Staff of the Corpsefield\|Staff of the Corpsefield]]*
 
 #PC

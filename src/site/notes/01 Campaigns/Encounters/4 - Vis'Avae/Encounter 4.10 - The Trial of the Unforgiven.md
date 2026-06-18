@@ -73,7 +73,7 @@ Roll Death-Wrought Mosaic.
 | 6   | **The Black Veil (Dark Fire)**      | _Seren, of the Pale Flame_        | Nature, memory, connection to the lost past  |
 
 
-Chosen: [[01 Campaigns/Scenes/Scene - The Veil's Whisper\|Scene - The Veil's Whisper]]
+Chosen: [[Scene - The Veil's Whisper\|Scene - The Veil's Whisper]]
 
 > “So fate has spoken and The Veil's Whisper is [[The Scarlet Raven\|The Scarlet Raven]].”
 

@@ -153,7 +153,7 @@ Then — **BOOM.**
 
 A silent explosion of smoky purple magic burst outward, consuming everything in a haze of violet ash and static. The party's bodies did not fall. Their minds did — plummeting into a vast, silent dark. Not shadow. A memory.
 
-Every player within 30 feet experienced [[01 Campaigns/Scenes/Scene - The Candle and the Crate\|the vision]]: Samantha Virelle, alone in the sub-level of [[02 World/The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]], giving birth. The red cloth. The whispered apology. The walk through the dark forest. The doorstep. The kiss. The candle guttering out just as [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] opened the door.
+Every player within 30 feet experienced [[Scene - The Candle and the Crate\|the vision]]: Samantha Virelle, alone in the sub-level of [[02 World/The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]], giving birth. The red cloth. The whispered apology. The walk through the dark forest. The doorstep. The kiss. The candle guttering out just as [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] opened the door.
 
 The darkness receded like smoke sucked through a keyhole. The air was still thick with violet shimmer, fading like embers. Some of the party were sweating. One was crying. There was a metallic taste in every mouth.
 
@@ -208,6 +208,6 @@ Whether that absolution is real, or simply what Samantha needed to believe in or
 
 ---
 
-*See also: [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]] · [[06_NPCs/Sanctifier John Halric\|Sanctifier John Halric]] · [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] · [[06_NPCs/Magda Velt, The Lunch Matron\|Magda Velt, The Lunch Matron]] · [[06_NPCs/Faintlings\|Faintlings]] · [[02 World/The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] · [[06_NPCs/Malis Fiani, The Scarlet Raven\|Malis Fiani, The Scarlet Raven]] · [[05_Player Characters/Kovinar\|Kovinar]] · [[Items/Magical/Nasha's Red Blanket\|Nasha's Red Blanket]] · [[01 Campaigns/Scenes/Scene - The Candle and the Crate\|Scene - The Candle and the Crate]] · [[02 World/The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] · [[Vis'Avae\|Vis'Avae]] · [[06_NPCs/Gods/Nerull\|Nerull]]*
+*See also: [[06_NPCs/Sanctifier Samantha Virelle\|Sanctifier Samantha Virelle]] · [[06_NPCs/Sanctifier John Halric\|Sanctifier John Halric]] · [[06_NPCs/Rhoswyn Calvra\|Rhoswyn Calvra]] · [[06_NPCs/Magda Velt, The Lunch Matron\|Magda Velt, The Lunch Matron]] · [[06_NPCs/Faintlings\|Faintlings]] · [[02 World/The Evergrowing Forest/The Whispering Asylum\|The Whispering Asylum]] · [[06_NPCs/Malis Fiani, The Scarlet Raven\|Malis Fiani, The Scarlet Raven]] · [[05_Player Characters/Kovinar\|Kovinar]] · [[Items/Magical/Nasha's Red Blanket\|Nasha's Red Blanket]] · [[Scene - The Candle and the Crate\|Scene - The Candle and the Crate]] · [[02 World/The Evergrowing Forest/Ya'a Thalor\|Ya'a Thalor]] · [[Vis'Avae\|Vis'Avae]] · [[06_NPCs/Gods/Nerull\|Nerull]]*
 
 #NPC #deceased #tragedy #whispering-asylum
