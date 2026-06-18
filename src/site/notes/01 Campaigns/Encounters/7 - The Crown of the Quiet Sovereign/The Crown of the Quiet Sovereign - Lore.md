@@ -70,7 +70,7 @@ The Crown disappeared from the material world at that point. Where it went for t
 
 At some point -- the records suggest approximately four thousand years ago, though the dating is disputed -- the Crown came into [[06_NPCs/Demigods/The Three Sisters/Nyx\|Nyx]]'s possession. How this happened is the question collectors would spend their lives to answer.
 
-[[06_NPCs/Demigods/The Three Sisters/Nyx\|Nyx]] is not [[06_NPCs/Gods/Nerull\|Nerull]]'s servant. She predates his claim to the death portfolios and has never acknowledged it. She occupies the Blackmire -- a domain in the material world where [[06_NPCs/Gods/Nerull\|Nerull]]'s attention does not fully reach, where the dead do not go where they are supposed to, where the rules of his accounting do not apply. The Blackmire belongs to her in a way that belongs has no theological category for.
+[[06_NPCs/Demigods/The Three Sisters/Nyx\|Nyx]] is not [[06_NPCs/Gods/Nerull\|Nerull]]'s servant. She predates his claim to the death portfolios and has never acknowledged it. She occupies the Blackmire -- a domain in Elarith where [[06_NPCs/Gods/Nerull\|Nerull]]'s attention does not fully reach, where the dead do not go where they are supposed to, where the rules of his accounting do not apply. The Blackmire belongs to her in a way that belongs has no theological category for.
 
 She buried the Crown in the Blackmire's deepest reach. Not in a vault. Not under a ward. She put it in the earth the way you put something in a drawer you have no reason to open -- because she had no use for it, and because anything buried in the Blackmire is outside [[06_NPCs/Gods/Nerull\|Nerull]]'s accounting. He could feel the Crown's absence. He could not feel its location. This is the distinction that matters.
 
