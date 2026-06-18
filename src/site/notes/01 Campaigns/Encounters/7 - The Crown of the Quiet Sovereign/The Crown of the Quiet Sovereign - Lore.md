@@ -32,7 +32,7 @@ A complete provenance record would be worth a small kingdom to the right buyer. 
 
 When [[06_NPCs/Gods/Nerull\|Nerull]] murdered Aurom and seized the portfolios of death and the dead, he faced a theological problem. The souls of the mortal world had belonged to Aurom -- they flowed to his domain naturally, the way water flows downhill. [[06_NPCs/Gods/Nerull\|Nerull]] had killed the god but he had not yet redirected the flow. Mortal rulers in particular were the problem: kings and queens who died expecting Aurom's passage found nothing waiting for them, and their deaths -- powerful deaths, deaths weighted with the souls of their subjects -- dissipated unclaimed.
 
-[[06_NPCs/Gods/Nerull\|Nerull]] needed an anchor in the material world. Something mortal rulers would wear, that would bind their death-sovereignty to him before they died. A coronation artifact. Any ruler crowned with it would consecrate their kingdom's deaths to [[06_NPCs/Gods/Nerull\|Nerull]] -- not as a curse, but as a contract. The deaths of their subjects would feed him. Their own death, at the end, would be the final payment.
+[[06_NPCs/Gods/Nerull\|Nerull]] needed an anchor in the material realm. Something mortal rulers would wear, that would bind their death-sovereignty to him before they died. A coronation artifact. Any ruler crowned with it would consecrate their kingdom's deaths to [[06_NPCs/Gods/Nerull\|Nerull]] -- not as a curse, but as a contract. The deaths of their subjects would feed him. Their own death, at the end, would be the final payment.
 
 He made the Crown for this purpose. The iron was forged in Pluton, his astral domain, and cooled in the silence of Aurom's empty realm. The seven points represent the seven stages of dying as [[06_NPCs/Gods/Nerull\|Nerull]] understands them: voice, breath, warmth, movement, thought, memory, name. The Crown takes them in that order. This is what collectors call the Quiet.
 
@@ -62,7 +62,7 @@ Aldenmere himself was the last to go. By the accounts of two separate travelers 
 
 His kingdom has no name in any surviving record. This is not because the name was forgotten. It is because [[06_NPCs/Gods/Nerull\|Nerull]] took it. The name was the last thing. After the name was gone there was nothing left to take and the process was complete.
 
-The Crown disappeared from the material world at that point. Where it went for the next four centuries is unknown. Collectors who specialize in Nerull-adjacent artifacts have theories. None of them agree.
+The Crown disappeared from reality at that point. Where it went for the next four centuries is unknown. Collectors who specialize in Nerull-adjacent artifacts have theories. None of them agree.
 
 ---
 
