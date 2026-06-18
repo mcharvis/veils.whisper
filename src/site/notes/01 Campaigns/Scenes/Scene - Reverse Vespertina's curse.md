@@ -2,34 +2,8 @@
 {"dg-publish":true,"permalink":"/01-campaigns/scenes/scene-reverse-vespertina-s-curse/"}
 ---
 
-It began as a hum; faint at first, like the vibration of distant thunder. In the still hour between night and dawn, Vespertina’s stirred in her slumber and her eyes fluttered open. From the bedside chest came a magnetic pull, as though she were being summoned. 
+Vespertina, leading her party through the dark cathedral, approaches her father's throne. Like a dutiful princess, a steadfast warrior, she kneels before him. Squeaks sees the smallest tremble of a little girl in her hand as she presents to him the Black Sigil. "Your crown, father." 
 
-The hum grew louder, becoming a whisper, then a chant without words. She reached out. Her fingers trembled as they brushed the worn leather cover of The Profane Word. The moment her skin met it, the whisper spoke her name. “Vespertina…” 
+*Aldenor's Monologue* 
 
-A flash tore through the room. White, gold, and violet, so blinding she thought for an instant she had died. Her head snapped upward, eyes rolling back as her body lifted from her knees. Light filled her veins, racing through every scar left of her curse. She saw everything at once. Not as memory, but as truth. 
-
-Bahamut’s hand upon her the day of her curse, his golden radiance shielding her soul from the killer’s touch. The faint shimmer of his grace had lingered in her all these years — the reason the curse had never consumed her. 
-
-In the same flash, but crimson now, she saw her great-great-grandfather, kneeling before Asmodeus, the bargain written in his blood. A pact that twisted their line forever, forging a debt that bound even the innocent. 
-
-And beyond them all — she saw Nerull, ancient and still, meditating in a void of nothingness as his quill carved the Book of the Profane Word into being. Ink that bled like ichor, letters that writhed and screamed as they formed. 
-
-She opened her eyes, somehow on her knees by the chest as though she had never moved. The Book lay open in her lap now, the first page slowly turning. She reads the first lines aloud, her voice low and somehow accompaniedby shadow: 
-
-“True evil is a festering thing. It lies dormant in every person’s heart, its whisper a vile temptation towards a dark power. That whisper is the Profane Word. And bound within the pages of this twisted manuscript, that promised power is yours for the taking.” 
-
-When the last word left her lips, silence fell... thick, absolute. Her heart pounded with the weight of understanding and what she knew must come next. She was not merely born of contradiction, she was forged from it. Touched by both heaven and hell, it was only she who could bear this burden. She whispered, trembling yet resolute: 
-
-“If this power must be taken then it is mine to redeem in truth... not as dominion but as deliverance. Death shall bow not to malice, but to mercy. When the abyss calls to me I shall not answer as its servant but as its reckoning. 
-
-I bind myself to the Profane Word to command its silence... To unwrite death itself where mercy demands it.” The Book shuddered. A blank page turned of its own accord. Violet light spilled from the parchment, and golden letters began to form — words written not by Nerull, but by Vespertina herself. 
-
-The script glowed, alive, shifting between languages of gods and ghosts. 
-
-“Here begins the Reclamation of Death.” 
-
-She exhaled — trembling, radiant, infinite — and the room fell silent once again. For as she rose, as written in the book... she began to change.
-
-MUSIC: Summoning Spell - Night Rat
-https://open.spotify.com/track/64r4V7LEa2a4nE0zz7DrxX?si=c0d2901fdc8c4afe
-
+The few candles throughout the cathedral begin to flicker. Wisps of flame almost bend toward Vespertina. There is no wind, yet the party feels the air begin to shift and swirl. Specks of ash and dust begin lifting from all corners and angles of the room. They begin to swirl around her, slowly at first. Vespertina, in disbelief, looks to Aldenor, who for the first time has a look of peace upon his face. A look that has likely eluded him for aeons. She exhales, her arms outstretched to her sides as the particles lift her from the ground and begin to change colors. A kaleidoscope storm of iridescent magic engulfs her. She begins to see a playback of her life; memories she recognizes and some she does not flash through her mind in rapid succession. Elarith. Phandelver. Her exile. Elarion. Her childhood. Her mother. Her birth. She see sunlight filters through impossibly ancient trees. Gold glimmers beneath tangled roots stretching deeper than kingdoms. A regal elven woman with eyes like molten gold stands beneath branches vast enough to swallow the sky. For a fleeting moment, Vespertina feels warmth, familiarity, and grief all at once, though she cannot understand why. The woman turns as if sensing her presence, and the distant echo of enormous wings rolls through the vision. Then it is gone. The particles of ash and dust have fully transformed into beams of light and engulfed Vespertina. As the radiance builds, the softest echoes of angelic voices seem to pierce the veil, even in Elarith. They reverberate through the cathedral walls, washing over Varian, Renzo, Squeaks, and Kovinar. As the voices crescendo, the colors of light begin fracturing in all directions. Beams of brilliant golden radiance erupt from the princess. Her companions can no longer see her form within the brilliance. Only when the light finally subsides do they see her again. Vespertina gently descends back to the ground. The rough scales that had marked her for so long are gone. The curse that twisted her flesh has finally released its grip. Yet as the last strands of golden light fade, her friends notice something remains. When the light catches her skin just right, faint patterns of golden scales shimmer beneath the surface. Not wounds. Not scars. Something older... Something enduring. Like embers hidden beneath ash. The traces are subtle enough to escape notice in ordinary light, but impossible to deny once seen. A reminder that while the curse has been broken, not all magic leaves when its purpose is fulfilled. For the first time in her life, Vespertina Galadonel stands free. Not defined by the curse she carried. But by the legacy she has yet to discover.

@@ -54,7 +54,7 @@ The Crown does not distinguish between the willing and the unwilling. It does no
 
 ## Aldenmere the Quiet -- The First Sovereign
 
-Approximately eight hundred years ago, a king known to history only as Aldenmere was crowned with the Crown by priests of [[06_NPCs/Gods/Nerull\|Nerull]]. Whether he knew what he was accepting is not recorded. Whether it matters is a question collectors enjoy arguing over.
+Approximately eight thousand years ago, a king known to history only as Aldenmere was crowned with the Crown by priests of [[06_NPCs/Gods/Nerull\|Nerull]]. Whether he knew what he was accepting is not recorded. Whether it matters is a question collectors enjoy arguing over.
 
 His kingdom fell silent over seven years. Not conquered. Not plagued in any conventional sense. The accounts of travelers who passed through in the third and fourth years describe villages where the inhabitants sat in doorways, alive, mouths open, tongues black, watching the road with eyes that still tracked movement. They could not call for help. They had forgotten they needed it.
 

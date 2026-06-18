@@ -79,4 +79,5 @@ She is no longer holy.
 
 But she is **good**—in the old way. In the _gritty, heavy, painful_ way. She defends without allegiance. She fights without banners. She mourns for those who still kneel to liars.
 
+
 #NPC 
